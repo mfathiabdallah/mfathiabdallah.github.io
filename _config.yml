@@ -25,7 +25,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/mfathiabdallah"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/MoFathiAbdallah"}
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Mohamed-Abdallah-13"}
-  - {title: Google Scholar, icon: Google Scholar, url: "https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en"}
+  - {title: GoogleScholar, icon: GoogleScholar, url: "https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en"}
+  - {title: LinkedIn, icon: LinkedIn, url: "https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
