@@ -27,6 +27,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Mohamed-Abdallah-13"}
   - {title: Googlescholar, icon: googlescholar, url: "https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/"}
+  - {title: Orcid, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0000-0002-3903-6452"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
