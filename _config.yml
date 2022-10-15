@@ -1,6 +1,6 @@
 title: "Mohamed Fathi Abdallah"
 author: "Mohamed Fathi Abdallah"
-- {description: "Ghent University", url: "https://www.ugent.be/en"}
+description: "Ghent University", url: "https://www.ugent.be/en"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
