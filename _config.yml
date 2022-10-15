@@ -21,14 +21,14 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Blog", file: "/blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: square-envelope, url: "mailto:mohamed.fathi@ugent.be"}
+  - {title: Mail, icon: envelope, url: "mailto:mohamed.fathi@ugent.be"}
   - {title: Github, icon: github, url: "https://github.com/mfathiabdallah"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/MoFathiAbdallah"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/"}
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Mohamed-Abdallah-13"}
   - {title: Google, icon: google, url: "https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0000-0002-3903-6452"}
-  - {title: Building-columns, icon: Building-columns, url: "https://www.ugent.be/"}
+  - {title: Building-columns, icon: building-columns, url: "https://www.ugent.be/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
