@@ -28,7 +28,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Mohamed-Abdallah-13"}
   - {title: Google, icon: google, url: "https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0000-0002-3903-6452"}
-  - {title: Building, icon: building-columns, url: "https://www.ugent.be/"}
+  - {title: House, icon: house, url: "https://www.ugent.be/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
