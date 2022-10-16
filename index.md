@@ -18,5 +18,5 @@ In 2018, I was awarded the [VLIRUOS Global Minds Grant](https://www.ugent.be/en/
 In 2019, I was awarded the Young Scientist Award during the [EURACHEM 2019](https://eurachem2019.akki.ut.ee/) meeting held in Tartu, Estonia.
 
   <div  align="left">
-  <img src="https://github.com/mfathiabdallah/mfathiabdallah.github.io/blob/master/-images/Mohamed%20F.%20Abdallah.jpg" style="zoom:50%"/>
+  <img src="https://github.com/mfathiabdallah/mfathiabdallah.github.io/blob/master/-images/Mohamed%20F.%20Abdallah.jpg" style="zoom:10%"/>
   </div>
