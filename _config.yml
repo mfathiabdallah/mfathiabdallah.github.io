@@ -29,7 +29,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-3903-6452"}
   - {title: Github, icon: github, url: "https://github.com/mfathiabdallah"}
-  - {title: Gent University, icon: landmark, url: "https://www.ugent.be/"}
+  - {title: Ghent University, icon: landmark, url: "https://www.ugent.be/"}
 
 
 plugins:
