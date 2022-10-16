@@ -1,6 +1,5 @@
 ---
 title: "About me"
-layout: post
 ---
 
 I am a post-doctoral researcher in the field of food toxicology. My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as nanoplastics on humans.
