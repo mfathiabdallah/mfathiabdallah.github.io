@@ -17,4 +17,6 @@ In 2018, I was awarded the [VLIRUOS Global Minds Grant](https://www.ugent.be/en/
 
 In 2019, I was awarded the Young Scientist Award during the [EURACHEM 2019](https://eurachem2019.akki.ut.ee/) meeting held in Tartu, Estonia.
 
-
+  <div  align="center">
+  <img src="/Images/Mohamed F. Abdallah.jpg" style="zoom:10%"/>
+  </div>
