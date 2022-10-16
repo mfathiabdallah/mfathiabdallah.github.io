@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "/mohamedfathiabdallah.pdf", title: "CV"}
+  - {url: "mohamedfathiabdallah.pdf", title: "CV"}
   - {title: "Academic Page", url: "https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm"}
   - {title: "Publications", file: "/publications.md"}
   - {title: "Media", file: "/media.md"}
