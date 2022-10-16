@@ -5,6 +5,7 @@ layout: post
 <div  align="right">
 <img src="Me.jpg" style="zoom:20%"/>
 </div>
+---
 
 I am a post-doctoral researcher in Toxicology field at [Ghent University](https://www.ugent.be/en). My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
 
