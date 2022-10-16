@@ -31,12 +31,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-3903-6452"}
   - {title: Landmark, icon: landmark, url: "https://www.ugent.be/"}
 
-# Contact info. (shown in footer)
-contact: >
-    Contact me via email: <a href="mailto:p.bazilinskyy@tue.nl" target="_blank">p.bazilinskyy@tue.nl</a><br/>
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
  - jekyll-feed
