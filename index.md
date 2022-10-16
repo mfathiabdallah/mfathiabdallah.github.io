@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: page
+layout: post
 ---
 <!DOCTYPE html>
 <html>
