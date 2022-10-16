@@ -2,7 +2,7 @@
 title: ""
 layout: post
 ---
-![this is an image](https://github.com/mfathiabdallah/mfathiabdallah.github.io/blob/master/-images/Mohamed%20F.%20Abdallah.jpg) 
+![this is an image](/../images/Mohamed%20F.%20Abdallah.jpg)
 <div  align="left">
 <img src="https://github.com/mfathiabdallah/mfathiabdallah.github.io/blob/master/-images/Mohamed%20F.%20Abdallah.jpg" style="zoom:10%"/>
 </div>
