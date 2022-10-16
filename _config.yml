@@ -27,7 +27,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Twitter, icon: twitter, url: "https://twitter.com/MoFathiAbdallah"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/"}
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Mohamed-Abdallah-13"}
-  - {title: Google, icon: google, url: "https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-3903-6452"}
   - {title: Landmark, icon: landmark, url: "https://www.ugent.be/"}
 
