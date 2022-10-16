@@ -3,7 +3,7 @@ title: ""
 layout: post
 ---
 <div  align="right">
-<img src="https://github.com/mfathiabdallah/mfathiabdallah.github.io/blob/master/-images/Mohamed%20F.%20Abdallah.jpg" style="zoom:50%"/>
+<img src="Me.jpg" style="zoom:50%"/>
 </div>
 
 I am a post-doctoral researcher in Toxicology field at [Ghent University](https://www.ugent.be/en). My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
