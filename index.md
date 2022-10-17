@@ -3,7 +3,7 @@ title: ""
 layout: post
 ---
 <div  align="right">
-<img src="Me.jpg" width="100" height="100">
+<img src="Me.jpg" width="150" height="150">
  
 </div>
 
