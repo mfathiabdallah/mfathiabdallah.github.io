@@ -4,7 +4,7 @@ layout: post
 ---
 
 <div  align="right">
-<img src="Me.jpg" " width="20" height="20">
+<img src="Me.jpg" width="20" height="20">
 </div>
 
 ---
