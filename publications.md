@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Publications"
+layout: post
+title: "publications"
 ---
 
 ## Book Chapter
