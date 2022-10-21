@@ -5,7 +5,7 @@ title: "Publications"
 
 ## Book Chapter
   - Santos Sánchez, Antonio; João Regufe, Maria; Mafalda Ribeiro, Ana; B.R.Nogueira, Idelfonso. "Sustainable Energy Management of Institutional Buildings through Load Prediction Models: Review and Case Study". In AI and Learning Systems - Industrial Applications and Future Directions. IntechOpen,2021. Published • 10.5772/intechopen.93425
-  - Sánchez, Antonio Santos; Oliveira-Esquerre, Karla Patricia; dos Reis Nogueira,Idelfonso Bessa; de Jong, Pieter; Filho, Adelmo Aguiar. "Water Loss Management Through Smart Water Systems". In Modeling and Optimization in Science and Technologies, 233-266. Springer International Publishing, 2020.10.1007/978-3-030-37794-6_12
+  - Sánchez, Antonio Santos; Oliveira-Esquerre, Karla Patricia; dos Reis Nogueira,Idelfonso Bessa; de Jong, Pieter; Filho, Adelmo Aguiar. "Water Loss Management Through Smart Water Systems". In Modeling and Optimization in Science and Technologies, 233-266. Springer International Publishing, 2020.10.1007/978-3-030-37794-6_1
  
 ## Conference Paper
   - Márcia Silva; Ana M. Ribeiro; Cláudia Silva; Guler Narin; Nogueira, Idelfonso; U-Hwang Lee; Joaquim Faria; et al. "Water vapour capture on MIL-125(Ti)_NH2 by (P)TSA process". Paper presented in 2019 AIChE Annual Meeting, 2019
