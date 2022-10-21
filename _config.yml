@@ -35,4 +35,15 @@ external:                  # shows a footer with social links - for available ic
 plugins:
  - jekyll-feed
  - jemoji
+ - jekyll-archives
+ - jekyll-diagrams
+ - jekyll-email-protect
+ - jekyll-github-metadata
+ - jekyll-imagemagick
+ - jekyll-paginate-v2
+ - jekyll/scholar
+ - jekyll-sitemap
+ - jekyll-target-blank
+ - jekyll-twitter-plugin
+ 
 theme: jekyll-theme-minimal
