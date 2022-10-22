@@ -1,7 +1,9 @@
 ---
 layout: page
 ---
+
 ### You can find my CV [here](mohamedfathiabdallah.pdf).
+
 ---
 
 <h1 align="left">Publications </h1>
