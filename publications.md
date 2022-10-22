@@ -15,7 +15,8 @@ title: "Publications"
 ---
 <h1 align="center">Reviews</h1>
 
-1. **MF Abdallah**, WHR Van Hassel, M Andjelkovic, A Wilmotte, A Rajkovic (2021).Cyanotoxins and Food Contamination in Developing Countries: Review of Their Types, Toxicity, Analysis, Occurrence and Mitigation Strategies. *Toxins*, 13 (11), 786. [doi: 10.3390/toxins13110786](https://www.mdpi.com/2072-6651/13/11/786) (Open Access).
+1. R Tavelli, M Callens, C Grootaert, **MF Abdallah**, A Rajkovic (2022).Foodborne pathogens in the plastisphere: Can microplastics in the food chain threaten microbial food safety?. *Trends in Food Science & Technology*, 129, 1-10. [doi: 10.1016/j.tifs.2022.08.021](https://www.sciencedirect.com/science/article/abs/pii/S0924224422003715).
+2. **MF Abdallah**, WHR Van Hassel, M Andjelkovic, A Wilmotte, A Rajkovic (2021).Cyanotoxins and Food Contamination in Developing Countries: Review of Their Types, Toxicity, Analysis, Occurrence and Mitigation Strategies. *Toxins*, 13 (11), 786. [doi: 10.3390/toxins13110786](https://www.mdpi.com/2072-6651/13/11/786) (Open Access).
 3. **MF Abdallah**, G Girgin, T Baydar (2015). Occurrence, prevention and limitation of mycotoxins in feeds. *Animal Nutrition and Feed Technology*, 15 (3), 471-490. [doi: 10.5958/0974-181X.2015.00048.7](https://www.researchgate.net/publication/280041287_Occurrence_Prevention_and_Limitation_of_Mycotoxins_in_Feeds) (Open Access).
 
 ---
