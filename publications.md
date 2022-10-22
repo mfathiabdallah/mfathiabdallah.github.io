@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Publications"
-
 ---
 ### You can find my CV [here](mohamedfathiabdallah.pdf).
 ---
+
+<h1 align="left">Publications </h1>
 
 <h1 align="center">Research Articles </h1>
 
