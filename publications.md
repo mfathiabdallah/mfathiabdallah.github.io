@@ -15,8 +15,14 @@ title: "Publications"
 ---
 <h1 align="center">Reviews</h1>
 
-
 1. **MF Abdallah**, G Girgin, T Baydar (2015). Occurrence, prevention and limitation of mycotoxins in feeds. *Animal Nutrition and Feed Technology*, 15 (3), 471-490. [doi: 10.5958/0974-181X.2015.00048.7](https://www.researchgate.net/publication/280041287_Occurrence_Prevention_and_Limitation_of_Mycotoxins_in_Feeds) (Open Access).
 
 ---
+
+<h1 align="center">Book Chapters</h1>
+
+1. **MF Abdallah**, M Ameye, S De Saeger, K Audenaert, G Haesaert (2018). Biological control of mycotoxigenic fungi and their toxins: An update for the pre-harvest approach. **Book Name** Fungi and Mycotoxins-Their Occurrence, Impact on Health and the Economy as well as Pre-and Postharvest Management Strategies. *IntechOpen*. [doi: 10.5772/intechopen.76342](https://biblio.ugent.be/download/8580508/8580795.pdf) (Open Access) [8580795.pdf](https://github.com/mfathiabdallah/mfathiabdallah.github.io/files/9843808/8580795.pdf).
+
+---
+
 
