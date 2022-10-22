@@ -25,4 +25,6 @@ title: "Publications"
 
 ---
 
+<h1 align="center">Editorials</h1>
 
+1. **MF Abdallah**, M De Boevre, K Audenaert, G Haesaert, S De Saeger (2018). Highlight report: Mycotoxins as food contaminants in Africa—challenges and perspectives. *Archives of Toxicology* 92 (6), 2151-2152. [doi: 10.1007/s00204-018-2203-2](https://link.springer.com/article/10.1007/s00204-018-2203-2) (Open Access).
