@@ -3,6 +3,9 @@ layout: page
 title: "Publications"
 
 ---
+### You can find my CV [here](mohamedfathiabdallah.pdf).
+---
+
 <h1 align="center">Research Articles </h1>
 
 15. H Zhang, Y Li, **MF Abdallah**, H Tan, J Li, S Liu, R Zhang, F Sun, Y Li, S Yang (2022). Novel one-point calibration strategy for high-throughput quantitation of microcystins in freshwater using LC-MS/MS. *Science of The Total Environment*, 159345. [doi: 10.1016/j.scitotenv.2022.159345](https://www.sciencedirect.com/science/article/abs/pii/S0048969722064440).
