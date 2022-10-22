@@ -5,6 +5,8 @@ title: "Publications"
 ---
 <h1 align="center">Research Articles </h1>
 
+10.  I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021).Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. *Toxins*, 13 (8), 552. [doi: 10.3390/toxins13080552](https://www.mdpi.com/2072-6651/13/8/552) (Open Access).
+9.  L De Colli, K De Ruyck, **MF Abdallah**, J Finnan, E Mullins, S Kildea, J Spink, C Elliott, M Danaher (2021).Natural co-occurrence of multiple mycotoxins in unprocessed oats grown in Ireland with various production systems. *Toxins*, 13 (3), 188. [doi: 10.3390/toxins13030188](https://www.mdpi.com/2072-6651/13/3/188) (Open Access).
 8.  **MF Abdallah**, K Audenaert, SD Saeger, J Houbraken (2020). Revisiting an Aspergillus flavus Strain Isolated from an Egyptian Sugarcane Field in 1930. *Microorganisms*, 8 (11), 1633. [doi: 10.3390/microorganisms8111633](https://www.mdpi.com/2076-2607/8/11/1633) (Open Access).
 7.  J Tan, M Ameye, S Landschoot, NÚ De Zutter, S De Saeger, M De Boevre, **MF Abdallah**, T Van der Lee, C Waalwijk, K Audenaert (2020). At the scene of the crime: New insights into the role of weakly pathogenic members of the fusarium head blight disease complex. *Molecular Plant Pathology*, 21 (12), 1559-1572. [doi: 10.1111/mpp.12996](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/mpp.12996) (Open Access).
 6.  **MF Abdallah**, K Audenaert, L Lust, S Landschoot, B Bekaert, G Haesaert, M De Boevre, S De Saeger (2020). Risk characterization and quantification of mycotoxins and their producing fungi in sugarcane juice: A neglected problem in a widely-consumed traditional beverage. *Food Control*, 108, 106811. [doi: 10.1016/j.foodcont.2019.106811](https://www.sciencedirect.com/science/article/abs/pii/S0956713519304001).
@@ -31,6 +33,7 @@ title: "Publications"
 
 <h1 align="center">Editorials</h1>
 
+1. M Gado, D Abdelsadek, F Zahran, NN El-Salhey, O Mehrez, S Abdel-Hay, S Mohamed, **MF Abdallah** (2022). Mycotoxin occurrence in Egyptian foods: Highlights on the findings of the past decade. *Egypt Scholars Journal* 1 (1), 1-3. [doi: 10.52649/egscj21632545](https://www.researchgate.net/profile/Mohamed-Abdallah-13/publication/358577360_Mycotoxin_occurrence_in_Egyptian_foods_Highlights_on_the_findings_of_the_past_decade/links/6229c3fa97401151d20b6bfb/Mycotoxin-occurrence-in-Egyptian-foods-Highlights-on-the-findings-of-the-past-decade.pdf) (Open Access).
 1. **MF Abdallah**, M De Boevre, K Audenaert, G Haesaert, S De Saeger (2018). Highlight report: Mycotoxins as food contaminants in Africa—challenges and perspectives. *Archives of Toxicology* 92 (6), 2151-2152. [doi: 10.1007/s00204-018-2203-2](https://link.springer.com/article/10.1007/s00204-018-2203-2) (Open Access).
 
 ---
