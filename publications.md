@@ -5,6 +5,8 @@ title: "Publications"
 ---
 <h1 align="center">Research Articles </h1>
 
+8.  **MF Abdallah**, K Audenaert, SD Saeger, J Houbraken (2020). Revisiting an Aspergillus flavus Strain Isolated from an Egyptian Sugarcane Field in 1930. *Microorganisms*, 8 (11), 1633. [doi: 10.3390/microorganisms8111633](https://www.mdpi.com/2076-2607/8/11/1633) (Open Access).
+7.  J Tan, M Ameye, S Landschoot, NÚ De Zutter, S De Saeger, M De Boevre, **MF Abdallah**, T Van der Lee, C Waalwijk, K Audenaert (2020). At the scene of the crime: New insights into the role of weakly pathogenic members of the fusarium head blight disease complex. *Molecular Plant Pathology*, 21 (12), 1559-1572. [doi: 10.1111/mpp.12996](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/mpp.12996) (Open Access).
 6.  **MF Abdallah**, K Audenaert, L Lust, S Landschoot, B Bekaert, G Haesaert, M De Boevre, S De Saeger (2020). Risk characterization and quantification of mycotoxins and their producing fungi in sugarcane juice: A neglected problem in a widely-consumed traditional beverage. *Food Control*, 108, 106811. [doi: 10.1016/j.foodcont.2019.106811](https://www.sciencedirect.com/science/article/abs/pii/S0956713519304001).
 5.  **MF Abdallah**, G Girgin, T Baydar (2019). Mycotoxin detection in maize, commercial feed, and raw dairy milk samples from Assiut City, Egypt. *Veterinary sciences*, 6 (2), 57. [doi: 10.3390/vetsci6020057](https://www.mdpi.com/2306-7381/6/2/57) (Open Access).
 4. **MF Abdallah**, M De Boevre, S Landschoot, S De Saeger, G Haesaert, K Audenaert. Fungal Endophytes Control Fusarium graminearum and Reduce Trichothecenes and Zearalenone in Maize. *Toxins*, 10 (12), 493. [doi: 10.3390/toxins10120493](https://www.mdpi.com/2072-6651/10/12/493) (Open Access).
