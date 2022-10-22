@@ -15,7 +15,8 @@ title: "Publications"
 ---
 <h1 align="center">Reviews</h1>
 
-1. **MF Abdallah**, G Girgin, T Baydar (2015). Occurrence, prevention and limitation of mycotoxins in feeds. *Animal Nutrition and Feed Technology*, 15 (3), 471-490. [doi: 10.5958/0974-181X.2015.00048.7](https://www.researchgate.net/publication/280041287_Occurrence_Prevention_and_Limitation_of_Mycotoxins_in_Feeds) (Open Access).
+1. **MF Abdallah**, WHR Van Hassel, M Andjelkovic, A Wilmotte, A Rajkovic (2021).Cyanotoxins and Food Contamination in Developing Countries: Review of Their Types, Toxicity, Analysis, Occurrence and Mitigation Strategies. *Toxins*, 13 (11), 786. [doi: 10.3390/toxins13110786](https://www.mdpi.com/2072-6651/13/11/786) (Open Access).
+3. **MF Abdallah**, G Girgin, T Baydar (2015). Occurrence, prevention and limitation of mycotoxins in feeds. *Animal Nutrition and Feed Technology*, 15 (3), 471-490. [doi: 10.5958/0974-181X.2015.00048.7](https://www.researchgate.net/publication/280041287_Occurrence_Prevention_and_Limitation_of_Mycotoxins_in_Feeds) (Open Access).
 
 ---
 
@@ -28,3 +29,9 @@ title: "Publications"
 <h1 align="center">Editorials</h1>
 
 1. **MF Abdallah**, M De Boevre, K Audenaert, G Haesaert, S De Saeger (2018). Highlight report: Mycotoxins as food contaminants in Africa—challenges and perspectives. *Archives of Toxicology* 92 (6), 2151-2152. [doi: 10.1007/s00204-018-2203-2](https://link.springer.com/article/10.1007/s00204-018-2203-2) (Open Access).
+
+---
+
+<h1 align="center">Correspondence</h1>
+
+1. **MF Abdallah**, A Briend, GB Gonzales (2021). Aflatoxins and kwashiorkor: a commentary on the association-causation conundrum. *Toxicon* 190 (January), 20-21. [doi: 10.1016/j.toxicon.2020.12.001](https://www.sciencedirect.com/science/article/abs/pii/S004101012030948X?via%3Dihub). 
