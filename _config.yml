@@ -1,3 +1,7 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
 title: "Mohamed Fathi Abdallah"
 author: "Mohamed Fathi Abdallah"
 description: "Mohamed Fathi Abdallah ©2022"
@@ -5,6 +9,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+icon: 🧠 # the emoji used as the favicon
 
 # Layout
 show_social: true 
