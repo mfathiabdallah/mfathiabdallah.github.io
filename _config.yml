@@ -45,5 +45,6 @@ plugins:
  - jekyll-sitemap
  - jekyll-target-blank
  - jekyll-twitter-plugin
+ - jekyll-gist
  
 theme: jekyll-theme-minimal
