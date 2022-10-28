@@ -3,11 +3,10 @@ layout: page
 title: "Welcome to my page"
 ---
 
-<img width=150 src="Me.jpg" style="display: block; margin: 0 auto">
+<img align="right" img width=150 src="Me.jpg" style="display: block; margin: 1 auto">
 
 **Short Bio** (Last update: October 2022).
-
-I am a post-doctoral researcher in Toxicology field at [Ghent University](https://www.ugent.be/en). My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
+<br /> <br /> I am a post-doctoral researcher in Toxicology field at [Ghent University](https://www.ugent.be/en). My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
 
 I received my bachelor in Veterinary Medical Sciences from [Assiut University](https://www.aun.edu.eg/main/) , Egypt in 2011. After that, I joined the Pharmaceutical Toxicology Department, [Hacettepe University](https://www.hacettepe.edu.tr/english), Turkey in September 2013 (through the [Türkiye Scholarships](https://www.turkiyeburslari.gov.tr/)) as a masters student and graduated in May 2016. During my masters, I was award an [Erasmus<sup>+</sup>](https://erasmus-plus.ec.europa.eu/) internship to join the Chemical Risks Group at [_IfADo_](https://www.ifado.de/ifadoen/) Institute in Dortmund, Germany. I conducted my master thesis on mycotoxin analysis through another [Erasmus<sup>+</sup>](https://erasmus-plus.ec.europa.eu/) exchange scholarship at the [University of Natural Resources and Life Sciences, Vienna](https://boku.ac.at/en/) (BOKU) in Tulln, Austria.
 
