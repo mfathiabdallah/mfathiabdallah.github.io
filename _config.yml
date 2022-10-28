@@ -21,9 +21,9 @@ minimal: false            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "mohamedfathiabdallah.pdf", title: "CV"}
-  - {title: "Academic Page", url: "https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm"}
   - {title: "CV & Publications", file: "publications.md"}
+  - {title: "Academic Page", url: "https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm"}
+  - {url: "mohamedfathiabdallah.pdf", title: "CV"}
   - {title: "Media", file: "/media.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
