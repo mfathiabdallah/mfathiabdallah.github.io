@@ -4,7 +4,7 @@ title: "Welcome to my page"
 ---
 <img align="right" img width=150 style="border:2px solid green" src="Me.jpg" border="10">
 <br /> <br />
-<h3 align="left">Short Bio (Last update: October 2022).</h3>
+<h5 align="left">Short Bio (Last update: October 2022)</h5>
 
 <br /> <br /> 
 
