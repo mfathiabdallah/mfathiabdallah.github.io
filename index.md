@@ -2,7 +2,7 @@
 layout: page
 title: "Welcome to my page"
 ---
-<img align="right" img width=150 style="border:2px solid grey" src="Me.jpg" border="10">
+<img align="right" img width=150 style="border:3px solid grey" src="Me.jpg" border="10">
 <br /> <br />
 <h4.5 align="left">Short Bio (last update: October 2022)</h4.5>
 
