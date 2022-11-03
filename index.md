@@ -6,6 +6,13 @@ title: "Welcome to my page"
 
 
 <h3 align="left">Short Bio (Last update: October 2022).</h3>
+<br /> <br /> 
+
+<p align="left">
+
+I am a post-doctoral researcher in Toxicology field at [Ghent University](https://www.ugent.be/en). My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
+
+</p>
 
 I am a post-doctoral researcher in Toxicology field at [Ghent University](https://www.ugent.be/en). My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
 
