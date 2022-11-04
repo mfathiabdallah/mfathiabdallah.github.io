@@ -23,8 +23,8 @@ minimal: false            # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV & Publications", file: "publications.md"}
   - {title: "Academic Page", url: "https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm"}
-  - {url: "mohamedfathiabdallah.pdf", title: "CV"}
-  - {title: "Media", file: "/media.md"}
+  - {title: "More about me", file: "more_about_me.md"}
+  - {title: "News & Views", file: "/news_and_views.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mohamed.fathi@ugent.be"}
