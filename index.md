@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to my page
+title: "Mohamed Fathi Abdallah"
 ---
 <img align="right" img width=150 style="border:3px solid grey" src="Me.jpg" border="10">
 <br /> <br />
