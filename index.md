@@ -31,8 +31,81 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 
 
 <!-- Twitter timeline -->
+<div class="ShowOnThinScreen">
 <a class="twitter-timeline" 
    href="https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw" 
-   Align="right" data-width="375" data-height="550"
+   align="right" data-width="375" data-height="550"
    data-tweet-limit="4">
+  </div>
+  
+  
 Tweets by MoFathiAbdallah</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<style>
+  @media (max-width: 575.99px) {
+    .ShowOnWideScreen {
+        display: none;
+    }
+    .ShowOnThinScreen {
+        display: initial;
+    }
+    .ProfilePic {
+        width: 40%;
+    }
+  }
+
+  @media (min-width: 576px) {
+    .ShowOnWideScreen {
+        display: initial;
+    }
+    .ShowOnThinScreen {
+        display: none;
+    }
+    .ProfilePic {
+        width: 25%;
+    }
+
+    .twitter-tweet-rendered{
+        display: inline-block !important;
+        width: 100% !important;
+        margin-left: 1% !important;
+        margin-right: 1% !important;
+        margin-top: 1% !important;
+        margin-bottom: 1% !important;
+    }
+
+    #twitter-widget-0,#twitter-widget-1{width: 100% !important;}
+
+    .twitterwidget::shadow .SummaryCard-content *{white-space: normal !important;}
+    .twitterwidget::shadow .resize-sensor{
+        display: none !important;
+        width: 0px !important;
+        overflow: hidden !important;
+      }
+  }
+</style>
+
+
+
+<!--
+<script>
+  /*
+  // For animating the closing of the alert box //
+  // Get all elements with class="closebtn"
+  var close = document.getElementsByClassName("closebtn");
+  var i;
+  // Loop through all close buttons
+  for (i = 0; i < close.length; i++) {
+  // When someone clicks on a close button
+  close[i].onclick = function(){
+      // Get the parent of <span class="closebtn"> (<div class="alert">)
+      var div = this.parentElement;
+      // Set the opacity of div to 0 (transparent)
+      div.style.opacity = "0";
+      // Hide the div after 600ms (the same amount of milliseconds it takes to fade out)
+      setTimeout(function(){ div.style.display = "none"; }, 600);
+  }
+  }
+  */
+</script>
+-->
