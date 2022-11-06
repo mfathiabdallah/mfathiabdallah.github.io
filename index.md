@@ -17,8 +17,9 @@ sitemap:
 
 <!-- Profile picture -->
 
-
+<br /> <br />
 <img class="ProfilePic" img width=150 img align="right" style="float: right; margin-left: 20px;" src="Me.jpg">
+<br /> <br />
 
 Short Bio (last update: October 2022)
 
