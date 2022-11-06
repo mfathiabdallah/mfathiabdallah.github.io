@@ -16,9 +16,8 @@ sitemap:
 -->
 
 <!-- Profile picture -->
-<img class="ProfilePic" img width=150 img align="right" style="float: right; margin-left: 2px;" src="Me.jpg">
+<img class="ProfilePic" img width=150 img align="right" style="float: right; margin-left: 20px;" src="Me.jpg">
 
-<img align="right" img width=150 style="border:3px solid grey" src="Me.jpg" border="10"> 
 
 <br /> <br />
 
