@@ -33,21 +33,8 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 <!-- Twitter timeline -->
 <a class="twitter-timeline" 
    href="https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw" 
-   align="right" data-width="375" data-height="550"
+   align="right" data-width="375" data-height="550" cache_age: "3153600000"
    data-tweet-limit="4">
  Tweets by MoFathiAbdallah</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-
-{
-  "url": "https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw",
-  "title": "",
-  "html": "<a class=\"twitter-timeline\" href=\"https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw">Tweets by MoFathiAbdallah</a>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-  "width": null,
-  "height": null,
-  "type": "rich",
-  "cache_age": "3153600000",
-  "provider_name": "Twitter",
-  "provider_url": "https://twitter.com",
-  "version": "1.0"
-}
