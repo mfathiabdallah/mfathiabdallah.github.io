@@ -1,6 +1,9 @@
 ---
 layout: page
 title: "Welcome to my page"
+sitemap:
+  lastmod: 2022-11-06
+  exclude: 'no'
 ---
 <img align="right" img width=150 style="border:3px solid grey" src="Me.jpg" border="10">
 <br /> <br />
