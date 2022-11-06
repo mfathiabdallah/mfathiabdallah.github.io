@@ -26,7 +26,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Academic Page", url: "https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm"}
   - {title: "More About Me", file: "more_about_me.md"}
   - {title: "News & Views", file: "/news_and_views.md"}
-  - {title: "Contact Me", file: "/contact.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mohamed.fathi@ugent.be"}
