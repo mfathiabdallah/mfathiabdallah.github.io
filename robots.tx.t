@@ -1,7 +1,6 @@
 ---
-permalink: /robots.txt
+layout: none
 ---
-User-agent: *
-Disallow:
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+User-agent: *
+Sitemap: {{ site.url }}/sitemap.xml
