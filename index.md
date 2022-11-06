@@ -5,9 +5,24 @@ sitemap:
   lastmod: 2022-11-06
   exclude: 'no'
 ---
-<img align="right" img width=150 style="border:3px solid grey" src="Me.jpg" border="10">
+
+<!--
+<div class="alert">
+  <span style="display: inline-block; text-align: center;">
+    For the intended experience,<br>please use Google Chrome.
+  </span>
+  <button class="closebtn" onclick="this.parentElement.style.display='none';">Close</button>
+</div>
+-->
+
+<!-- Profile picture -->
+<img class="ProfilePic" img width=150 img align="right" style="float: right; margin-left: 2px;" src="Me.jpg">
+
+<img align="right" img width=150 style="border:3px solid grey" src="Me.jpg" border="10"> 
+
 <br /> <br />
-<h4.5 align="left">Short Bio (last update: October 2022)</h4.5>
+
+Short Bio (last update: October 2022)
 
 <br /> <br />
 <br /> <br /> 
