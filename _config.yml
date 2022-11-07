@@ -9,7 +9,6 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-safe: false
 icon: 🧠 # the emoji used as the favicon
 
 # Layout
