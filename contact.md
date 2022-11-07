@@ -36,7 +36,7 @@ nav: true
           
           <div class="form-group">
           <label for="subject">Subject*</label>
-          <input type="text" class="form-control" id="subject" placeholder="Subject*" name="entry.1456137451">
+          <input type="text" class="form-control" id="subject" placeholder="Subject*" name="entry.1456137451" required>
           </div>
           
           <div class="form-group">
