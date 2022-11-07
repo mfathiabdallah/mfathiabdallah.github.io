@@ -31,6 +31,17 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 
 I am a Ph.D. candidate at University of California Berkeley Department of Environmental Science, Policy and Management, where I work with [Trevor Keenan](https://www.keenangroup.info/){:target="_blank" rel="noopener"} and [Manuela Girotto](https://nature.berkeley.edu/girottolab/){:target="_blank" rel="noopener"}. I'm interested in water and carbon cycling at regional to global scales using remote sensing and eddy covariance data. My research is supported by a [NASA FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b87947100-56AE-C4DC-C511-0349862D658A%7d&path=open){:target="_blank" rel="noopener"} fellowship. Having worked as a journalist and oral historian, I'm also interested in human perceptions of environmental change, especially when these differ from scientific findings. 
 
+---------------------------
+
+I am a Ph.D. candidate at University of California Berkeley Department of Environmental Science, Policy and Management, where I work with [Trevor Keenan](https://www.keenangroup.info/){:target="_blank" rel="noopener"} and [Manuela Girotto](https://www.ugent.be/en){:target="_blank" rel="noopener"}. I'm interested in water and carbon cycling at regional to global scales using remote sensing and eddy covariance data. My research is supported by a [NASA FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b87947100-56AE-C4DC-C511-0349862D658A%7d&path=open){:target="_blank" rel="noopener"} fellowship. Having worked as a journalist and oral historian, I'm also interested in human perceptions of environmental change, especially when these differ from scientific findings. 
+
+
+
+I am a Ph.D. candidate at University of California Berkeley Department of Environmental Science, Policy and Management, where I work with [Trevor Keenan](https://www.keenangroup.info/){:target="_blank" rel="noopener"} and [Manuela Girotto](https://nature.berkeley.edu/girottolab/){:target="_blank" rel="noopener"}. I'm interested in water and carbon cycling at regional to global scales using remote sensing and eddy covariance data. My research is supported by a [NASA FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b87947100-56AE-C4DC-C511-0349862D658A%7d&path=open){:target="_blank" rel="noopener"} fellowship. Having worked as a journalist and oral historian, I'm also interested in human perceptions of environmental change, especially when these differ from scientific findings. 
+
+
+
+
 <!-- Twitter timeline -->
 <p align="right">
 <a class="twitter-timeline" 
