@@ -23,15 +23,13 @@ OR my academic page at [Assiut University](https://www.aun.edu.eg/veterinary_med
 
 20. H Tan, F Sun, **MF Abdallah**, J Li, J Zhou, Y Li, S Yang (2022). Background ions into exclusion list: A new strategy to enhance the efficiency of DDA data collection for high-throughput screening of chemical contaminations in food. *Food Chemistry*, 385, 132669. [doi: 10.1016/j.foodchem.2022.132669](https://www.sciencedirect.com/science/article/abs/pii/S0308814622006318){:target="_blank" rel="noopener"}.
 
-21. X Chen, **MF Abdallah**, C Grootaert, A Rajkovic (2022). Bioenergetic status of the intestinal and hepatic cells after short term exposure to fumonisin B1 and aflatoxin B1. *International Journal of Molecular Sciences*, 23 (13), 6945. [doi: 10.3390/ijms23136945](https://www.mdpi.com/1422-0067/23/13/6945) (Open Access).
-
 23. X Chen, **MF Abdallah**, C Grootaert, A Rajkovic (2022). Bioenergetic status of the intestinal and hepatic cells after short term exposure to fumonisin B1 and aflatoxin B1. *International Journal of Molecular Sciences*, 23 (13), 6945. [doi: 10.3390/ijms23136945](https://www.mdpi.com/1422-0067/23/13/6945){:target="_blank" rel="noopener"} (Open Access).
 
-24. A novel calibration strategy based on isotopic distribution for high-throughput quantitative analysis of pesticides and veterinary drugs using LC-HRMS. *Journal of Hazardous Materials*, 430, 128413. [doi: 10.1016/j.jhazmat.2022.128413](https://www.sciencedirect.com/science/article/abs/pii/S0304389422002011).
+25. I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021).Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. *Toxins*, 13 (8), 552. [doi: 10.3390/toxins13080552](https://www.mdpi.com/2072-6651/13/8/552){:target="_blank" rel="noopener"} (Open Access).
 
-24. I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021).Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. *Toxins*, 13 (8), 552. [doi: 10.3390/toxins13080552](https://www.mdpi.com/2072-6651/13/8/552) (Open Access).
+26. L De Colli, K De Ruyck, **MF Abdallah**, J Finnan, E Mullins, S Kildea, J Spink, C Elliott, M Danaher (2021). Natural co-occurrence of multiple mycotoxins in unprocessed oats grown in Ireland with various production systems. *Toxins*, 13 (3), 188. [doi: 10.3390/toxins13030188](https://www.mdpi.com/2072-6651/13/3/188){:target="_blank" rel="noopener"} (Open Access).
 
-26. L De Colli, K De Ruyck, **MF Abdallah**, J Finnan, E Mullins, S Kildea, J Spink, C Elliott, M Danaher (2021). Natural co-occurrence of multiple mycotoxins in unprocessed oats grown in Ireland with various production systems. *Toxins*, 13 (3), 188. [doi: 10.3390/toxins13030188](https://www.mdpi.com/2072-6651/13/3/188) (Open Access).
+28. 25. I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021).Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. *Toxins*, 13 (8), 552. [doi: 10.3390/toxins13080552](https://www.mdpi.com/2072-6651/13/8/552){:target="_blank" rel="noopener"} (Open Access).
 
 28. **MF Abdallah**, K Audenaert, SD Saeger, J Houbraken (2020). Revisiting an Aspergillus flavus Strain Isolated from an Egyptian Sugarcane Field in 1930. *Microorganisms*, 8 (11), 1633. [doi: 10.3390/microorganisms8111633](https://www.mdpi.com/2076-2607/8/11/1633) (Open Access).
 
