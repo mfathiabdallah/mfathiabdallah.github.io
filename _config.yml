@@ -37,6 +37,9 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/mfathiabdallah"}
   - {title: Ghent University, icon: landmark, url: "https://www.ugent.be/"}
 
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
  - jekyll-feed
