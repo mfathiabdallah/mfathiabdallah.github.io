@@ -6,6 +6,9 @@ title: ""
 
 ### You can find my CV [here](mohamedfathiabdallah.pdf).
 
+You can also visit my academic page at [Ghent University](https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm){:target="_blank" rel="noopener"}.
+
+
 ---
 
 ## Publications
