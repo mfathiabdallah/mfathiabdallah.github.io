@@ -17,14 +17,17 @@ OR my academic page at [Assiut University](https://www.aun.edu.eg/veterinary_med
 
 16. Y Tian, **MF Abdallah**, M De Boevre, K Audenaert, C Wang, S De Saege, A Wu (2022). Deciphering Alternaria metabolic responses in microbial confrontation via an integrated mass spectrometric targeted and non-targeted strategy. *Food Chemistry*, 134694. [doi: 10.1016/j.foodchem.2022.134694](https://www.sciencedirect.com/science/article/pii/S0308814622026565){:target="_blank" rel="noopener"}.
 
-18. H Zhang, Y Li, **MF Abdallah**, H Tan, J Li, S Liu, R Zhang, F Sun, Y Li, S Yang (2022). Novel one-point calibration strategy for high-throughput quantitation of microcystins in freshwater using LC-MS/MS. *Science of The Total Environment*, 159345. [doi: 10.1016/j.scitotenv.2022.159345](ttps://www.sciencedirect.com/science/article/abs/pii/S0048969722064440){:target="_blank" rel="noopener"}.
+18. H Zhang, Y Li, **MF Abdallah**, H Tan, J Li, S Liu, R Zhang, F Sun, Y Li, S Yang (2022). Novel one-point calibration strategy for high-throughput quantitation of microcystins in freshwater using LC-MS/MS. *Science of The Total Environment*, 159345. [doi: 10.1016/j.scitotenv.2022.159345](https://www.sciencedirect.com/science/article/abs/pii/S0048969722064440){:target="_blank" rel="noopener"}.
 
 18. H Zhang, **MF Abdallah**, J Zhang, Y Yu, Q Zhao, C Tang, Y Qin, J Zhang (2022). Comprehensive quantitation of multi-signature peptides originating from casein for the discrimination of milk from eight different animal species using LC-HRMS with stable isotope labeled peptides. *Food Chemistry*, 390, 133126. [doi: 10.1016/j.foodchem.2022.133126](https://www.sciencedirect.com/science/article/abs/pii/S0308814622010883){:target="_blank" rel="noopener"}.
 
 20. H Tan, F Sun, **MF Abdallah**, J Li, J Zhou, Y Li, S Yang (2022). Background ions into exclusion list: A new strategy to enhance the efficiency of DDA data collection for high-throughput screening of chemical contaminations in food. *Food Chemistry*, 385, 132669. [doi: 10.1016/j.foodchem.2022.132669](https://www.sciencedirect.com/science/article/abs/pii/S0308814622006318){:target="_blank" rel="noopener"}.
 
 21. X Chen, **MF Abdallah**, C Grootaert, A Rajkovic (2022). Bioenergetic status of the intestinal and hepatic cells after short term exposure to fumonisin B1 and aflatoxin B1. *International Journal of Molecular Sciences*, 23 (13), 6945. [doi: 10.3390/ijms23136945](https://www.mdpi.com/1422-0067/23/13/6945) (Open Access).
-22. F Sun, H Tan, **MF Abdallah**, Y Li, J Zhou, Y Li, S Yang (2022). A novel calibration strategy based on isotopic distribution for high-throughput quantitative analysis of pesticides and veterinary drugs using LC-HRMS. *Journal of Hazardous Materials*, 430, 128413. [doi: 10.1016/j.jhazmat.2022.128413](https://www.sciencedirect.com/science/article/abs/pii/S0304389422002011).
+
+23. X Chen, **MF Abdallah**, C Grootaert, A Rajkovic (2022). Bioenergetic status of the intestinal and hepatic cells after short term exposure to fumonisin B1 and aflatoxin B1. *International Journal of Molecular Sciences*, 23 (13), 6945. [doi: 10.3390/ijms23136945](https://www.mdpi.com/1422-0067/23/13/6945){:target="_blank" rel="noopener"} (Open Access).
+
+24. A novel calibration strategy based on isotopic distribution for high-throughput quantitative analysis of pesticides and veterinary drugs using LC-HRMS. *Journal of Hazardous Materials*, 430, 128413. [doi: 10.1016/j.jhazmat.2022.128413](https://www.sciencedirect.com/science/article/abs/pii/S0304389422002011).
 
 24. I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021).Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. *Toxins*, 13 (8), 552. [doi: 10.3390/toxins13080552](https://www.mdpi.com/2072-6651/13/8/552) (Open Access).
 
