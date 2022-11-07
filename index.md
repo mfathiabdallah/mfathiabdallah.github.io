@@ -19,7 +19,7 @@ sitemap:
 <img class="ProfilePic" img width=150 img align="right" style="float: right; margin-left: 20px;" src="Me.jpg">
 
 Short Bio (last update: October 2022)
-</div>
+
 I am a post-doctoral researcher in Toxicology field at [Ghent University](https://www.ugent.be/en). My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
 <br /> <br />
 
@@ -28,10 +28,9 @@ I received my bachelor in Veterinary Medical Sciences from [Assiut University](h
 In August 2016, I joined the Centre of Excellence of Mycotoxicology & Public Health, [Ghent University](https://www.ugent.be/en), Belgium for my PhD to work on the mitigation of toxigenic fungi and their mycotoxins. My PhD work was part of [**Mycokey**](http://www.mycokey.eu/) project which was funded by the EU Horizon 2020. I joined the Teagasc Food Research Centre in Ashtown, Dublin, Ireland as a research scientist in the framework of the European project [**Agritox**](http://agritox.eu/) from April 2020 until September 2020.
 
 Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm) (BOF) at the [Department of Food Technology, Safety and Health](https://www.ugent.be/bw/foodscience/en/research#rFoodMicro).
-</div>
+
 
 <!-- Twitter timeline -->
-</div>
 <p align="right">
 <a class="twitter-timeline" 
    href="https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw" 
