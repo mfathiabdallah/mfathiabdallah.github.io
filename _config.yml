@@ -55,4 +55,5 @@ plugins:
  - jekyll-target-blank
  - jekyll-twitter-plugin
  - jekyll-gist
+ - jekyll-seo-tag
 
