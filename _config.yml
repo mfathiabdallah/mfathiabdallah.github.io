@@ -10,6 +10,7 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 icon: 🧠 # the emoji used as the favicon
+mathjax: true
 
 # Layout
 show_social: true 
