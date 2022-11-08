@@ -6,9 +6,9 @@ title: ""
 
 ### You can find my CV [here](mohamedfathiabdallah.pdf)
 
-You can also visit my academic page at [Ghent University](https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm){:target="_blank" rel="noopener"}
+You can also visit my [personal page](https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm){:target="_blank" rel="noopener"} at Ghent University
 
-OR my academic page at [Assiut University](https://www.aun.edu.eg/veterinary_medicine/user/3186){:target="_blank" rel="noopener"}
+OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:target="_blank" rel="noopener"} at Assiut University
 
 ---
 
