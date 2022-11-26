@@ -6,19 +6,20 @@ title: ""
 <h1 align="center">Scientific Awards</h1>
 
 ### 2019
-  - The Young Scientist Award during the [EURACHEM 2019](https://eurachem2019.akki.ut.ee/) meeting held in Tartu, Estonia.
+  - The Young Scientist Award during the [EURACHEM 2019](https://eurachem2019.akki.ut.ee/){:target="_blank" rel="noopener"} meeting held in Tartu, Estonia.
 
 
 <h1 align="center">Fellowships</h1>
 
 ### 2020 
-- Postdoctoral Fellowship-Special Research Fund Ghent University, [Ghent University](https://www.ugent.be/en), Belgium.
+- Postdoctoral Fellowship-Special Research Fund Ghent University, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} project.
+, Belgium.
 Research grant number BOF20/PDO/032.
 - Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food
 Research Leaders, Austria/Ireland (granted, but untaken/excused).
 
 ### 2016 
-- PhD Research Fellowship, [Ghent University](https://www.ugent.be/en), Belgium in the framework of [**Mycokey**](http://www.mycokey.eu/){:target="_blank" rel="noopener"} project.
+- PhD Research Fellowship, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium in the framework of [**Mycokey**](http://www.mycokey.eu/){:target="_blank" rel="noopener"} project.
 
 ### 2015 
 - Erasmus Student Mobility for Studies, Center for Analytical Chemistry, Universität für
