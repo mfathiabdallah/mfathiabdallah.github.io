@@ -48,28 +48,28 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 ---
 <h1 align="center">Reviews</h1>
 
-1. R Tavelli, M Callens, C Grootaert, **MF Abdallah**, A Rajkovic (2022).Foodborne pathogens in the plastisphere: Can microplastics in the food chain threaten microbial food safety?. *Trends in Food Science & Technology*, 129, 1-10. [doi: 10.1016/j.tifs.2022.08.021](https://www.sciencedirect.com/science/article/abs/pii/S0924224422003715){:target="_blank" rel="noopener"}.
+3) R Tavelli, M Callens, C Grootaert, **MF Abdallah**, A Rajkovic (2022).Foodborne pathogens in the plastisphere: Can microplastics in the food chain threaten microbial food safety?. *Trends in Food Science & Technology*, 129, 1-10. [doi: 10.1016/j.tifs.2022.08.021](https://www.sciencedirect.com/science/article/abs/pii/S0924224422003715){:target="_blank" rel="noopener"}.
 
-3. **MF Abdallah**, WHR Van Hassel, M Andjelkovic, A Wilmotte, A Rajkovic (2021).Cyanotoxins and Food Contamination in Developing Countries: Review of Their Types, Toxicity, Analysis, Occurrence and Mitigation Strategies. *Toxins*, 13 (11), 786. [doi: 10.3390/toxins13110786](https://www.mdpi.com/2072-6651/13/11/786){:target="_blank" rel="noopener"} (Open Access).
+2) **MF Abdallah**, WHR Van Hassel, M Andjelkovic, A Wilmotte, A Rajkovic (2021).Cyanotoxins and Food Contamination in Developing Countries: Review of Their Types, Toxicity, Analysis, Occurrence and Mitigation Strategies. *Toxins*, 13 (11), 786. [doi: 10.3390/toxins13110786](https://www.mdpi.com/2072-6651/13/11/786){:target="_blank" rel="noopener"} (Open Access).
 
-5. **MF Abdallah**, G Girgin, T Baydar (2015). Occurrence, prevention and limitation of mycotoxins in feeds. *Animal Nutrition and Feed Technology*, 15 (3), 471-490. [doi: 10.5958/0974-181X.2015.00048.7](https://www.researchgate.net/publication/280041287_Occurrence_Prevention_and_Limitation_of_Mycotoxins_in_Feeds){:target="_blank" rel="noopener"} (Open Access).
+1) **MF Abdallah**, G Girgin, T Baydar (2015). Occurrence, prevention and limitation of mycotoxins in feeds. *Animal Nutrition and Feed Technology*, 15 (3), 471-490. [doi: 10.5958/0974-181X.2015.00048.7](https://www.researchgate.net/publication/280041287_Occurrence_Prevention_and_Limitation_of_Mycotoxins_in_Feeds){:target="_blank" rel="noopener"} (Open Access).
 
 ---
 
 <h1 align="center">Book Chapters</h1>
 
-1. **MF Abdallah**, M Ameye, S De Saeger, K Audenaert, G Haesaert (2018). Biological control of mycotoxigenic fungi and their toxins: An update for the pre-harvest approach. **Book Name** Fungi and Mycotoxins-Their Occurrence, Impact on Health and the Economy as well as Pre-and Postharvest Management Strategies. *IntechOpen*. [doi: 10.5772/intechopen.76342](https://biblio.ugent.be/download/8580508/8580795.pdf){:target="_blank" rel="noopener"} (Open Access) [8580795.pdf](https://github.com/mfathiabdallah/mfathiabdallah.github.io/files/9843808/8580795.pdf){:target="_blank" rel="noopener"}.
+1) **MF Abdallah**, M Ameye, S De Saeger, K Audenaert, G Haesaert (2018). Biological control of mycotoxigenic fungi and their toxins: An update for the pre-harvest approach. **Book Name** Fungi and Mycotoxins-Their Occurrence, Impact on Health and the Economy as well as Pre-and Postharvest Management Strategies. *IntechOpen*. [doi: 10.5772/intechopen.76342](https://biblio.ugent.be/download/8580508/8580795.pdf){:target="_blank" rel="noopener"} (Open Access) [8580795.pdf](https://github.com/mfathiabdallah/mfathiabdallah.github.io/files/9843808/8580795.pdf){:target="_blank" rel="noopener"}.
 
 ---
 
 <h1 align="center">Editorials</h1>
 
-1. M Gado, D Abdelsadek, F Zahran, NN El-Salhey, O Mehrez, S Abdel-Hay, S Mohamed, **MF Abdallah** (2022). Mycotoxin occurrence in Egyptian foods: Highlights on the findings of the past decade. *Egypt Scholars Journal* 1 (1), 1-3. [doi: 10.52649/egscj21632545](https://www.researchgate.net/profile/Mohamed-Abdallah-13/publication/358577360_Mycotoxin_occurrence_in_Egyptian_foods_Highlights_on_the_findings_of_the_past_decade/links/6229c3fa97401151d20b6bfb/Mycotoxin-occurrence-in-Egyptian-foods-Highlights-on-the-findings-of-the-past-decade.pdf){:target="_blank" rel="noopener"} (Open Access).
+2) M Gado, D Abdelsadek, F Zahran, NN El-Salhey, O Mehrez, S Abdel-Hay, S Mohamed, **MF Abdallah** (2022). Mycotoxin occurrence in Egyptian foods: Highlights on the findings of the past decade. *Egypt Scholars Journal* 1 (1), 1-3. [doi: 10.52649/egscj21632545](https://www.researchgate.net/profile/Mohamed-Abdallah-13/publication/358577360_Mycotoxin_occurrence_in_Egyptian_foods_Highlights_on_the_findings_of_the_past_decade/links/6229c3fa97401151d20b6bfb/Mycotoxin-occurrence-in-Egyptian-foods-Highlights-on-the-findings-of-the-past-decade.pdf){:target="_blank" rel="noopener"} (Open Access).
 
-2. **MF Abdallah**, M De Boevre, K Audenaert, G Haesaert, S De Saeger (2018). Highlight report: Mycotoxins as food contaminants in Africa—challenges and perspectives. *Archives of Toxicology* 92 (6), 2151-2152. [doi: 10.1007/s00204-018-2203-2](https://link.springer.com/article/10.1007/s00204-018-2203-2){:target="_blank" rel="noopener"} (Open Access).
+1) **MF Abdallah**, M De Boevre, K Audenaert, G Haesaert, S De Saeger (2018). Highlight report: Mycotoxins as food contaminants in Africa—challenges and perspectives. *Archives of Toxicology* 92 (6), 2151-2152. [doi: 10.1007/s00204-018-2203-2](https://link.springer.com/article/10.1007/s00204-018-2203-2){:target="_blank" rel="noopener"} (Open Access).
 
 ---
 
 <h1 align="center">Correspondence</h1>
 
-1. **MF Abdallah**, A Briend, GB Gonzales (2021). Aflatoxins and kwashiorkor: a commentary on the association-causation conundrum. *Toxicon* 190 (January), 20-21. [doi: 10.1016/j.toxicon.2020.12.001](https://www.sciencedirect.com/science/article/abs/pii/S004101012030948X?via%3Dihub){:target="_blank" rel="noopener"}. 
+1) **MF Abdallah**, A Briend, GB Gonzales (2021). Aflatoxins and kwashiorkor: a commentary on the association-causation conundrum. *Toxicon* 190 (January), 20-21. [doi: 10.1016/j.toxicon.2020.12.001](https://www.sciencedirect.com/science/article/abs/pii/S004101012030948X?via%3Dihub){:target="_blank" rel="noopener"}. 
