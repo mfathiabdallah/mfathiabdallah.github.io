@@ -24,7 +24,7 @@ nav: true
     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
     onload="if(submitted) {window.location='?submitted=true';}"></iframe>
     
-    <form id="Contact Form" action="https://docs.google.com/forms/d/1kcPydoIyGKApSfQ4YEAAZKK85OaH_ChQHMohTfuTMCw/edit" method="post"  target="hidden_iframe" onsubmit="submitted=true;">
+    <form id="Contact Form" action="https://forms.gle/oTPeXGgP6uaHBScZ8" method="post"  target="hidden_iframe" onsubmit="submitted=true;">
           <div class="form-group">
           <label for="name">Name*</label>
           <input type="text" class="form-control" id="name" placeholder="Name*"  name="entry.435430897" required>
