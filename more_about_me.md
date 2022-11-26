@@ -16,13 +16,17 @@ title: ""
 Research grant number BOF20/PDO/032.
 - Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food
 Research Leaders, Austria/Ireland (granted, but untaken/excused).
+
 ### 2016 
 - PhD Research Fellowship, Gent University, Belgium.
+
 ### 2015 
 - Erasmus Student Mobility for Studies, Center for Analytical Chemistry, Universität für
 Bodenkultur Wien, Austria.
+
 ### 2014 
 - Erasmus Student Mobility for Placement, IfADo Institute, Dortmund, Germany.
+
 ### 2012 
 - Turkish Government Scholarship, Turkey.
 - Full Tuition Graduate Teaching and Research Assistantship, Assiut University, Egypt.
