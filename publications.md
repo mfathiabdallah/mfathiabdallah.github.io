@@ -60,7 +60,7 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 
 <h1 align="center">Book Chapters</h1>
 
-1) **MF Abdallah***, M Ameye, S De Saeger, K Audenaert, G Haesaert (2018). Biological control of mycotoxigenic fungi and their toxins: An update for the pre-harvest approach. **Book Name** Fungi and Mycotoxins-Their Occurrence, Impact on Health and the Economy as well as Pre-and Postharvest Management Strategies. IntechOpen, [doi: 10.5772/intechopen.76342](https://biblio.ugent.be/download/8580508/8580795.pdf){:target="_blank" rel="noopener"} (Open Access) [8580795.pdf](https://github.com/mfathiabdallah/mfathiabdallah.github.io/files/9843808/8580795.pdf){:target="_blank" rel="noopener"}.
+1) **MF Abdallah***, M Ameye, S De Saeger, K Audenaert, G Haesaert (2018). Biological control of mycotoxigenic fungi and their toxins: An update for the pre-harvest approach. **Book Name** Fungi and Mycotoxins-Their Occurrence, Impact on Health and the Economy as well as Pre-and Postharvest Management Strategies. IntechOpen, [doi: 10.5772/intechopen.76342](https://biblio.ugent.be/download/8580508/8580795.pdf){:target="_blank" rel="noopener"} [8580795.pdf](https://github.com/mfathiabdallah/mfathiabdallah.github.io/files/9843808/8580795.pdf){:target="_blank" rel="noopener"} (Open Access).
 
 ---
 
