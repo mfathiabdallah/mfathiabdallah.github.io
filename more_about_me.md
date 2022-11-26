@@ -19,7 +19,7 @@ Research grant number BOF20/PDO/032.
 - (2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food
 Research Leaders, Austria/Ireland (granted, but untaken/excused).
 
-- (2016) PhD Research Fellowship, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium in the framework of [**Mycokey**](http://www.mycokey.eu/){:target="_blank" rel="noopener"} project.
+- (2016) PhD Research Fellowship, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium in the framework of [Mycokey](http://www.mycokey.eu/){:target="_blank" rel="noopener"} project.
 
 - (2015) Erasmus Student Mobility for Studies, Center for Analytical Chemistry, Universität für
 Bodenkultur Wien, Austria.
