@@ -12,13 +12,13 @@ title: ""
 <h1 align="center">Fellowships</h1>
 
 ### 2020 
-- Postdoctoral Fellowship-Special Research Fund Ghent University, Ghent University, Belgium.
+- Postdoctoral Fellowship-Special Research Fund Ghent University, [Ghent University](https://www.ugent.be/en), Belgium.
 Research grant number BOF20/PDO/032.
 - Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food
 Research Leaders, Austria/Ireland (granted, but untaken/excused).
 
 ### 2016 
-- PhD Research Fellowship, [Ghent University](https://www.ugent.be/en), Belgium.
+- PhD Research Fellowship, [Ghent University](https://www.ugent.be/en), Belgium in the framework of [**Mycokey**](http://www.mycokey.eu/){:target="_blank" rel="noopener"} project.
 
 ### 2015 
 - Erasmus Student Mobility for Studies, Center for Analytical Chemistry, Universität für
@@ -28,7 +28,7 @@ Bodenkultur Wien, Austria.
 - Erasmus Student Mobility for Placement, _IfADo_ Institute, Dortmund, Germany.
 
 ### 2012 
-- Turkish Government Scholarship, Turkey.
+- Turkish Government Scholarship, Turkey (through the [Türkiye Scholarships](https://www.turkiyeburslari.gov.tr/){:target="_blank" rel="noopener"}).
 - Full Tuition Graduate Teaching and Research Assistantship, Assiut University, Egypt.
 
 ---
