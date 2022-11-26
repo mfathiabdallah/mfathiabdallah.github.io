@@ -12,7 +12,7 @@ nav: true
   <body>
   <p id="thanks"></p>
   
-  <div class="publications">
+  <div class="contact">
     <script>
     if (window.location.href.length > 40) {
     document.getElementById("thanks").innerHTML = 
