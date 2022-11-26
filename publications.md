@@ -4,17 +4,7 @@ title: ""
 
 ---
 
-### You can find my CV [here](mohamedfathiabdallah.pdf)
-
-
-
-<html>
-  <body>
-    <iframe src="mohamedfathiabdallah.pdf#toolbar=0" width="100%" height="500px">
-    </iframe>
-  </body>
-</html>
-
+### You can find my CV [here](mohamedfathiabdallah.pdf){:target="_blank" rel="noopener"}
 
 You can also visit my [personal page](https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm){:target="_blank" rel="noopener"} at Ghent University
 
