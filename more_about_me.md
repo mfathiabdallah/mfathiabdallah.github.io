@@ -6,6 +6,8 @@ title: ""
 <h1 align="center">Scientific Awards</h1>
 
 - (2019) The Young Scientist Award during the [EURACHEM 2019](https://eurachem2019.akki.ut.ee/){:target="_blank" rel="noopener"} meeting held in Tartu, Estonia.
+
+
 ---
 <h1 align="center">Fellowships</h1>
 
