@@ -18,7 +18,7 @@ Research grant number BOF20/PDO/032.
 Research Leaders, Austria/Ireland (granted, but untaken/excused).
 
 ### 2016 
-- PhD Research Fellowship, Gent University, Belgium.
+- PhD Research Fellowship, [Ghent University](https://www.ugent.be/en), Belgium.
 
 ### 2015 
 - Erasmus Student Mobility for Studies, Center for Analytical Chemistry, Universität für
