@@ -23,7 +23,7 @@ nav: true
     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
     onload="if(submitted) {window.location='?submitted=true';}"></iframe>
     
-    <form id="contactform" action="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0h8JBLCj5etVDXH8FiMoikZqNGao3e70qolRWhwK1ejgZeQ/viewform?embedded=true" width="640" height="1037" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>" method="post"  target="hidden_iframe" onsubmit="submitted=true;">
+    <form id="contactform" action="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0h8JBLCj5etVDXH8FiMoikZqNGao3e70qolRWhwK1ejgZeQ/viewform?usp=sf_link" method="post"  target="hidden_iframe" onsubmit="submitted=true;">
           <div class="form-group">
           <label for="name">Name*</label>
           <input type="text" class="form-control" id="name" placeholder="Name*"  name="entry.435430897" required>
