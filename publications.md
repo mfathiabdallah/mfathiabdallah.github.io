@@ -27,7 +27,7 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 
 11) X Chen, **MF Abdallah**, C Grootaert, A Rajkovic (2022). Bioenergetic status of the intestinal and hepatic cells after short term exposure to fumonisin B1 and aflatoxin B1. International Journal of Molecular Sciences, 23 (13), 6945. [doi: 10.3390/ijms23136945](https://www.mdpi.com/1422-0067/23/13/6945){:target="_blank" rel="noopener"} (Open Access).
 
-10) I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021).Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. Toxins, 13 (8), 552. [doi: 10.3390/toxins13080552](https://www.mdpi.com/2072-6651/13/8/552){:target="_blank" rel="noopener"} (Open Access).
+10) I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021). Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. Toxins, 13 (8), 552. [doi: 10.3390/toxins13080552](https://www.mdpi.com/2072-6651/13/8/552){:target="_blank" rel="noopener"} (Open Access).
 
 9) L De Colli, K De Ruyck, **MF Abdallah**, J Finnan, E Mullins, S Kildea, J Spink, C Elliott, M Danaher (2021). Natural co-occurrence of multiple mycotoxins in unprocessed oats grown in Ireland with various production systems. Toxins, 13 (3), 188. [doi: 10.3390/toxins13030188](https://www.mdpi.com/2072-6651/13/3/188){:target="_blank" rel="noopener"} (Open Access).
 
@@ -41,7 +41,7 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 
 4) **MF Abdallah***, M De Boevre, S Landschoot, S De Saeger, G Haesaert, K Audenaert. Fungal Endophytes Control Fusarium graminearum and Reduce Trichothecenes and Zearalenone in Maize. Toxins, 10 (12), 493. [doi: 10.3390/toxins10120493](https://www.mdpi.com/2072-6651/10/12/493){:target="_blank" rel="noopener"} (Open Access).
 
-3) **MF Abdallah***, R Krska, M Sulyok (2018).Occurrence of Ochratoxins, Fumonisin B2, Aflatoxins (B1 and B2), and Other Secondary Fungal Metabolites in Dried Date Palm Fruits from Egypt: A Mini‐Survey. Journal of Food Science, 83 (2), 559-564. [doi: 10.1111/1750-3841.14046](https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/1750-3841.14046){:target="_blank" rel="noopener"}.
+3) **MF Abdallah***, R Krska, M Sulyok (2018). Occurrence of Ochratoxins, Fumonisin B2, Aflatoxins (B1 and B2), and Other Secondary Fungal Metabolites in Dried Date Palm Fruits from Egypt: A Mini‐Survey. Journal of Food Science, 83 (2), 559-564. [doi: 10.1111/1750-3841.14046](https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/1750-3841.14046){:target="_blank" rel="noopener"}.
 
 2) **MF Abdallah**, G Girgin, T Baydar, R Krska, M Sulyok (2017). Occurrence of multiple mycotoxins and other fungal metabolites in animal feed and maize samples from Egypt using LC‐MS/MS. Journal of the Science of Food and Agriculture, 97 (13), 4419-4428. [doi: 10.1002/jsfa.8293](https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.8293){:target="_blank" rel="noopener"}.
 
@@ -50,9 +50,9 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 ---
 <h1 align="center">Reviews</h1>
 
-3) R Tavelli, M Callens, C Grootaert, **MF Abdallah**, A Rajkovic (2022).Foodborne pathogens in the plastisphere: Can microplastics in the food chain threaten microbial food safety?. Trends in Food Science & Technology, 129, 1-10. [doi: 10.1016/j.tifs.2022.08.021](https://www.sciencedirect.com/science/article/abs/pii/S0924224422003715){:target="_blank" rel="noopener"}.
+3) R Tavelli, M Callens, C Grootaert, **MF Abdallah**, A Rajkovic (2022). Foodborne pathogens in the plastisphere: Can microplastics in the food chain threaten microbial food safety?. Trends in Food Science & Technology, 129, 1-10. [doi: 10.1016/j.tifs.2022.08.021](https://www.sciencedirect.com/science/article/abs/pii/S0924224422003715){:target="_blank" rel="noopener"}.
 
-2) **MF Abdallah***, WHR Van Hassel, M Andjelkovic, A Wilmotte, A Rajkovic (2021).Cyanotoxins and Food Contamination in Developing Countries: Review of Their Types, Toxicity, Analysis, Occurrence and Mitigation Strategies. Toxins, 13 (11), 786. [doi: 10.3390/toxins13110786](https://www.mdpi.com/2072-6651/13/11/786){:target="_blank" rel="noopener"} (Open Access).
+2) **MF Abdallah***, WHR Van Hassel, M Andjelkovic, A Wilmotte, A Rajkovic (2021). Cyanotoxins and Food Contamination in Developing Countries: Review of Their Types, Toxicity, Analysis, Occurrence and Mitigation Strategies. Toxins, 13 (11), 786. [doi: 10.3390/toxins13110786](https://www.mdpi.com/2072-6651/13/11/786){:target="_blank" rel="noopener"} (Open Access).
 
 1) **MF Abdallah**, G Girgin, T Baydar (2015). Occurrence, prevention and limitation of mycotoxins in feeds. Animal Nutrition and Feed Technology, 15 (3), 471-490. [doi: 10.5958/0974-181X.2015.00048.7](https://www.researchgate.net/publication/280041287_Occurrence_Prevention_and_Limitation_of_Mycotoxins_in_Feeds){:target="_blank" rel="noopener"} (Open Access).
 
