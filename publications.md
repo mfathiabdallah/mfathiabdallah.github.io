@@ -74,4 +74,4 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 
 <h1 align="center">Correspondence</h1>
 
-1) **MF Abdallah**, A Briend, GB Gonzales (2021). Aflatoxins and kwashiorkor: a commentary on the association-causation conundrum. Toxicon 190 (January), 20-21. [doi: 10.1016/j.toxicon.2020.12.001](https://www.sciencedirect.com/science/article/abs/pii/S004101012030948X?via%3Dihub){:target="_blank" rel="noopener"}. 
+1) **MF Abdallah**, A Briend, GB Gonzales (2021). Aflatoxins and kwashiorkor: a commentary on the association-causation conundrum. Toxicon, 190 (January), 20-21. [doi: 10.1016/j.toxicon.2020.12.001](https://www.sciencedirect.com/science/article/abs/pii/S004101012030948X?via%3Dihub){:target="_blank" rel="noopener"}. 
