@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: contact
 permalink: /contact
 nav: true
 ---
@@ -8,22 +8,23 @@ nav: true
 <html>
   <head>
   
+  
   </head>
   <body>
   <p id="thanks"></p>
   
-  <div class="contact">
+  <div class="publications">
     <script>
     if (window.location.href.length > 40) {
     document.getElementById("thanks").innerHTML = 
-    "<span style='color: oragn;'>Thank you for contacting me. I will respond as soon as possible!</span>";
+    "<span style='color: orang;'>Thank you for contacting me. I will respond as soon as possible!</span>";
     }
     </script>
     <script type="text/javascript">var submitted=false;</script>
     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
     onload="if(submitted) {window.location='?submitted=true';}"></iframe>
     
-    <form id="contactform" action="https://docs.google.com/forms/d/e/1FAIpQLSc0h8JBLCj5etVDXH8FiMoikZqNGao3e70qolRWhwK1ejgZeQ/viewform" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+    <form id="Contact Form" action="https://docs.google.com/forms/d/e/1FAIpQLSdiaOBlsVNCOH5JuYT0JrNutbUm87QzKcZyMCxxrZZCWrwEhQ/formResponse" method="post"  target="hidden_iframe" onsubmit="submitted=true;">
           <div class="form-group">
           <label for="name">Name*</label>
           <input type="text" class="form-control" id="name" placeholder="Name*"  name="entry.435430897" required>
@@ -36,7 +37,7 @@ nav: true
           
           <div class="form-group">
           <label for="subject">Subject*</label>
-          <input type="text" class="form-control" id="subject" placeholder="Subject*" name="entry.1456137451" required>
+          <input type="text" class="form-control" id="subject" placeholder="Subject*" name="entry.1456137451">
           </div>
           
           <div class="form-group">
