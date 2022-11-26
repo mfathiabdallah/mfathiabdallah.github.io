@@ -11,6 +11,7 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 icon: 🧠 # the emoji used as the favicon
 mathjax: true
+url: "http://mfathiabdallah.com" # the base hostname & protocol for your site
 
 # Layout
 show_social: true 
