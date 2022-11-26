@@ -1,7 +1,7 @@
 ---
 layout: page
-title: contact
-permalink: /contact
+title: Contact
+permalink: /Contact
 nav: true
 ---
 
@@ -13,9 +13,9 @@ nav: true
   <body>
   <p id="thanks"></p>
   
-  <div class="publications">
+  <div class="Contact">
     <script>
-    if (window.location.href.length > 40) {
+    if (window.location.href.length > 70) {
     document.getElementById("thanks").innerHTML = 
     "<span style='color: orang;'>Thank you for contacting me. I will respond as soon as possible!</span>";
     }
