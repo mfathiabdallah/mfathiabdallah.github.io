@@ -25,7 +25,7 @@ Research Leaders, Austria/Ireland (granted, but untaken/excused).
 Bodenkultur Wien, Austria.
 
 ### 2014 
-- Erasmus Student Mobility for Placement, IfADo Institute, Dortmund, Germany.
+- Erasmus Student Mobility for Placement, _IfADo_ Institute, Dortmund, Germany.
 
 ### 2012 
 - Turkish Government Scholarship, Turkey.
