@@ -6,7 +6,7 @@ title: ""
 ---
 <h1 align="center">Scientific Awards</h1>
 
-- The Young Scientist Award during the [EURACHEM 2019](https://eurachem2019.akki.ut.ee/){:target="_blank" rel="noopener"} meeting held in Tartu, Estonia.
+- (2019) The Young Scientist Award during the [EURACHEM 2019](https://eurachem2019.akki.ut.ee/){:target="_blank" rel="noopener"} meeting held in Tartu, Estonia.
 
 
 ---
@@ -15,13 +15,19 @@ title: ""
 - (2020) Postdoctoral Fellowship-Special Research Fund Ghent University, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} project.
 , Belgium.
 Research grant number BOF20/PDO/032.
+
 - (2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food
-Research Leaders, Austria/Ireland (granted, but untaken/excused). 
+Research Leaders, Austria/Ireland (granted, but untaken/excused).
+
 - (2016) PhD Research Fellowship, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium in the framework of [**Mycokey**](http://www.mycokey.eu/){:target="_blank" rel="noopener"} project.
+
 - (2015) Erasmus Student Mobility for Studies, Center for Analytical Chemistry, Universität für
 Bodenkultur Wien, Austria.
+
 - (2014) Erasmus Student Mobility for Placement, _IfADo_ Institute, Dortmund, Germany.
+
 - (2012) Turkish Government Scholarship, Turkey (through the [Türkiye Scholarships](https://www.turkiyeburslari.gov.tr/){:target="_blank" rel="noopener"}).
+
 - (2012) Full Tuition Graduate Teaching and Research Assistantship, Assiut University, Egypt.
 
 
