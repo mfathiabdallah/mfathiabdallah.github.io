@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /Contact
+title: contact
+permalink: /contact
 nav: true
 ---
 
@@ -13,18 +13,18 @@ nav: true
   <body>
   <p id="thanks"></p>
   
-  <div class="Contact">
+  <div class="publications">
     <script>
-    if (window.location.href.length > 70) {
+    if (window.location.href.length > 40) {
     document.getElementById("thanks").innerHTML = 
-    "<span style='color: orang;'>Thank you for contacting me. I will respond as soon as possible!</span>";
+    "<span style='color: red;'>Thank you for contacting me. I will respond as soon as possible!</span>";
     }
     </script>
     <script type="text/javascript">var submitted=false;</script>
     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
     onload="if(submitted) {window.location='?submitted=true';}"></iframe>
     
-    <form id="Contact Form" action="https://docs.google.com/forms/d/e/1FAIpQLSc0h8JBLCj5etVDXH8FiMoikZqNGao3e70qolRWhwK1ejgZeQ/viewform?embedded=true" method="post"  target="hidden_iframe" onsubmit="submitted=true;">
+    <form id="contactform" action="https://docs.google.com/forms/d/e/1FAIpQLSc0h8JBLCj5etVDXH8FiMoikZqNGao3e70qolRWhwK1ejgZeQ/viewform?usp=sf_link" method="post"  target="hidden_iframe" onsubmit="submitted=true;">
           <div class="form-group">
           <label for="name">Name*</label>
           <input type="text" class="form-control" id="name" placeholder="Name*"  name="entry.435430897" required>
