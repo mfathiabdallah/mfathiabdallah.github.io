@@ -7,7 +7,7 @@ categories: media
 
 ## Graduation
 
-This week, I have completed a one-year leadership program offered by Ghent University (Doctoral Schools Office and Postdoc Talent Management) in collaboration with Voka Oost-Vlaanderen (Flanders’ Chamber of Commerce and Industry). 
+This week, I have completed a one-year leadership program offered by [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} (Doctoral Schools Office and Postdoc Talent Management) in collaboration with [Voka Oost-Vlaanderen](https://www.voka.be/oost-vlaanderen){:target="_blank" rel="noopener"} (Flanders’ Chamber of Commerce and Industry). 
 
 This program aimed at introducing PhD and PostDoc researchers to the small and medium-sized enterprises world. Together with my teammates (Paulien and Chenxi), we have been visiting Bureau 9000 Studie & Energieadviesbureau, as an existing successful example, to apply all the theoretical knowledge in practice.
 
@@ -16,3 +16,5 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
 
 
 ![Graduation](/images/2022_11_28.jpg)
+ 
+ Picture Location: VOKA centre, Gent 9000 Belgium
