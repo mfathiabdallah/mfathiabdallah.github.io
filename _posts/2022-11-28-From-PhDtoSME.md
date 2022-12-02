@@ -18,7 +18,4 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
 #leadership #commerce #talentmanagement #collaboration #university #phd
 
 
-![Graduation](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
-
-
-
+![Graduation](/images/2022_11_28.jpg)
