@@ -1,5 +1,5 @@
 ---
-title:  "From PhD to SME, a one-year leadership program"
+title:  "Invited Spkears at Egypt Scholars"
 mathjax: true
 layout: post
 categories: media
