@@ -1,10 +1,7 @@
 ---
-layout: default
-title: "blogs"
+title: "News and Views"
+permalink: "/notes/"
+layout: page
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="News and Views" %}
-{% endif %}
+{% include archive.html %}
