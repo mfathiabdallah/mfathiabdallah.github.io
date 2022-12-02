@@ -17,7 +17,7 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 
 <h1 align="center">Research Articles </h1>
 
-<h2 style="color:rgb(247, 22, 105);text-align:center;"> EDUCATION </h2>
+<h2 style="color:reb(247, 22, 105);text-align:center;"> Research Articles </h2>
 
 15) Y Tian, **MF Abdallah**, M De Boevre, K Audenaert, C Wang, S De Saege, A Wu (2022). Deciphering Alternaria metabolic responses in microbial confrontation via an integrated mass spectrometric targeted and non-targeted strategy. Food Chemistry, 134694. [doi: 10.1016/j.foodchem.2022.134694](https://www.sciencedirect.com/science/article/pii/S0308814622026565){:target="_blank" rel="noopener"}.
 
