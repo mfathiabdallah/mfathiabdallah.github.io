@@ -1,6 +1,5 @@
 ---
 title:  "From PhD to SME, a one-year leadership program"
-mathjax: true
 layout: post
 categories: media
 ---
