@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "blogs"
+
 ---
 
 {% if site.show_excerpts %}
