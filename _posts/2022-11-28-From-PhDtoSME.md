@@ -22,12 +22,13 @@ Picture Location: VOKA centre, Gent 9000 Belgium
 ## Content of "From PhD to SME, a one-year leadership program"
 
 Around 80% of Ghent University (post)doctoral researchers continue their careers beyond academia. Business careers differ from academic ones: in business, people typically work in rapidly changing contexts, take considerable risks, focus on attitude rather than on knowledge, and work together with different kinds of profiles.
+
 Ghent University and VOKA East Flanders join forces for the exclusive 'From PhD to SME' programme, the aim of which is to build bridges between the world of research and small and medium-sized enterprises. 16 (post)doctoral researchers were given the unique opportunity to learn more about how SMEs are run and to put this knowledge into practice.
 
 Participants were given a chance to gain first-hand (leadership) experience in a Flemish SME in order to increase their hiring potential and smoothen their transition into the non-academic labour market. In addition, participants were able to build formal as well as informal networks, and to learn to identify and name their own strengths, their skills and interests that match better with business life.
 
 ## Programme (English) consisted of 12 sessions
-These session covered 6 modules consisting each of a half-day theoretical session, a practical assignment in an SME, combined with a half-day intervision session
+These sessions covered 6 modules consisting each of a half-day theoretical session, a practical assignment in an SME, combined with a half-day intervision session
 
 - Session 1 strategic choices and achievements
 - Session 2 intervision
