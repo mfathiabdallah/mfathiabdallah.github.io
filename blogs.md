@@ -1,5 +1,5 @@
 ---
-title: "News and Views"
+title: ""
 permalink: "/notes/"
 layout: page
 ---
