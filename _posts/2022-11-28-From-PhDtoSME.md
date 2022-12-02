@@ -16,8 +16,7 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
 
 
 ![Graduation](/images/2022_11_28.jpg)
- 
- Picture Location: VOKA centre, Gent 9000 Belgium
+Picture Location: VOKA centre, Gent 9000 Belgium
 
 
 ## Content of "From PhD to SME, a one-year leadership program"
@@ -42,8 +41,7 @@ These session covered 6 modules consisting each of a half-day theoretical sessio
 - Session 10 intervision
 - Session 11 culture
 - Session 12 intervision
-- Post-event wrap-up
-- Graduation
+- Post-event wrap-up and Graduation
 
 Throughout the programme, the participants were supervised by a coach, VOKA East Flanders, as well as the SME they collaborate with. The focus was on an integral approach of thinking and acting.
 
@@ -51,7 +49,7 @@ Throughout the programme, the participants were supervised by a coach, VOKA East
 
  ![Integral approach](/images/2022_11_28_integralapproach.png) 
 
-A. Theoretical sessions
+### A. Theoretical sessions
 
 Participants got acquainted with all strategic and tactical dimensions of running a business (strategy, processes, people, etc.)
 
@@ -62,13 +60,13 @@ Participants got acquainted with all strategic and tactical dimensions of runnin
 - Module 5: systems
 - Module 6: culture
 
-B. Practical assignment in an SME
+### B. Practical assignment in an SME
 
 After each module theory, there was a practice in fixed groups of 4 participants. Each group was matched with an SME. Based on discussions with the CEO and others within the company, participants was advice and draft an action plan to overcome the SME's strategic and operational challenges.
 The 4 SMEs, selected by VOKA East Flanders, were Flemish companies which were facing a strategic review, or find themselves in the midst of a reorganisation as a result of rapid growth.
 The 4 groups of (post)doctoral researchers were formed beforehand in order to ensure optimal heterogeneity and complementarity.
 
-C. Intervision: feedback & reporting on the practical experience
+### C. Intervision: feedback & reporting on the practical experience
 
 During the half-day intervision sessions, the 4 groups were discusseing their case with each other and with their coach: in this way participants were broaden their horizons and learn from the experiences collected in other SMEs.
 
