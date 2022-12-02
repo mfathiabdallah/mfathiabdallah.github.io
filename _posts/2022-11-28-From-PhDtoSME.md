@@ -20,7 +20,7 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
  Picture Location: VOKA centre, Gent 9000 Belgium
 
 
-## Content of From PhD to SME, a one-year leadership program
+## Content of "From PhD to SME, a one-year leadership program"
 
 Around 80% of Ghent University (post)doctoral researchers continue their careers beyond academia. Business careers differ from academic ones: in business, people typically work in rapidly changing contexts, take considerable risks, focus on attitude rather than on knowledge, and work together with different kinds of profiles.
 Ghent University and VOKA East Flanders join forces for the exclusive 'From PhD to SME' programme, the aim of which is to build bridges between the world of research and small and medium-sized enterprises. 16 (post)doctoral researchers were given the unique opportunity to learn more about how SMEs are run and to put this knowledge into practice.
@@ -30,20 +30,20 @@ Participants were given a chance to gain first-hand (leadership) experience in a
 ## Programme (English) consisted of 12 sessions
 These session covered 6 modules consisting each of a half-day theoretical session, a practical assignment in an SME, combined with a half-day intervision session
 
-  Session 1 strategic choices and achievements
-  Session 2 intervision
-  Session 3 leadership - primary process
-  Session 4 intervision
-  Session 5 structures
-  Session 6 intervision
-  Session 7 people
-  Session 8 intervision
-  Session 9 systems
-  Session 10 intervision
-  Session 11 culture
-  Session 12 intervision
-  Post-event wrap-up
-  Graduation
+- Session 1 strategic choices and achievements
+- Session 2 intervision
+- Session 3 leadership - primary process
+- Session 4 intervision
+- Session 5 structures
+- Session 6 intervision
+- Session 7 people
+- Session 8 intervision
+- Session 9 systems
+- Session 10 intervision
+- Session 11 culture
+- Session 12 intervision
+- Post-event wrap-up
+- Graduation
 
 Throughout the programme, the participants were supervised by a coach, VOKA East Flanders, as well as the SME they collaborate with. The focus was on an integral approach of thinking and acting.
 
@@ -52,21 +52,24 @@ Throughout the programme, the participants were supervised by a coach, VOKA East
  ![Integral approach](/images/2022_11_28_integralapproach.png) 
 
 A. Theoretical sessions
+
 Participants got acquainted with all strategic and tactical dimensions of running a business (strategy, processes, people, etc.)
 
-   Module 1: strategic choices and achievements
-   Module 2: leadership - primary process
-   Module 3: structures
-   Module 4: people
-   Module 5: systems
-   Module 6: culture
+- Module 1: strategic choices and achievements
+- Module 2: leadership - primary process
+- Module 3: structures
+- Module 4: people
+- Module 5: systems
+- Module 6: culture
 
 B. Practical assignment in an SME
+
 After each module theory, there was a practice in fixed groups of 4 participants. Each group was matched with an SME. Based on discussions with the CEO and others within the company, participants was advice and draft an action plan to overcome the SME's strategic and operational challenges.
 The 4 SMEs, selected by VOKA East Flanders, were Flemish companies which were facing a strategic review, or find themselves in the midst of a reorganisation as a result of rapid growth.
 The 4 groups of (post)doctoral researchers were formed beforehand in order to ensure optimal heterogeneity and complementarity.
 
 C. Intervision: feedback & reporting on the practical experience
+
 During the half-day intervision sessions, the 4 groups were discusseing their case with each other and with their coach: in this way participants were broaden their horizons and learn from the experiences collected in other SMEs.
 
 ## Added value
