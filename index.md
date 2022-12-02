@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Welcome"
 sitemap:
   lastmod: 2022-11-06
   exclude: 'no'
