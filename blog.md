@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "newsviews"
+title: "Blog"
 ---
 
 {% if site.show_excerpts %}
