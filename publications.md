@@ -67,6 +67,7 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 <h1 align="center">Editorials</h1>
 
 3) **MF Abdallah***, W Xu and A Abdeen (2022) Editorial: Environmental contaminants and animal health: Analysis, toxicity, and mitigation. Front. Vet. Sci. 9:1102836. [doi: 10.3389/fvets.2022.1102836](https://www.frontiersin.org/articles/10.3389/fvets.2022.1102836/full){:target="_blank" rel="noopener"} (Open Access).
+
 2) M Gado, D Abdelsadek, F Zahran, NN El-Salhey, O Mehrez, S Abdel-Hay, S Mohamed, **MF Abdallah*** (2022). Mycotoxin occurrence in Egyptian foods: Highlights on the findings of the past decade. Egypt Scholars Journal, 1 (1), 1-3. [doi: 10.52649/egscj21632545](https://www.researchgate.net/profile/Mohamed-Abdallah-13/publication/358577360_Mycotoxin_occurrence_in_Egyptian_foods_Highlights_on_the_findings_of_the_past_decade/links/6229c3fa97401151d20b6bfb/Mycotoxin-occurrence-in-Egyptian-foods-Highlights-on-the-findings-of-the-past-decade.pdf){:target="_blank" rel="noopener"} (Open Access).
 
 1) **MF Abdallah***, M De Boevre, K Audenaert, G Haesaert, S De Saeger (2018). Highlight report: Mycotoxins as food contaminants in Africa—challenges and perspectives. Archives of Toxicology, 92 (6), 2151-2152. [doi: 10.1007/s00204-018-2203-2](https://link.springer.com/article/10.1007/s00204-018-2203-2){:target="_blank" rel="noopener"} (Open Access).
