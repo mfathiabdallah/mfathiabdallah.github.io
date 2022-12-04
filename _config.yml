@@ -25,8 +25,9 @@ minimal: false            # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV & Publications", file: "publications.md"}
   - {title: "More About Me", file: "more_about_me.md"}
-  - {title: "News & Views", file: "blogs.md"}
   - {title: "Contact", file: "contact.md"}
+  #- {title: "News & Views", file: "blogs.md"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mohamed.fathi@ugent.be"}
