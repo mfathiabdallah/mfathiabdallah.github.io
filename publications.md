@@ -13,7 +13,7 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 ---
 
 ## Publications 
-   (* corresponding authorship; † co-authorship)
+   (* corresponding authorship; † equal co-authorship)
 
 <h1 align="center">Research Articles </h1>
 
@@ -33,7 +33,7 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 
 8) **MF Abdallah***, K Audenaert, SD Saeger, J Houbraken (2020). Revisiting an Aspergillus flavus Strain Isolated from an Egyptian Sugarcane Field in 1930. Microorganisms, 8 (11), 1633. [doi: 10.3390/microorganisms8111633](https://www.mdpi.com/2076-2607/8/11/1633){:target="_blank" rel="noopener"} (Open Access).
 
-7) J Tan, M Ameye, S Landschoot, NÚ De Zutter, S De Saeger, M De Boevre, **MF Abdallah**, T Van der Lee, C Waalwijk, K Audenaert (2020). At the scene of the crime: New insights into the role of weakly pathogenic members of the fusarium head blight disease complex. Molecular Plant Pathology, 21 (12), 1559-1572. [doi: 10.1111/mpp.12996](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/mpp.12996){:target="_blank" rel="noopener"} (Open Access).
+7) J Tan†, M Ameye†, S Landschoot, NÚ De Zutter, S De Saeger, M De Boevre, **MF Abdallah**, T Van der Lee, C Waalwijk, K Audenaert (2020). At the scene of the crime: New insights into the role of weakly pathogenic members of the fusarium head blight disease complex. Molecular Plant Pathology, 21 (12), 1559-1572. [doi: 10.1111/mpp.12996](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/mpp.12996){:target="_blank" rel="noopener"} (Open Access).
 
 6) **MF Abdallah***, K Audenaert, L Lust, S Landschoot, B Bekaert, G Haesaert, M De Boevre, S De Saeger (2020). Risk characterization and quantification of mycotoxins and their producing fungi in sugarcane juice: A neglected problem in a widely-consumed traditional beverage. Food Control, 108, 106811. [doi: 10.1016/j.foodcont.2019.106811](https://www.sciencedirect.com/science/article/abs/pii/S0956713519304001){:target="_blank" rel="noopener"}.
 
