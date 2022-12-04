@@ -6,6 +6,7 @@ title: ""
 ---
 <h1 align="center">Scientific Awards</h1>
 
+- (2022) Best Oral Presentation from [Toxins journal](https://www.mdpi.com/journal/toxins){:target="_blank" rel="noopener"} (Power of Fungi and Mycotoxins in Climate Change Symposium, Croatia).
 - (2019) The Young Scientist Award during the [EURACHEM 2019](https://eurachem2019.akki.ut.ee/){:target="_blank" rel="noopener"} meeting held in Tartu, Estonia.
 
 
@@ -32,7 +33,7 @@ Bodenkultur Wien, Austria.
 
 
 ---
-<h1 align="center">Fund</h1>
+<h1 align="center">Funds</h1>
 
 - (2021) [VLIRUOS Global Minds Grant](https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm){:target="_blank" rel="noopener"}  from [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential _in vitro_ toxic interaction. Role: Principle Researcher
 
