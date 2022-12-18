@@ -16,6 +16,7 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
 
 
 ![Graduation](/images/2022_11_28.jpg)
+
 Picture Location: VOKA centre, Gent 9000 Belgium
 
 
