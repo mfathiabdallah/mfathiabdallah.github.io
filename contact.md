@@ -2,7 +2,7 @@
 title: "Contact & Links"
 layout: page
 sitemap:
-  lastmod: 2022-11-026
+  lastmod: 2022-12-18
   exclude: 'no'
 ---
 <p>
@@ -18,4 +18,5 @@ Faculty of Bioscience Engineering, Building B, Coupure Links 653, Gent 9000, Bel
 <br /> <br /> 
  
 <img align="left" width="425" height="360" src="/images/BioScience.jpg"> 
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d40128.26671247878!2d3.6826948105099344!3d51.052780000000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x74bcd9a347ac3d5f!2sFaculty%20of%20Bioscience%20Engineering%2C%20Ghent%20University!5e0!3m2!1sen!2sbe!4v1671396843179!5m2!1sen!2sbe" width="450" height="260" style="border:0.5;" allowfullscreen="" loading="" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d40128.26671247878!2d3.6826948105099344!3d51.052780000000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x74bcd9a347ac3d5f!2sFaculty%20of%20Bioscience%20Engineering%2C%20Ghent%20University!5e0!3m2!1sen!2sbe!4v1671396843179!5m2!1sen!2sbe" width="450" height="260" style="border:0.5;" allowfullscreen="" loading="" referrerpolicy="no-referrer-when-downgrade"></iframe>
