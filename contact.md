@@ -16,5 +16,5 @@ sitemap:
 Faculty of Bioscience Engineering, Coupure Links 653, Building B, Gent.
 <!-- Profile picture -->
 <img class="ProfilePic" img width=150 img align="right" style="float: right; margin-left: 20px;" src="Me.jpg">
-<img class="Bio" img width=350 img align="right" style="float: right; margin-left: 40px;" src="Bioscience.jpg">
+<img class="Bio" img width=350 img align="right" style="float: right; margin-left: 40px;" src="BioScience.jpg">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10032.066678119694!2d3.708959!3d51.05278!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x74bcd9a347ac3d5f!2sFaculty%20of%20Bioscience%20Engineering%2C%20Ghent%20University!5e0!3m2!1sen!2sbe!4v1671391377044!5m2!1sen!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
