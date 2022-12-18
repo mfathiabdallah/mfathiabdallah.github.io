@@ -13,6 +13,7 @@ sitemap:
     <i class="fab fa-linkedin"></i> &nbsp; LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">Mohamed Fathi Abdallah</a><br>
     <i class="fab fa-orcid"></i>    &nbsp; ORCID: &nbsp; <a href="https://orcid.org/0000-0002-3903-6452" target="_blank">0000-0002-3903-6452</a><br>
 
+  <br /> 
 Faculty of Bioscience Engineering, Building B, Coupure Links 653, Gent 9000, Belgium
 <br /> 
 <img align="left" width="440" height="340" src="/images/BioScience.jpg">
