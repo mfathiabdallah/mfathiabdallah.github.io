@@ -23,6 +23,6 @@ Faculty of Bioscience Engineering, Coupure Links 653, Gent 9000, Belgium
   
 <p><p>
   
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d40128.26671247878!2d3.6826948105099344!3d51.052780000000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x74bcd9a347ac3d5f!2sFaculty%20of%20Bioscience%20Engineering%2C%20Ghent%20University!5e0!3m2!1sen!2sbe!4v1671396843179!5m2!1sen!2sbe" width="550" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d40128.26671247878!2d3.6826948105099344!3d51.052780000000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x74bcd9a347ac3d5f!2sFaculty%20of%20Bioscience%20Engineering%2C%20Ghent%20University!5e0!3m2!1sen!2sbe!4v1671396843179!5m2!1sen!2sbe" width="550" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   
 <p><p>
