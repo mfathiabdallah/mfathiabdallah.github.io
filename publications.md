@@ -17,9 +17,11 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 
 <h1 align="center">Research Articles </h1>
 
-15) Y Tian, **MF Abdallah**, M De Boevre, K Audenaert, C Wang, S De Saege, A Wu (2022). Deciphering Alternaria metabolic responses in microbial confrontation via an integrated mass spectrometric targeted and non-targeted strategy. Food Chemistry, 134694. [doi: 10.1016/j.foodchem.2022.134694](https://www.sciencedirect.com/science/article/pii/S0308814622026565){:target="_blank" rel="noopener"}.
+16) Y Tian, **MF Abdallah**, M De Boevre, K Audenaert, C Wang, S De Saege, A Wu (2023). Deciphering Alternaria metabolic responses in microbial confrontation via an integrated mass spectrometric targeted and non-targeted strategy. Food Chemistry, 134694. [doi: 10.1016/j.foodchem.2022.134694](https://www.sciencedirect.com/science/article/pii/S0308814622026565){:target="_blank" rel="noopener"}.
 
-14) H Zhang, Y Li, **MF Abdallah**, H Tan, J Li, S Liu, R Zhang, F Sun, Y Li, S Yang (2022). Novel one-point calibration strategy for high-throughput quantitation of microcystins in freshwater using LC-MS/MS. Science of The Total Environment, 159345. [doi: 10.1016/j.scitotenv.2022.159345](https://www.sciencedirect.com/science/article/abs/pii/S0048969722064440){:target="_blank" rel="noopener"}.
+15) H Zhang, Y Li, **MF Abdallah**, H Tan, J Li, S Liu, R Zhang, F Sun, Y Li, S Yang (2023). Novel one-point calibration strategy for high-throughput quantitation of microcystins in freshwater using LC-MS/MS. Science of The Total Environment, 159345. [doi: 10.1016/j.scitotenv.2022.159345](https://www.sciencedirect.com/science/article/abs/pii/S0048969722064440){:target="_blank" rel="noopener"}.
+
+14) F Sun, P Wu, **MF Abdallah**, H Tan, Y Li, S Yang (2023). One sample multi-point calibration curve as a novel approach for quantitative LC-MS analysis: the quantitation of six aflatoxins in milk and oat-based milk as an example. Food Chemistry, 135593. [doi: 10.1016/j.foodchem.2023.135593](https://www.sciencedirect.com/science/article/abs/pii/S0308814623002091){:target="_blank" rel="noopener"}.
 
 13) H Zhang, **MF Abdallah**, J Zhang, Y Yu, Q Zhao, C Tang, Y Qin, J Zhang (2022). Comprehensive quantitation of multi-signature peptides originating from casein for the discrimination of milk from eight different animal species using LC-HRMS with stable isotope labeled peptides. Food Chemistry, 390, 133126. [doi: 10.1016/j.foodchem.2022.133126](https://www.sciencedirect.com/science/article/abs/pii/S0308814622010883){:target="_blank" rel="noopener"}.
 
