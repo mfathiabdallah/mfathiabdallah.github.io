@@ -4,7 +4,7 @@ title: ""
 
 ---
 
-### You can find my CV [here](mohamedfathiabdallah.pdf){:target="_blank" rel="noopener"}
+### You can find my CV [here](Mohamed Fathi Abdallah_2023.pdf){:target="_blank" rel="noopener"}
 
 You can also visit my [personal page](https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm){:target="_blank" rel="noopener"} at Ghent University
 
