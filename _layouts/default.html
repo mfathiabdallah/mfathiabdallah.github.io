@@ -40,5 +40,10 @@
   {% include menu.html menu=site.external %}
 </footer>
 {% endif %}
+  
+{% if page.night == true %}
+<link rel="stylesheet" href="{{ "/assets/css/night.css" | relative_url }}">
+{% endif %}
 
+  
 </html>
