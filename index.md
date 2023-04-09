@@ -27,31 +27,7 @@ I received my bachelor in Veterinary Medical Sciences from [Assiut University](h
 In August 2016, I joined the Centre of Excellence of Mycotoxicology & Public Health, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium for my PhD to work on the mitigation of toxigenic fungi and their mycotoxins. My PhD work was part of [**Mycokey**](http://www.mycokey.eu/){:target="_blank" rel="noopener"} project which was funded by the EU Horizon 2020. I joined the Teagasc Food Research Centre in Ashtown, Dublin, Ireland as a research scientist in the framework of the European project [**Agritox**](http://agritox.eu/){:target="_blank" rel="noopener"} from April 2020 until September 2020.
 
 Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF) at the [Department of Food Technology, Safety and Health](https://www.ugent.be/bw/foodscience/en/research#rFoodMicro){:target="_blank" rel="noopener"}.
-
-
-<!-- News and Twitter timeline -->
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 50px;">
-    <h2>News</h2>
-    <ul>
-      {% for post in site.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-  <div style="width: 250px;">
-    <a class="twitter-timeline"
-       href="https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw"
-       data-tweet-limit="4"
-       data-width="250"
-       data-height="450"
-       data-align="right">
-      Tweets by MoFathiAbdallah
-    </a>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
-</div>
-
+<br /> <br />
 
 <!-- News and Twitter timeline -->
 <div style="display: flex;">
