@@ -20,6 +20,11 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
 
 Picture Location: VOKA centre, Gent 9000 Belgium
 
+![Graduation](/images/2022_11_28.jpg){: style="float: left; margin-right: 1em; width: 40%;"} 
+
+Picture Location: VOKA centre, Gent 9000 Belgium
+
+
 
 ## Content of "From PhD to SME, a one-year leadership program"
 
