@@ -29,13 +29,7 @@ In August 2016, I joined the Centre of Excellence of Mycotoxicology & Public Hea
 
 Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF) at the [Department of Food Technology, Safety and Health](https://www.ugent.be/bw/foodscience/en/research#rFoodMicro){:target="_blank" rel="noopener"}.
 
-<!-- Twitter timeline -->
-<p align="right">
-<a class="twitter-timeline" 
-   href="https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw" 
-   data-width="375" data-height="550"
-   data-tweet-limit="4">
- Tweets by MoFathiAbdallah</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
   
 <!-- Twitter timeline -->
 <div style="float: right;">
