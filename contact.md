@@ -15,9 +15,7 @@ sitemap:
     <i class="fab fa-orcid"></i>    &nbsp; ORCID: &nbsp; <a href="https://orcid.org/0000-0002-3903-6452" target="_blank">0000-0002-3903-6452</a><br>
 </p>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-  
+ 
 <img align="center" width="550" height="360" src="/images/BioScience.jpg"> 
 
 <p>&nbsp;</p>
