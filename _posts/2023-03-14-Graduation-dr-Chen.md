@@ -11,7 +11,7 @@ Today, Mrs. Xiangrong Chen has successfully defended her PhD at [Ghent Universit
 
 Her PhD title was "Cross Talk of Fungi and Mycotoxins with Their Plants and Human Hosts". 
 
-Her PhD work was done under the supervision of Prof. Andreja Rajkovic (Faculty of Bioscience Engineering), Prof. Kris Audenaert (Faculty of Bioscience Engineering), Prof. Sarah De Saeger (Faculty of Pharmaceutical Sciences).
+Her PhD work was done under the supervision of Prof. Andreja Rajkovic (Faculty of Bioscience Engineering, UGent), Prof. Kris Audenaert (Faculty of Bioscience Engineering, UGent), and Prof. Sarah De Saeger (Faculty of Pharmaceutical Sciences, UGent).
 
 ### Congratualtion Dr. Chen, and all the best wishes in your future!
 
