@@ -26,7 +26,7 @@ Picture Location: VOKA centre, Gent 9000 Belgium
 
 Picture Location: VOKA centre, Gent 9000 Belgium
 
-![Graduation](/images/2022_11_28.jpg){: style="float: left; margin-right: 1em; width: 60%;"}
+![Graduation](/images/2022_11_28.jpg){: style="float: left; margin-right: 1em; width: 80%;"}
 Picture Location: VOKA centre, Gent 9000 Belgium
 
 
