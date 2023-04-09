@@ -30,7 +30,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 
 
 <div>
-  <div style="float: left; width: 50%;">
+  <div style="float: left; width: 65%;">
     <h2>News</h2>
     <ul>
       <li><a href="#">News item 1</a></li>
