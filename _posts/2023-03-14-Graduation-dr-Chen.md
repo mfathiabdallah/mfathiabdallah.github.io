@@ -1,5 +1,5 @@
 ---
-title:  "Mrs. Xiangrong Chen's public Doctoral defense at UGENT"
+title:  "Mrs. Xiangrong Chen's public doctoral defense at UGENT"
 mathjax: true
 layout: post
 categories: media
