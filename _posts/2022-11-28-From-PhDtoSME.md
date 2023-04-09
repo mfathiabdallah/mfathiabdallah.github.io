@@ -16,7 +16,7 @@ Thanks to [Frank De Craecker](https://www.linkedin.com/in/frank-de-craecker-3918
 Thank you Bureau 9000 for the warm welcome we had during every visit.
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="/images/2022_11_28.jpg" alt="Graduation" style="width: 80%; margin-bottom: 0.5em;">
+    <img src="/images/2022_11_28.jpg" alt="Graduation" style="width: 60%; margin-bottom: 0.5em;">
     <p style="text-align: center;">Picture Location: VOKA centre, Gent 9000 Belgium</p>
 </div>
 
