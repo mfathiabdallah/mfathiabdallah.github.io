@@ -29,27 +29,6 @@ In August 2016, I joined the Centre of Excellence of Mycotoxicology & Public Hea
 Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF) at the [Department of Food Technology, Safety and Health](https://www.ugent.be/bw/foodscience/en/research#rFoodMicro){:target="_blank" rel="noopener"}.
 
 
-<div>
-  <div style="float: left; width: 65%;">
-    <h2>News</h2>
-    <ul>
-      <li><a href="#">News item 1</a></li>
-      <li><a href="#">News item 2</a></li>
-      <li><a href="#">News item 3</a></li>
-    </ul>
-  </div>
-  <div style="float: right; width: 35%;">
-    <a class="twitter-timeline" 
-       href="https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw" 
-       data-width="250" data-height="450"
-       data-tweet-limit="4">
-     Tweets by MoFathiAbdallah</a> 
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
-  <div style="clear: both;"></div>
-</div>
-
-
 <!-- News and Twitter timeline -->
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 50px;">
