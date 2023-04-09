@@ -52,9 +52,6 @@ Throughout the programme, the participants were supervised by a coach, VOKA East
 
  ![Integral approach](/images/2022_11_28_integralapproach.png) 
  
- <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="/images/2022_11_28_integralapproach.jpg" alt="Graduation" style="width: 80%; margin-bottom: 0.5em;">
-    </div>
 
 ### A. Theoretical sessions
 
