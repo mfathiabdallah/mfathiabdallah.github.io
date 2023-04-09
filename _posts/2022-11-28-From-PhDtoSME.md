@@ -15,10 +15,7 @@ This program aimed at introducing PhD and PostDoc researchers to the small and m
 Thanks to [Frank De Craecker](https://www.linkedin.com/in/frank-de-craecker-3918862/){:target="_blank" rel="noopener"} for the efforts and the valuable information and to [Jolyn De Baets](https://www.linkedin.com/in/jolyndebaets/){:target="_blank" rel="noopener"} for the guidance and communication during the course.
 Thank you Bureau 9000 for the warm welcome we had during every visit.
 
-![Graduation](/images/2022_11_28.jpg){: style="float: left; margin-right: 1em; width: 80%;"}
-Picture Location: VOKA centre, Gent 9000 Belgium
-
-![Graduation](/images/2022_11_28.jpg){: style="width: 80%;"}
+![Graduation](/images/2022_11_28.jpg){: style="width: 85%;"}
 Picture Location: VOKA centre, Gent 9000 Belgium
 
 ## Content of "From PhD to SME, a one-year leadership program"
