@@ -15,11 +15,8 @@ This program aimed at introducing PhD and PostDoc researchers to the small and m
 Thanks to [Frank De Craecker](https://www.linkedin.com/in/frank-de-craecker-3918862/){:target="_blank" rel="noopener"} for the efforts and the valuable information and to [Jolyn De Baets](https://www.linkedin.com/in/jolyndebaets/){:target="_blank" rel="noopener"} for the guidance and communication during the course.
 Thank you Bureau 9000 for the warm welcome we had during every visit.
 
-![Graduation](/images/2022_11_28.jpg){: style="width: 85%;"}
-Picture Location: VOKA centre, Gent 9000 Belgium
-
 <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="/images/2022_11_28.jpg" alt="Graduation" style="width: 85%; margin-bottom: 1em;">
+    <img src="/images/2022_11_28.jpg" alt="Graduation" style="width: 80%; margin-bottom: 0.5em;">
     <p style="text-align: center;">Picture Location: VOKA centre, Gent 9000 Belgium</p>
 </div>
 
