@@ -58,8 +58,7 @@ plugins:
  - jekyll-twitter-plugin
  - jekyll-gist
  - jekyll-seo-tag
- - google_analytics:
-  tracking_id: <G-KDRBT5JYMK>
+ 
   
 
 
