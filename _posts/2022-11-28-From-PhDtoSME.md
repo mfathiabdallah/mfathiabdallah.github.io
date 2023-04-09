@@ -50,18 +50,9 @@ Throughout the programme, the participants were supervised by a coach, VOKA East
 
 ## Integral approach
 
- ![Integral approach](/images/2022_11_28_integralapproach.png) 
- 
-
-### A. Theoretical sessions
-
-
-## Integral approach
-
 <div style="text-align:center"><img src="/images/2022_11_28_integralapproach.png" /></div>
 
 ### A. Theoretical sessions
-
 
 Participants got acquainted with all strategic and tactical dimensions of running a business (strategy, processes, people, etc.)
 
