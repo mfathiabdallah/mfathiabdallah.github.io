@@ -1,4 +1,3 @@
-
 ---
 title:  "Public defnse of Xiangrong Chen at UGENT"
 mathjax: true
