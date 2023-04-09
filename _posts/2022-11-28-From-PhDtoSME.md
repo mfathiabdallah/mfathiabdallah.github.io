@@ -23,9 +23,11 @@ Picture Location: VOKA centre, Gent 9000 Belgium
 <div style="text-align: center;">
   ![Graduation](/images/2022_11_28.jpg){: style="float: left; margin-right: 1em; width: 65%;"}
 </div>
+
 Picture Location: VOKA centre, Gent 9000 Belgium
 
-
+![Graduation](/images/2022_11_28.jpg){: style="float: left; margin-right: 1em; width: 60%;"}
+Picture Location: VOKA centre, Gent 9000 Belgium
 
 
 ## Content of "From PhD to SME, a one-year leadership program"
