@@ -1,7 +1,7 @@
 ---
+layout: post
 title:  "Webinar on Carcinogenic mycotoxins: From Farm to Fork (in Arabic)"
 mathjax: true
-layout: post
 categories: media
 ---
 
