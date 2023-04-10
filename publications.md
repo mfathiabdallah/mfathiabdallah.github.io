@@ -9,7 +9,7 @@ title: ""
     <p>Visit my <a href="https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm" target="_blank" rel="noopener">personal page</a> at Ghent University or my <a href="https://www.aun.edu.eg/veterinary_medicine/user/3186" target="_blank" rel="noopener">personal page</a> at Assiut University</p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <iframe src="/CV_MFA_2023.pdf" style="width:90%;height:300px;"></iframe>
+    <iframe src="/CV_MFA_2023.pdf" style="width:100%;height:300px;"></iframe>
   </div>
 </div>
 
