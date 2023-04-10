@@ -53,8 +53,8 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
       <h3 style="margin-bottom: 0;">01 December 2022</h3>
       <p style="margin-top: 0;">A new Special Issue in collaboration with Dr. Elisabeth Varga, Dr. Mohamed Fathi Abdallah, and Dr. Shupeng Yang 🤝</p>
       <p style="margin-top: 0;">"<a href="https://lnkd.in/g3-kW8dY" target="_blank" style="color:#ffefd5;">Current Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control</a>"</p>
-      <p style="margin-top: 0;">See more information at: <a href="https://lnkd.in/g3-kW8dY" target="_blank">https://lnkd.in/g3-kW8dY</a></p>
-      <p style="margin-top: 0;">#mycotoxins #toxicology #MDPI #open_access</p>
+      <p style="margin-top: 0;">More information at: <a href="https://lnkd.in/g3-kW8dY" target="_blank">https://lnkd.in/g3-kW8dY</a></p>
+      <p style="margin-top: 0;">#toxicology #mycotoxins #open_access</p>
     </div>
     <div>
       <img src="/images/Special-issue-toxins.png" alt="Special issue" style="width: 450px;">
