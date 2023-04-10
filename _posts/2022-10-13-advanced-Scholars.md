@@ -2,6 +2,7 @@
 layout: post
 title:  "Carcinogenic mycotoxins: From Farm to Fork (webinar in Arabic)"
 mathjax: true
+inline: true
 categories: media
 ---
 
