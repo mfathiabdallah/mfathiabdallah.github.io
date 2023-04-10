@@ -3,16 +3,20 @@ layout: default
 title: About Me
 ---
 
-<!-- Profile picture -->
-<img class="ProfilePic" src="Me.jpg">
+<div class="profile-container">
+  <!-- Profile picture -->
+  <img class="profile-pic" src="{{ site.baseurl }}/assets/images/Me.jpg">
 
-<!-- Profile address -->
-<p class="ProfileAddress">Address: Coupure Links 653, 9000 Gent, Belgium.</p>
+  <div class="profile-info">
+    <!-- Profile address -->
+    <p class="profile-address">Address: Coupure Links 653, 9000 Gent, Belgium.</p>
 
-<!-- Short Bio -->
-<h2>Short Bio (last update: March 2023)</h2>
-<p>Researcher in Food Toxicology Postdoctoral mandate of the <a href="https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm" target="_blank" rel="noopener">Ghent University-Special Research Fund</a> (BOF).</p>
-<p>I am a post-doctoral researcher in Toxicology field at <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a>. My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminants as micro- and nanoplastics on humans.</p>
+    <!-- Short Bio -->
+    <h2>Short Bio (last update: March 2023)</h2>
+    <p>Researcher in Food Toxicology Postdoctoral mandate of the <a href="https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm" target="_blank" rel="noopener">Ghent University-Special Research Fund</a> (BOF).</p>
+    <p>I am a post-doctoral researcher in Toxicology field at <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a>. My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminants as micro- and nanoplastics on humans.</p>
+  </div>
+</div>
 
 
 <!-- News and Twitter timeline -->
