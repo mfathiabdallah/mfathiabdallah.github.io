@@ -12,7 +12,7 @@ title: ""
     </div>
   </div>
   <div style="flex: 1; text-align: center;">
-    <iframe src="/CV_MFA_2023.pdf" style="width:95%;height:300px;"></iframe>
+    <iframe src="/CV_MFA_2023.pdf" style="width:100%;height:300px;"></iframe>
   </div>
 </div>
 
