@@ -94,23 +94,3 @@ title: ""
   }
 </style>
 
-<!-- Scientific Awards -->
-<div class="collapsible">
-  <h1 class="collapsible-title">Scientific Awards</h1>
-  <div class="collapsible-content">
-    <ul>
-      <li>(2022) Best Oral Presentation from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the international conference <a href="http://pofmy.imi.hr/" target="_blank" rel="noopener">Power of Fungi and Mycotoxins in Climate Change Symposium</a>, which has been hold in Croatia.</li>
-      <li>(2019) The Young Scientist Award during the <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener">EURACHEM 2019</a> meeting held in Tartu, Estonia.</li>
-      <li>(2018) Best Poster Award from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the 2nd African Symposium on Mycotoxicology, which was hold in Kenya.</li>
-    </ul>
-  </div>
-</div>
-
-<!-- Fellowships -->
-<div class="collapsible">
-  <h1 class="collapsible-title">Fellowships</h1>
-  <div class="collapsible-content">
-    <ul>
-      <li>(2020) Postdoctoral Fellowship-Special Research Fund Ghent University, <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a> project, Belgium. Research grant number BOF20/PDO/032.</li>
-      <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
-      <li>(2016) PhD Research Fellowship, <a href="https://www.ugent.be/en" target="_blank"
