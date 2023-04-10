@@ -1,25 +1,20 @@
 ---
 layout: page
 sitemap:
-  lastmod: 2023-03-01
+  lastmod: 2023-04-10
   exclude: 'no'
 ---
-
-<!--
-<div class="alert">
-  <span style="display: inline-block; text-align: center;">
-    For the intended experience,<br>please use Google Chrome.
-  </span>
-  <button class="closebtn" onclick="this.parentElement.style.display='none';">Close</button>
-</div>
--->
-
 <!-- Profile picture -->
 <img class="ProfilePic" img width=250 img align="right" style="float: right; margin-left: 20px;" src="Me.jpg">
+<!-- Caption or Description box -->
+<div class="caption-box">
+  <p>This is a caption or description for my profile picture.</p>
+</div>
 
 Short Bio (last update: March 2023)
 
 Researcher in Food Toxicology Postdoctoral mandate of the [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF).
+
 I am a post-doctoral researcher in Toxicology field at [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}. My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
 <br /> <br />
 
