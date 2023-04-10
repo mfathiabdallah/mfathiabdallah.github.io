@@ -52,3 +52,10 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
   </div>
 </div>
 
+<!-- Announcements -->
+<h2>Announcements</h2>
+<ul>
+  <li>Announcement 1</li>
+  <li>Announcement 2</li>
+  <li>Announcement 3</li>
+</ul>
