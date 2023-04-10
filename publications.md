@@ -11,10 +11,10 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="flex: 1;">
-    <p>Text on the left</p>
+   
   </div>
   <div style="flex: 1; text-align: center;">
-    <iframe src="/CV_MFA_2023.pdf" style="width:60%;height:300px;"></iframe>
+    <iframe src="/CV_MFA_2023.pdf" style="width:70%;height:500px;"></iframe>
   </div>
 </div>
 
