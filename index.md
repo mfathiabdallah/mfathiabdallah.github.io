@@ -5,34 +5,33 @@ sitemap:
   exclude: 'no'
 ---
 
-<!--
-<div class="alert">
-  <span style="display: inline-block; text-align: center;">
-    For the intended experience,<br>please use Google Chrome.
-  </span>
-  <button class="closebtn" onclick="this.parentElement.style.display='none';">Close</button>
-</div>
--->
-
-<!-- Profile picture -->
-<img class="ProfilePic" img width=200 img align="right" style="float: right; margin-left: 20px;" src="Me.jpg">
-<p class="address">123 Main Street<br>City, State ZIP<br>Country</p>
-
-Short Bio (last update: March 2023)
-
-Researcher in Food Toxicology Postdoctoral mandate of the [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF).
-I am a post-doctoral researcher in Toxicology field at [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}. My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
-<br /> <br />
-
 <style>
-.address {
-  font-size: 14px;
-  line-height: 1.5;
-  margin-top: 10px;
-}
+  .ProfilePic {
+    width: 200px;
+    height: auto;
+    float: right;
+    margin-left: 20px;
+  }
+  .address {
+    margin-top: 20px;
+  }
 </style>
 
-  
+<!-- Profile picture -->
+<img class="ProfilePic" src="Me.jpg" alt="Profile Picture">
+
+<!-- Address -->
+<div class="address">
+  <p>1234 Main Street</p>
+  <p>Anytown, USA 12345</p>
+  <p>(123) 456-7890</p>
+</div>
+
+<!-- Short Bio -->
+<h2>Short Bio (last update: March 2023)</h2>
+<p>Researcher in Food Toxicology Postdoctoral mandate of the <a href="https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm" target="_blank" rel="noopener">Ghent University-Special Research Fund</a> (BOF).</p>
+<p>I am a post-doctoral researcher in Toxicology field at <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a>. My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.</p>
+
 <!-- News and Twitter timeline -->
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 50px;">
