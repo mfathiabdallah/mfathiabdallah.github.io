@@ -10,7 +10,7 @@ Visit my [personal page](https://www.ugent.be/bw/foodscience/en/research/faculty
 
 OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:target="_blank" rel="noopener"} at Assiut University
 
-<iframe src="/CV_MFA_2023.pdf" style="width:40%;height:200px;"></iframe>
+<iframe src="/CV_MFA_2023.pdf" style="width:60%;height:300px;"></iframe>
 
 ---
 
