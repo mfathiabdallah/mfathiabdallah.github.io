@@ -43,8 +43,6 @@ title: ""
   </div>
 </div>
 
-
-
 <script>
   // Function to toggle collapsible sections
   function toggleCollapsible(event) {
@@ -64,33 +62,34 @@ title: ""
   }
 </script>
 
-<style>
-  /* Style for collapsible sections */
-  .collapsible {
-    border: 1px solid #ddd;
-    margin-bottom: 10px;
-    border-radius: 5px;
-  }
+/* style for the collapsible sections */
+.collapsible {
+  margin-bottom: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
 
-  .collapsible-title {
-    background-color: #eee;
-    color: #333;
-    cursor: pointer;
-    font-size: 18px;
-    font-weight: bold;
-    padding: 10px;
-    border-radius: 5px;
-  }
+/* style for the collapsible section title */
+.collapsible-title {
+  background-color: #f2f2f2;
+  padding: 1rem;
+  cursor: pointer;
+}
 
-  .collapsible-content {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
-    padding: 10px;
-  }
+/* style for the collapsible section content */
+.collapsible-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
 
-  .collapsible-title.active {
-    background-color: #ccc;
-  }
-</style>
+/* style for the active collapsible section title */
+.collapsible-title.active {
+  background-color: #ddd;
+}
 
+/* style for the active collapsible section content */
+.collapsible-title.active + .collapsible-content {
+  max-height: 1000px;
+  transition: max-height 0.2s ease-in;
+}
