@@ -44,40 +44,6 @@ title: ""
 </div>
 
 
-<!-- Example collapsible sections -->
-<div class="collapsible">
-  <div class="collapsible-title">Fellowship</div>
-  <div class="collapsible-content">
-    <ul>
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
-    </ul>
-  </div>
-</div>
-
-<div class="collapsible">
-  <div class="collapsible-title">Awards</div>
-  <div class="collapsible-content">
-    <ul>
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
-    </ul>
-  </div>
-</div>
-
-<div class="collapsible">
-  <div class="collapsible-title">Funds</div>
-  <div class="collapsible-content">
-    <ul>
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
-    </ul>
-  </div>
-</div>
-
 <script>
   // Function to toggle collapsible sections
   function toggleCollapsible(event) {
