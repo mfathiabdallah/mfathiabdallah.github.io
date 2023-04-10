@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <!-- Profile picture -->
-<img class="ProfilePic" src="/assets/images/Me.jpg">
+<img class="ProfilePic" src="Me.jpg">
 
 <!-- Profile address -->
 <p class="ProfileAddress">Address: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ultrices mauris, ac gravida leo auctor ac. Pellentesque ut eleifend nulla. Fusce ut elit et est bibendum pharetra.</p>
