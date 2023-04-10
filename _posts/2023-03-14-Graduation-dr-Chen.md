@@ -1,7 +1,9 @@
 ---
-title:  "Mrs. Xiangrong Chen's public doctoral defense at UGENT"
-mathjax: true
 layout: post
+title: "Mrs. Xiangrong Chen's public doctoral defense at UGENT"
+date: 2023-03-14
+mathjax: true
+inline: true
 categories: media
 ---
 
