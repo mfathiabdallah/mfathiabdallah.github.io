@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ""
-
 ---
 
 ### You can find my CV [here](CV_MFA_2023.pdf){:target="_blank" rel="noopener"}
@@ -10,7 +9,14 @@ Visit my [personal page](https://www.ugent.be/bw/foodscience/en/research/faculty
 
 OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:target="_blank" rel="noopener"} at Assiut University
 
-<iframe src="/CV_MFA_2023.pdf" style="width:60%;height:300px;"></iframe>
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="flex: 1;">
+    <p>Text on the left</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <iframe src="/CV_MFA_2023.pdf" style="width:60%;height:300px;"></iframe>
+  </div>
+</div>
 
 ---
 
