@@ -36,4 +36,4 @@ Bodenkultur Wien, Austria.
 
 - (2021) [VLIRUOS Global Minds Grant](https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm){:target="_blank" rel="noopener"}  from [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential _in vitro_ toxic interaction. Role: Principle Researcher
 
-- (2018) [VLIRUOS Global Minds Grant](https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm){:target="_blank" rel="noopener"} from [Ghent
+- (2018) [VLIRUOS Global Minds Grant](https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm){:target="_blank" rel="noopener"} from [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. Role: Principle Researcher
