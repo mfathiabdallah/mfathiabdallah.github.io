@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Carcinogenic mycotoxins: From Farm to Fork (webinar in Arabic)"
+title: "Carcinogenic mycotoxins: From Farm to Fork (webinar in Arabic)"
+date: 2022-10-13
 mathjax: true
 inline: true
 categories: media
