@@ -32,10 +32,18 @@ title: ""
   </div>
 </div>
 
+<!-- Funds -->
+  <h1 class="collapsible"><a href="#">Funds</a></h1>
+  <div class="content">
+    <ul>
+      <li>
+        (2021) <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener">VLIRUOS Global Minds Grant</a> from <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a> for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential _in vitro_ toxic interaction. Role: Principle Researcher
+      </li>
+      <li>
+        (2018) <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener">VLIRUOS Global Minds Grant</a> from <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a> for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. Role: Principle Researcher
+      </li>
+    </ul>
+  </div>
+</div>
 
 
-<h1 align="center"><a href="#funds">Funds</a></h1>
-
-- (2021) [VLIRUOS Global Minds Grant](https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm){:target="_blank" rel="noopener"}  from [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential _in vitro_ toxic interaction. Role: Principle Researcher
-
-- (2018) [VLIRUOS Global Minds Grant](https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm){:target="_blank" rel="noopener"} from [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. Role: Principle Researcher
