@@ -15,8 +15,8 @@ url: "http://www.mfathiabdallah.com" # the base hostname & protocol for your sit
 # Layout
 show_social: true 
 show_excerpts: false      # show article excerpts on the home page
-show_frame: false          # adds a gray frame to the site
-show_sidebar: true       # show a sidebar instead of the usual header
+show_frame: true          # adds a gray frame to the site
+show_sidebar: flase       # show a sidebar instead of the usual header
 minimal: false            # use a dark header
 
 # Menu
