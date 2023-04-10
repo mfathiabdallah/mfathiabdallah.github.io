@@ -5,17 +5,7 @@ title: ""
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="flex: 1;">
-    <p>You can find my CV <a href="/CV_MFA_2023.pdf" target="_blank" rel="noopener">here</a>.</p>
-    <p>Visit my <a href="https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm" target="_blank" rel="noopener">personal page</a> at Ghent University or my <a href="https://www.aun.edu.eg/veterinary_medicine/user/3186" target="_blank" rel="noopener">personal page</a> at Assiut University</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <iframe src="/CV_MFA_2023.pdf" style="width:95%;height:300px;"></iframe>
-  </div>
-</div>
-
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <div style="flex: 1;">
-    <p>You can find my CV <a href="/CV_MFA_2023.pdf" target="_blank" rel="noopener">here</a>.</p>
+    <p>You can find my CV here <a href="/CV_MFA_2023.pdf" target="_blank" rel="noopener">(click to download)</a>.</p>
     <p>Visit my <a href="https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm" target="_blank" rel="noopener">personal page</a> at Ghent University</p>
     <div style="display: block;">
       <p>or my <a href="https://www.aun.edu.eg/veterinary_medicine/user/3186" target="_blank" rel="noopener">personal page</a> at Assiut University</p>
