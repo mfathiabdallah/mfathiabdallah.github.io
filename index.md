@@ -6,10 +6,6 @@ sitemap:
 ---
 <!-- Profile picture -->
 <img class="ProfilePic" img width=250 img align="right" style="float: right; margin-left: 20px;" src="Me.jpg">
-<!-- Caption or Description box -->
-<div class="caption-box">
-  <p>This is a caption or description for my profile picture.</p>
-</div>
 
 Short Bio (last update: March 2023)
 
