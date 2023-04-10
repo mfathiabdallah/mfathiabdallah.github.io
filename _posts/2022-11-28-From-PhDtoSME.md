@@ -3,6 +3,7 @@ layout: post
 title:  "From PhD to SME, a one-year leadership program"
 date: 2022-11-28
 mathjax: true
+inline: true
 categories: media
 ---
 
