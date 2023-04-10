@@ -43,3 +43,86 @@ title: ""
   </div>
 </div>
 
+
+<!-- Example collapsible sections -->
+<div class="collapsible">
+  <div class="collapsible-title">Fellowship</div>
+  <div class="collapsible-content">
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+  </div>
+</div>
+
+<div class="collapsible">
+  <div class="collapsible-title">Awards</div>
+  <div class="collapsible-content">
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+  </div>
+</div>
+
+<div class="collapsible">
+  <div class="collapsible-title">Funds</div>
+  <div class="collapsible-content">
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  // Function to toggle collapsible sections
+  function toggleCollapsible(event) {
+    const content = event.target.nextElementSibling;
+    event.target.classList.toggle("active");
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  }
+
+  // Add event listeners to collapsible titles
+  const collapsibleTitles = document.getElementsByClassName("collapsible-title");
+  for (let i = 0; i < collapsibleTitles.length; i++) {
+    collapsibleTitles[i].addEventListener("click", toggleCollapsible);
+  }
+</script>
+
+<style>
+  /* Style for collapsible sections */
+  .collapsible {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+
+  .collapsible-title {
+    background-color: #eee;
+    color: #333;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  .collapsible-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    padding: 10px;
+  }
+
+  .collapsible-title.active {
+    background-color: #ccc;
+  }
+</style>
