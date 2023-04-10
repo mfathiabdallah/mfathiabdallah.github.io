@@ -36,7 +36,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
        href="https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw"
        data-tweet-limit="4"
        data-width="250"
-       data-height="450"
+       data-height="350"
        data-align="right">
       Tweets by MoFathiAbdallah
     </a>
