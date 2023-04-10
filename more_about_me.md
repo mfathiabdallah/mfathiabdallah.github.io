@@ -37,12 +37,8 @@ title: ""
   <h1 class="collapsible-title">Funds</h1>
   <div class="collapsible-content">
     <ul>
-      <li>(2021) VLIRUOS Global Minds Grant from Ghent University for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential in vitro toxic interaction. Role: Principle Researcher</li>
-      <li>(2018) VLIRUOS Global Minds Grant from Ghent University for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. Role: Principle Researcher</li>
-      <li>(2018) Joint PhD Scholarship Program between Ghent University and Haramaya University, Ethiopia for the project "Mycotoxin risk assessment and management in Ethiopia's dairy production system". Role: Co-supervisor and researcher</li>
-      <li>(2017) VLIRUOS TEAM project funding from Ghent University for the project "Improved and sustainable dairy farming in Ethiopia". Role: Co-researcher</li>
-      <li>(2016) UGent BOF travel grant to attend the 3rd World Mycotoxin Forum in Ireland. Role: Attendee and poster presenter</li>
+      <li>(2021) <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener">VLIRUOS Global Minds Grant</a> from Ghent University for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential in vitro toxic interaction. Role: Principal Researcher.</li>
+      <li>(2018) <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener">VLIRUOS Global Minds Grant</a> from Ghent University for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. Role: Principal Researcher.</li>
     </ul>
   </div>
 </div>
-
