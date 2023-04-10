@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<h2>My CV</h2>
+## My CV
 
 <div style="display:flex;">
   <div style="flex:1;margin-right:20px;">
