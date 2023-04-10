@@ -52,26 +52,6 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
   </div>
 </div>
 
-<!-- Announcements -->
-<div>
-  <h2>Announcements</h2>
-  <ul>
-    <li>
-      <span style="font-weight: bold;">April 10, 2023</span> - A new Special Issue in collaboration with Dr. Elisabeth Varga, Dr. Mohamed Fathi Abdallah, and Dr. Shupeng Yang 🤝 Entitled: Current Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control See more information at: <a href="https://lnkd.in/g3-kW8dY">https://lnkd.in/g3-kW8dY</a> #mycotoxins #toxicology #MDPI MDPI
-    </li>
-    <!-- Add more announcements here -->
-  </ul>
-</div>
-
-<!-- Announcement -->
-<div style="margin-top: 50px;">
-  <h2>Announcement</h2>
-  <p style="font-weight: bold;">April 10, 2023 - A new Special Issue in collaboration with Dr. Elisabeth Varga, Dr. Mohamed Fathi Abdallah, and Dr. Shupeng Yang 🤝</p>
-  <p style="margin-top: -10px;">Entitled: Current Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control</p>
-  <p style="margin-top: -10px;">See more information at: <a href="https://lnkd.in/g3-kW8dY" target="_blank">https://lnkd.in/g3-kW8dY</a></p>
-  <p style="margin-top: -10px;">#mycotoxins #toxicology #MDPI MDPI</p>
-  <img src="/images/Special-issue-toxins.png" alt="Special Issue Toxins" style="margin-top: 10px;">
-</div>
 
 <!-- Announcement -->
 <div>
@@ -81,12 +61,12 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
     <div style="flex: 1; margin-right: 50px;">
       <h3 style="margin-bottom: 0;">April 2023</h3>
       <p style="margin-top: 0;">A new Special Issue in collaboration with Dr. Elisabeth Varga, Dr. Mohamed Fathi Abdallah, and Dr. Shupeng Yang 🤝</p>
-      <p style="margin-top: 0;">Entitled: Current Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control</p>
+      <p style="margin-top: 0;">"Current Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control"</p>
       <p style="margin-top: 0;">See more information at: <a href="https://lnkd.in/g3-kW8dY">https://lnkd.in/g3-kW8dY</a></p>
-      <p style="margin-top: 0;">#mycotoxins #toxicology #MDPI MDPI</p>
+      <p style="margin-top: 0;">#mycotoxins #toxicology #MDPI</p>
     </div>
     <div>
-      <img src="/images/Special-issue-toxins.png" alt="Special issue" style="width: 250px;">
+      <img src="/images/Special-issue-toxins.png" alt="Special issue" style="width: 450px;">
     </div>
   </div>
 </div>
