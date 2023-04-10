@@ -1,15 +1,19 @@
 ---
 layout: page
 title: ""
-
 ---
 
-### You can find my CV [here](Mohamed Fathi Abdallah_2023.pdf){:target="_blank" rel="noopener"}
+<h2>My CV</h2>
 
-You can also visit my [personal page](https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm){:target="_blank" rel="noopener"} at Ghent University
-
-OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:target="_blank" rel="noopener"} at Assiut University
-
+<div style="display:flex;">
+  <div style="flex:1;margin-right:20px;">
+    <p>You can find my CV <a href="Mohamed Fathi Abdallah_2023.pdf" target="_blank" rel="noopener">here</a>.</p>
+    <p>You can also visit my <a href="https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm" target="_blank" rel="noopener">personal page</a> at Ghent University or my <a href="https://www.aun.edu.eg/veterinary_medicine/user/3186" target="_blank" rel="noopener">personal page</a> at Assiut University.</p>
+  </div>
+  <div style="flex:1;">
+    <iframe src="Mohamed Fathi Abdallah_2023.pdf" width="100%" height="600px"></iframe>
+  </div>
+</div>
 ---
 
 ## Publications 
