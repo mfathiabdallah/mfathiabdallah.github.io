@@ -1,36 +1,19 @@
 ---
-layout: page
-sitemap:
-  lastmod: 2023-03-01
-  exclude: 'no'
+layout: default
+title: About Me
 ---
 
-<style>
-  .ProfilePic {
-    width: 200px;
-    height: auto;
-    float: right;
-    margin-left: 20px;
-  }
-  .address {
-    margin-top: 20px;
-  }
-</style>
-
 <!-- Profile picture -->
-<img class="ProfilePic" src="Me.jpg" alt="Profile Picture">
+<img class="ProfilePic" src="/assets/images/Me.jpg">
 
-<!-- Address -->
-<div class="address">
-  <p>1234 Main Street</p>
-  <p>Anytown, USA 12345</p>
-  <p>(123) 456-7890</p>
-</div>
+<!-- Profile address -->
+<p class="ProfileAddress">Address: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ultrices mauris, ac gravida leo auctor ac. Pellentesque ut eleifend nulla. Fusce ut elit et est bibendum pharetra.</p>
 
 <!-- Short Bio -->
 <h2>Short Bio (last update: March 2023)</h2>
 <p>Researcher in Food Toxicology Postdoctoral mandate of the <a href="https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm" target="_blank" rel="noopener">Ghent University-Special Research Fund</a> (BOF).</p>
-<p>I am a post-doctoral researcher in Toxicology field at <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a>. My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.</p>
+<p>I am a post-doctoral researcher in Toxicology field at <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a>. My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminants as micro- and nanoplastics on humans.</p>
+
 
 <!-- News and Twitter timeline -->
 <div style="display: flex;">
