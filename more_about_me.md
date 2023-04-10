@@ -7,7 +7,9 @@ title: ""
 <h1 align="center"><a href="#awards">Scientific Awards</a></h1>
 
 - (2022) Best Oral Presentation from [Toxins journal](https://www.mdpi.com/journal/toxins){:target="_blank" rel="noopener"} at the international conference [Power of Fungi and Mycotoxins in Climate Change Symposium](http://pofmy.imi.hr/){:target="_blank" rel="noopener"}, which has been hold in Croatia.
+
 - (2019) The Young Scientist Award during the [EURACHEM 2019](https://eurachem2019.akki.ut.ee/){:target="_blank" rel="noopener"} meeting held in Tartu, Estonia.
+
 - (2018) Best Poster Award from [Toxins journal](https://www.mdpi.com/journal/toxins){:target="_blank" rel="noopener"} at the 2nd African Symposium on Mycotoxicology, which was hold in Kenya.
 
 
