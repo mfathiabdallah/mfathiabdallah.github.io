@@ -12,7 +12,7 @@ OR my [personal page](https://www.aun.edu.eg/veterinary_medicine/user/3186){:tar
 
 <h2>My CV</h2>
 
-<iframe src="CV_MFA_2023.pdf" width="100%" height="600px"></iframe>
+<iframe src="/CV_MFA_2023.pdf" style="width:100%;height:600px;"></iframe>
 
 ---
 
