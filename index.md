@@ -7,7 +7,7 @@ title: About Me
 <img class="ProfilePic" src="Me.jpg">
 
 <!-- Profile address -->
-<p class="ProfileAddress">Address: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ultrices mauris, ac gravida leo auctor ac. Pellentesque ut eleifend nulla. Fusce ut elit et est bibendum pharetra.</p>
+<p class="ProfileAddress">Address: Coupure Links 653, 9000 Gent, Belgium.</p>
 
 <!-- Short Bio -->
 <h2>Short Bio (last update: March 2023)</h2>
