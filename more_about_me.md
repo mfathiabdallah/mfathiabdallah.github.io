@@ -4,7 +4,7 @@ title: ""
 
 ---
 
-<!-- Fellowships 🔻-->
+<!-- Fellowships -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Fellowships</h1>
   <div class="collapsible-content">
@@ -20,9 +20,9 @@ title: ""
   </div>
 </div>
 
-<!-- Funds 🔻-->
+<!-- Funds -->
 <div class="collapsible">
-  <h1 class="collapsible-title">Funds</h1>
+  <h1 class="collapsible-title">&#10148; Funds</h1>
   <div class="collapsible-content">
     <ul>
       <li>(2021) <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener">VLIRUOS Global Minds Grant</a> from Ghent University for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential in vitro toxic interaction. Role: Principal Researcher.</li>
@@ -31,9 +31,9 @@ title: ""
   </div>
 </div>
 
-<!-- Scientific Awards 🔻-->
+<!-- Scientific Awards -->
 <div class="collapsible">
-  <h1 class="collapsible-title">Scientific Awards</h1>
+  <h1 class="collapsible-title">&#10148; Scientific Awards</h1>
   <div class="collapsible-content">
     <ul>
       <li>(2022) Best Oral Presentation from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the international conference <a href="http://pofmy.imi.hr/" target="_blank" rel="noopener">Power of Fungi and Mycotoxins in Climate Change Symposium</a>, which has been hold in Croatia.</li>
