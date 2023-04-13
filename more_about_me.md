@@ -4,19 +4,7 @@ title: ""
 
 ---
 
-<!-- Scientific Awards -->
-<div class="collapsible">
-  <h1 class="collapsible-title">Scientific Awards</h1>
-  <div class="collapsible-content">
-    <ul>
-      <li>(2022) Best Oral Presentation from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the international conference <a href="http://pofmy.imi.hr/" target="_blank" rel="noopener">Power of Fungi and Mycotoxins in Climate Change Symposium</a>, which has been hold in Croatia.</li>
-      <li>(2019) The Young Scientist Award during the <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener">EURACHEM 2019</a> meeting held in Tartu, Estonia.</li>
-      <li>(2018) Best Poster Award from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the 2nd African Symposium on Mycotoxicology, which was hold in Kenya.</li>
-    </ul>
-  </div>
-</div>
-
-<!-- Fellowships -->
+<!-- Fellowships 🔻-->
 <div class="collapsible">
   <h1 class="collapsible-title">Fellowships</h1>
   <div class="collapsible-content">
@@ -32,7 +20,7 @@ title: ""
   </div>
 </div>
 
-<!-- Funds -->
+<!-- Funds 🔻-->
 <div class="collapsible">
   <h1 class="collapsible-title">Funds</h1>
   <div class="collapsible-content">
@@ -43,6 +31,17 @@ title: ""
   </div>
 </div>
 
+<!-- Scientific Awards 🔻-->
+<div class="collapsible">
+  <h1 class="collapsible-title">Scientific Awards</h1>
+  <div class="collapsible-content">
+    <ul>
+      <li>(2022) Best Oral Presentation from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the international conference <a href="http://pofmy.imi.hr/" target="_blank" rel="noopener">Power of Fungi and Mycotoxins in Climate Change Symposium</a>, which has been hold in Croatia.</li>
+      <li>(2019) The Young Scientist Award during the <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener">EURACHEM 2019</a> meeting held in Tartu, Estonia.</li>
+      <li>(2018) Best Poster Award from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the 2nd African Symposium on Mycotoxicology, which was hold in Kenya.</li>
+    </ul>
+  </div>
+</div>
 
 <script>
   // Function to toggle collapsible sections
