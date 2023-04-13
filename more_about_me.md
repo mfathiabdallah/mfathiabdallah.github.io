@@ -3,8 +3,8 @@ layout: page
 title: ""
 
 ---
-
-<!-- Fellowships 🔻-->
+<summary>Fellowships</summary>
+<!-- Fellowships -->
 <div class="collapsible">
   <h1 class="collapsible-title">Fellowships</h1>
   <div class="collapsible-content">
