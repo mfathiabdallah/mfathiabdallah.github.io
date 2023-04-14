@@ -15,7 +15,7 @@ Th two theses were under the supervision of Prof. Andreja Rajkovic (promoter) an
 
 Eleonora studied the #in_vitro hepatic and intestinal #toxicity of #nanoplastics & #microcystins (MC-LR) in the framework of the EU Imptox project, while Maria studied the natural accumulation and depuration of #microcystins (MC-LR) in basil in the framework of the Cyantir project.
 
-#### Congratulations Lora and Maria and all the best in their future endeavours!
+##### Congratulations Lora and Maria and all the best in their future endeavours!
 
 <div class="image-container">
   <img class="graduation-image" src="/images/2022_09_22.jpg" alt="Graduation">
@@ -31,8 +31,8 @@ Eleonora studied the #in_vitro hepatic and intestinal #toxicity of #nanoplastics
 }
 
 .graduation-image {
-  width: 400px;
-  height: 400px;
+  width: 500px;
+  height: 500px;
   object-fit: cover;
   margin-right: 10px;
 }
