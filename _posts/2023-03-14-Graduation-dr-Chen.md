@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mrs. Xiangrong Chen's public doctoral defense at UGENT"
+title: "Ms. Xiangrong Chen's public doctoral defense at UGENT"
 date: 2023-03-14
 mathjax: true
 inline: true
@@ -15,7 +15,7 @@ Her PhD title was "Cross Talk of Fungi and Mycotoxins with Their Plants and Huma
 
 Her PhD work was done under the supervision of Prof. Andreja Rajkovic (Faculty of Bioscience Engineering, UGent), Prof. Kris Audenaert (Faculty of Bioscience Engineering, UGent), and Prof. Sarah De Saeger (Faculty of Pharmaceutical Sciences, UGent).
 
-### Congratualtion Dr. Chen, and all the best wishes in your future!
+### Congratualtion Dr. Chen, and all the best wishes in your future endeavours!
 
 <div class="image-container">
   <img class="graduation-image" src="/images/2023_03_14.png" alt="Graduation">
