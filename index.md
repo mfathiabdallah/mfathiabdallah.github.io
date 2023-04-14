@@ -62,3 +62,19 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
   </div>
 </div>
 
+<div>
+  <h2>Announcements</h2>
+  <hr />
+  <div style="display: flex;">
+    <div style="flex: 1; margin-right: 50px;">
+      <h3 style="margin-bottom: 0;">21 December 2021</h3>
+      <p style="margin-top: 0;">A new Special Issue in collaboration with Dr. Elisabeth Varga, Dr. Mohamed Fathi Abdallah, and Dr. Shupeng Yang 🤝</p>
+      <p style="margin-top: 0;">"<a href="https://www.frontiersin.org/research-topics/28308/environmental-contaminants-and-animal-health-analysis-toxicity-and-mitigation" target="_blank" style="color:#ffefd5;">Environmental Contaminants and Animal Health: Analysis, Toxicity, and Mitigation</a>"</p>
+      <p style="margin-top: 0;">More information at: <a href="https://www.frontiersin.org/research-topics/28308/environmental-contaminants-and-animal-health-analysis-toxicity-and-mitigation" target="_blank">https://www.frontiersin.org/research-topics/28308/environmental-contaminants-and-animal-health-analysis-toxicity-and-mitigation</a></p>
+      <p style="margin-top: 0;">#toxicology #animal_health #open_access</p>
+    </div>
+    <div>
+      <img src="/images/2021_12_21.jpg" alt="Special issue" style="width: 450px;">
+    </div>
+  </div>
+</div>
