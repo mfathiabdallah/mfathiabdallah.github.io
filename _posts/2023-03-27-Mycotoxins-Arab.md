@@ -30,9 +30,9 @@ Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target
   align-items: center;
 }
 
-.graduation-image {
-  width: 400px;
-  height: 400px;
+.conferences-image {
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   margin-right: 10px;
 }
