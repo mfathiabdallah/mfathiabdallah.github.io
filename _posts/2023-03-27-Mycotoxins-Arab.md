@@ -14,7 +14,7 @@ at the 44th Mycotoxin-Workshop, which will take place on June 5–7, 2023, in Ce
 
 The presentation is scheduled for Tuesday, 06/June/2023 9:00am - 9:15am in the session Food Safety II (06/June/2023, 9:00am - 10:00am).
 
-### More information about the conference  throguh this link [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target="_blank" rel="noopener"}
+#### More information about the conference  throguh this link [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target="_blank" rel="noopener"}
 
 <div class="image-container">
   <img class="conferences" src="/images/2023_03_27.png" alt="Conferences">
@@ -22,8 +22,6 @@ The presentation is scheduled for Tuesday, 06/June/2023 9:00am - 9:15am in the s
 </div>
 
 Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target="_blank" rel="noopener"}
-
-
 
 <style>
 .image-container {
@@ -45,5 +43,3 @@ Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target
   object-fit: cover;
 }
 </style>
-
-
