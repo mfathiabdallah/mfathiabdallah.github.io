@@ -43,3 +43,39 @@ Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target
   object-fit: cover;
 }
 </style>
+
+
+
+
+
+
+
+#### More information about the conference  through this link [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target="_blank" rel="noopener"}
+
+<div class="image-container">
+  <img class="conferences" src="/images/2023_03_27.png" alt="Conferences">
+  <img class="conferences-image" src="/images/2023_03_27(2).png" alt="Conferences">
+</div>
+
+Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target="_blank" rel="noopener"}
+
+<style>
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.conferences {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.conferences-image {
+  width: 180px;
+  height: 200px;
+  object-fit: cover;
+}
+</style>
