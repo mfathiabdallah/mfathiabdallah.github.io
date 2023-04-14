@@ -18,7 +18,7 @@ Eleonora studied the #in_vitro hepatic and intestinal #toxicity of #nanoplastics
 #### Congratulations Lora and Maria and all the best in their future endeavours!
 
 <div class="image-container">
-  <img class="graduation-image" src="/images/2022_09_16.png" alt="Graduation">
+  <img class="graduation-image" src="/images/2022_09_22.jpg" alt="Graduation">
   </div>
 
 <p>Picture Location: Faculty of Bioscience Engineering, Coupure Links 653, Gent 9000, Belgium.</p>
