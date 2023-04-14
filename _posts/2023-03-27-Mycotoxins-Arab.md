@@ -40,13 +40,6 @@ Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target
 
 
 
-
-
-<div class="image-container">
-  <img class="conferences" src="/images/2023_03_27.png" alt="Conferences">
-  <img class="conferences-image" src="/images/2023_03_27(2).png" alt="Conferences" style="margin-left: 10px;">
-</div>
-
 <style>
 .image-container {
   display: flex;
@@ -58,6 +51,28 @@ Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target
   width: 200px;
   height: 200px;
   object-fit: cover;
+  margin-right: 10px;
+  z-index: 1; /* Add this to ensure the second image is on top */
+}
+
+.conferences {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-left: 10px; /* Adjust the margin to create spacing between the images */
+  position: relative; /* Add this to allow absolute positioning */
+  z-index: 0; /* Add this to ensure the first image is below the second image */
+}
+
+.conferences:before { /* Add this pseudo-element to create a white background behind the first image */
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  z-index: -1; /* Ensure the pseudo-element is below the images */
 }
 </style>
 
