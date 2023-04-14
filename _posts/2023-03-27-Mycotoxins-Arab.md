@@ -34,11 +34,11 @@ Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target
   width: 400px;
   height: 200px;
   object-fit: cover;
-  margin-right: 20px;
+  margin-right: 30px;
 }
 
 .conferences-image {
-  width: 390px;
+  width: 400px;
   height: 200px;
   object-fit: cover;
 }
