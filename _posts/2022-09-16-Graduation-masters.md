@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ms. Xiangrong Chen's public doctoral defense at UGENT"
-date: 2023-03-14
+title: "Two master students gratduated from our lab"
+date: 2022-02-16
 mathjax: true
 inline: true
 categories: media
@@ -9,13 +9,13 @@ categories: media
 
 ## Graduation
 
-Today, Mrs. Xiangrong Chen has successfully defended her PhD at [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} (Faculty of Bioscience Engineering). 
+Congratulations to Eleonora Valentia Sode Muda (From Indonesia) & Maria Gracia Guzman Velasquez (from Venezuela) for defending their masters at [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} (Faculty of Bioscience Engineering).  
 
-Her PhD title was "Cross Talk of Fungi and Mycotoxins with Their Plants and Human Hosts". 
+Th two theses were under the supervision of Prof. Andreja Rajkovic (promoter) and Dr. Mohamed Fathi Abdallah (co-promoter) and Mr. Wannes H.R. Van Hassel (tutor from Sciensano for Maria Gracia).
 
-Her PhD work was done under the supervision of Prof. Andreja Rajkovic (Faculty of Bioscience Engineering, UGent), Prof. Kris Audenaert (Faculty of Bioscience Engineering, UGent), and Prof. Sarah De Saeger (Faculty of Pharmaceutical Sciences, UGent).
+Eleonora studied the #in_vitro hepatic and intestinal #toxicity of #nanoplastics & #microcystins (MC-LR) in the framework of the EU Imptox project, while Maria studied the natural accumulation and depuration of #microcystins (MC-LR) in basil in the framework of the Cyantir project.
 
-### Congratualtion Dr. Chen, and all the best wishes in your future endeavours!
+#### Congratulations Lora and Maria and all the best in their future endeavours!
 
 <div class="image-container">
   <img class="graduation-image" src="/images/2022_06_16.png" alt="Graduation">
