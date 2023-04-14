@@ -63,7 +63,6 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 </div>
 
 <div>
-  <h2>Announcements</h2>
   <hr />
   <div style="display: flex;">
     <div style="flex: 1; margin-right: 50px;">
