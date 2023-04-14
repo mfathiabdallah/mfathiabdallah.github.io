@@ -5,8 +5,8 @@ title: ""
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="flex: 1;">
-    <p>&#10148 You can find my CV here <a href="/CV_MFA_2023.pdf" target="_blank" rel="noopener">(click to download)</a>.</p>
-    <p>&#10148 Visit my <a href="https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm" target="_blank" rel="noopener">page</a> at Ghent University</p>
+    <p>&#10148; You can find my CV here <a href="/CV_MFA_2023.pdf" target="_blank" rel="noopener">(click to download)</a>.</p>
+    <p>&#10148; Visit my <a href="https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm" target="_blank" rel="noopener">page</a> at Ghent University</p>
     <div style="display: block;">
       <p>or my <a href="https://www.aun.edu.eg/veterinary_medicine/user/3186" target="_blank" rel="noopener">page</a> at Assiut University</p>
     </div>
@@ -21,7 +21,7 @@ title: ""
 ## Publications 
    (* corresponding authorship; † equal co-authorship)
 
-<h1 align="left">&#10148 Research Articles </h1>
+<h1 align="left">&#10148; Research Articles </h1>
 
 16) Y Tian, **MF Abdallah**, M De Boevre, K Audenaert, C Wang, S De Saege, A Wu (2023). Deciphering Alternaria metabolic responses in microbial confrontation via an integrated mass spectrometric targeted and non-targeted strategy. Food Chemistry, 134694. [doi: 10.1016/j.foodchem.2022.134694](https://www.sciencedirect.com/science/article/pii/S0308814622026565){:target="_blank" rel="noopener"}.
 
@@ -67,13 +67,13 @@ title: ""
 
 ---
 
-<h1 align="left">&#10148 Book Chapters</h1>
+<h1 align="left">&#10148; Book Chapters</h1>
 
 1) **MF Abdallah***, M Ameye, S De Saeger, K Audenaert, G Haesaert (2018). Biological control of mycotoxigenic fungi and their toxins: An update for the pre-harvest approach. **Book Name** Fungi and Mycotoxins-Their Occurrence, Impact on Health and the Economy as well as Pre-and Postharvest Management Strategies. IntechOpen, [doi: 10.5772/intechopen.76342](https://biblio.ugent.be/download/8580508/8580795.pdf){:target="_blank" rel="noopener"} [8580795.pdf](https://github.com/mfathiabdallah/mfathiabdallah.github.io/files/9843808/8580795.pdf){:target="_blank" rel="noopener"} (Open Access).
 
 ---
 
-<h1 align="left">&#10148 Editorials</h1>
+<h1 align="left">&#10148; Editorials</h1>
 
 3) **MF Abdallah***, W Xu and A Abdeen (2022) Editorial: Environmental contaminants and animal health: Analysis, toxicity, and mitigation. Front. Vet. Sci. 9:1102836. [doi: 10.3389/fvets.2022.1102836](https://www.frontiersin.org/articles/10.3389/fvets.2022.1102836/full){:target="_blank" rel="noopener"} (Open Access).
 
@@ -83,6 +83,6 @@ title: ""
 
 ---
 
-<h1 align="left">&#10148 Correspondence</h1>
+<h1 align="left">&#10148; Correspondence</h1>
 
 1) **MF Abdallah**, A Briend, GB Gonzales (2021). Aflatoxins and kwashiorkor: a commentary on the association-causation conundrum. Toxicon, 190 (January), 20-21. [doi: 10.1016/j.toxicon.2020.12.001](https://www.sciencedirect.com/science/article/abs/pii/S004101012030948X?via%3Dihub){:target="_blank" rel="noopener"}. 
