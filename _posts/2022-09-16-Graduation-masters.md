@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two master students gratduated from our lab"
+title: "Two Master's students gratduated from our lab"
 date: 2022-02-16
 mathjax: true
 inline: true
@@ -9,7 +9,7 @@ categories: media
 
 ## Graduation
 
-Congratulations to Eleonora Valentia Sode Muda (From Indonesia) & Maria Gracia Guzman Velasquez (from Venezuela) for defending their masters at [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} (Faculty of Bioscience Engineering).  
+Congratulations to Eleonora Valentia Sode Muda (From Indonesia) & Maria Gracia Guzman Velasquez (from Venezuela) for defending their Master's at [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} (Faculty of Bioscience Engineering).  
 
 Th two theses were under the supervision of Prof. Andreja Rajkovic (promoter) and Dr. Mohamed Fathi Abdallah (co-promoter) and Mr. Wannes H.R. Van Hassel (tutor from Sciensano for Maria Gracia).
 
