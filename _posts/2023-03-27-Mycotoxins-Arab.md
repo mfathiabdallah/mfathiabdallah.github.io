@@ -37,3 +37,27 @@ Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target
   margin-right: 10px;
 }
 </style>
+
+
+
+
+
+<div class="image-container">
+  <img class="conferences" src="/images/2023_03_27.png" alt="Conferences">
+  <img class="conferences-image" src="/images/2023_03_27(2).png" alt="Conferences" style="margin-left: 10px;">
+</div>
+
+<style>
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.conferences-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+</style>
+
