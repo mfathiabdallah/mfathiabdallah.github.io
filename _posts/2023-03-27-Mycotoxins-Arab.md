@@ -24,25 +24,6 @@ The presentation is scheduled for Tuesday, 06/June/2023 9:00am - 9:15am in the s
 Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target="_blank" rel="noopener"}
 
 
-<style>
-.image-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.conferences-image {
-  max-width: 50%;
-  height: auto;
-  margin: 0 5px;
-}
-</style>
-
-
-<div class="image-container">
-  <img class="conferences" src="/images/2023_03_27.png" alt="Conferences">
-  <img class="conferences-image" src="/images/2023_03_27(2).png" alt="Conferences">
-</div>
 
 <style>
 .image-container {
