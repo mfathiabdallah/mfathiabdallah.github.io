@@ -33,15 +33,15 @@ Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target
 }
 
 .conferences {
-  width: 300px;
+  width: 400px;
   height: 200px;
   object-fit: cover;
   margin-right: 10px;
 }
 
 .conferences-image {
-  width: 150px;
-  height: 100px;
+  width: 300px;
+  height: 200px;
   object-fit: cover;
 }
 </style>
