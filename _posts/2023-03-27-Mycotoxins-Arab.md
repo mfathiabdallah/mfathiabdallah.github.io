@@ -32,10 +32,9 @@ Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target
 }
 
 .conferences-image {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  margin-right: 10px;
+  max-width: 50%;
+  height: auto;
+  margin: 0 5px;
 }
 </style>
 
