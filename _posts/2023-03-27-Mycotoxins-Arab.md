@@ -31,7 +31,7 @@ Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target
 }
 
 .conferences {
-  width: 390px;
+  width: 370px;
   height: 200px;
   object-fit: cover;
   margin-right: 10px;
