@@ -22,6 +22,8 @@ Ghent University
 Coupure Links 653
 9000 Gent
 Belgium
+</p>
+
 <img align="center" width="550" height="360" src="/images/BioScience.jpg"> 
 
   
