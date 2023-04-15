@@ -1,3 +1,10 @@
 .btn-red {
   color: red;
 }
+
+a.email-link:before {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    content: "\f0e0";
+    margin-right: 5px;
+}
