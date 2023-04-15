@@ -11,9 +11,9 @@ Researcher in Food Toxicology Postdoctoral mandate of the [Ghent University-Spec
 
 Short Bio (last update: March 2023)
 
-I am a post-doctoral researcher in Toxicology field at [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}. My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
+I am a post-doctoral researcher in Toxicology field at [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}.  <br> My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
 <br /> <br />
-
+<br>
 I received my bachelor in Veterinary Medical Sciences from [Assiut University](https://www.aun.edu.eg/main/){:target="_blank" rel="noopener"}, Egypt in 2011. After that, I joined the Pharmaceutical Toxicology Department, [Hacettepe University](https://www.hacettepe.edu.tr/english){:target="_blank" rel="noopener"}, Turkey in September 2013 (through the [Türkiye Scholarships](https://www.turkiyeburslari.gov.tr/){:target="_blank" rel="noopener"}) as a masters student and graduated in May 2016. During my masters, I was award an [Erasmus<sup>+</sup>](https://erasmus-plus.ec.europa.eu/){:target="_blank" rel="noopener"} internship to join the Chemical Risks Group at [_IfADo_](https://www.ifado.de/ifadoen/){:target="_blank" rel="noopener"} Institute in Dortmund, Germany. I conducted my master thesis on mycotoxin analysis through another [Erasmus<sup>+</sup>](https://erasmus-plus.ec.europa.eu/){:target="_blank" rel="noopener"} exchange scholarship at the [University of Natural Resources and Life Sciences, Vienna](https://boku.ac.at/en/){:target="_blank" rel="noopener"} (BOKU) in Tulln, Austria.
 
 In August 2016, I joined the Centre of Excellence of Mycotoxicology & Public Health, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium for my PhD to work on the mitigation of toxigenic fungi and their mycotoxins. My PhD work was part of [**Mycokey**](http://www.mycokey.eu/){:target="_blank" rel="noopener"} project which was funded by the EU Horizon 2020. I joined the Teagasc Food Research Centre in Ashtown, Dublin, Ireland as a research scientist in the framework of the European project [**Agritox**](http://agritox.eu/){:target="_blank" rel="noopener"} from April 2020 until September 2020
@@ -69,7 +69,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
       <h3 style="margin-bottom: 0;">21 December 2021</h3>
       <p style="margin-top: 0;">A new Special Issue in collaboration with Dr. Ahmed Abdeen, Dr. Mohamed Fathi Abdallah, and Dr. Xu wang</p>
       <p style="margin-top: 0;">"<a href="https://www.frontiersin.org/research-topics/28308/environmental-contaminants-and-animal-health-analysis-toxicity-and-mitigation" target="_blank" style="color:#ffefd5;">Environmental Contaminants and Animal Health: Analysis, Toxicity, and Mitigation</a>"</p>
-      <p style="margin-top: 0;">For more information, please visit: <a href="https://tinyurl.com/5h7k6n46" target="_blank">https://tinyurl.com/5h7k6n46</a></p>
+      <p style="margin-top: 0;">More information at: <br> <a href="https://tinyurl.com/5h7k6n46" target="_blank">https://tinyurl.com/5h7k6n46</a></p>
       <p style="margin-top: 0;">#toxicology #animal_health #open_access</p>
     </div>
     <div>
