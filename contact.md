@@ -1,11 +1,11 @@
 ---
-title: "Contact & Links"
+title: "Contact Information & Links"
 layout: page
 sitemap:
-  lastmod: 2022-12-18
+  lastmod: 2023-04-14
   exclude: 'no'
 ---
-
+Dr. Mohamed Fathi Abdallah, Ph.D.
 <p>
     <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mfathiabdallah@gmail.com" target="_blank">mfathiabdallah@gmail.com</a><br>
     <i class="fab fa-google"></i>   &nbsp; Google Scholar: &nbsp; <a href="https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en" target="_blank">Mohamed Fathi Abdallah</a><br>
@@ -15,7 +15,13 @@ sitemap:
     <i class="fab fa-orcid"></i>    &nbsp; ORCID: &nbsp; <a href="https://orcid.org/0000-0002-3903-6452" target="_blank">0000-0002-3903-6452</a><br>
 </p>
 
- 
+#### Address:
+Department of Food Technology, Safety and Health
+Faculty of Bioscience Engineering
+Ghent University 
+Coupure Links 653
+9000 Gent
+Belgium
 <img align="center" width="550" height="360" src="/images/BioScience.jpg"> 
 
   
