@@ -15,6 +15,16 @@ sitemap:
     <i class="fab fa-orcid"></i>    &nbsp; ORCID: &nbsp; <a href="https://orcid.org/0000-0002-3903-6452" target="_blank">0000-0002-3903-6452</a><br>
 </p>
 
+<p>
+    <i class="fas fa-envelope"></i> &nbsp; <a href="mailto:mfathiabdallah@gmail.com" target="_blank">Email</a><br>
+    <i class="fab fa-google"></i> &nbsp; <a href="https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en" target="_blank">Google Scholar</a><br>
+    <i class="fab fa-twitter"></i> &nbsp; <a href="https://twitter.com/MoFathiAbdallah" target="_blank">Twitter</a><br>
+    <i class="fab fa-researchgate"></i> &nbsp; <a href="https://www.researchgate.net/profile/Mohamed-Abdallah-13" target="_blank">ResearchGate</a><br>
+    <i class="fab fa-linkedin"></i> &nbsp; <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">LinkedIn</a><br>
+    <i class="fab fa-orcid"></i> &nbsp; <a href="https://orcid.org/0000-0002-3903-6452" target="_blank">ORCID</a><br>
+</p>
+
+
 #### Address:
 Department of Food Technology, Safety and Health <br>
 Faculty of Bioscience Engineering <br>
