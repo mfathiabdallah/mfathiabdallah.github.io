@@ -8,6 +8,8 @@ sitemap:
 Dr. Mohamed Fathi Abdallah, Ph.D.
 <p>
     <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mfathiabdallah@gmail.com" target="_blank">mfathiabdallah@gmail.com</a><br>
+    <a class="email-link" href="mfathiabdallah@gmail.com" target="_blank">mfathiabdallah@gmail.com</a>
+
     <i class="fab fa-google"></i>   &nbsp; Google Scholar: &nbsp; <a href="https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en" target="_blank">Mohamed Fathi Abdallah</a><br>
     <i class="fab fa-twitter"></i>  &nbsp; Twitter: &nbsp; <a href="https://twitter.com/MoFathiAbdallah" target="_blank">MoFathiAbdallah</a><br>
     <i class="fab fa-twitter"></i>  &nbsp; ResearchGate: &nbsp; <a href="https://www.researchgate.net/profile/Mohamed-Abdallah-13" target="_blank">Mohamed Fathi Abdallah</a><br>
