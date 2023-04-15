@@ -18,12 +18,12 @@ Dr. Mohamed Fathi Abdallah, Ph.D.
 </p>
 
 #### Address:
-Department of Food Technology, Safety and Health
-Faculty of Bioscience Engineering
-Ghent University 
-Coupure Links 653
-9000 Gent
-Belgium
+Department of Food Technology, Safety and Health <br>
+Faculty of Bioscience Engineering <br>
+Ghent University <br>
+Coupure Links 653 <br>
+9000 Gent <br>
+Belgium <br>
 </p>
 
 <img align="center" width="550" height="360" src="/images/BioScience.jpg"> 
