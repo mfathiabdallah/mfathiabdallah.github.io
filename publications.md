@@ -63,6 +63,9 @@ title: ""
 2) **MF Abdallah***, WHR Van Hassel, M Andjelkovic, A Wilmotte, A Rajkovic (2021). Cyanotoxins and Food Contamination in Developing Countries: Review of Their Types, Toxicity, Analysis, Occurrence and Mitigation Strategies. Toxins, 13 (11), 786. [doi: 10.3390/toxins13110786](https://www.mdpi.com/2072-6651/13/11/786){:target="_blank" rel="noopener"} (Open Access). [Download PDF](https://mfathiabdallah.github.io/pdfs/toxins-13-00786-v2.pdf){: .btn .btn-blue target="_blank"}.
 
 
+2) **MF Abdallah***, WHR Van Hassel, M Andjelkovic, A Wilmotte, A Rajkovic (2021). Cyanotoxins and Food Contamination in Developing Countries: Review of Their Types, Toxicity, Analysis, Occurrence and Mitigation Strategies. Toxins, 13 (11), 786. [doi: 10.3390/toxins13110786](https://www.mdpi.com/2072-6651/13/11/786){:target="_blank" rel="noopener"} (Open Access). [Download PDF](https://mfathiabdallah.github.io/pdfs/toxins-13-00786-v2.pdf){: style="color:red;" .btn .btn-blue target="_blank"}.
+
+
 1) **MF Abdallah**, G Girgin, T Baydar (2015). Occurrence, prevention and limitation of mycotoxins in feeds. Animal Nutrition and Feed Technology, 15 (3), 471-490. [doi: 10.5958/0974-181X.2015.00048.7](https://www.researchgate.net/publication/280041287_Occurrence_Prevention_and_Limitation_of_Mycotoxins_in_Feeds){:target="_blank" rel="noopener"} (Open Access).
 
 ---
