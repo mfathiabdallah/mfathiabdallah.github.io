@@ -69,7 +69,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
       <h3 style="margin-bottom: 0;">21 December 2021</h3>
       <p style="margin-top: 0;">A new Special Issue in collaboration with Dr. Ahmed Abdeen, Dr. Mohamed Fathi Abdallah, and Dr. Xu wang</p>
       <p style="margin-top: 0;">"<a href="https://www.frontiersin.org/research-topics/28308/environmental-contaminants-and-animal-health-analysis-toxicity-and-mitigation" target="_blank" style="color:#ffefd5;">Environmental Contaminants and Animal Health: Analysis, Toxicity, and Mitigation</a>"</p>
-      <p style="margin-top: 0;">More information at: <a href="https://tinyurl.com/5h7k6n46" target="_blank">https://tinyurl.com/5h7k6n46</a></p>
+      <p style="margin-top: 0;">For more information, please visit: <a href="https://tinyurl.com/5h7k6n46" target="_blank">https://tinyurl.com/5h7k6n46</a></p>
       <p style="margin-top: 0;">#toxicology #animal_health #open_access</p>
     </div>
     <div>
