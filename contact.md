@@ -5,7 +5,7 @@ sitemap:
   lastmod: 2023-04-14
   exclude: 'no'
 ---
-Dr. Mohamed Fathi Abdallah, Ph.D.
+#### Dr. Mohamed Fathi Abdallah, Ph.D.
 <p>
     <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mfathiabdallah@gmail.com" target="_blank">mfathiabdallah@gmail.com</a><br>
     <i class="fab fa-google"></i>   &nbsp; Google Scholar: &nbsp; <a href="https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en" target="_blank">Mohamed Fathi Abdallah</a><br>
