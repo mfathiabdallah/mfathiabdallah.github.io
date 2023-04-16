@@ -83,3 +83,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 <marquee behavior="scroll" direction="left">"Make things easy for the people, and do not make it difficult for them, and make them calm (with glad tidings) and do not repulse (them)" The Prophet Muhammad (ﷺ) (pbuh). &emsp;
   </marquee>
 </html>
+
+**  **
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.fathiabdallah.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
