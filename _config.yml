@@ -4,7 +4,7 @@
 
 title: "Mohamed Fathi Abdallah"
 author: "Mohamed Fathi Abdallah"
-description: "Mohamed Fathi Abdallah ©2022" [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadeeth07.github.io&count_bg=%233DC8C7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+description: "Mohamed Fathi Abdallah ©2022 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadeeth07.github.io&count_bg=%233DC8C7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -37,15 +37,14 @@ external:                  # shows a footer with social links - for available ic
   - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-3903-6452"}
   - {title: Ghent University, icon: landmark, url: "https://www.ugent.be/"}
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadeeth07.github.io&count_bg=%233DC8C7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
 
  #- {title: Github, icon: github, url: "https://github.com/mfathiabdallah"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadeeth07.github.io&count_bg=%233DC8C7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 plugins:
  - jekyll-feed
