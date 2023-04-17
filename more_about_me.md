@@ -30,14 +30,17 @@ title: ""
 <style>
   .image-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
     margin-top: 20px;
   }
   
   .image-container img {
-    width: 330%;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
     border: 1px solid #ddd;
-    border-radius: 10px;
+    border-radius: 5px;
   }
 </style>
 
