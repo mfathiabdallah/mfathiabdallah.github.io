@@ -77,7 +77,7 @@ title: ""
     font-size: 18px;
     font-weight: bold;
     padding: 0px;
-    border-radius: 15px;
+    border-radius: 5px;
     outline: none; /* remove outline */
   }
 
@@ -85,7 +85,7 @@ title: ""
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
-    padding: -2px;
+    padding: 5px;
   }
 
   .collapsible-title.active {
