@@ -77,7 +77,7 @@ title: ""
     font-size: 18px;
     font-weight: bold;
     padding: 1px;
-    border-radius: 2px;
+    border-radius: 10px;
     outline: none; /* remove outline */
   }
 
