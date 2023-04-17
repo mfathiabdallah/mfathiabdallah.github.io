@@ -20,7 +20,6 @@ title: ""
     <div class="image-container">
        <a href="/images/moreaboutme/TurkishScholarship.jpeg" target="_blank" rel="noopener"><img src="/images/moreaboutme/TurkishScholarship.jpeg" alt="TurkishScholarship"></a>
        <a href="/images/moreaboutme/Erasmus2.jpg" target="_blank" rel="noopener"><img src="/images/moreaboutme/Erasmus2.jpg" alt="Erasmus"></a>
-       <a href="/images/moreaboutme/Mycokey(2).png" target="_blank" rel="noopener"><img src="/images/moreaboutme/Mycokey(2).png" alt="Mycokey"></a>
        <a href="/images/moreaboutme/Mycokey(3).png" target="_blank" rel="noopener"><img src="/images/moreaboutme/Mycokey(3).png" alt="Mycokey"></a>
        <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
     </div>  
