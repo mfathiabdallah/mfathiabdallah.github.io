@@ -66,7 +66,7 @@ title: ""
 <style>
   /* Style for collapsible sections */
   .collapsible {
-    border: 0px solid #ddd;
+    border: 2px solid #ddd;
     margin-bottom: 0px;
     border-radius: 0px;
   }
@@ -76,7 +76,7 @@ title: ""
     cursor: pointer;
     font-size: 18px;
     font-weight: bold;
-    padding: 4px;
+    padding: 1px;
     border-radius: 2px;
     outline: none; /* remove outline */
   }
