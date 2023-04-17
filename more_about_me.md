@@ -36,8 +36,8 @@ title: ""
   }
   
   .image-container img {
-    width: 175px;
-    height: 100px;
+    width: 150px;
+    height: 75px;
     margin: 5px;
     border: 1px solid #ddd;
     border-radius: 5px;
