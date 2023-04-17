@@ -85,17 +85,17 @@ title: ""
     background-color: #eee;
     color: #333;
     cursor: pointer;
-    font-size: 18px;
+    font-size: 10px;
     font-weight: bold;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 2px;
   }
 
   .collapsible-content {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
-    padding: 10px;
+    padding: 5px;
   }
 
   .collapsible-title.active {
