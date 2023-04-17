@@ -74,7 +74,7 @@ title: ""
   .collapsible-title {
     color: black; /* make font black */
     cursor: pointer;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: bold;
     padding: 10px;
     border-radius: 2px;
