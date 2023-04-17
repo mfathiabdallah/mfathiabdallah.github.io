@@ -67,8 +67,8 @@ title: ""
   /* Style for collapsible sections */
   .collapsible {
     border: 0px solid #ddd;
-    margin-bottom: 1px;
-    border-radius: 1px;
+    margin-bottom: 0px;
+    border-radius: 0px;
   }
 
   .collapsible-title {
