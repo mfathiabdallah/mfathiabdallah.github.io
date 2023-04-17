@@ -15,9 +15,34 @@ title: ""
       <li>(2015) Erasmus Student Mobility for Studies, Center for Analytical Chemistry, Universität für Bodenkultur Wien, Austria.</li>
       <li>(2014) Erasmus Student Mobility for Placement, _IfADo_ Institute, Dortmund, Germany.</li>
       <li>(2012) Turkish Government Scholarship, Turkey (through the <a href="https://www.turkiyeburslari.gov.tr/" target="_blank" rel="noopener">Türkiye Scholarships</a>).</li>
-      <li>(2012) Full Tuition Graduate Teaching and Research Assistantship, Assiut University, Egypt.</li>
     </ul>
+    
+    <!-- Four images side by side -->
+    <div class="image-container">
+      <img src="/images/TurkishScholarship.jpeg" alt="TurkishScholarship">
+      <img src="/images/Erasmus.jpg" alt="Erasmus">
+      <img src="/images/Mycokey.png" alt="Mycokey">
+      <img src="/images/UGENT.jpg" alt="UGENT">
+    </div>
+    
+  </div>
 </div>
+
+<!-- CSS for image container -->
+<style>
+  .image-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .image-container img {
+    width: 23%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+</style>
+
  
 <!-- Funds -->
 <div class="collapsible">
