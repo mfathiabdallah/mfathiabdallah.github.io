@@ -21,7 +21,7 @@ title: ""
 </div>
 
 <details>
-    <summary><h3>**#2022**</h3></summary>
+  <summary><strong style="font-size:larger;">2022</strong></summary>
   <ul>
     <li>Konferenz Elektronische Sprachsignalverarbeitung (ESSV), Sønderborg/Online</li>
     <li>(summery) Winter school 2022: Coping with the complexity in speech production and perception, Chorin</li>
