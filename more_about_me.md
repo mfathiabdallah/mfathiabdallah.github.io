@@ -76,7 +76,7 @@ title: ""
     cursor: pointer;
     font-size: 18px;
     font-weight: bold;
-    padding: 2px;
+    padding: 4px;
     border-radius: 2px;
     outline: none; /* remove outline */
   }
@@ -92,5 +92,3 @@ title: ""
     background-color: #ccc;
   }
 </style>
-
-
