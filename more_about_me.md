@@ -54,6 +54,7 @@ title: ""
   </div>
 </div>
 
+
 <script>
   // Function to toggle collapsible sections
   function toggleCollapsible(event) {
@@ -88,6 +89,7 @@ title: ""
     font-weight: bold;
     padding: 10px;
     border-radius: 2px;
+    outline: none; /* Add this line to remove the white outline */
   }
 
   .collapsible-content {
@@ -101,3 +103,4 @@ title: ""
     background-color: #ccc;
   }
 </style>
+
