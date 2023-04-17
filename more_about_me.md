@@ -132,12 +132,6 @@ title: ""
   
   
   
----
-layout: page
-title: ""
-
----
-
 <!-- Fellowships -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Fellowships</h1>
