@@ -17,7 +17,6 @@ title: ""
       <li>(2012) Turkish Government Scholarship, Turkey (through the <a href="https://www.turkiyeburslari.gov.tr/" target="_blank" rel="noopener">Türkiye Scholarships</a>).</li>
       <li>(2012) Full Tuition Graduate Teaching and Research Assistantship, Assiut University, Egypt.</li>
     </ul>
-  </div>
 </div>
 
 <!-- Funds -->
@@ -28,7 +27,6 @@ title: ""
       <li>(2021) <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener">VLIRUOS Global Minds Grant</a> from Ghent University for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential in vitro toxic interaction. Role: Principal Researcher.</li>
       <li>(2018) <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener">VLIRUOS Global Minds Grant</a> from Ghent University for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. Role: Principal Researcher.</li>
     </ul>
-  </div>
 </div>
 
 <!-- Scientific Awards -->
@@ -40,9 +38,7 @@ title: ""
       <li>(2019) The Young Scientist Award during the <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener">EURACHEM 2019</a> meeting held in Tartu, Estonia.</li>
       <li>(2018) Best Poster Award from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the 2nd African Symposium on Mycotoxicology, which was hold in Kenya.</li>
     </ul>
-  </div>
 </div>
-
 
 <script>
   // Function to toggle collapsible sections
@@ -76,7 +72,7 @@ title: ""
     cursor: pointer;
     font-size: 18px;
     font-weight: bold;
-    padding: 0px;
+    padding: 7.5px;
     border-radius: 0px;
     outline: none;
   }
@@ -92,4 +88,3 @@ title: ""
     background-color: #ccc;
   }
 </style>
-
