@@ -18,11 +18,11 @@ title: ""
     </ul>
     <!-- Four images side by side -->
     <div class="image-container">
-       <img src="/images/TurkishScholarship.jpeg" alt="TurkishScholarship">
-       <img src="/images/Erasmus.jpg" alt="Erasmus">
-       <img src="/images/Mycokey.png" alt="Mycokey">
-       <img src="/images/UGENT.jpg" alt="UGENT">
-    </div> 
+       <a href="/images/TurkishScholarship.jpeg" target="_blank" rel="noopener"><img src="/images/TurkishScholarship.jpeg" alt="TurkishScholarship"></a>
+       <a href="/images/Erasmus.jpg" target="_blank" rel="noopener"><img src="/images/Erasmus.jpg" alt="Erasmus"></a>
+       <a href="/images/Mycokey.png" target="_blank" rel="noopener"><img src="/images/Mycokey.png" alt="Mycokey"></a>
+       <a href="/images/UGENT.jpg" target="_blank" rel="noopener"><img src="/images/UGENT.jpg" alt="UGENT"></a>
+    </div>  
   </div>
 </div>
 
