@@ -66,7 +66,7 @@ title: ""
 <style>
   /* Style for collapsible sections */
   .collapsible {
-    border: 1px solid #ddd;
+    border: 0px solid #ddd;
     margin-bottom: 1px;
     border-radius: 1px;
   }
@@ -93,8 +93,3 @@ title: ""
   }
 </style>
 
-
-  .collapsible-title.active {
-    background-color: #ccc;
-  }
-</style>
