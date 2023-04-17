@@ -18,10 +18,10 @@ title: ""
     </ul>
     <!-- Four images side by side -->
     <div class="image-container">
-       <a href="/images/moreaboutme/TurkishScholarship.jpeg" target="_blank" rel="noopener"><img src="/images/TurkishScholarship.jpeg" alt="TurkishScholarship"></a>
-       <a href="/images/moreaboutme/Erasmus.jpg" target="_blank" rel="noopener"><img src="/images/Erasmus.jpg" alt="Erasmus"></a>
-       <a href="/images/moreaboutme/Mycokey.png" target="_blank" rel="noopener"><img src="/images/Mycokey.png" alt="Mycokey"></a>
-       <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/UGENT.jpg" alt="UGENT"></a>
+       <a href="/images/moreaboutme/TurkishScholarship.jpeg" target="_blank" rel="noopener"><img src="/images/moreaboutme/TurkishScholarship.jpeg" alt="TurkishScholarship"></a>
+       <a href="/images/moreaboutme/Erasmus.jpg" target="_blank" rel="noopener"><img src="/images/moreaboutme/Erasmus.jpg" alt="Erasmus"></a>
+       <a href="/images/moreaboutme/Mycokey.png" target="_blank" rel="noopener"><img src="/images/moreaboutme/Mycokey.png" alt="Mycokey"></a>
+       <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/moreaboutme/UGENT.jpg" alt="UGENT"></a>
     </div>  
   </div>
 </div>
