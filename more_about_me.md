@@ -77,15 +77,15 @@ title: ""
   /* Style for collapsible sections */
   .collapsible {
     border: 1px solid #ddd;
-    margin-bottom: 5px;
-    border-radius: 2px;
+    margin-bottom: 1px;
+    border-radius: 1px;
   }
 
   .collapsible-title {
     background-color: #eee;
     color: #333;
     cursor: pointer;
-    font-size: 10px;
+    font-size: 15px;
     font-weight: bold;
     padding: 10px;
     border-radius: 2px;
