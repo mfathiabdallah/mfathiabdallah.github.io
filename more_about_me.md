@@ -66,19 +66,19 @@ title: ""
 <style>
   /* Style for collapsible sections */
   .collapsible {
-    border: 0px solid #ddd;
-    margin-bottom: 0px;
-    border-radius: 0px;
+    border: 1px solid #ddd;
+    margin-bottom: 1px;
+    border-radius: 1px;
   }
 
   .collapsible-title {
     color: black; /* make font black */
     cursor: pointer;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: bold;
-    padding: 2px;
-    border-radius: 15px;
-    outline: none; /* remove outline */
+    padding: 10px;
+    border-radius: 2px;
+    outline: none;
   }
 
   .collapsible-content {
@@ -87,6 +87,12 @@ title: ""
     transition: max-height 0.2s ease-out;
     padding: 5px;
   }
+
+  .collapsible-title.active {
+    background-color: #ccc;
+  }
+</style>
+
 
   .collapsible-title.active {
     background-color: #ccc;
