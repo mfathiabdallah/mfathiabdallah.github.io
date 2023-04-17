@@ -76,7 +76,7 @@ title: ""
     cursor: pointer;
     font-size: 18px;
     font-weight: bold;
-    padding: 0px;
+    padding: 5px;
     border-radius: 2px;
     outline: none;
   }
