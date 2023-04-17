@@ -16,15 +16,13 @@ title: ""
       <li>(2014) Erasmus Student Mobility for Placement, _IfADo_ Institute, Dortmund, Germany.</li>
       <li>(2012) Turkish Government Scholarship, Turkey (through the <a href="https://www.turkiyeburslari.gov.tr/" target="_blank" rel="noopener">Türkiye Scholarships</a>).</li>
     </ul>
-    
     <!-- Four images side by side -->
     <div class="image-container">
-      <img src="/images/TurkishScholarship.jpeg" alt="TurkishScholarship">
-      <img src="/images/Erasmus.jpg" alt="Erasmus">
-      <img src="/images/Mycokey.png" alt="Mycokey">
-      <img src="/images/UGENT.jpg" alt="UGENT">
-    </div>
-    
+       <a href="link1"><img src="/images/TurkishScholarship.jpeg" alt="TurkishScholarship">
+       <a href="link1"><img src="/images/Erasmus.jpg" alt="Erasmus">
+       <a href="link1"><img src="/images/Mycokey.png" alt="Mycokey">
+       <a href="https://www.ugent.be/en/research/funding/bof/postdoctoral/overzicht.htm"><img src="/images/UGENT.jpg" alt="UGENT">{:target="_blank" rel="noopener"}
+    </div> 
   </div>
 </div>
 
