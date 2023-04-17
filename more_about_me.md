@@ -20,17 +20,6 @@ title: ""
   </div>
 </div>
 
-<details>
-  <summary><strong style="font-size:larger;">2022</strong></summary>
-  <ul>
-    <li>Konferenz Elektronische Sprachsignalverarbeitung (ESSV), Sønderborg/Online</li>
-    <li>(summery) Winter school 2022: Coping with the complexity in speech production and perception, Chorin</li>
-    <li>Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague</li>
-    <li>Summer School on Statistical Methods for Linguistics and Psychology (SMLP), Potsdam</li>
-    <li>Phonetik und Phonologie im deutschsprachigen Raum (P&P), Bielefeld</li>
-  </ul>
-  </details>
-
 <!-- Funds -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Funds</h1>
@@ -83,7 +72,7 @@ title: ""
   }
 
   .collapsible-title {
-    color: #333;
+    color: black; /* make font black */
     cursor: pointer;
     font-size: 16px;
     font-weight: bold;
