@@ -82,7 +82,6 @@ title: ""
   }
 
   .collapsible-title {
-    background-color: #eee;
     color: #333;
     cursor: pointer;
     font-size: 15px;
