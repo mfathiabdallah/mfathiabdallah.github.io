@@ -77,30 +77,31 @@ title: ""
 <style>
   /* Style for collapsible sections */
   .collapsible {
-    border: 1px solid #ddd;
-    margin-bottom: 1px;
-    border-radius: 1px;
+    border: 0px solid #ddd;
+    margin-bottom: 0px;
+    border-radius: 0px;
   }
 
   .collapsible-title {
     color: #333;
     cursor: pointer;
-    font-size: 15px;
+    font-size: 16px;
     font-weight: bold;
-    padding: 10px;
-    border-radius: 2px;
-    outline: none; /* Add this line to remove the white outline */
+    padding: 12px;
+    border-radius: 1px;
+    outline: none; /* remove outline */
   }
 
   .collapsible-content {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
-    padding: 5px;
+    padding: 2px;
   }
 
   .collapsible-title.active {
     background-color: #ccc;
   }
 </style>
+
 
