@@ -85,7 +85,7 @@ title: ""
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
-    padding: 5px;
+    padding: 0px;
   }
 
   .collapsible-title.active {
