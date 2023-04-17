@@ -35,9 +35,9 @@ title: ""
   }
   
   .image-container img {
-    width: 23%;
+    width: 330%;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 10px;
   }
 </style>
 
