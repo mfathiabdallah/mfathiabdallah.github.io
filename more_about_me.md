@@ -119,7 +119,7 @@ title: ""
   
  <!-- Travel Grants -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#10148; Scientific Awards</h1>
+  <h1 class="collapsible-title">&#10148; Travel Grants</h1>
   <div class="collapsible-content">
     <ul>
       <li>(2022) Best Oral Presentation from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the international conference <a href="http://pofmy.imi.hr/" target="_blank" rel="noopener">Power of Fungi and Mycotoxins in Climate Change Symposium</a>, which has been hold in Croatia.</li>
