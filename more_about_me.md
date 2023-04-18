@@ -79,8 +79,7 @@ title: ""
   }
 </style> 
     
-</div>
- 
+
 <!-- Scientific Awards -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Scientific Awards</h1>
@@ -110,7 +109,7 @@ title: ""
   }
   
   .image-container img {
-    width: 150px;
+    width: 165px;
     height: 75px;
     margin: 5px;
     border: 1px solid #ddd;
@@ -118,8 +117,6 @@ title: ""
   }
 </style>
   
-  
-</div>
  
 <script>
   // Function to toggle collapsible sections
