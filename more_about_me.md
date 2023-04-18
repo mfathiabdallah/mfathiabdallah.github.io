@@ -109,7 +109,7 @@ title: ""
   }
   
   .image-container img {
-    width: 165px;
+    width: 175px;
     height: 75px;
     margin: 5px;
     border: 1px solid #ddd;
