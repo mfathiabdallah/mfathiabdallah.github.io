@@ -122,15 +122,14 @@ title: ""
   <h1 class="collapsible-title">&#10148; Travel Grants</h1>
   <div class="collapsible-content">
     <ul>
-      <li>(2022) Best Oral Presentation from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the international conference <a href="http://pofmy.imi.hr/" target="_blank" rel="noopener">Power of Fungi and Mycotoxins in Climate Change Symposium</a>, which has been hold in Croatia.</li>
-      <li>(2019) The Young Scientist Award during the <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener">EURACHEM 2019</a> meeting held in Tartu, Estonia.</li>
-      <li>(2018) Best Poster Award from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the 2nd African Symposium on Mycotoxicology, which was hold in Kenya.</li>
+      <li>(2018) Conference Travel Award (€1,000) Faculty of Pharmaceutical Sciences-UGent to attend the 2nd International MycoKey Conference, Wuhan-China.</li>
+      <li>(2017) Conference Travel Award (€750) Faculty of Pharmaceutical Sciences-UGent to attend the 3rd International Mass Spectrometry School, Dubrovnik-Croatia.</li>
+      
     </ul>
     
     <!-- Four images side by side -->
     <div class="image-container">
-       <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener"><img src="/images/moreaboutme/Toxins.png" alt="Toxins"></a>
-       <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Eurachem.jpg" alt="Eurachem"></a>
+       <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
     </div>  
   </div>
 </div>
