@@ -53,6 +53,32 @@ title: ""
       <li>(2021) <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener">VLIRUOS Global Minds Grant</a> from Ghent University for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential in vitro toxic interaction. Role: Principal Researcher.</li>
       <li>(2018) <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener">VLIRUOS Global Minds Grant</a> from Ghent University for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. Role: Principal Researcher.</li>
     </ul>
+      <!-- Four images side by side -->
+    <div class="image-container">
+       <a href="https://www.vliruos.be/en/home/1" target="_blank" rel="noopener"><img src="/images/moreaboutme/vliruos.jpg" alt="vliruos"></a>
+       <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener"><img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
+    </div>  
+  </div>
+</div>
+
+<!-- CSS for image container -->
+<style>
+  .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .image-container img {
+    width: 150px;
+    height: 75px;
+    margin: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+</style> 
+    
 </div>
  
 <!-- Scientific Awards -->
@@ -66,12 +92,10 @@ title: ""
     </ul>
     
     
-        <!-- Four images side by side -->
+    <!-- Four images side by side -->
     <div class="image-container">
-       <a href="https://www.turkiyeburslari.gov.tr/" target="_blank" rel="noopener"><img src="/images/moreaboutme/TurkishScholarship.jpeg" alt="TurkishScholarship"></a>
-       <a href="https://erasmus-plus.ec.europa.eu/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Erasmus2.jpg" alt="Erasmus"></a>
-       <a href="http://www.mycokey.eu/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Mycokey(3).png" alt="Mycokey"></a>
-       <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
+       <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener"><img src="/images/moreaboutme/Toxins.png" alt="Toxins"></a>
+       <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Eurachem.jpg" alt="Eurachem"></a>
     </div>  
   </div>
 </div>
