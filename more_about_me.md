@@ -123,7 +123,7 @@ title: ""
   <div class="collapsible-content">
     <ul>
       <li>(2023) Conference Travel Award (€500) Faculty of Bioscience Engineering-UGent to attend 44th Mycotoxin-Workshop, Celle (at Hannover)-Germany.</li>
-      <li>(2022) Workshop Travel Award Research Foundation - Flanders (FWO) to attend the Applied In Vitro Toxicology Course, Luxembourg.</li>
+      <li>(2022) Workshop Travel Award from the Research Foundation - Flanders (FWO) to attend the Applied *In Vitro* Toxicology Course, Luxembourg.</li>
       <li>(2022) Conference Travel Award (€500) Faculty of Bioscience Engineering-UGent to attend XVIth International Congress of Toxicology (ICT 2022), Maastricht-the Netherlands.</li>
       <li>(2018) Conference Travel Award (€1,000) Faculty of Pharmaceutical Sciences-UGent to attend the 2nd International MycoKey Conference, Wuhan-China.</li>
       <li>(2017) Conference Travel Award (€750) Faculty of Pharmaceutical Sciences-UGent to attend the 3rd International Mass Spectrometry School, Dubrovnik-Croatia.</li>
