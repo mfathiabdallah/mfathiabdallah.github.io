@@ -133,7 +133,7 @@ title: ""
     <!-- Four images side by side -->
     <div class="image-container">
        <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
-      <a href="https://www.fwo.be/en/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Fwo2.png" alt="Fwo2"></a>
+      <a href="https://www.fwo.be/en/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Fwo2.jpg" alt="Fwo2"></a>
     </div>  
   </div>
 </div>
