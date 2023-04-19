@@ -13,7 +13,7 @@ title: ""
       <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
       <li>(2016) PhD Research Fellowship, <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a>, Belgium in the framework of <a href="http://www.mycokey.eu/" target="_blank" rel="noopener">Mycokey</a> project.</li>
       <li>(2015) Erasmus<sup>+</sup> Student Mobility for Studies, Center for Analytical Chemistry, Universität für Bodenkultur Wien, Austria.</li>
-      <li>(2014) Erasmus<sup>+</sup> Student Mobility for Placement, _IfADo_ Institute, Dortmund, Germany.</li>
+      <li>(2014) Erasmus<sup>+</sup> Student Mobility for Placement, <em>IfADo</em> Institute, Dortmund, Germany.</li>
       <li>(2012) Turkish Government Scholarship, Turkey (through the <a href="https://www.turkiyeburslari.gov.tr/" target="_blank" rel="noopener">Türkiye Scholarships</a>).</li>
     </ul>
     <!-- Four images side by side -->
@@ -123,7 +123,7 @@ title: ""
   <div class="collapsible-content">
     <ul>
       <li>(2023) Conference Travel Award (€500) Faculty of Bioscience Engineering-UGent to attend 44<sup>th</sup> Mycotoxin-Workshop, Celle (at Hannover)-Germany.</li>
-      <li>(2022) Workshop Travel Award from the Research Foundation - Flanders (FWO) to attend the Applied _In Vitro_ Toxicology Course, Luxembourg.</li>
+      <li>(2022) Workshop Travel Award from the Research Foundation - Flanders (FWO) to attend the Applied <em>In Vitro</em> Toxicology Course, Luxembourg.</li>
       <li>(2022) Conference Travel Award (€500) Faculty of Bioscience Engineering-UGent to attend XVI<sup>th</sup> International Congress of Toxicology (ICT 2022), Maastricht-the Netherlands.</li>
       <li>(2018) Conference Travel Award (€1,000) Faculty of Pharmaceutical Sciences-UGent to attend the 2<sup>nd</sup> International MycoKey Conference, Wuhan-China.</li>
       <li>(2017) Conference Travel Award (€750) Faculty of Pharmaceutical Sciences-UGent to attend the 3<sup>rd</sup> International Mass Spectrometry School, Dubrovnik-Croatia.</li>
