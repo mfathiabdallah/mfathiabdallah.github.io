@@ -31,7 +31,8 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
 .graduation-image {
   width: 500px;
   height: 500px;
-  object-fit: cover;
+  object-fit: contain;
+   margin-top: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
 }
