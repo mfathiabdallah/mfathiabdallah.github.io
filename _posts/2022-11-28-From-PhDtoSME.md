@@ -46,15 +46,14 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
 }
 </style>
 
-## Content of "From PhD to SME, a one-year leadership program"
-
+### Content of "From PhD to SME, a one-year leadership program"
 Around 80% of Ghent University (post)doctoral researchers continue their careers beyond academia. Business careers differ from academic ones: in business, people typically work in rapidly changing contexts, take considerable risks, focus on attitude rather than on knowledge, and work together with different kinds of profiles.
 
 Ghent University and VOKA East Flanders join forces for the exclusive 'From PhD to SME' programme, the aim of which is to build bridges between the world of research and small and medium-sized enterprises. 16 (post)doctoral researchers were given the unique opportunity to learn more about how SMEs are run and to put this knowledge into practice.
 
 Participants were given a chance to gain first-hand (leadership) experience in a Flemish SME in order to increase their hiring potential and smoothen their transition into the non-academic labour market. In addition, participants were able to build formal as well as informal networks, and to learn to identify and name their own strengths, their skills and interests that match better with business life.
 
-## Programme (English) consisted of 12 sessions
+### Programme (English) consisted of 12 sessions
 These sessions covered 6 modules consisting each of a half-day theoretical session, a practical assignment in an SME, combined with a half-day intervision session
 
 - Session 1 strategic choices and achievements
@@ -73,7 +72,7 @@ These sessions covered 6 modules consisting each of a half-day theoretical sessi
 
 Throughout the programme, the participants were supervised by a coach, VOKA East Flanders, as well as the SME they collaborate with. The focus was on an integral approach of thinking and acting.
 
-## Integral approach
+### Integral approach
 
 <div style="text-align:center"><img src="/images/2022_11_28_integralapproach.png" /></div>
 
@@ -98,6 +97,6 @@ The 4 groups of (post)doctoral researchers were formed beforehand in order to en
 
 During the half-day intervision sessions, the 4 groups were discusseing their case with each other and with their coach: in this way participants were broaden their horizons and learn from the experiences collected in other SMEs.
 
-## Added value
+### Added value
 
 Co-organised by a non-academic patron, 'From PhD to SME' was a high-yield opportunity for (post)doctoral researchers who were keen to gain valuable professional work experience, much sought-after by their future employers.
