@@ -39,7 +39,7 @@ Eleonora studied the #in_vitro hepatic and intestinal #toxicity of #nanoplastics
 
 .caption {
   margin-top: 0;
-  margin-right: 0px;
+  margin-right: 10px;
   font-size: 14px;
   text-align: center;
   width: 800px;
