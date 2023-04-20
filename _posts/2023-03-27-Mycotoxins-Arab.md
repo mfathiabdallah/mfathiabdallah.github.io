@@ -20,7 +20,7 @@ The presentation is scheduled for Tuesday, 06/June/2023 9:00am - 9:15am in the s
   <img class="conferences" src="/images/2023_03_27.png" alt="Conferences">
   <img class="conferences-image" src="/images/2023_03_27(2).png" alt="Conferences">
 </div>
-Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target="_blank" rel="noopener"}
+<p class="caption">Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target="_blank" rel="noopener"}</p>
 
 <style>
 .image-container {
@@ -40,6 +40,14 @@ Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target
   width: 400px;
   height: 200px;
   object-fit: contain; /* Change it from "cover" to "contain" to have the full image without being cut off*/
+}
+
+.caption {
+  margin-top: 0;
+  margin-right: 10px;
+  font-size: 14px;
+  text-align: center;
+  width: 800px;
 }
 </style>
 
