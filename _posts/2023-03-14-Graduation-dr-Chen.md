@@ -44,3 +44,43 @@ Her PhD work was done under the supervision of Prof. Andreja Rajkovic (Faculty o
   width: 400px;
 }
 </style>
+
+
+### Congratualtion Dr. Chen, and all the best wishes in your future endeavours!
+
+<div class="image-container">
+  <div class="image-wrapper">
+    <img class="graduation-image" src="/images/2023_03_14.png" alt="Graduation">
+    <p class="caption">Picture 1: Faculty of Bioscience Engineering, Coupure Links 653, Gent 9000, Belgium.</p>
+  </div>
+  <div class="image-wrapper">
+    <img class="graduation-image" src="/images/2023_03_14(2).png" alt="Graduation">
+    <p class="caption">Picture 2: Faculty of Bioscience Engineering, Coupure Links 653, Gent 9000, Belgium.</p>
+  </div>
+</div>
+
+<style>
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.image-wrapper {
+  margin-right: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.graduation-image {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.caption {
+  margin-top: 0;
+  font-size: 14px;
+}
+</style>
