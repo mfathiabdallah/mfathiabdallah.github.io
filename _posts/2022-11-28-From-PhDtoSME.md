@@ -22,6 +22,37 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
 </div>
 
 
+///
+
+<div class="image-container">
+  <img class="graduation-image" src="/images/2022_11_28.jpg" alt="Graduation">
+  </div>
+
+<p class="caption">Picture Location: VOKA centre, Gent 9000 Belgium.</p>
+
+<style>
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.graduation-image {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.caption {
+  margin-top: 0;
+  margin-right: 10px;
+  font-size: 14px;
+  text-align: center;
+  width: 800px;
+}
+</style>
+
 ## Content of "From PhD to SME, a one-year leadership program"
 
 Around 80% of Ghent University (post)doctoral researchers continue their careers beyond academia. Business careers differ from academic ones: in business, people typically work in rapidly changing contexts, take considerable risks, focus on attitude rather than on knowledge, and work together with different kinds of profiles.
