@@ -33,14 +33,14 @@ Picture source: [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target
 .conferences {
   width: 410px;
   height: 200px;
-  object-fit: cover;
+  object-fit: contain;
   margin-right: 10px;
 }
 
 .conferences-image {
   width: 400px;
   height: 200px;
-  object-fit: cover;
+  object-fit: contain; /* Change it from cover to contain to have the full image without being cut off*/
 }
 </style>
 
