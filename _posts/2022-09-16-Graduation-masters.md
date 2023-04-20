@@ -21,7 +21,7 @@ Eleonora studied the #in_vitro hepatic and intestinal #toxicity of #nanoplastics
   <img class="graduation-image" src="/images/2022_09_22.jpg" alt="Graduation">
   </div>
 
-<p>Picture Location: Faculty of Bioscience Engineering, Coupure Links 653, Gent 9000, Belgium.</p>
+<p class="caption">Picture Location: Faculty of Bioscience Engineering, Coupure Links 653, Gent 9000, Belgium.</p>
 
 <style>
 .image-container {
@@ -36,4 +36,13 @@ Eleonora studied the #in_vitro hepatic and intestinal #toxicity of #nanoplastics
   object-fit: cover;
   margin-right: 10px;
 }
+
+.caption {
+  margin-top: 0;
+  margin-right: 0px;
+  font-size: 14px;
+  text-align: center;
+  width: 900px;
+}
 </style>
+
