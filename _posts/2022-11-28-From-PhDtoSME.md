@@ -19,7 +19,6 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
 <div class="image-container">
   <img class="graduation-image" src="/images/2022_11_28.jpg" alt="Graduation">
   </div>
-
 <p class="caption">Picture Location: VOKA centre, Gent 9000 Belgium.</p>
 
 <style>
@@ -32,7 +31,7 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
 .graduation-image {
   width: 500px;
   height: 500px;
-  object-fit: contain;
+  object-fit: cover;
   margin-right: 0px;
   margin-bottom: 0px;
 }
