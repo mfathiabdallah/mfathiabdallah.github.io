@@ -15,26 +15,9 @@ Her PhD title was "Cross Talk of Fungi and Mycotoxins with Their Plants and Huma
 
 Her PhD work was done under the supervision of Prof. Andreja Rajkovic (Faculty of Bioscience Engineering, UGent), Prof. Kris Audenaert (Faculty of Bioscience Engineering, UGent), and Prof. Sarah De Saeger (Faculty of Pharmaceutical Sciences, UGent).
 
-### Congratualtion Dr. Chen, and all the best wishes in your future endeavours!
-
-<div class="image-container">
-  <img class="graduation-image" src="/images/2023_03_14.png" alt="Graduation">
-  <img class="graduation-image" src="/images/2023_03_14(2).png" alt="Graduation">
-  <p style="text-align:center">Picture Location: Faculty of Bioscience Engineering, Coupure Links 653, Gent 9000, Belgium.</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img style="width: 45%; margin-right: 20px;" src="/images/2023_03_14.png" alt="Graduation">
+  <img style="width: 45%;" src="/images/2023_03_14(2).png" alt="Graduation">
 </div>
 
-<style>
-.image-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-
-.graduation-image {
-  width: 400px;
-  height: 400px;
-  object-fit: cover;
-  margin-right: 10px;
-}
-</style>
+<p style="text-align: center;">Picture Location: Faculty of Bioscience Engineering, Coupure Links 653, Gent 9000, Belgium.</p>
