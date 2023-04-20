@@ -20,9 +20,8 @@ Her PhD work was done under the supervision of Prof. Andreja Rajkovic (Faculty o
 <div class="image-container">
   <img class="graduation-image" src="/images/2023_03_14.png" alt="Graduation">
   <img class="graduation-image" src="/images/2023_03_14(2).png" alt="Graduation">
-  <br /> 
-  <p class="caption">Picture Location: Faculty of Bioscience Engineering, Coupure Links 653, Gent 9000, Belgium.</p>
 </div>
+<p class="caption">Picture Location: Faculty of Bioscience Engineering, Coupure Links 653, Gent 9000, Belgium.</p>
 
 <style>
 .image-container {
@@ -42,7 +41,7 @@ Her PhD work was done under the supervision of Prof. Andreja Rajkovic (Faculty o
   margin-top: 0;
   font-size: 14px;
   text-align: center;
-  width: 400px;
+  width: 100px;
 }
 </style>
 
