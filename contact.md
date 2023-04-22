@@ -38,7 +38,7 @@ sitemap:
   </div>
 
   <div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.765684155594!2d3.719199815725556!3d51.054232779567614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c368fb191fe6dd%3A0x71dd0c8b7d85df25!2sCoupure%20Links%20653%2C%209000%20Gent%2C%20Belgium!5e0!3m2!1sen!2sus!4v1650699449019!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.765684155594!2d3.719199815725556!3d51.054232779567614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c368fb191fe6dd%3A0x71dd0c8b7d85df25!2sCoupure%20Links%20653%2C%209000%20Gent%2C%20Belgium!5e0!3m2!1sen!2sus!4v1650699449019!5m2!1sen!2sus" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
   </div>
 
 </div>
