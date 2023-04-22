@@ -7,6 +7,7 @@ sitemap:
 ---
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
+
   <div>
     <h4>Dr. Mohamed Fathi Abdallah, Ph.D.</h4>
     <p>
@@ -18,7 +19,7 @@ sitemap:
       
       <span class="twitter-icon"></span>
     </p>
-    
+
     <h4>Address:</h4>
     <p>
       Department of Food Technology, Safety and Health <br>
@@ -28,13 +29,19 @@ sitemap:
       9000 Gent <br>
       Belgium <br>
     </p>
+
+    <p>
+      Add any additional text you want here
+    </p>
+
   </div>
-  
+
   <div>
     <img align="center" width="650" height="900" src="/images/BioScience.jpg">
   </div>
-  
-  <div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d40128.26671247878!2d3.6826948105099344!3d51.052780000000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x74bcd9a347ac3d5f!2sFaculty%20of%20Bioscience%20Engineering%2C%20Ghent%20University!5e0!3m2!1sen!2sbe!4v1671396843179!5m2!1sen!2sbe" width="375" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+  <div style="grid-column: 1 / 2;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d40128.26671247878!2d3.6826948105099344!3d51.052780000000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x74bcd9a347ac3d5f!2sFaculty%20of%20Bioscience%20Engineering%2C%20Ghent%20University!5e0!3m2!1sen!2sbe!4v1671396843179!5m2!1sen!2sbe" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
+
 </div>
