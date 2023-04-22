@@ -19,7 +19,9 @@ sitemap:
       
       <span class="twitter-icon"></span>
     </p>
+  </div>
 
+  <div>
     <h4>Address:</h4>
     <p>
       Department of Food Technology, Safety and Health <br>
@@ -29,19 +31,15 @@ sitemap:
       9000 Gent <br>
       Belgium <br>
     </p>
-
-    <p>
-      Add any additional text you want here
-    </p>
-
   </div>
 
   <div>
-    <img align="center" width="650" height="900" src="/images/BioScience.jpg">
+    <img src="/images/BioScience.jpg" alt="My Image">
   </div>
 
-  <div style="grid-column: 1 / 2;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d40128.26671247878!2d3.6826948105099344!3d51.052780000000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x74bcd9a347ac3d5f!2sFaculty%20of%20Bioscience%20Engineering%2C%20Ghent%20University!5e0!3m2!1sen!2sbe!4v1671396843179!5m2!1sen!2sbe" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.765684155594!2d3.719199815725556!3d51.054232779567614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c368fb191fe6dd%3A0x71dd0c8b7d85df25!2sCoupure%20Links%20653%2C%209000%20Gent%2C%20Belgium!5e0!3m2!1sen!2sus!4v1650699449019!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
   </div>
 
 </div>
+
