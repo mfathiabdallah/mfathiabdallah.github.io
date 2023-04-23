@@ -34,7 +34,7 @@ sitemap:
   </div>
 
   <div style="text-align: center;">
-    <img src="/images/BioScience.jpg" alt="Image" style="width: 100%; height: 300px;">
+    <img src="/images/BioScience.jpg" alt="Image" style="width: 100%; height: 280px;">
   </div>
 
   <div style="text-align: center;">
