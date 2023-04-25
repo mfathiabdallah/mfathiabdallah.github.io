@@ -155,6 +155,47 @@ title: ""
     border-radius: 5px;
   }
 </style>
+
+
+
+<!-- Collaboration -->
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Collaboration</h1>
+  <div class="collapsible-content">
+    <ul>
+      <li>Dr. Julien Masquelier- Sciensano, Chemical and Physical Health Risks, Organic Contaminants and Additives, Leuvensesteenweg 17, 3080 Tervuren, Belgium.</li>
+      <li>Prof. Gerard Bryan Gonzales- Wageningen University, Wageningen, the Netherlands.</li>
+      <li>Dr. Elisabeth Varga- Department of Food Chemistry and Toxicology, Faculty of Chemistry, University of Vienna, Austria.</li>
+      <li>Prof. Shupeng Yang- Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing 100193, PR China.</li>
+      <li>Prof. Terken Baydar- Department of Toxicology, Faculty of Pharmacy, Hacettepe University, 90–06100, Ankara, Turkey.</li>
+      <li>Prof. Ahmed Abdeen- Center of Excellence in Screening of Environmental Contaminants (CESEC), Benha University, Toukh, Egypt.</li>
+    </ul>
+      <!-- Four images side by side -->
+    <div class="image-container">
+       <a href="" target="_blank" rel="noopener"><img src="" alt=""></a>
+       <a href="" target="_blank" rel="noopener"><img src="" alt=""></a>
+    </div>  
+  </div>
+</div>
+
+<!-- CSS for image container -->
+<style>
+  .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .image-container img {
+    width: 150px;
+    height: 75px;
+    margin: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+</style> 
+
 <script>
   // Function to toggle collapsible sections
   function toggleCollapsible(event) {
