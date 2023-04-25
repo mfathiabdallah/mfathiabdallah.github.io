@@ -156,8 +156,6 @@ title: ""
   }
 </style>
 
-
-
 <!-- Collaboration -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Collaboration</h1>
@@ -173,7 +171,6 @@ title: ""
       <li>Dr. Sara Redouane Salah- Department of Life and Natural Sciences, University Mohamed khider Biskra, Algeria.</li>
       <li>Prof. Ahmed Abdeen- Center of Excellence in Screening of Environmental Contaminants (CESEC), Benha University, Toukh, Egypt.</li>
     </ul>
-
 
 <script>
   // Function to toggle collapsible sections
