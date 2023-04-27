@@ -167,6 +167,7 @@ title: ""
       <li>Dr. Mohammed Aufy- Department of Pharmaceutical Sciences, Division of Pharmacology and Toxicology, University of Vienna, 1090 Vienna, Austria.</li>
       <li>Prof. Shupeng Yang- Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing 100193, PR China.</li>
       <li>Prof. Terken Baydar- Department of Toxicology, Faculty of Pharmacy, Hacettepe University, 90–06100, Ankara, Turkey.</li>
+      <li>Prof. Mahmoud Abudayyak- Department of Pharmaceutical Toxicology, Faculty of Pharmacy, Istanbul University, Istanbul, Turkey.</li>
       <li>Prof. Mohammad Hosein Movassagh- Department of Veterinary Medicine, Islamic Azad University, Shabestar Branch, Shabestar, Iran.</li>
       <li>Dr. Sara Redouane Salah- Department of Life and Natural Sciences, University Mohamed khider Biskra, Algeria.</li>
       <li>Prof. Ahmed Abdeen- Center of Excellence in Screening of Environmental Contaminants (CESEC), Benha University, Toukh, Egypt.</li>
