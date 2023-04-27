@@ -162,16 +162,16 @@ title: ""
   <h1 class="collapsible-title">&#10148; Collaboration</h1>
   <div class="collapsible-content">
     <ul>
-      <li>Dr. Julien Masquelier- Sciensano, Chemical and Physical Health Risks, Organic Contaminants and Additives, Leuvensesteenweg 17, 3080 Tervuren, <b>Belgium</b>.</li>
-      <li>Prof. Gerard Bryan Gonzales- Wageningen University, Wageningen, <b>the Netherlands</b>.</li>
-      <li>Dr. Elisabeth Varga- Department of Food Chemistry and Toxicology, Faculty of Chemistry, University of Vienna, <b>Austria</b>.</li>
-      <li>Dr. Mohammed Aufy- Department of Pharmaceutical Sciences, Division of Pharmacology and Toxicology, University of Vienna, 1090 Vienna, <b>Austria</b>.</li>
-      <li>Prof. Shupeng Yang- Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing 100193, <b>PR China</b>.</li>
-      <li>Prof. Terken Baydar- Department of Toxicology, Faculty of Pharmacy, Hacettepe University, 90–06100, Ankara, <b>Turkey</b>.</li>
-      <li>Prof. Mahmoud Abudayyak- Department of Pharmaceutical Toxicology, Faculty of Pharmacy, Istanbul University, Istanbul, <b>Turkey</b>.</li>
-      <li>Prof. Mohammad Hosein Movassagh- Department of Veterinary Medicine, Islamic Azad University, Shabestar Branch, Shabestar, <b>Iran</b>.</li>
-      <li>Dr. Sara Redouane Salah- Department of Life and Natural Sciences, University Mohamed khider Biskra, <b>Algeria</b>.</li>
-      <li>Prof. Ahmed Abdeen- Center of Excellence in Screening of Environmental Contaminants (CESEC), Benha University, Toukh, <b>Egypt</b>.</li>
+      <li>Dr. Julien Masquelier- Sciensano, Chemical and Physical Health Risks, Organic Contaminants and Additives, Leuvensesteenweg 17, 3080 Tervuren, <strong>Belgium</strong>.</li>
+      <li>Prof. Gerard Bryan Gonzales- Wageningen University, Wageningen, <strong>the Netherlands</strong>.</li>
+      <li>Dr. Elisabeth Varga- Department of Food Chemistry and Toxicology, Faculty of Chemistry, University of Vienna, <strong>Austria</strong>.</li>
+      <li>Dr. Mohammed Aufy- Department of Pharmaceutical Sciences, Division of Pharmacology and Toxicology, University of Vienna, 1090 Vienna, <strong>Austria</strong>.</li>
+      <li>Prof. Shupeng Yang- Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing 100193, <strong>PR China</strong>.</li>
+      <li>Prof. Terken Baydar- Department of Toxicology, Faculty of Pharmacy, Hacettepe University, 90–06100, <strong>Ankara, Turkey</strong>.</li>
+      <li>Prof. Mahmoud Abudayyak- Department of Pharmaceutical Toxicology, Faculty of Pharmacy, Istanbul University, <strong>Istanbul, Turkey</strong>.</li>
+      <li>Prof. Mohammad Hosein Movassagh- Department of Veterinary Medicine, Islamic Azad University, Shabestar Branch, <strong>Shabestar, Iran</strong>.</li>
+      <li>Dr. Sara Redouane Salah- Department of Life and Natural Sciences, University Mohamed khider Biskra, <strong>Algeria</strong>.</li>
+      <li>Prof. Ahmed Abdeen- Center of Excellence in Screening of Environmental Contaminants (CESEC), Benha University, Toukh, <strong>Egypt</strong>.</li>
     </ul>
 
 
