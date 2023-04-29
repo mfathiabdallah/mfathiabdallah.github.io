@@ -1,93 +1,11 @@
-// Variables
-$font-size: calc(0.8rem + 0.2vw) !default;
-$font-weight: 400 !default;
-$font-family: "PT Sans", -apple-system, "Helvetica Neue", "Segoe UI", "Roboto", sans-serif !default;
-$heading-weight: 600 !default;
-$line-height: 1.6 !default;
-$link-color: #b3b3b3 !default;
-$dark: #63767a !default;
-$light: #080808 !default;
+$font-size: calc(0.8rem + 0.2vw) !default
+$font-weight: 400 !default
+$font-family: "PT Sans", -apple-system, "Helvetica Neue", "Segoe UI", "Roboto", sans-serif !default
+$heading-weight: 600 !default
+$line-height: 1.6 !default
+$link-color: #68f !default
+$dark: #212228 !default
+$light: #ffffff !default
 
-// Functions
-@function reduce($percent) {
-  @return rgba(mix($dark, $light), $percent / 50);
-}
-
-// Global styles
-html {
-  font-size: $font-size;
-  font-weight: $font-weight;
-  font-family: $font-family;
-  line-height: $line-height;
-}
-
-body {
-  background-color: $light;
-  color: $dark;
-}
-
-a {
-  color: $link-color;
-
-  &:hover {
-    color: lighten($link-color, 10%);
-  }
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-weight: $heading-weight;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-}
-
-h1 {
-  font-size: 2.5rem;
-}
-
-h2 {
-  font-size: 2rem;
-}
-
-h3 {
-  font-size: 1.5rem;
-}
-
-h4 {
-  font-size: 1.25rem;
-}
-
-h5 {
-  font-size: 1rem;
-}
-
-h6 {
-  font-size: 0.875rem;
-}
-
-blockquote {
-  margin: 1rem 0;
-  padding: 1rem;
-  background-color: reduce(5%);
-  border-left: 0.25rem solid $dark;
-}
-
-// Media queries
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: $dark;
-    color: $light;
-  }
-
-  a {
-    color: lighten($link-color, 50%);
-
-    &:hover {
-      color: lighten($link-color, 40%);
-    }
-  }
-
-  blockquote {
-    background-color: reduce(95%);
-    border-left-color: $light;
-  }
-}
+@function reduce ($percent)
+  @return rgba(mix($dark, $light), $percent / 100)
