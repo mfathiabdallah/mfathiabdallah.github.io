@@ -9,10 +9,10 @@ categories: media
 
 ## Webinar
 
-Invited talk by [Egypt Scholars Orgnizartion](https://egyptscholars.org/){:target="_blank" rel="noopener"}.
+Invited talk by [Egypt Scholars Organization](https://egyptscholars.org/){:target="_blank" rel="noopener"}.
 
-Through this one-hour talk, several highlights were given to the public (in Arabic) on the issue of mycotoxins in food and their carcinogenic potential (the ability to casue cancer) in human. 
+Through this one-hour talk, several highlights were given to the public (in Arabic) on the issue of mycotoxins in food and their carcinogenic potential (the ability to cause cancer) in humans. 
 
-<div style="text-align:center">
-<iframe width="100%" height="365" src="https://www.youtube.com/embed/ZGtk-ZGcPPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align:center; width: 80%; margin: auto;">
+<iframe style="width: 100%; height: 0; padding-bottom: 56.25%; aspect-ratio: 16/9;" src="https://www.youtube.com/embed/ZGtk-ZGcPPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
