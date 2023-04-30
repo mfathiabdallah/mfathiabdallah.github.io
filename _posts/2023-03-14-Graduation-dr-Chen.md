@@ -41,7 +41,7 @@ Her PhD work was done under the supervision of Prof. Andreja Rajkovic (Faculty o
   margin-top: 0;
   margin-right: 0px;
   font-size: 14px;
-  text-align: right;
+  text-align: Left;
   width: 900px;
 }
 </style>
