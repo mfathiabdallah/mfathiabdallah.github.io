@@ -13,11 +13,7 @@ Mohamed Fathi Abdallah is a PostDoc Researcher in Toxicology at Ghent University
 
 Find out why he gets interested in science, what he likes about their research at [IMPTOX](https://www.imptox.eu/en/){:target="_blank" rel="noopener"} project, the challenges he is facing and what are his hopes for the future of science.
 
-
-<div style="text-align:center">
-  <iframe width="620" height="365" src="https://www.youtube.com/embed/_0Le8Mq143c" title="IMPTOX Young Researcher Mohamed Fathi Abdallah" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+{% include embed.html url="https://www.youtube.com/embed/_0Le8Mq143c" %}
 
 <br /> <br />
 
