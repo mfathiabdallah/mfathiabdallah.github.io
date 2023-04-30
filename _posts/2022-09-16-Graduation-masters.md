@@ -26,8 +26,8 @@ Eleonora studied the <em>in vitro</em> hepatic and intestinal toxicity of nanopl
 <style>
 .image-container {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: Left;
+  align-items: Left;
 }
 
 .graduation-image {
@@ -45,4 +45,3 @@ Eleonora studied the <em>in vitro</em> hepatic and intestinal toxicity of nanopl
   width: 700px;
 }
 </style>
-
