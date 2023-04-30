@@ -16,3 +16,6 @@ Through this one-hour talk, several highlights were given to the public (in Arab
 <div style="text-align:center">
 <iframe width="620" height="365" src="https://www.youtube.com/embed/ZGtk-ZGcPPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
+{% include embed.html url="https://www.youtube.com/embed/ZGtk-ZGcPPE" %}
