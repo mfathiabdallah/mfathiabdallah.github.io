@@ -8,5 +8,6 @@ $dark: #16537e !default
 $black: #000000 !default
 $light: #f5f5f5 !default
 
-@function reduce ($percent)
-  @return rgba(mix($dark, $light), $percent / 50)
+@function reduce ($percent) {
+  @return rgba(mix($dark, $light, 75%), $percent / 100);
+}
