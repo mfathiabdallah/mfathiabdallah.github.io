@@ -14,5 +14,5 @@ Invited talk by [Egypt Scholars Orgnizartion](https://egyptscholars.org/){:targe
 Through this one-hour talk, several highlights were given to the public (in Arabic) on the issue of mycotoxins in food and their carcinogenic potential (the ability to casue cancer) in human. 
 
 <div style="text-align:center">
-<iframe width="720px" height="365px" src="https://www.youtube.com/embed/ZGtk-ZGcPPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="920px" height="365px" src="https://www.youtube.com/embed/ZGtk-ZGcPPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
