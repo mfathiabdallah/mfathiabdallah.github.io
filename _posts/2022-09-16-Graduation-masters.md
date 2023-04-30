@@ -21,7 +21,7 @@ Eleonora studied the <em>in vitro</em> hepatic and intestinal toxicity of nanopl
   <img class="graduation-image" src="/images/2022_09_22.jpg" alt="Graduation">
   </div>
 
-<p class="caption">Picture Location: Faculty of Bioscience Engineering, Coupure Links 653, Gent 9000, Belgium.</p>
+<p class="caption">Picture Location: Faculty of Bioscience Engineering, UGent.</p>
 
 <style>
 .image-container {
@@ -42,7 +42,7 @@ Eleonora studied the <em>in vitro</em> hepatic and intestinal toxicity of nanopl
   margin-right: 10px;
   font-size: 14px;
   text-align: Left;
-  width: 800px;
+  width: 700px;
 }
 </style>
 
