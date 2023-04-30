@@ -39,7 +39,7 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
 
 .caption {
   margin-top: 0;
-  margin-right: 10px;
+  margin-right: 0px;
   font-size: 14px;
   text-align: center;
   width: 800px;
