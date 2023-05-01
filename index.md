@@ -81,7 +81,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 
 **  **
 <html>
-<marquee behavior="scroll" direction="left" scrollamount="1">"Make things easy for the people, and do not make it difficult for them, and make them calm (with glad tidings) and do not repulse (them)" The Prophet Muhammad (ﷺ) (pbuh). &emsp;
+<marquee behavior="scroll" direction="left" scrollamount="2">"Make things easy for the people, and do not make it difficult for them, and make them calm (with glad tidings) and do not repulse (them)" The Prophet Muhammad (ﷺ) (pbuh). &emsp;
   </marquee>
 </html>
 
