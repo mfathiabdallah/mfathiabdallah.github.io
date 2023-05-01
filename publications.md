@@ -53,7 +53,7 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 8) **MF Abdallah***, K Audenaert, SD Saeger, J Houbraken (2020).
 <br>Revisiting an Aspergillus flavus Strain Isolated from an Egyptian Sugarcane Field in 1930. Microorganisms, 8 (11), 1633. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2076-2607/8/11/1633){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/microorganisms-08-01633-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
-7) J Tan†, M Ameye†, S Landschoot, NÚ De Zutter, S De Saeger, M De Boevre, **MF Abdallah**, T Van der Lee, C Waalwijk, K Audenaert (2020).
+7) J Tan†, M Ameye†, S Landschoot, N De Zutter, S De Saeger, M De Boevre, **MF Abdallah**, T Van der Lee, C Waalwijk, K Audenaert (2020).
 <br>At the scene of the crime: New insights into the role of weakly pathogenic members of the fusarium head blight disease complex. Molecular Plant Pathology, 21 (12), 1559-1572. <span style="color:green">(Open Access)</span> [[Link]](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/mpp.12996){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Molecular Plant Pathology_2020.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 6) **MF Abdallah***, K Audenaert, L Lust, S Landschoot, B Bekaert, G Haesaert, M De Boevre, S De Saeger (2020).
@@ -62,7 +62,7 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 5) **MF Abdallah***, G Girgin, T Baydar (2019).
 <br>Mycotoxin detection in maize, commercial feed, and raw dairy milk samples from Assiut City, Egypt. Veterinary Sciences, 6 (2), 57. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2306-7381/6/2/57){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/vetsci-06-00057-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
-4) **MF Abdallah***, M De Boevre, S Landschoot, S De Saeger, G Haesaert, K Audenaert. 
+4) **MF Abdallah***, M De Boevre, S Landschoot, S De Saeger, G Haesaert, K Audenaert (2018). 
 <br>Fungal Endophytes Control Fusarium graminearum and Reduce Trichothecenes and Zearalenone in Maize. Toxins, 10 (12), 493. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/10/12/493){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-10-00493.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 3) **MF Abdallah***, R Krska, M Sulyok (2018).
