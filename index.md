@@ -9,7 +9,7 @@ Researcher in Food Toxicology <br /> Postdoctoral mandate of the [Ghent Universi
 <!-- Profile picture -->
 <img class="ProfilePic" img width=200 img align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 25px; margin-up: 25px;" src="Me.jpg">
 
-Short Bio (last update: March 2023)
+__Short Bio (last update: March 2023)__
 
 I am a post-doctoral researcher in Toxicology field at [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}. <br> My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
 <br /> <br /> <br /> <br />
