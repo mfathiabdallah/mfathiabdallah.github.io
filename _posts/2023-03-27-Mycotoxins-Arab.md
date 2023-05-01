@@ -9,10 +9,9 @@ categories: media
 
 ## Conferences
 
-Our contribution entitled "Mycotoxin contamination in the Arab world: Highlighting the main knowledge gaps and discussing the current legislations" has been accepted as lecture 
-at the 44th Mycotoxin-Workshop, which will take place on June 5–7, 2023, in Celle (at Hannover), Germany.
+Our contribution entitled "Mycotoxin contamination in the Arab world: Highlighting the main knowledge gaps and discussing the current legislations" has been accepted as lecture at the 44th Mycotoxin-Workshop, which will take place on June 5–7, 2023, in Celle (at Hannover), Germany.
 
-The presentation is scheduled for Tuesday, 06/June/2023 9:00am - 9:15am in the session Food Safety II (06/June/2023, 9:00am - 10:00am).
+The presentation is scheduled for Tuesday, 06/June/2023 9:00am - 9:15 am in the session Food Safety II.
 
 #### More information about the conference  throguh this link [Mycotoxin-Workshop](https://www.mycotoxin-workshop.eu/){:target="_blank" rel="noopener"}
 
@@ -22,32 +21,4 @@ The presentation is scheduled for Tuesday, 06/June/2023 9:00am - 9:15am in the s
 </div>
 <p class="caption">Picture source: <a href="https://www.mycotoxin-workshop.eu/" target="_blank" rel="noopener">Mycotoxin-Workshop</a></p>
 
-<style>
-.image-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.conferences {
-  width: 410px;
-  height: 200px;
-  object-fit: contain;
-  margin-right: 10px;
-}
-
-.conferences-image {
-  width: 400px;
-  height: 200px;
-  object-fit: contain; /* Change it from "cover" to "contain" to have the full image without being cut off*/
-}
-
-.caption {
-  margin-top: 0;
-  margin-right: 10px;
-  font-size: 14px;
-  text-align: center;
-  width: 800px;
-}
-</style>
 
