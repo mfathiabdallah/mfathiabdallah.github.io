@@ -85,6 +85,33 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
   </marquee>
 </html>
 
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Scrolling Text Example</title>
+  <style>
+    .scroll-text {
+      white-space: nowrap;
+      animation: scroll 40s linear infinite;
+    }
+
+    @keyframes scroll {
+      0% {
+        transform: translateX(0);
+      }
+      100% {
+        transform: translateX(-100%);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="scroll-text">"Make things easy for the people, and do not make it difficult for them, and make them calm (with glad tidings) and do not repulse (them)" The Prophet Muhammad (ﷺ) (pbuh). &emsp;</div>
+</body>
+</html>
+
 **  **
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.fathiabdallah.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com){:target="_blank" rel="noopener"} 
 
