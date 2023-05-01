@@ -22,7 +22,7 @@ title: ""
    (* corresponding author; † equal co-authorship)
 
 <h1 align="center">&#10148; Research Articles </h1>
-
+###2023
 17) X Chen, **MF Abdallah**, C Grootaert, F Van Nieuwerburgh, A Rajkovic (2023). New insights into the combined toxicity of aflatoxin B1 and fumonisin B1 in HepG2 cells using Seahorse respirometry analysis and RNA transcriptome sequencing. Environment International, 107945. [doi.org/10.1016/j.envint.2023.107945](https://www.sciencedirect.com/science/article/pii/S0160412023002180){:target="_blank" rel="noopener"}. (Open Access). [Download PDF](https://mfathiabdallah.github.io/pdfs/Chent et al_2023.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 16) Y Tian, **MF Abdallah**, M De Boevre, K Audenaert, C Wang, S De Saege, A Wu (2023). Deciphering Alternaria metabolic responses in microbial confrontation via an integrated mass spectrometric targeted and non-targeted strategy. Food Chemistry, 134694. [doi: 10.1016/j.foodchem.2022.134694](https://www.sciencedirect.com/science/article/pii/S0308814622026565){:target="_blank" rel="noopener"}.
@@ -31,6 +31,7 @@ title: ""
 
 14) F Sun, P Wu, **MF Abdallah**, H Tan, Y Li, S Yang (2023). One sample multi-point calibration curve as a novel approach for quantitative LC-MS analysis: the quantitation of six aflatoxins in milk and oat-based milk as an example. Food Chemistry, 135593. [doi: 10.1016/j.foodchem.2023.135593](https://www.sciencedirect.com/science/article/abs/pii/S0308814623002091){:target="_blank" rel="noopener"}.
 
+####2022
 13) H Zhang, **MF Abdallah**, J Zhang, Y Yu, Q Zhao, C Tang, Y Qin, J Zhang (2022). Comprehensive quantitation of multi-signature peptides originating from casein for the discrimination of milk from eight different animal species using LC-HRMS with stable isotope labeled peptides. Food Chemistry, 390, 133126. [doi: 10.1016/j.foodchem.2022.133126](https://www.sciencedirect.com/science/article/abs/pii/S0308814622010883){:target="_blank" rel="noopener"}.
 
 12) H Tan, F Sun, **MF Abdallah**, J Li, J Zhou, Y Li, S Yang (2022). Background ions into exclusion list: A new strategy to enhance the efficiency of DDA data collection for high-throughput screening of chemical contaminations in food. Food Chemistry, 385, 132669. [doi: 10.1016/j.foodchem.2022.132669](https://www.sciencedirect.com/science/article/abs/pii/S0308814622006318){:target="_blank" rel="noopener"}.
