@@ -26,7 +26,7 @@ title: ""
 
 17) X Chen, **MF Abdallah**, C Grootaert, F Van Nieuwerburgh, A Rajkovic (2023). 
 <br>New insights into the combined toxicity of aflatoxin B1 and fumonisin B1 in HepG2 cells using Seahorse respirometry analysis and RNA transcriptome sequencing. 
-<br>Environment International, 107945. (<span style="color:green">Open Access</span>). [Link](https://www.sciencedirect.com/science/article/pii/S0160412023002180){:target="_blank" rel="noopener"}. [Download PDF](https://mfathiabdallah.github.io/pdfs/Chent et al_2023.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+Environment International, 107945. <span style="color:green">(Open Access)</span> [[Link]](https://www.sciencedirect.com/science/article/pii/S0160412023002180){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Chent et al_2023.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 16) Y Tian, **MF Abdallah**, M De Boevre, K Audenaert, C Wang, S De Saege, A Wu (2023). Deciphering Alternaria metabolic responses in microbial confrontation via an integrated mass spectrometric targeted and non-targeted strategy. Food Chemistry, 134694. [doi: 10.1016/j.foodchem.2022.134694](https://www.sciencedirect.com/science/article/pii/S0308814622026565){:target="_blank" rel="noopener"}.
 
