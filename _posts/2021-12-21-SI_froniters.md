@@ -14,6 +14,7 @@ A new Special Issue in collaboration with Dr. Ahmed Abdeen, Dr. Mohamed Fathi Ab
 <br>
 <br>More information at: <a href="https://tinyurl.com/5h7k6n46" target="_blank">https://tinyurl.com/5h7k6n46</a>
 <br>
+<br>
 <img src="/images/2021_12_21.jpg" alt="Special issue" style="width: 80%;">
 <br>
 <br>#toxicology #animal_health #open_access
