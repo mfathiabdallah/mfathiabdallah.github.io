@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interview with Imptox Young Researchers: Mohamed Fathi Abdallah"
+title: "Interview with Imptox Young Researchers: Dr. Mohamed Fathi Abdallah"
 date: 2023-04-28
 mathjax: true
 inline: true
