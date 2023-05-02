@@ -119,12 +119,12 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 
 <h1 align="center">&#10148; Editor of Book (Chapters) or Journal Issue</h1>
 
-Journal Issue
+##### Journal Issue
 
-1) Dr. Elisabeth Varga, **Dr. MF Abdallah***, Dr. Shupeng Yang .
-<br>Current Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control. Submission deadline June 2023.
-<br>Toxins, 2023. [[Link]](https://www.mdpi.com/journal/toxins/special_issues/18K7C930F7){:target="_blank" rel="noopener"}. 
+1) Dr. Elisabeth Varga, **Dr. MF Abdallah**, Dr. Shupeng Yang .
+<br>Current Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control. 
+<br>Toxins, 2023. [[Link]](https://www.mdpi.com/journal/toxins/special_issues/18K7C930F7){:target="_blank" rel="noopener"}. Submission deadline June 2023.
 
-2) Dr. A Abdeen, **Dr. MF Abdallah***, Dr. W Xu.
-<br>Environmental contaminants and animal health : analysis, toxicity, and mitigation. Submission deadline August 2022.
-<br>Frontiers in Veterinary Science, 2022. [[Link]](https://www.frontiersin.org/research-topics/28308/environmental-contaminants-and-animal-health-analysis-toxicity-and-mitigation#more-text-container-1){:target="_blank" rel="noopener"}. 
+2) Dr. A Abdeen, **Dr. MF Abdallah**, Dr. W Xu.
+<br>Environmental contaminants and animal health : analysis, toxicity, and mitigation. 
+<br>Frontiers in Veterinary Science, 2022. [[Link]](https://www.frontiersin.org/research-topics/28308/environmental-contaminants-and-animal-health-analysis-toxicity-and-mitigation#more-text-container-1){:target="_blank" rel="noopener"}. Submission deadline August 2022.
