@@ -31,7 +31,7 @@ Her PhD work was done under the supervision of Prof. Andreja Rajkovic (Faculty o
 }
 
 .graduation-image {
-  width: 500px;
+  width: 450px;
   height: 400px;
   object-fit: cover;
   margin-right: 10px;
