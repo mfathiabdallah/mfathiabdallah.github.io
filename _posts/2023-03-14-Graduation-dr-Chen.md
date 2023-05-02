@@ -21,7 +21,7 @@ Her PhD work was done under the supervision of Prof. Andreja Rajkovic (Faculty o
   <img class="graduation-image" src="/images/2023_03_14.png" alt="Graduation">
   <img class="graduation-image" src="/images/2023_03_14(2).png" alt="Graduation">
 </div>
-<p class="caption">Picture Taken at Faculty of Bioscience Engineering, UGent.</p>
+<p class="caption">Pictures Taken at Faculty of Bioscience Engineering, UGent.</p>
 
 <style>
 .image-container {
