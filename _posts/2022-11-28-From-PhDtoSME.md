@@ -41,7 +41,7 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
   margin-top: 0;
   margin-right: 0px;
   font-size: 14px;
-  text-align: Center;
+  text-align: left;
   width: 600px;
 }
 </style>
