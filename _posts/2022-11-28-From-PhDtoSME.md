@@ -24,7 +24,7 @@ Thank you Bureau 9000 for the warm welcome we had during every visit.
 <style>
 .image-container {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
 }
 
