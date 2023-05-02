@@ -26,12 +26,12 @@ Her PhD work was done under the supervision of Prof. Andreja Rajkovic (Faculty o
 <style>
 .image-container {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
 }
 
 .graduation-image {
-  width: 400px;
+  width: 500px;
   height: 400px;
   object-fit: cover;
   margin-right: 10px;
