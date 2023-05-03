@@ -4,9 +4,9 @@ title: ""
 
 ---
 
-<!-- Fellowships -->
+<!-- &#10148;>< Fellowships -->
 <div class="collapsible">
-  <h1 class="">&#10148; Fellowships</h1>
+  <h1 class="collapsible-title">&#10148; Fellowships</h1>
   <div class="collapsible-content">
     <ul>
       <li>(2020) Postdoctoral Fellowship-Special Research Fund Ghent University, <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a> project, Belgium. Research grant number BOF20/PDO/032.</li>
