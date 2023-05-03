@@ -6,8 +6,8 @@ title: ""
 
 <!-- Fellowships -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#10148; Fellowships</h1>
-  <div class="collapsible-content">
+  <h1 class="">&#10148; Fellowships</h1>
+  <div class="">
     <ul>
       <li>(2020) Postdoctoral Fellowship-Special Research Fund Ghent University, <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a> project, Belgium. Research grant number BOF20/PDO/032.</li>
       <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
