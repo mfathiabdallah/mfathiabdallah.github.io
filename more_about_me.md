@@ -4,7 +4,7 @@ title: ""
 
 ---
 
-<!-- &#10148;>< Fellowships -->
+<!-- Fellowships -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Fellowships</h1>
   <div class="collapsible-content">
@@ -157,11 +157,13 @@ title: ""
   }
 </style>
 
-<!-- Collaboration (Based on running projects and research papers)-->
+<!-- Collaboration -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#10148; Collaboration (Based on running projects and research papers)</h1>
+  <h1 class="collapsible-title">&#10148; Collaboration</h1>
   <div class="collapsible-content">
     <ul>
+      (Based on running projects and research papers)
+      <br>
       <li>Dr. Julien Masquelier- Sciensano, Chemical and Physical Health Risks, Organic Contaminants and Additives, Leuvensesteenweg 17, 3080 Tervuren, <strong>Belgium</strong>.</li>
       <li>Prof. Gerard Bryan Gonzales- Wageningen University, Wageningen, <strong>Netherlands</strong>.</li>
       <li>Dr. Elisabeth Varga- Department of Food Chemistry and Toxicology, Faculty of Chemistry, University of Vienna, <strong>Austria</strong>.</li>
