@@ -46,7 +46,7 @@ title: ""
 </style>
 
  
-<!-- Funds --> background-color: #ccc
+<!-- Funds -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Funds</h1>
   <div class="collapsible-content">
