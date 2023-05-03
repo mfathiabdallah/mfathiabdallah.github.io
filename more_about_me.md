@@ -46,7 +46,7 @@ title: ""
 </style>
 
  
-<!-- Funds -->
+<!-- Funds --> background-color: #ccc
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Funds</h1>
   <div class="collapsible-content">
@@ -157,7 +157,7 @@ title: ""
   }
 </style>
 
-<!-- Collaboration -->
+<!-- Collaboration (Based on running projects and research papers)-->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Collaboration</h1>
   <div class="collapsible-content">
