@@ -7,7 +7,7 @@ sitemap:
 Researcher in Food Toxicology <br /> Postdoctoral mandate of the [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF).
 <br /> <br />
 <!-- Profile picture -->
-<img class="ProfilePic" img width=200 img align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 25px; margin-up: 25px;" src="Me.jpg">
+<img class="ProfilePic" img width=200 img align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 25px; margin-up: 25px;" src="Me2.png">
 
 <u>Short Bio (last update: March 2023)</u>
 
