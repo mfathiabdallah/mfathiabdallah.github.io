@@ -5,6 +5,7 @@ sitemap:
   lastmod: 2023-04-14
   exclude: 'no'
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-+GyfyidOzjGJ5UC9X/l3qRLjZ5rgfZB8Wg1h2QKjLRyPdIs+E6gFuy9bzm2Z/iISJ6lYU0/wioUPzq3xJAsLsg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
 
