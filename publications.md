@@ -23,6 +23,9 @@ title: ""
 
 <h1 align="center">&#10148; Research Articles </h1>
 
+18) F Sun, P Wu, **MF Abdallah**, H Tan, Y Li, S Yang (2023).
+<br>One sample multi-point calibration curve as a novel approach for quantitative LC-MS analysis: the quantitation of six aflatoxins in milk and oat-based milk as an example. Food Chemistry, 135593. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0308814623002091){:target="_blank" rel="noopener"}.
+
 17) X Chen, **MF Abdallah**, C Grootaert, F Van Nieuwerburgh, A Rajkovic (2023). 
 <br>New insights into the combined toxicity of aflatoxin B1 and fumonisin B1 in HepG2 cells using Seahorse respirometry analysis and RNA transcriptome sequencing. 
 Environment International, 107945. <span style="color:green">(Open Access)</span> [[Link]](https://www.sciencedirect.com/science/article/pii/S0160412023002180){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Chent et al_2023.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
@@ -33,17 +36,17 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 15) H Zhang, Y Li, **MF Abdallah**, H Tan, J Li, S Liu, R Zhang, F Sun, Y Li, S Yang (2023). 
 <br>Novel one-point calibration strategy for high-throughput quantitation of microcystins in freshwater using LC-MS/MS. Science of The Total Environment, 159345. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0048969722064440){:target="_blank" rel="noopener"}.
 
-14) F Sun, P Wu, **MF Abdallah**, H Tan, Y Li, S Yang (2023).
-<br>One sample multi-point calibration curve as a novel approach for quantitative LC-MS analysis: the quantitation of six aflatoxins in milk and oat-based milk as an example. Food Chemistry, 135593. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0308814623002091){:target="_blank" rel="noopener"}.
-
-13) H Zhang, **MF Abdallah**, J Zhang, Y Yu, Q Zhao, C Tang, Y Qin, J Zhang (2022).
+14) H Zhang, **MF Abdallah**, J Zhang, Y Yu, Q Zhao, C Tang, Y Qin, J Zhang (2022).
 <br>Comprehensive quantitation of multi-signature peptides originating from casein for the discrimination of milk from eight different animal species using LC-HRMS with stable isotope labeled peptides. Food Chemistry, 390, 133126. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0308814622010883){:target="_blank" rel="noopener"}.
 
-12) H Tan, F Sun, **MF Abdallah**, J Li, J Zhou, Y Li, S Yang (2022).
+13) H Tan, F Sun, **MF Abdallah**, J Li, J Zhou, Y Li, S Yang (2022).
 <br>Background ions into exclusion list: A new strategy to enhance the efficiency of DDA data collection for high-throughput screening of chemical contaminations in food. Food Chemistry, 385, 132669. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0308814622006318){:target="_blank" rel="noopener"}.
 
-11) X Chen, **MF Abdallah**, C Grootaert, A Rajkovic (2022).
+12) X Chen, **MF Abdallah**, C Grootaert, A Rajkovic (2022).
 <br>Bioenergetic status of the intestinal and hepatic cells after short term exposure to fumonisin B1 and aflatoxin B1. International Journal of Molecular Sciences, 23 (13), 6945. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/1422-0067/23/13/6945){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/ijms-23-06945-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+
+11) F Sun, H Tan, **MF Abdallah**, J Li, J Zhou, Y Li, S Yang (2022).
+<br>A novel calibration strategy based on isotopic distribution for high-throughput quantitative analysis of pesticides and veterinary drugs using LC-HRMS. Journal of Hazardous Materials, 430, 128413. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0304389422002011){:target="_blank" rel="noopener"}.
 
 10) I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021). <br>Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. Toxins, 13 (8), 552. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/8/552){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00552.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
