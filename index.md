@@ -32,7 +32,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
   </div>
   <div style="width: 220px;">
     <a class="twitter-timeline"
-       href="https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw"
+       href="https://twitter.com/MoFathiAbdallah"
        data-tweet-limit="4"
        data-width="280"
        data-height="380"
