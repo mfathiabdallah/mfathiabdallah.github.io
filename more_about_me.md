@@ -172,7 +172,7 @@ title: ""
     
     <!-- Four images side by side -->
     <div class="image-container">
-       <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_ILSI.PNG" alt="MycoTox"></a>
+       <a href="https://ilsi.eu/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_ILSI.PNG" alt="ILSI"></a>
        <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_MycoTox.png" alt="MycoTox"></a>
        <a href="https://www.estiv.org/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_ESTIV.PNG" alt="ESTIV"></a>
        <a href="https://beltox.be/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_BelTox.png" alt="BelTox"></a>
