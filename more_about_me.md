@@ -162,6 +162,7 @@ title: ""
   <h1 class="collapsible-title">&#10148; Memberships</h1>
   <div class="collapsible-content">
     <ul>
+      <li>(Snice 2023) Member of ILSI Europe’s <a href="https://ilsi.eu/" target="_blank" rel="noopener">Natural Toxins’ Expert Group </a>.</li>
       <li>(Snice 2023) Full member <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener">Society for Mycotoxin Research</a>.</li>
       <li>(Since 2021) Full member <a href="https://www.estiv.org/" target="_blank" rel="noopener">European Society of Toxicology In Vitro (ESTIV)</a>.</li>
       <li>(Since 2021) Full member <a href="https://beltox.be/" target="_blank" rel="noopener">Belgian society of Toxicology (BelTox)</a>.</li>
@@ -171,7 +172,8 @@ title: ""
     
     <!-- Four images side by side -->
     <div class="image-container">
-       <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_MycoTox" alt="MycoTox"></a>
+       <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_ILSI.PNG" alt="MycoTox"></a>
+       <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_MycoTox.png" alt="MycoTox"></a>
        <a href="https://www.estiv.org/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_ESTIV.PNG" alt="ESTIV"></a>
        <a href="https://beltox.be/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_BelTox.png" alt="BelTox"></a>
        <a href="http://www.mycotox-society.org/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_ISM.png" alt="ISM"></a>
