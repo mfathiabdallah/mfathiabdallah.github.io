@@ -165,8 +165,8 @@ title: ""
       (Based on running projects and research papers)
       <br>
       <br>
-       <li>Dr. Dachuan Zhang-  Institute of Environmental Engineering, ETH Zürich <strong>Switzerland</strong>.</li>
-      <li>Dr. Julien Masquelier- Sciensano Institute, Tervuren <strong>Belgium</strong>.</li>
+       <li>Dr. Dachuan Zhang-  Institute of Environmental Engineering, ETH Zürich, <strong>Switzerland</strong>.</li>
+      <li>Dr. Julien Masquelier- Sciensano Institute, Tervuren, <strong>Belgium</strong>.</li>
       <li>Prof. Gerard Bryan Gonzales- Wageningen University, Wageningen, <strong>Netherlands</strong>.</li>
       <li>Dr. Elisabeth Varga- Department of Food Chemistry and Toxicology, University of Vienna, <strong>Austria</strong>.</li>
       <li>Dr. Mohammed Aufy- Department of Pharmaceutical Sciences, Division of Pharmacology and Toxicology, University of Vienna, <strong>Austria</strong>.</li>
