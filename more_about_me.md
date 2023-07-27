@@ -157,20 +157,23 @@ title: ""
   }
 </style>
 
-<!-- Memberships at Scientific Societies  -->
+<!-- Memberships -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Memberships at Scientific Societies</h1>
   <div class="collapsible-content">
     <ul>
+      <li>(Snice 2023) Full member <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener">Society for Mycotoxin Research</a>.</li>
       <li>(Since 2021) Full member <a href="https://www.estiv.org/" target="_blank" rel="noopener">European Society of Toxicology In Vitro (ESTIV)</a>.</li>
-      <li>(2019) The Young Scientist Award during the <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener">EURACHEM 2019</a> meeting held in Tartu, Estonia.</li>
-      <li>(2018) Best Poster Award from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the 2nd African Symposium on Mycotoxicology, which was hold in Kenya.</li>
+      <li>(Since 2021) Full member <a href="https://beltox.be/" target="_blank" rel="noopener">Belgian society of Toxicology (BelTox)</a>.</li>
+      <li>(Since 2020) Ordinary member <a href="http://www.mycotox-society.org/" target="_blank" rel="noopener">International Society of Mycotoxicology (ISM)</a>.</li>
     </ul>
     
     
     <!-- Four images side by side -->
     <div class="image-container">
        <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener"><img src="/images/moreaboutme/Toxins.png" alt="Toxins"></a>
+       <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Eurachem.jpg" alt="Eurachem"></a>
+       <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Eurachem.jpg" alt="Eurachem"></a>
        <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Eurachem.jpg" alt="Eurachem"></a>
     </div>  
   </div>
