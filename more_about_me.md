@@ -179,6 +179,43 @@ title: ""
       <li>Prof. Ahmed Abdeen- Center of Excellence in Screening of Environmental Contaminants (CESEC), Benha University, <strong>Egypt</strong>.</li>
     </ul>
 
+<!-- Memberships at Scientific Societies  -->
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Memberships at Scientific Societies</h1>
+  <div class="collapsible-content">
+    <ul>
+      <li>(Since 2021) Full member <a href="https://www.estiv.org/" target="_blank" rel="noopener">European Society of Toxicology In Vitro (ESTIV)</a>.</li>
+      <li>(2019) The Young Scientist Award during the <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener">EURACHEM 2019</a> meeting held in Tartu, Estonia.</li>
+      <li>(2018) Best Poster Award from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the 2nd African Symposium on Mycotoxicology, which was hold in Kenya.</li>
+    </ul>
+    
+    
+    <!-- Four images side by side -->
+    <div class="image-container">
+       <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener"><img src="/images/moreaboutme/Toxins.png" alt="Toxins"></a>
+       <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Eurachem.jpg" alt="Eurachem"></a>
+    </div>  
+  </div>
+</div>
+
+<!-- CSS for image container -->
+<style>
+  .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .image-container img {
+    width: 175px;
+    height: 75px;
+    margin: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+</style>
+  
 
 <script>
   // Function to toggle collapsible sections
