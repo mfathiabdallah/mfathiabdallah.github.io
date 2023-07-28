@@ -21,7 +21,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 <br /> <br />
 	
 <!-- News and Twitter timeline -->
-<div style="display: flex;">
+<!-- <div style="display: flex;">
   <div style="flex: 1; margin-right: 50px;">
     <h2>News</h2>
     <ul>
