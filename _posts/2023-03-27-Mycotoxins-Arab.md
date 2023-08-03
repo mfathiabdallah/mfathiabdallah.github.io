@@ -9,7 +9,7 @@ categories: media
 
 ## Conferences
 
-Our contribution entitled "Mycotoxin contamination in the Arab world: Highlighting the main knowledge gaps and discussing the current legislations" has been accepted as lecture at the 44th Mycotoxin-Workshop, which will take place on June 5–7, 2023, in Celle (at Hannover), Germany.
+Our contribution entitled "Mycotoxin contamination in the Arab world: Highlighting the main knowledge gaps and discussing the current legislation" has been accepted as lecture at the 44th Mycotoxin-Workshop, which will take place on June 5–7, 2023, in Celle (at Hannover), Germany.
 
 The presentation is scheduled for Tuesday, 06/June/2023 9:00am - 9:15 am in the session Food Safety II.
 
