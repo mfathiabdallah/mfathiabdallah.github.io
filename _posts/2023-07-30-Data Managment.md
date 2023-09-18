@@ -9,7 +9,13 @@ categories: media
 
 ## Lecutre
 
-GFoRSS is a not-for-profit organization incorporated in Canada and hosted by the Food Risk Analysis and Regulatory Excellence Platform (PARERA), a joint endeavor of the Department of Food Sciences, Faculty of Agriculture and Food Sciences and the Institute of Nutrition and Functional Foods (INAF) of the Université Laval, Quebec, QC, Canada. GFoRSS aims to promote the generation and dissemination of knowledge and competencies related to food regulatory sciences, that is, the sciences underpinning food regulatory decisions as a multi-disciplinary field of food science, including, but not limited to, the application of food risk analysis and associated disciplines, the development of food laws and the assessment of economic impacts of food regulatory measures.
+A Data Management Plan (DMP) stats with specifying how research data will be handled, both **during and after** any research project. 
+
+The goal of the DMP is to consider the many aspects of data management, metadata generation, data preservation, and analysis before the project begins.
+
+Therefore, it identifies key actions and strategies to ensure that research data are of a high-quality, secure, sustainable, and – to the extent possible – accessible and reusable.
+
+ In this regards, I will give a breif introduction about DMP for the selected students in the Advanced Lab 10 - <a href="https://egyptscholars.org/" target="_blank" rel="noopener">Egypt Scholars Orgnization </a></p> under the theme (Towards Mitigating the Climate Change Crsis). 
 
 <div class="image-container">
   <img class="Membership" src="/images/2023_07_30.jpeg" alt="Lecture">
