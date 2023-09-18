@@ -53,7 +53,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
     <div style="flex: 1; margin-right: 50px;">
       <h3 style="margin-bottom: 0;">20 July 2023</h3>
       <p style="margin-top: 0;">Data Managment Plan Lecture</p>
-      <p style="margin-top: 0;">"<a href="https://www.mdpi.com/journal/toxins/special_issues/18K7C930F7" target="_blank" style="color:#CC0000;">Current Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control</a>"</p>
+      <p >Introduction into DMP for the selected students for the Advanced Lab 10 -Egypt Scholars Organization under the theme (Towards Mitigating the Climate Change Crisis).</p>
       <p style="margin-top: 0;">More information at: <a href="https://www.mfathiabdallah.com/Data-Managment/" target="_blank">https://shorturl.at/nsIX9</a></p>
       <p style="margin-top: 0;">#Data_Management #EgyptScholars #Research</p>
     </div>
