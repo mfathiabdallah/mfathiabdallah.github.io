@@ -63,18 +63,17 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
   </div>
 </div>
 
-<div>
-  <hr />
-  <div style="display: flex;">
+
+<div style="display: flex;">
     <div style="flex: 1; margin-right: 50px;">
-      <h3 style="margin-bottom: 0;">21 December 2021</h3>
-      <p style="margin-top: 0;">A new Special Issue in collaboration with Dr. Ahmed Abdeen, Dr. Mohamed Fathi Abdallah, and Dr. Xu wang</p>
-      <p style="margin-top: 0;">"<a href="https://www.frontiersin.org/research-topics/28308/environmental-contaminants-and-animal-health-analysis-toxicity-and-mitigation" target="_blank" style="color:#CC0000;">Environmental Contaminants and Animal Health: Analysis, Toxicity, and Mitigation</a>"</p>
-      <p style="margin-top: 0;">More information at: <br> <a href="https://tinyurl.com/5h7k6n46" target="_blank">https://tinyurl.com/5h7k6n46</a></p>
-      <p style="margin-top: 0;">#toxicology #animal_health #open_access</p>
+      <h3 style="margin-bottom: 0;">01 December 2022</h3>
+      <p style="margin-top: 0;">A new Special Issue in collaboration with Dr. Elisabeth Varga, Dr. Mohamed Fathi Abdallah, and Dr. Shupeng Yang</p>
+      <p style="margin-top: 0;">"<a href="https://www.mdpi.com/journal/toxins/special_issues/18K7C930F7" target="_blank" style="color:#CC0000;">Current Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control</a>"</p>
+      <p style="margin-top: 0;">More information at: <a href="https://www.mdpi.com/journal/toxins/special_issues/18K7C930F7" target="_blank">https://lnkd.in/g3-kW8dY</a></p>
+      <p style="margin-top: 0;">#toxicology #mycotoxins #open_access</p>
     </div>
     <div>
-      <img src="/images/2021_12_21.jpg" alt="Special issue" style="width: 450px;">
+      <img src="/images/Special-issue-toxins.png" alt="Special issue" style="width: 450px;">
     </div>
   </div>
 </div>
