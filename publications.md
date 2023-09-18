@@ -125,7 +125,7 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 #### Journal Issue
 1) Dr. Elisabeth Varga, **Dr. MF Abdallah**, Dr. Shupeng Yang .
 <br>Current Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control. 
-<br>Toxins, 2023. [[Link]](https://www.mdpi.com/journal/toxins/special_issues/18K7C930F7){:target="_blank" rel="noopener"}. Submission deadline June 2023.
+<br>Toxins, 2023. [[Link]](https://www.mdpi.com/journal/toxins/special_issues/18K7C930F7){:target="_blank" rel="noopener"}. Submission deadline December 2023.
 
 2) Dr. A Abdeen, **Dr. MF Abdallah**, Dr. W Xu.
 <br>Environmental contaminants and animal health : analysis, toxicity, and mitigation. 
