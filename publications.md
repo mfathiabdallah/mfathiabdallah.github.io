@@ -23,6 +23,9 @@ title: ""
 
 <h1 align="center">&#10148; Research Articles </h1>
 
+19)  C Van Camp, W Van Hassel, **MF Abdallah**,  J Masquelier (2023).
+<br>Simultaneous Detection and Quantification of Aflatoxin M1, Eight Microcystin Congeners and Nodularin in Dairy Milk by LC-MS/MS. Chemosensors, 2023, 11(10), 511. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2227-9040/11/10/511){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/chemosensors-11-00511.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+
 18) F Sun, P Wu, **MF Abdallah**, H Tan, Y Li, S Yang (2023).
 <br>One sample multi-point calibration curve as a novel approach for quantitative LC-MS analysis: the quantitation of six aflatoxins in milk and oat-based milk as an example. Food Chemistry, 135593. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0308814623002091){:target="_blank" rel="noopener"}.
 
