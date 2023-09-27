@@ -84,10 +84,10 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 <h1 align="center">&#10148; Reviews</h1>
 
 4) X Chen, **MF Abdallah**, S Landschoot, K Audenaert, S De Saeger, A Rajkovic (2023).
-<br>Aspergillus flavus and Fusarium verticillioides and Their Main Mycotoxins: Global Distribution and Scenarios of Interactions in Maize. Toxins, 15 (9), 577. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/15/9/577){:target="_blank" rel="noopener"}[[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-15-00577.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+<br>Aspergillus flavus and Fusarium verticillioides and Their Main Mycotoxins: Global Distribution and Scenarios of Interactions in Maize. Toxins, 15 (9), 577. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/15/9/577){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-15-00577.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 3) R Tavelli, M Callens, C Grootaert, **MF Abdallah**, A Rajkovic (2022).
-<br>Foodborne pathogens in the plastisphere: Can microplastics in the food chain threaten microbial food safety?. Trends in Food Science & Technology, 129, 1-10. <span style="color:green">(Open Access)</span> [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0924224422003715){:target="_blank" rel="noopener"}[[Download PDF]](https://mfathiabdallah.github.io/pdfs/Tavelli et al 2022.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+<br>Foodborne pathogens in the plastisphere: Can microplastics in the food chain threaten microbial food safety?. Trends in Food Science & Technology, 129, 1-10. <span style="color:green">(Open Access)</span> [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0924224422003715){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Tavelli et al 2022.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 
 2) **MF Abdallah***, WHR Van Hassel, M Andjelkovic, A Wilmotte, A Rajkovic (2021).
