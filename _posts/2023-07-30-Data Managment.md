@@ -21,3 +21,12 @@ This lecture will be held online through MS Teams on July 30, 2023 at 5 PM (Cair
 <p class="caption">Design Credit: <a href="https://egyptscholars.org/" target="_blank" rel="noopener">ES Advanced Lab 10 - 2023 </a></p>
 
 
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_mastodon"></a>
+<a class="a2a_button_email"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
