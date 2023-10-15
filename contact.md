@@ -39,6 +39,24 @@ sitemap:
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2519.815436188713!2d3.7045021157557106!3d51.05225377956562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c36e6fb0b9c9f9%3A0xe50d06e38b9795e5!2sCoupure%20Links%20653%2C%209000%20Gent%2C%20Belgium!5e0!3m2!1sen!2sus!4v1650605672029!5m2!1sen!2sus" width="100%" height="270px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
   </div>
 
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style: left;">
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_linkedin"></a>
+<a class="a2a_button_x"></a>
+<a class="a2a_button_microsoft_teams"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_pinterest"></a>
+<a class="a2a_button_email"></a>
+</div>
+<script>
+var a2a_config = a2a_config || {};
+a2a_config.num_services = 12;
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
 </div>
 
 
