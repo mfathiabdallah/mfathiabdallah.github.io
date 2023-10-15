@@ -271,9 +271,7 @@ title: ""
   .collapsible-title.active {
     background-color: #ccc;
   }
-</style>
 
-<style>
     .a2a_kit {
         float: right; /* Float the div to the right */
         margin: 10px; /* Add some margin for spacing */
