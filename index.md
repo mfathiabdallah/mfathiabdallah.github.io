@@ -19,7 +19,33 @@ In August 2016, I joined the Centre of Excellence of Mycotoxicology & Public Hea
 
 Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF) at the [Department of Food Technology, Safety and Health](https://www.ugent.be/bw/foodscience/en/research#rFoodMicro){:target="_blank" rel="noopener"}.
 <br /> <br />
-	
+
+<style>
+    .a2a_kit {
+        float: right; /* Float the div to the right */
+        margin: 10px; /* Add some margin for spacing */
+    }
+</style>
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+    <a class="a2a_button_facebook"></a>
+    <a class="a2a_button_linkedin"></a>
+    <a class="a2a_button_x"></a>
+    <a class="a2a_button_microsoft_teams"></a>
+    <a class="a2a_button_whatsapp"></a>
+    <a class="a2a_button_pinterest"></a>
+    <a class="a2a_button_email"></a>
+</div>
+<script>
+    var a2a_config = a2a_config || {};
+    a2a_config.num_services = 12;
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+
+
 <!-- News and Twitter timeline -->
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 50px;">
