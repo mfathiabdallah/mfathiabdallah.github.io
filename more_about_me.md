@@ -273,6 +273,7 @@ title: ""
   }
   </style>
   
+  </div>
   <style>
     .a2a_kit {
         float: right; /* Float the div to the right */
