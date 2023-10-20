@@ -19,6 +19,7 @@ Congratualtion Dr. Chen, and all the best wishes in your future endeavours!
 
 <div class="image-container">
   <img class="graduation-image" src="/images/2023_03_14.png" alt="Graduation">
+  </div>
   <img class="graduation-image" src="/images/2023_03_14(2).png" alt="Graduation">
 </div>
 <p class="caption">Pictures Taken at Faculty of Bioscience Engineering, UGent.</p>
