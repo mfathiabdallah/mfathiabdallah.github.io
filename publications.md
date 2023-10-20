@@ -40,7 +40,7 @@ title: ""
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
-</div>
+
 ---
 
 ## Publications 
@@ -162,29 +162,3 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 <br>Environmental contaminants and animal health : analysis, toxicity, and mitigation. 
 <br>Frontiers in Veterinary Science, 2022. [[Link]](https://www.frontiersin.org/research-topics/28308/environmental-contaminants-and-animal-health-analysis-toxicity-and-mitigation#more-text-container-1){:target="_blank" rel="noopener"}. Submission deadline August 2022.
 
-
-</div>
-<style>
-    .a2a_kit {
-        float: right; /* Float the div to the right */
-        margin: 10px; /* Add some margin for spacing */
-    }
-</style>
-
-<!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-    <a class="a2a_button_facebook"></a>
-    <a class="a2a_button_linkedin"></a>
-    <a class="a2a_button_x"></a>
-    <a class="a2a_button_microsoft_teams"></a>
-    <a class="a2a_button_whatsapp"></a>
-    <a class="a2a_button_pinterest"></a>
-    <a class="a2a_button_email"></a>
-</div>
-<script>
-    var a2a_config = a2a_config || {};
-    a2a_config.num_services = 12;
-</script>
-<script async src="https://static.addtoany.com/menu/page.js"></script>
-<!-- AddToAny END -->
