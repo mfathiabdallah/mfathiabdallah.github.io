@@ -163,7 +163,7 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 <br>Frontiers in Veterinary Science, 2022. [[Link]](https://www.frontiersin.org/research-topics/28308/environmental-contaminants-and-animal-health-analysis-toxicity-and-mitigation#more-text-container-1){:target="_blank" rel="noopener"}. Submission deadline August 2022.
 
 
-
+</div>
 <style>
     .a2a_kit {
         float: right; /* Float the div to the right */
