@@ -48,6 +48,12 @@ title: ""
 
 <h1 align="center">&#10148; Research Articles </h1>
 
+21) M Vandecasteele, T Depaepe, **MF Abdallah**, S De Saeger, M Höfte, G Haesaert, D Vab Der Straeten, K Audenaert (2023).
+<br>Ethylene production during Alternaria infections on potato plants and its antagonistic role in virulence of different Alternaria species. Plant Pathology, 00, 1–13. [[Link]](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/ppa.13828){:target="_blank" rel="noopener"}.
+
+20) S Yang, J Chen, **MF Abdallah**, H Lin, P Yang, J Li, R Zhang, Q Li, P Lu, S Liu, Y Li (2023).
+<br>An integrated calibration strategy for the development and validation of an LC-MS/MS method for accurate quantification of egg allergens (Gal d 1–6) in foods. Food Chemistry, 135593. [[Link]](https://www.sciencedirect.com/science/article/pii/S0308814623025402){:target="_blank" rel="noopener"}.
+
 19)  C Van Camp, W Van Hassel, **MF Abdallah**,  J Masquelier (2023).
 <br>Simultaneous Detection and Quantification of Aflatoxin M1, Eight Microcystin Congeners and Nodularin in Dairy Milk by LC-MS/MS. Chemosensors, 2023, 11(10), 511. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2227-9040/11/10/511){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/chemosensors-11-00511.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
@@ -108,6 +114,9 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 ---
 <h1 align="center">&#10148; Reviews</h1>
 
+5) X Chen, **MF Abdallah**, X Chen, A Rajkovic (2023).
+<br>Current Knowledge of Individual and Combined Toxicities of Aflatoxin B1 and Fumonisin B1 In Vitro. Toxins, 15 (11), 653. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/15/11/653){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-15-00653.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+
 4) X Chen, **MF Abdallah**, S Landschoot, K Audenaert, S De Saeger, A Rajkovic (2023).
 <br>Aspergillus flavus and Fusarium verticillioides and Their Main Mycotoxins: Global Distribution and Scenarios of Interactions in Maize. Toxins, 15 (9), 577. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/15/9/577){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-15-00577.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
@@ -154,7 +163,7 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 <h1 align="center">&#10148; Editor of Book (Chapters) or Journal Issue</h1>
 
 #### Journal Issue
-1) Dr. Elisabeth Varga, **Dr. MF Abdallah**, Dr. Shupeng Yang .
+1) Dr. E Varga, **Dr. MF Abdallah**, Dr. S Yang .
 <br>Current Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control. 
 <br>Toxins, 2023. [[Link]](https://www.mdpi.com/journal/toxins/special_issues/18K7C930F7){:target="_blank" rel="noopener"}. Submission deadline December 2023.
 
