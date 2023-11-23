@@ -26,7 +26,6 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
         margin: 10px; /* Add some margin for spacing */
     }
 </style>
-
 <!-- News and Twitter timeline -->
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 50px;">
