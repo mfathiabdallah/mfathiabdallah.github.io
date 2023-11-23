@@ -27,25 +27,6 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
     }
 </style>
 
-<!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-    <a class="a2a_button_facebook"></a>
-    <a class="a2a_button_linkedin"></a>
-    <a class="a2a_button_x"></a>
-    <a class="a2a_button_microsoft_teams"></a>
-    <a class="a2a_button_whatsapp"></a>
-    <a class="a2a_button_pinterest"></a>
-    <a class="a2a_button_email"></a>
-</div>
-<script>
-    var a2a_config = a2a_config || {};
-    a2a_config.num_services = 12;
-</script>
-<script async src="https://static.addtoany.com/menu/page.js"></script>
-<!-- AddToAny END -->
-
-
 <!-- News and Twitter timeline -->
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 50px;">
@@ -116,4 +97,21 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.fathiabdallah.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com){:target="_blank" rel="noopener"} 
 
 
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+    <a class="a2a_button_facebook"></a>
+    <a class="a2a_button_linkedin"></a>
+    <a class="a2a_button_x"></a>
+    <a class="a2a_button_microsoft_teams"></a>
+    <a class="a2a_button_whatsapp"></a>
+    <a class="a2a_button_pinterest"></a>
+    <a class="a2a_button_email"></a>
+</div>
+<script>
+    var a2a_config = a2a_config || {};
+    a2a_config.num_services = 12;
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
 
