@@ -48,6 +48,12 @@ title: ""
 
 <h1 align="center">&#10148; Research Articles </h1>
 
+22)  M Gao, **MF Abdallah**, M Song, Y Xu, D Sun, P Lu, J Wang (2023).
+<br>Novel Endophytic Pseudescherichia sp. GSE25 Strain Significantly Controls Fusarium graminearum and Reduces Deoxynivalenol in Wheat.Toxins 15 (12), 702. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/15/12/702){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/chemosensors-11-00511.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+
+22)  M Gao, M Zhang, J Zhang, X Yang, **MF Abdallah**, J Wang (2023).
+<br>Phylogenetic Variation of Tri1 Gene and Development of PCR–RFLP Analysis for the Identification of NX Genotypes in Fusarium graminearum Species Complex. Toxins 15 (12), 692. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/15/12/692){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/chemosensors-11-00511.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+
 21) M Vandecasteele, T Depaepe, **MF Abdallah**, S De Saeger, M Höfte, G Haesaert, D Vab Der Straeten, K Audenaert (2023).
 <br>Ethylene production during Alternaria infections on potato plants and its antagonistic role in virulence of different Alternaria species. Plant Pathology, 00, 1–13. [[Link]](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/ppa.13828){:target="_blank" rel="noopener"}.
 
@@ -113,6 +119,9 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 
 ---
 <h1 align="center">&#10148; Reviews</h1>
+
+6) **MF Abdallah***, M Gado, D Abdelsadek, F Zahran, NN El-Salhey, O Mehrez, S Abdel-Hay, SM Mohamed, K De Ruyck, S Yang, GB Gonzales, E Varga (2023).
+<br>Mycotoxin contamination in the Arab world: Highlighting the main knowledge gaps and the current legislation. Mycotoxin Research, 1-26. [[Link]](https://link.springer.com/article/10.1007/s12550-023-00513-2){:target="_blank" rel="noopener"}.
 
 5) X Chen, **MF Abdallah**, X Chen, A Rajkovic (2023).
 <br>Current Knowledge of Individual and Combined Toxicities of Aflatoxin B1 and Fumonisin B1 In Vitro. Toxins, 15 (11), 653. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/15/11/653){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-15-00653.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
