@@ -100,3 +100,29 @@ During the half-day intervision sessions, the 4 groups were discusseing their ca
 ### Added value
 
 Co-organised by a non-academic patron, 'From PhD to SME' was a high-yield opportunity for (post)doctoral researchers who were keen to gain valuable professional work experience, much sought-after by their future employers.
+
+
+<style>
+    .a2a_kit {
+        float: right; /* Float the div to the right */
+        margin: 10px; /* Add some margin for spacing */
+    }
+</style>
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+    <a class="a2a_button_facebook"></a>
+    <a class="a2a_button_linkedin"></a>
+    <a class="a2a_button_x"></a>
+    <a class="a2a_button_microsoft_teams"></a>
+    <a class="a2a_button_whatsapp"></a>
+    <a class="a2a_button_pinterest"></a>
+    <a class="a2a_button_email"></a>
+</div>
+<script>
+    var a2a_config = a2a_config || {};
+    a2a_config.num_services = 12;
+</script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
