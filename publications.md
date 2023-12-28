@@ -48,7 +48,7 @@ title: ""
 
 <h1 align="center">&#10148; Research Articles </h1>
 
-22)  M Gao, **MF Abdallah**, M Song, Y Xu, D Sun, P Lu, J Wang (2023).
+23)  M Gao, **MF Abdallah**, M Song, Y Xu, D Sun, P Lu, J Wang (2023).
 <br>Novel Endophytic Pseudescherichia sp. GSE25 Strain Significantly Controls Fusarium graminearum and Reduces Deoxynivalenol in Wheat.Toxins 15 (12), 702. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/15/12/702){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-15-00702-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 22)  M Gao, M Zhang, J Zhang, X Yang, **MF Abdallah**, J Wang (2023).
