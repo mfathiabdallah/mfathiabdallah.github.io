@@ -22,7 +22,7 @@ Finally, I would like to thank all the co-authors for their contributions.
 #mycotoxins #arableague #foodsafety #feed #arabworld
 
 <div class="image-container">
-  <img class="Publication" src="/images/2023_12_20.jpeg" alt="Publication">
+  <img class="Publication" src="/images/2023_12_20.PNG" alt="Publication">
 </div>
 
 <style>
