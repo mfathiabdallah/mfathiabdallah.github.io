@@ -9,7 +9,7 @@ title: ""
   <h1 class="collapsible-title">&#10148; Fellowships</h1>
   <div class="collapsible-content">
     <ul>
-      <li>(2023) Postdoctoral Fellowship-, <a href="https://www.frs-fnrs.be/en/" target="_blank" rel="noopener">F.R.S-FNRS</a> mandate, Belgium. Host institute <a href="https://web.umons.ac.be/en/" target="_blank" rel="noopener">University of Mons</a>.</li>
+      <li>(2023) Postdoctoral Fellowship, <a href="https://www.frs-fnrs.be/en/" target="_blank" rel="noopener">F.R.S-FNRS</a> mandate, Belgium. Host institute <a href="https://web.umons.ac.be/en/" target="_blank" rel="noopener">University of Mons</a>.</li>
       <li>(2020) Postdoctoral Fellowship-Special Research Fund Ghent University, <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a> mandate, Belgium. Research grant number BOF20/PDO/032.</li>
       <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
       <li>(2016) PhD Research Fellowship in the framework of <a href="http://www.mycokey.eu/" target="_blank" rel="noopener">Mycokey</a> project, <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a>, Belgium.</li> 
@@ -20,6 +20,7 @@ title: ""
     <!-- Four images side by side -->
     <div class="image-container">
        
+       <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/moreaboutme/fnrs.png" alt="UGENT"></a>
        <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
        <a href="http://www.mycokey.eu/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Mycokey(3).png" alt="Mycokey"></a>
        <a href="https://erasmus-plus.ec.europa.eu/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Erasmus2.jpg" alt="Erasmus"></a>
