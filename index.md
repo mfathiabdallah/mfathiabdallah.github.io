@@ -55,16 +55,16 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 <div>
   <h2>Announcements</h2>
   <hr />
-	  <div style="display: flex;">
+	<div style="display: flex;">
     <div style="flex: 1; margin-right: 50px;">
-      <h3 style="margin-bottom: 0;">20 July 2023</h3>
+      <h3 style="margin-bottom: 0;">20 December 2023</h3>
       <p style="margin-top: 0;">Mycotoxin contamination in the Arab world</p>
       <p >Introduction to DMP for the selected students for the Advanced Lab 10 -Egypt Scholars Organization under the theme (Towards Mitigating the Climate Change Crisis).</p>
       <p style="margin-top: 0;">More information at: <a href="https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/" target="_blank">https://shorturl.at/nsIX9</a></p>
       <p style="margin-top: 0;">#Data_Management #EgyptScholars #Research</p>
     </div>
     <div>
-      <img src="/images/2023_12_20.png" alt="Special issue" style="width: 450px;">
+      <img src="/images/2023_12_20.PNG" alt="publication" style="width: 450px;">
     </div>
   </div>
 	
@@ -82,8 +82,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
       <img src="/images/2023_07_30.jpeg" alt="Special issue" style="width: 450px;">
     </div>
   </div>
-</div>
-
+  
   <hr />
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 50px;">
