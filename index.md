@@ -59,8 +59,8 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
     <div style="flex: 1; margin-right: 50px;">
       <h3 style="margin-bottom: 0;">20 December 2023</h3>
       <p style="margin-top: 0;">Mycotoxin contamination in the Arab world</p>
-      <p >Our review paper about **"mycotoxin contamination in the Arab world"** is now online in <a href="https://link.springer.com/journal/12550" target="_blank" rel="noopener">Mycotoxin Research Journal</a> (the official publication of the <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener">Society for Mycotoxin Research)</a>.</p>
-      <p style="margin-top: 0;">More information at: <a href="https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/" target="_blank">Page redirect</a></p>
+      <p >Our review paper about "mycotoxin contamination in the Arab world" is now online in <a href="https://link.springer.com/journal/12550" target="_blank" rel="noopener">Mycotoxin Research Journal</a> (the official publication of the <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener">Society for Mycotoxin Research)</a>.</p>
+      <p style="margin-top: 0;">More information through this link: <a href="https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/" target="_blank">Page redirect</a></p>
       <p style="margin-top: 0;">#mycotoxins #arableague #foodsafety #feed #arabworld</p>
     </div>
     <div>
