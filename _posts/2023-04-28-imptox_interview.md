@@ -9,19 +9,13 @@ categories: media
 
 ## Interview
 
-Mohamed Fathi Abdallah is a PostDoc Researcher in Toxicology at Ghent University
-
-Find out why he gets interested in science, what he likes about their research at [IMPTOX](https://www.imptox.eu/en/){:target="_blank" rel="noopener"} project, the challenges he is facing and what are his hopes for the future of science.
 
 {% include embed.html url="https://www.youtube.com/embed/_0Le8Mq143c" %}
 
-<br /> <br />
-
+<br />
 **  **
-
-The [IMPTOX](https://www.imptox.eu/en/){:target="_blank" rel="noopener"} project has received funding from the EU’s H2020 framework program for research and innovation under grant agreement n. 965173.
-
-Imptox is one of five projects in the EU Horizon 2020 programme that will work together with the European Commission's Joint Research Center to form The European Research Cluster to Understand the Health Impacts of Micro- and Nanoplastics, CUSP. It is the cluster’s overall goal to contribute with new scientific knowledge and know-how to the European Strategy for Plastics.
+Mohamed Fathi Abdallah is a PostDoc Researcher in Toxicology at Ghent University. Find out why he gets interested in science, what he likes about their research at [IMPTOX](https://www.imptox.eu/en/){:target="_blank" rel="noopener"} project, the challenges he is facing and what are his hopes for the future of science.
+The [IMPTOX](https://www.imptox.eu/en/){:target="_blank" rel="noopener"} project has received funding from the EU’s H2020 framework program for research and innovation under grant agreement n. 965173. Imptox is one of five projects in the EU Horizon 2020 programme that will work together with the European Commission's Joint Research Center to form The European Research Cluster to Understand the Health Impacts of Micro- and Nanoplastics, CUSP. It is the cluster’s overall goal to contribute with new scientific knowledge and know-how to the European Strategy for Plastics.
 
 <div class="image-container">
   <img class="imptox-image" src="/images/imptox.png" alt="imptox">
