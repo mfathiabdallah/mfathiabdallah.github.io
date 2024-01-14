@@ -44,15 +44,33 @@ title: ""
 ---
 
 ## Publications 
-| Item | _N_ | 
-| ------------ | ----------- | 
-| Research Articles| 23 | 
-| Reviews | 6 | 
-| Book Chapters | 1 |
-| Editorials | 3 |
-| Correspondence | 1 |
-| ------------ | ----------- | 
-| Total | 28 |
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Portfolio Website</td>
+      <td>Personal website showcasing my projects</td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td>Blog System</td>
+      <td>Simple blogging platform</td>
+      <td>Node.js, Express, MongoDB</td>
+    </tr>
+    <tr>
+      <td>Weather App</td>
+      <td>App displaying current weather information</td>
+      <td>React, OpenWeatherMap API</td>
+    </tr>
+  </tbody>
+</table>
+
 
    (* corresponding author; † equal co-authorship) 
 
