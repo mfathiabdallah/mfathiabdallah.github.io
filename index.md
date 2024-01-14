@@ -20,7 +20,7 @@ In August 2016, I joined the Centre of Excellence of Mycotoxicology & Public Hea
 
 Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF) at the [Department of Food Technology, Safety and Health](https://www.ugent.be/bw/foodscience/en/research#rFoodMicro){:target="_blank" rel="noopener"}.!-->
 
-##### Education, Training and Working experiences
+#### Education, Training and Working experiences
 - Bachelor's Degree in Veterinary Medical Sciences, [Assiut University](https://www.aun.edu.eg/main/){:target="_blank" rel="noopener"}, Egypt.
 - Master's Degre in Pharmaceutical Toxicology, [Hacettepe University](https://www.hacettepe.edu.tr/english){:target="_blank" rel="noopener"}, Turkey.
 - Erasmus+ Intern Researcher, [_IfADo_](https://www.ifado.de/ifadoen/){:target="_blank" rel="noopener"} Institute, Dortmund, Germany.
@@ -111,15 +111,14 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 **  **
 <html>
 <marquee behavior="scroll" direction="left" scrollamount="3">We are looking for motviated students and researchers to join our group. Please contact me for more details &emsp;
+</marquee>
 <marquee behavior="scroll" direction="left" scrollamount="3">We are looking for motviated students and researchers to join our group. Please contact me for more details &emsp;
   </marquee>
 </html>
 
 **  **
 	
-	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.fathiabdallah.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com){:target="_blank" rel="noopener"} 
-
 
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
