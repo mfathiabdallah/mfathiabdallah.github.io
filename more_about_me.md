@@ -5,10 +5,9 @@ title: ""
 ---
 
 <!-- Fellowships -->
-<div class="collapsible">
-  <h1 class="collapsible-title">&#10148; Fellowships</h1>
-  <div class="collapsible-content">
-    <ul>
+<div>
+  <h1>&#10148; Fellowships</h1>
+  <ul>
       <li>(2023) Postdoctoral Fellowship, <a href="https://www.frs-fnrs.be/en/" target="_blank" rel="noopener">F.R.S-FNRS</a> mandate, Belgium. Host institute <a href="https://web.umons.ac.be/en/" target="_blank" rel="noopener">University of Mons</a>.</li>
       <li>(2020) Postdoctoral Fellowship-Special Research Fund Ghent University, <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a> mandate, Belgium. Research grant number BOF20/PDO/032.</li>
       <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
@@ -46,7 +45,6 @@ title: ""
     border-radius: 5px;
   }
 </style>
-
  
 <!-- Funds -->
 <div class="collapsible">
