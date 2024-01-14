@@ -45,32 +45,26 @@ title: ""
 
 ## Publications 
 <table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Description</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td>Portfolio Website</td>
-      <td>Personal website showcasing my projects</td>
-      <td>HTML, CSS, JavaScript</td>
+      <td>Research Articles</td>
+      <td>23</td>
+      <td>Editorials</td>
+       <td>3</td>
     </tr>
     <tr>
-      <td>Blog System</td>
-      <td>Simple blogging platform</td>
-      <td>Node.js, Express, MongoDB</td>
+      <td>Reviews</td>
+      <td>6</td>
+      <td>Book Chapters</td>
+       <td>1</td>
     </tr>
     <tr>
-      <td>Weather App</td>
-      <td>App displaying current weather information</td>
-      <td>React, OpenWeatherMap API</td>
+      <td>Correspondence</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table>
-
+Total = 34 
 
    (* corresponding author; † equal co-authorship) 
 
