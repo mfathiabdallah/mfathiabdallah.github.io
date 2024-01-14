@@ -4,7 +4,7 @@ sitemap:
   lastmod: 2023-04-10
   exclude: 'no'
 ---
-Researcher in Food Toxicology <br /> Postdoctoral mandate of the [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF).
+Researcher in Food Toxicology and Human Health <br /> Postdoctoral mandate of the [F.R.S-FNRS](https://www.frs-fnrs.be/en/){:target="_blank" rel="noopener"}, Belgium. Host institute [University of Mons](https://www.frs-fnrs.be/en/){:target="_blank" rel="noopener"}.
 <br /> <br /> 
 <!-- Profile picture -->
 <img class="ProfilePic" img width=170 img align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 25px; margin-up: 25px;" src="mohamed_fathi_abdallah_2023(2).jpg">
