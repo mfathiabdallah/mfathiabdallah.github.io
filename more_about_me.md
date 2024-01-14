@@ -28,7 +28,6 @@ title: ""
     </div>  
   </div>
  </div>
-</div>
 
 <!-- CSS for image container -->
 <style>
