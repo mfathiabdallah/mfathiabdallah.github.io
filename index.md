@@ -92,8 +92,6 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
       <img src="/images/2023_07_30.jpeg" alt="Special issue" style="width: 450px;">
     </div>
   </div>
-  
-  <hr />
 <!--<div style="display: flex;">
     <div style="flex: 1; margin-right: 50px;">
       <h3 style="margin-bottom: 0;">01 December 2022</h3>
