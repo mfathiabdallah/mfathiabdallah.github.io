@@ -20,14 +20,14 @@ In August 2016, I joined the Centre of Excellence of Mycotoxicology & Public Hea
 
 Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF) at the [Department of Food Technology, Safety and Health](https://www.ugent.be/bw/foodscience/en/research#rFoodMicro){:target="_blank" rel="noopener"}.!-->
 
-#### Education, Training and Working experiences
+##### Education, Training and Working experiences
 - Bachelor's Degree in Veterinary Medical Sciences, [Assiut University](https://www.aun.edu.eg/main/){:target="_blank" rel="noopener"}, Egypt.
 - Master's Degre in Pharmaceutical Toxicology, [Hacettepe University](https://www.hacettepe.edu.tr/english){:target="_blank" rel="noopener"}, Turkey.
-- Erasmus+ Intern Researcher, [_IfADo_](https://www.ifado.de/ifadoen/){:target="_blank" rel="noopener"}, Dortmund, Germany.
-- Erasmus+ Exchange Master Student:** [University of Natural Resources and Life Sciences, Vienna](https://boku.ac.at/en/){:target="_blank" rel="noopener"} (BOKU), Austria.
+- Erasmus+ Intern Researcher, [_IfADo_](https://www.ifado.de/ifadoen/){:target="_blank" rel="noopener"} Institute, Dortmund, Germany.
+- Erasmus+ Exchange Master Student, [University of Natural Resources and Life Sciences, Vienna](https://boku.ac.at/en/){:target="_blank" rel="noopener"} (BOKU), Austria.
 - PhD in Pharmaceutical Sciences, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium.
 - Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland
-- Postdoctoral Fellow, [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF), Department of [Food Technology, Safety, and Health](https://www.ugent.be/bw/foodscience/en/research#rFoodMicro){:target="_blank" rel="noopener"}, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium.
+- Postdoctoral Fellow, [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF), [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium.
 <br /> 
 
 <style>
@@ -111,7 +111,6 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 **  **
 <html>
 <marquee behavior="scroll" direction="left" scrollamount="3">We are looking for motviated students and researchers to join our group. Please contact me for more details &emsp;
-  </marquee>
 <marquee behavior="scroll" direction="left" scrollamount="3">We are looking for motviated students and researchers to join our group. Please contact me for more details &emsp;
   </marquee>
 </html>
