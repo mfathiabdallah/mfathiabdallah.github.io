@@ -5,7 +5,7 @@ title: ""
 ---
 
 <!-- Fellowships -->
-<div>
+<div class="fellowships-box">
   <h1>&#10148; Fellowships</h1>
   <ul>
       <li>(2023) Postdoctoral Fellowship, <a href="https://www.frs-fnrs.be/en/" target="_blank" rel="noopener">F.R.S-FNRS</a> mandate, Belgium. Host institute <a href="https://web.umons.ac.be/en/" target="_blank" rel="noopener">University of Mons</a>.</li>
