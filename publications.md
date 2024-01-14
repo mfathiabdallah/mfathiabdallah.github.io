@@ -44,6 +44,16 @@ title: ""
 ---
 
 ## Publications 
+| Item | _N_ | 
+| ------------ | ----------- | 
+| Research Articles| 23 | 
+| Reviews | 6 | 
+| Book Chapters | 1 |
+| Editorials | 3 |
+| Correspondence | 1 |
+| ------------ | ----------- | 
+| Total | 28 |
+
    (* corresponding author; † equal co-authorship) 
 
 <h1 align="center">&#10148; Research Articles </h1>
