@@ -7,7 +7,6 @@ title: ""
 <!-- Fellowships -->
 <div>
   <h1 class="collapsible-title">&#10148; Fellowships</h1>
-  <div class="collapsible-content">
     <ul>
       <li>(2023) Postdoctoral Fellowship, <a href="https://www.frs-fnrs.be/en/" target="_blank" rel="noopener">F.R.S-FNRS</a> mandate, Belgium. Host institute <a href="https://web.umons.ac.be/en/" target="_blank" rel="noopener">University of Mons</a>.</li>
       <li>(2020) Postdoctoral Fellowship-Special Research Fund Ghent University, <a href="https://www.ugent.be/en" target="_blank" rel="noopener">Ghent University</a> mandate, Belgium. Research grant number BOF20/PDO/032.</li>
@@ -27,6 +26,7 @@ title: ""
       <a href="https://www.turkiyeburslari.gov.tr/" target="_blank" rel="noopener"><img src="/images/moreaboutme/TurkishScholarship.jpeg" alt="TurkishScholarship"></a>
     </div>  
   </div>
+ </div>
 </div>
 
 <!-- CSS for image container -->
