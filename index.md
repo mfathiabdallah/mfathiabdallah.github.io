@@ -21,14 +21,15 @@ In August 2016, I joined the Centre of Excellence of Mycotoxicology & Public Hea
 
 Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF) at the [Department of Food Technology, Safety and Health](https://www.ugent.be/bw/foodscience/en/research#rFoodMicro){:target="_blank" rel="noopener"}.!-->
 
-#### Education, Training and Working experiences
-- Bachelor's Degree in Veterinary Medical Sciences, [Assiut University](https://www.aun.edu.eg/main/){:target="_blank" rel="noopener"}, Egypt.
-- Master's Degre in Pharmaceutical Toxicology, [Hacettepe University](https://www.hacettepe.edu.tr/english){:target="_blank" rel="noopener"}, Turkey.
-- Erasmus+ Intern Researcher, [_IfADo_](https://www.ifado.de/ifadoen/){:target="_blank" rel="noopener"} Institute, Dortmund, Germany.
-- Erasmus+ Exchange Master Student, [University of Natural Resources and Life Sciences, Vienna](https://boku.ac.at/en/){:target="_blank" rel="noopener"} (BOKU), Austria.
-- PhD in Pharmaceutical Sciences, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium.
-- Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland
+#### Previous Education, Training & Working experiences
 - Postdoctoral Fellow, [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF), [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium.
+- Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland
+- PhD in Pharmaceutical Sciences, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium.
+- Erasmus+ Exchange Master Student, [University of Natural Resources and Life Sciences, Vienna](https://boku.ac.at/en/){:target="_blank" rel="noopener"} (BOKU), Austria.
+- Erasmus+ Intern Researcher, [_IfADo_](https://www.ifado.de/ifadoen/){:target="_blank" rel="noopener"} Institute, Dortmund, Germany.
+- Master's Degre in Pharmaceutical Toxicology, [Hacettepe University](https://www.hacettepe.edu.tr/english){:target="_blank" rel="noopener"}, Turkey.
+- Bachelor's Degree in Veterinary Medical Sciences, [Assiut University](https://www.aun.edu.eg/main/){:target="_blank" rel="noopener"}, Egypt.
+
 <br /> 
 
 <style>
