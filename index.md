@@ -39,7 +39,7 @@ We are looking for motivated students and researchers to join our group. Please 
 </marquee>
 
 **  **
-
+<hr />
 <style>
     .a2a_kit {
         float: right; /* Float the div to the right */
