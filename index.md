@@ -29,7 +29,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 - Erasmus+ Intern Researcher, [_IfADo_](https://www.ifado.de/ifadoen/){:target="_blank" rel="noopener"} Institute, Dortmund, Germany.
 - Master's Degre in Pharmaceutical Toxicology, [Hacettepe University](https://www.hacettepe.edu.tr/english){:target="_blank" rel="noopener"}, Turkey.
 - Bachelor's Degree in Veterinary Medical Sciences, [Assiut University](https://www.aun.edu.eg/main/){:target="_blank" rel="noopener"}, Egypt.
-<br /> 
+
 **  **
 <html>
 <marquee behavior="scroll" direction="left" scrollamount="3">We are looking for motivated students and researchers to join our group. Please contact me for more details &emsp;
@@ -38,6 +38,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
   </marquee>
 </html>
 **  **
+
 <style>
     .a2a_kit {
         float: right; /* Float the div to the right */
