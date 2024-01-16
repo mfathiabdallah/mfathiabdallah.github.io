@@ -32,10 +32,8 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 
 **  **
 <html>
-<marquee behavior="scroll" direction="left" scrollamount="3">We are looking for motivated students and researchers to join our group. Please contact me for more details &emsp;
-</marquee>
-<marquee behavior="scroll" direction="left" scrollamount="2">我们正在寻找积极进取的学生和研究人员加入您的团队. 请联系我了解更多详情. &emsp;
-  </marquee>
+<marquee behavior="scroll" direction="left" scrollamount="3">We are looking for motivated students and researchers to join our group. Please contact me for more details &emsp; </marquee>
+<marquee behavior="scroll" direction="left" scrollamount="3">我们正在寻找积极进取的学生和研究人员加入您的团队. 请联系我了解更多详情. &emsp; </marquee>
 </html>
 **  **
 
