@@ -8,7 +8,7 @@ sitemap:
 <!-- Profile picture -->
 <img class="ProfilePic" img width=170 img align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 25px; margin-up: 25px;" src="mohamed_fathi_abdallah_2023(2).jpg">
 
-<u> ###### Short Bio (last update: Janurary 2024)</u>
+<u>Short Bio (last update: Janurary 2024)</u>
 
 Researcher in Food Toxicology and Human Health. <br />[F.R.S-FNRS](https://www.frs-fnrs.be/en/){:target="_blank" rel="noopener"} mandate. Host institute [University of Mons](https://www.frs-fnrs.be/en/){:target="_blank" rel="noopener"}, Belgium.
 <br /> <br> 
@@ -17,7 +17,7 @@ My research spans from detection of natural toxins, such as mycotoxins and cyano
 
 #### Previous Education, Training & Working experiences
 - Postdoctoral Fellow, [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF), [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium.
-- Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland
+- Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland.
 - PhD in Pharmaceutical Sciences, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium.
 - Erasmus+ Exchange Master Student, [University of Natural Resources and Life Sciences, Vienna](https://boku.ac.at/en/){:target="_blank" rel="noopener"} (BOKU), Austria.
 - Erasmus+ Intern Researcher, [_IfADo_](https://www.ifado.de/ifadoen/){:target="_blank" rel="noopener"} Institute, Dortmund, Germany.
@@ -32,6 +32,7 @@ We are looking for motivated students and researchers to join our group. Please 
 <marquee behavior="scroll" direction="left" scrollamount="3"> 我们正在寻找积极进取的学生和研究人员加入您的团队. 请联系我了解更多详情 &emsp; 
 </marquee>
 <hr />
+	
 <style>
     .a2a_kit {
         float: right; /* Float the div to the right */
@@ -96,6 +97,7 @@ We are looking for motivated students and researchers to join our group. Please 
  <hr />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.fathiabdallah.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+ <hr />
 
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
