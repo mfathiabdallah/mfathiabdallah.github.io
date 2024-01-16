@@ -29,9 +29,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 - Erasmus+ Intern Researcher, [_IfADo_](https://www.ifado.de/ifadoen/){:target="_blank" rel="noopener"} Institute, Dortmund, Germany.
 - Master's Degre in Pharmaceutical Toxicology, [Hacettepe University](https://www.hacettepe.edu.tr/english){:target="_blank" rel="noopener"}, Turkey.
 - Bachelor's Degree in Veterinary Medical Sciences, [Assiut University](https://www.aun.edu.eg/main/){:target="_blank" rel="noopener"}, Egypt.
-
 <br /> 
-
 **  **
 <html>
 <marquee behavior="scroll" direction="left" scrollamount="3">We are looking for motivated students and researchers to join our group. Please contact me for more details &emsp;
@@ -39,9 +37,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 <marquee behavior="scroll" direction="left" scrollamount="3">我们正在寻找积极进取的学生和研究人员加入您的团队. 请联系我了解更多详情. &emsp;
   </marquee>
 </html>
-
 **  **
-
 <style>
     .a2a_kit {
         float: right; /* Float the div to the right */
@@ -89,8 +85,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
       <img src="/images/2023_12_20.PNG" alt="publication" style="width: 450px;">
     </div>
   </div>
-	
-  <hr />
+ <hr />
 </div>
   <div style="display: flex;">
     <div style="flex: 1; margin-right: 50px;">
@@ -104,6 +99,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
       <img src="/images/2023_07_30.jpeg" alt="Special issue" style="width: 450px;">
     </div>
   </div>
+ <hr />
 <!--<div style="display: flex;">
     <div style="flex: 1; margin-right: 50px;">
       <h3 style="margin-bottom: 0;">01 December 2022</h3>
