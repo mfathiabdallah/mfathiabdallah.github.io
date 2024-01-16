@@ -32,6 +32,16 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
 
 <br /> 
 
+**  **
+<html>
+<marquee behavior="scroll" direction="left" scrollamount="3">We are looking for motivated students and researchers to join our group. Please contact me for more details &emsp;
+</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="3">我们正在寻找积极进取的学生和研究人员加入您的团队. 请联系我了解更多详情. &emsp;
+  </marquee>
+</html>
+
+**  **
+
 <style>
     .a2a_kit {
         float: right; /* Float the div to the right */
@@ -107,15 +117,7 @@ Since October 2020, I am a postdoctoral fellow of the [Ghent University-Special 
     </div>
 </div>-->
 
-**  **
-<html>
-<marquee behavior="scroll" direction="left" scrollamount="3">We are looking for motivated students and researchers to join our group. Please contact me for more details &emsp;
-</marquee>
-<marquee behavior="scroll" direction="left" scrollamount="3">我们正在寻找积极进取的学生和研究人员加入您的团队. 请联系我了解更多详情. &emsp;
-  </marquee>
-</html>
 
-**  **
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.fathiabdallah.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com){:target="_blank" rel="noopener"} 
 
