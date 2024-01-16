@@ -36,7 +36,7 @@ sitemap:
   </div>
 
   <div style="text-align: center;">
-    <iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d634.958028662635!2d3.953530169674015!3d50.46285089822466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2501e1a860137%3A0x8a6a62c2bc529f12!2sAv.%20du%20Champ%20de%20Mars%206b%2C%207000%20Mons%2C%20Belgium!5e0!3m2!1sen!2sus!4v1705413007326!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="<iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d634.958028662635!2d3.953530169674015!3d50.46285089822466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2501e1a860137%3A0x8a6a62c2bc529f12!2sAv.%20du%20Champ%20de%20Mars%206b%2C%207000%20Mons%2C%20Belgium!5e0!3m2!1sen!2sus!4v1705413036677!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> style="border:0;" allowfullscreen="" loading="lazy"></iframe>
   </div>
   
   </div>
