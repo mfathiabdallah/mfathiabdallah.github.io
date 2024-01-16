@@ -22,11 +22,11 @@ sitemap:
   <div>
     <h4>Address:</h4>
     <p>
-      Department of Food Technology, Safety and Health <br>
-      Faculty of Bioscience Engineering <br>
-      Ghent University <br>
-      Coupure Links 653 <br>
-      9000 Gent <br>
+      Department of Human Biology and Toxicology <br>
+      Faculty of Medicine and Pharmacy <br>
+      University of Mons <br>
+      Av. du Champ de Mars 6b <br>
+      7000 Mons <br>
       Belgium <br>
     </p>
   </div>
@@ -36,7 +36,7 @@ sitemap:
   </div>
 
   <div style="text-align: center;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2519.815436188713!2d3.7045021157557106!3d51.05225377956562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c36e6fb0b9c9f9%3A0xe50d06e38b9795e5!2sCoupure%20Links%20653%2C%209000%20Gent%2C%20Belgium!5e0!3m2!1sen!2sus!4v1650605672029!5m2!1sen!2sus" width="100%" height="270px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/place/Av.+du+Champ+de+Mars+6b,+7000+Mons,+Belgium/@50.4628509,3.9535302,19z/data=!3m1!4b1!4m6!3m5!1s0x47c2501e1a860137:0x8a6a62c2bc529f12!8m2!3d50.4628509!4d3.9541739!16s%2Fg%2F11f5k1z3c_?hl=en&entry=ttu" width="100%" height="270px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
   </div>
   
   </div>
