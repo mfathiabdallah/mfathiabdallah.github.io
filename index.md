@@ -112,6 +112,8 @@ We are looking for motivated students and researchers to join our group. Please 
       <img src="/images/Special-issue-toxins.png" alt="Special issue" style="width: 450px;">
     </div>
 </div>-->
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.fathiabdallah.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com){:target="_blank" rel="noopener"} 
 
 <!-- AddToAny BEGIN -->
