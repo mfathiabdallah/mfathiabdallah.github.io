@@ -32,11 +32,11 @@ sitemap:
   </div>
 
   <div style="text-align: center;">
-    <img src="/images/Umons1.jpg" alt="Image" style="width: 90%; height: 200px;">
+    <img src="/images/Umons1.jpg" alt="Image" style="width: 70%; height: 200px;">
   </div>
 
   <div style="text-align: center;">
- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1269.9160545924133!2d3.954174!3d50.462851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2501e1a860137%3A0x8a6a62c2bc529f12!2sAv.%20du%20Champ%20de%20Mars%206b%2C%207000%20Mons%2C%20Belgium!5e0!3m2!1sen!2sus!4v1706097701120!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+ <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1269.9160545924133!2d3.954174!3d50.462851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2501e1a860137%3A0x8a6a62c2bc529f12!2sAv.%20du%20Champ%20de%20Mars%206b%2C%207000%20Mons%2C%20Belgium!5e0!3m2!1sen!2sus!4v1706097701120!5m2!1sen!2sus" width="200" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
   
   </div>
