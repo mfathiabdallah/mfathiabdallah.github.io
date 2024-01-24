@@ -32,7 +32,7 @@ sitemap:
   </div>
 
   <div style="text-align: center;">
-    <img src="/images/Umons1.jpg" alt="Image" style="width: 100%; height: 270px;">
+    <img src="/images/Umons1.jpg" alt="Image" style="width: 70%; height: 240px;">
   </div>
 
   <div style="text-align: center;">
