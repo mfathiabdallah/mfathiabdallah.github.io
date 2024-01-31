@@ -16,13 +16,13 @@ My research spans from detection of natural toxins, such as mycotoxins and cyano
 <br /> <br />
 
 #### Previous Education, Training & Working experiences
-- Postdoctoral Fellow, [Ghent University-Special Research Fund](https://www.ugent.be/nl/onderzoek/financiering/bof/postdoc/overzicht.htm){:target="_blank" rel="noopener"} (BOF), [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium.
+- Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.
 - Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland.
-- PhD in Pharmaceutical Sciences, [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"}, Belgium.
-- Erasmus+ Exchange Master Student, [University of Natural Resources and Life Sciences, Vienna](https://boku.ac.at/en/){:target="_blank" rel="noopener"} (BOKU), Austria.
-- Erasmus+ Intern Researcher, [_IfADo_](https://www.ifado.de/ifadoen/){:target="_blank" rel="noopener"} Institute, Dortmund, Germany.
-- Master's Degree in Pharmaceutical Toxicology, [Hacettepe University](https://www.hacettepe.edu.tr/english){:target="_blank" rel="noopener"}, Turkey.
-- Bachelor's Degree in Veterinary Medical Sciences, [Assiut University](https://www.aun.edu.eg/main/){:target="_blank" rel="noopener"}, Egypt.
+- PhD in Pharmaceutical Sciences, Ghent University, Belgium.
+- Erasmus+ Exchange Master Student, University of Natural Resources and Life Sciences, Vienna (BOKU), Austria.
+- Erasmus+ Intern Researcher, _IfADo_ Institute, Dortmund, Germany.
+- Master's Degree in Pharmaceutical Toxicology, Hacettepe University, Turkey.
+- Bachelor's Degree in Veterinary Medical Sciences, Assiut University, Egypt.
 
 **  **
 <html>
