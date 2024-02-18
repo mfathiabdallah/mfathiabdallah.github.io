@@ -20,7 +20,7 @@ title: ""
     <!-- Four images side by side -->
     <div class="image-container">
        
-       <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/moreaboutme/fnrs.png" alt="UGENT"></a>
+       <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/moreaboutme/fnrs.png" alt="fnrs"></a>
        <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
        <a href="http://www.mycokey.eu/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Mycokey(3).png" alt="Mycokey"></a>
        <a href="https://erasmus-plus.ec.europa.eu/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Erasmus2.jpg" alt="Erasmus"></a>
