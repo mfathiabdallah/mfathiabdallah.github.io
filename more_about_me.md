@@ -278,7 +278,7 @@ title: ""
   }
 
   .collapsible-title.active {
-    background-color: #ccc;
+    background-color: transparent;
   }
   */
   </style>
