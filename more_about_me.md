@@ -253,6 +253,7 @@ title: ""
  
 <style>
   /* Style for collapsible sections */
+  /*
   .collapsible {
     border: 0px solid #ddd;
     margin-bottom: 0px;
@@ -279,6 +280,7 @@ title: ""
   .collapsible-title.active {
     background-color: #ccc;
   }
+  */
   </style>
   
   </div>
