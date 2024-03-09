@@ -15,7 +15,7 @@ Researcher in Food Toxicology and Human Health. <br />[F.R.S-FNRS](https://www.f
 My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water through to the application of -Omics approach to understand the effect of a mixture of toxins and other environmental contaminantes as micro- and nanoplastics on humans.
 <br /> <br />
 
-#### Previous Education, Training & Working experiences
+#### Previous Education, Training & Working experience
 - Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.
 - Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland.
 - PhD in Pharmaceutical Sciences, Ghent University, Belgium.
