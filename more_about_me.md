@@ -262,7 +262,7 @@ title: ""
   .collapsible-title {
     color: black; /* make font black */
     cursor: pointer;
-    font-size: 18px;
+    font-size: 25px;
     font-weight: bold;
     padding: 7.5px;
     border-radius: 0px;
@@ -286,7 +286,7 @@ title: ""
   <style>
     .a2a_kit {
         float: right; /* Float the div to the right */
-        margin: 10px; /* Add some margin for spacing */
+        margin-bottom: 20px; /* Add some margin for spacing */
     }
 </style>
 
