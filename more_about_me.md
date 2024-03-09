@@ -6,7 +6,7 @@ title: ""
 
 <!-- Fellowships -->
 <div>
-  <h1 class="collapsible-title">&#10148; Fellowships</h1>
+  <h1 class="collapsible-title active">&#10148; Fellowships</h1>
   <div class="collapsible-content">
     <ul>
       <li>(2023) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute University of Mons.</li>
@@ -278,7 +278,7 @@ title: ""
   }
 
   .collapsible-title.active {
-    background-color: transparent;
+    background-color: #ccc;
   }
   */
   </style>
