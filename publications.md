@@ -73,15 +73,15 @@ Total = 36
 <style>
   /* Style for collapsible sections */
   .collapsible-title {
-    color: #10148; /* make font black */
+    color: &#10148; /* make font black */
     cursor: pointer;
-    font-size: 18px;
+    font-size: 25px;
     font-weight: bold;
     padding: 7.5px;
     border-radius: 0px;
     background-color: #ccc; /* Add background color here */
     text-align: left; /* Center-align the text */
-    margin-bottom: 15px; /* Add some space below the heading */
+    margin-bottom: 20px; /* Add some space below the heading */
   }
   
   .collapsible-content {
@@ -93,8 +93,6 @@ Total = 36
 </style>
 
 <h1 class="collapsible-title">&#10148; Research Articles </h1>
-
-<h1 align="center">&#10148; Research Articles </h1>
 
 25) WR Van Hassel, **MF Abdallah**, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024).
 <br>Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (Ocimum basilicum L.). Environmental Pollution,  123715. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub){:target="_blank" rel="noopener"}.
