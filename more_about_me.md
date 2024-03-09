@@ -1,3 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fellowships</title>
+<!-- CSS -->
+<style>
+  .fellowships-container {
+    margin-bottom: 20px;
+  }
+
+  .grey-box {
+    background-color: #f2f2f2; /* Grey background */
+    padding: 5px 10px; /* Adjust padding as needed */
+    border-radius: 5px; /* Rounded corners */
+    margin-bottom: 10px; /* Add some space below the grey box */
+  }
+
+  .fellowships-content ul {
+    list-style-type: none; /* Remove default bullet points */
+    padding: 0;
+  }
+
+  .fellowships-content ul li {
+    margin-bottom: 10px; /* Add space between each list item */
+  }
+</style>
+</head>
+<body>
+<!-- Fellowships -->
+<div class="fellowships-container">
+  <div class="grey-box">Fellowships</div>
+  <div class="fellowships-content">
+    <ul>
+      <li>(2023) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute University of Mons.</li>
+      <li>(2020) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032.</li>
+      <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
+      <li>(2016) PhD Research Fellowship in the framework of Mycokey project, Ghent University, Belgium.</li> 
+      <li>(2015) Erasmus<sup>+</sup> Student Mobility for Studies, Center for Analytical Chemistry, Universität für Bodenkultur Wien, Austria.</li>
+      <li>(2014) Erasmus<sup>+</sup> Student Mobility for Placement, <em>IfADo</em> Institute, Dortmund, Germany.</li>
+      <li>(2012) Turkish Government Scholarship, Turkey.</li>
+    </ul>
+    <!-- Images here -->
+  </div>
+</div>
+</body>
+</html>
+
 ---
 layout: page
 title: ""
