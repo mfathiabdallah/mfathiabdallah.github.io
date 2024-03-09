@@ -67,19 +67,21 @@ title: ""
 Total = 36 
 
    (* corresponding author; † equal co-authorship) 
+   
+<!-- beark here to begin style for subheadings -->
 
 <style>
   /* Style for collapsible sections */
   .collapsible-title {
-    color: black; /* make font black */
+    color: #10148; /* make font black */
     cursor: pointer;
     font-size: 18px;
     font-weight: bold;
     padding: 7.5px;
     border-radius: 0px;
     background-color: #ccc; /* Add background color here */
-    text-align: center; /* Center-align the text */
-    margin-bottom: 10px; /* Add some space below the heading */
+    text-align: left; /* Center-align the text */
+    margin-bottom: 15px; /* Add some space below the heading */
   }
   
   .collapsible-content {
