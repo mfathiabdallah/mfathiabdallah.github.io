@@ -64,4 +64,13 @@ plugins:
  - jekyll-toc
  - jekyll-redirect-from
  - jekyll-remote-theme
- 
+ - jekyll-last-modified-at
+ - jekyll-compose
+ - jekyll-tagging
+ - jekyll-redirect-to
+ - jekyll-polyglot
+ - jekyll-lunr-js-search
+ - jekyll-asset-path-plugin
+ - jekyll-ga
+ - jekyll-optional-front-matter
+ - jekyll-cloudinary
