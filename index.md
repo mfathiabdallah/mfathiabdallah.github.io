@@ -48,8 +48,7 @@ We are looking for motivated students and researchers to join our group. Please 
   </div>
   
   <div style="width: 220px;"> 
-    <a class="twitter-timeline" href="https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw">Tweets by MoFathiAbdallah</a>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" href="https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw">Tweets by MoFathiAbdallah</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   </div>
 </div>
 
