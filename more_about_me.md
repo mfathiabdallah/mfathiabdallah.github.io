@@ -252,22 +252,22 @@ title: ""
 
 <style>
   /* Style for collapsible sections */
- 
   .collapsible {
     border: 0px solid #ddd;
     margin-bottom: 0px;
     border-radius: 0px;
   }
+
   .collapsible-title {
-    color: &#10148; /* make font black */
+    color: #10148; /* Update color code if needed */
     cursor: pointer;
     font-size: 25px;
     font-weight: bold;
     padding: 7.5px;
     border-radius: 0px;
     background-color: #ccc; /* Add background color here */
-    text-align: left; /* Center-align the text */
-    margin-bottom: 20px; /* Add some space below the heading */
+    text-align: left;
+    margin-bottom: 20px;
   }
 
   .collapsible-content {
@@ -276,20 +276,17 @@ title: ""
     transition: max-height 0.2s ease-out;
     padding: 0px;
   }
+</style>
 
-  .collapsible-title {
-    background-color: #ccc;
+<div>
+  <h1 class="collapsible-title">&#10148; Research Articles </h1>
+</div>
+
+<style>
+  .a2a_kit {
+    float: right;
+    margin-bottom: 20px;
   }
-  */
-  </style>
-
-  </div>
-  <style>
-    .a2a_kit {
-        float: right; /* Float the div to the right */
-        margin-bottom: 20px; /* Add some margin for spacing */
-    }
-    }
 </style>
 
 <!-- AddToAny BEGIN -->
