@@ -228,67 +228,6 @@ title: ""
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Africa</span></strong>
       <li>Dr. Sara Redouane Salah- Department of Life and Natural Sciences, University Mohamed khider Biskra, <strong>Algeria</strong>.</li>
     </ul>
-
-
-<script>
-  // Function to toggle collapsible sections
-  function toggleCollapsible(event) {
-    const content = event.target.nextElementSibling;
-    event.target.classList.toggle("active");
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    }
-  }
-
-  // Add event listeners to collapsible titles
-  const collapsibleTitles = document.getElementsByClassName("collapsible-title");
-  for (let i = 0; i < collapsibleTitles.length; i++) {
-    collapsibleTitles[i].addEventListener("click", toggleCollapsible);
-  }
-</script>
-
- 
-<style>
-  /* Style for collapsible sections */
-  /*
-  .collapsible {
-    border: 0px solid #ddd;
-    margin-bottom: 0px;
-    border-radius: 0px;
-  }
-
-  .collapsible-title {
-    color: black; /* make font black */
-    cursor: pointer;
-    font-size: 25px;
-    font-weight: bold;
-    padding: 7.5px;
-    border-radius: 0px;
-    background-color: #ccc; /* Add background color here */
-    text-align: left; /* Center-align the text */
-    margin-bottom: 20px; /* Add some space below the heading */
-  }
-
-  .collapsible-content {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
-    padding: 0px;
-  }
-
-  .collapsible-title {
-    background-color: #ccc;
-  }
-  */
-  </style>
-  
-  </div>
-  <style>
-    .a2a_kit {
-        float: right; /* Float the div to the right */
-        margin-bottom: 20px; /* Add some margin for spacing */
     }
 </style>
 
