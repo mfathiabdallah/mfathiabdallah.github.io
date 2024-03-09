@@ -266,7 +266,9 @@ title: ""
     font-weight: bold;
     padding: 7.5px;
     border-radius: 0px;
-    outline: none;
+    background-color: #ccc; /* Add background color here */
+    text-align: left; /* Center-align the text */
+    margin-bottom: 20px; /* Add some space below the heading */
   }
 
   .collapsible-content {
