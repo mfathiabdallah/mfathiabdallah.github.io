@@ -269,16 +269,6 @@ title: ""
   }
 </style>
 
-<div>
-  <h1 class="collapsible-title">&#10148; Research Articles </h1>
-</div>
-
-<style>
-  .a2a_kit {
-    float: right;
-    margin-bottom: 20px;
-  }
-</style>
 
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
