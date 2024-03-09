@@ -252,12 +252,6 @@ title: ""
 
 <style>
   /* Style for collapsible sections */
-  .collapsible {
-    border: 0px solid #ddd;
-    margin-bottom: 0px;
-    border-radius: 0px;
-  }
-
   .collapsible-title {
     color: #10148; /* Update color code if needed */
     cursor: pointer;
@@ -271,10 +265,7 @@ title: ""
   }
 
   .collapsible-content {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
-    padding: 0px;
+    /* Remove collapsible functionality styles */
   }
 </style>
 
