@@ -5,9 +5,30 @@ title: ""
 ---
 
 <!-- Fellowships -->
-<div>
-  <h1 class="collapsible-title active">&#10148; Fellowships</h1>
-  <div class="collapsible-content">
+
+<style>
+  /* Style for collapsible sections */
+  .collapsible-title {
+    color: &#10148; /* make font black */
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 7.5px;
+    border-radius: 0px;
+    background-color: #ccc; /* Add background color here */
+    text-align: left; /* Center-align the text */
+    margin-bottom: 20px; /* Add some space below the heading */
+  }
+  
+  .collapsible-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    padding: 0px;
+  }
+</style>
+
+<h1 class="collapsible-title">&#10148; Fellowships </h1>
     <ul>
       <li>(2023) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute University of Mons.</li>
       <li>(2020) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032.</li>
@@ -228,8 +249,6 @@ title: ""
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Africa</span></strong>
       <li>Dr. Sara Redouane Salah- Department of Life and Natural Sciences, University Mohamed khider Biskra, <strong>Algeria</strong>.</li>
     </ul>
-    }
-</style>
 
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
