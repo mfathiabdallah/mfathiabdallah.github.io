@@ -169,8 +169,29 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 1) **MF Abdallah**, R Krska, M Sulyok (2016).
 <br>Mycotoxin contamination in sugarcane grass and juice: first report on detection of multiple mycotoxins and exposure assessment for aflatoxins B1 and G1 in humans. Toxins, 8 (11), 343. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/8/11/343){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-08-00343.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
----
-<h1 align="center">&#10148; Reviews</h1>
+<style>
+  /* Style for collapsible sections */
+  .collapsible-title {
+    color: &#10148; /* make font black */
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 7.5px;
+    border-radius: 0px;
+    background-color: #ccc; /* Add background color here */
+    text-align: left; /* Center-align the text */
+    margin-bottom: 20px; /* Add some space below the heading */
+  }
+  
+  .collapsible-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    padding: 0px;
+  }
+</style>
+
+<h1 class="collapsible-title">&#10148; Reviews </h1>
 
 6) **MF Abdallah***, M Gado, D Abdelsadek, F Zahran, NN El-Salhey, O Mehrez, S Abdel-Hay, SM Mohamed, K De Ruyck, S Yang, GB Gonzales, E Varga (2023).
 <br>Mycotoxin contamination in the Arab world: Highlighting the main knowledge gaps and the current legislation. Mycotoxin Research, 1-26. [[Link]](https://link.springer.com/article/10.1007/s12550-023-00513-2){:target="_blank" rel="noopener"}.
@@ -192,16 +213,57 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 1) **MF Abdallah**, G Girgin, T Baydar (2015).
 <br>Occurrence, prevention and limitation of mycotoxins in feeds. Animal Nutrition and Feed Technology, 15 (3), 471-490. <span style="color:green">(Open Access)</span> [[Link]](https://www.researchgate.net/publication/280041287_Occurrence_Prevention_and_Limitation_of_Mycotoxins_in_Feeds){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Abdallah_et_al_2015.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
----
+<style>
+  /* Style for collapsible sections */
+  .collapsible-title {
+    color: &#10148; /* make font black */
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 7.5px;
+    border-radius: 0px;
+    background-color: #ccc; /* Add background color here */
+    text-align: left; /* Center-align the text */
+    margin-bottom: 20px; /* Add some space below the heading */
+  }
+  
+  .collapsible-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    padding: 0px;
+  }
+</style>
 
-<h1 align="center">&#10148; Book Chapters</h1>
+<h1 class="collapsible-title">&#10148; Book Chapters </h1>
 
 1) **MF Abdallah***, M Ameye, S De Saeger, K Audenaert, G Haesaert (2018).
 <br>Biological control of mycotoxigenic fungi and their toxins: An update for the pre-harvest approach. **Book Name** Fungi and Mycotoxins-Their Occurrence, Impact on Health and the Economy as well as Pre-and Postharvest Management Strategies. IntechOpen, <span style="color:green">(Open Access)</span> [[Link]](https://www.intechopen.com/chapters/61887){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Abdallah_et_al_2018_bookchapter.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
----
 
-<h1 align="center">&#10148; Editorials</h1>
+<style>
+  /* Style for collapsible sections */
+  .collapsible-title {
+    color: &#10148; /* make font black */
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 7.5px;
+    border-radius: 0px;
+    background-color: #ccc; /* Add background color here */
+    text-align: left; /* Center-align the text */
+    margin-bottom: 20px; /* Add some space below the heading */
+  }
+  
+  .collapsible-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    padding: 0px;
+  }
+</style>
+
+<h1 class="collapsible-title">&#10148; Editorials </h1>
 
 3) **MF Abdallah***, W Xu and A Abdeen (2022).
 <br>Editorial: Environmental contaminants and animal health: Analysis, toxicity, and mitigation. Front. Vet. Sci. 9:1102836. <span style="color:green">(Open Access)</span> [[Link]](https://www.frontiersin.org/articles/10.3389/fvets.2022.1102836/full){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/fvets-09-1102836.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
@@ -212,16 +274,58 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 1) **MF Abdallah***, M De Boevre, K Audenaert, G Haesaert, S De Saeger (2018).
 <br>Highlight report: Mycotoxins as food contaminants in Africa—challenges and perspectives. Archives of Toxicology, 92 (6), 2151-2152. <span style="color:green">(Open Access)</span> [[Link]](https://link.springer.com/article/10.1007/s00204-018-2203-2){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Abdallah_et_al_2018_highlight_report.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
----
 
-<h1 align="center">&#10148; Correspondence</h1>
+<style>
+  /* Style for collapsible sections */
+  .collapsible-title {
+    color: &#10148; /* make font black */
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 7.5px;
+    border-radius: 0px;
+    background-color: #ccc; /* Add background color here */
+    text-align: left; /* Center-align the text */
+    margin-bottom: 20px; /* Add some space below the heading */
+  }
+  
+  .collapsible-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    padding: 0px;
+  }
+</style>
+
+<h1 class="collapsible-title">&#10148; Correspondence </h1>
 
 1) **MF Abdallah**, A Briend, GB Gonzales (2021).
 <br>Aflatoxins and kwashiorkor: a commentary on the association-causation conundrum. Toxicon, 190 (January), 20-21. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S004101012030948X?via%3Dihub){:target="_blank" rel="noopener"}. 
 
----
 
-<h1 align="center">&#10148; Editor of Book (Chapters) or Journal Issue</h1>
+<style>
+  /* Style for collapsible sections */
+  .collapsible-title {
+    color: &#10148; /* make font black */
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 7.5px;
+    border-radius: 0px;
+    background-color: #ccc; /* Add background color here */
+    text-align: left; /* Center-align the text */
+    margin-bottom: 20px; /* Add some space below the heading */
+  }
+  
+  .collapsible-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    padding: 0px;
+  }
+</style>
+
+<h1 class="collapsible-title">&#10148; Editor of Book (Chapters) or Journal Issue </h1>
 
 #### Journal Issue
 1) Dr. E Varga, **Dr. MF Abdallah**, Dr. S Yang .
