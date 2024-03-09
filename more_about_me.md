@@ -227,7 +227,6 @@ title: ""
       <li>Prof. Mohammad Hosein Movassagh- Department of Veterinary Medicine, Islamic Azad University, <strong>Iran</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Africa</span></strong>
       <li>Dr. Sara Redouane Salah- Department of Life and Natural Sciences, University Mohamed khider Biskra, <strong>Algeria</strong>.</li>
-      <li>Prof. Ahmed Abdeen- Center of Excellence in Screening of Environmental Contaminants (CESEC), Benha University, <strong>Egypt</strong>.</li>
     </ul>
 
 
