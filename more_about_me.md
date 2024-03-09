@@ -5,30 +5,9 @@ title: ""
 ---
 
 <!-- Fellowships -->
-
-<style>
-  /* Style for collapsible sections */
-  .collapsible-title {
-    color: &#10148; /* make font black */
-    cursor: pointer;
-    font-size: 25px;
-    font-weight: bold;
-    padding: 7.5px;
-    border-radius: 0px;
-    background-color: #ccc; /* Add background color here */
-    text-align: left; /* Center-align the text */
-    margin-bottom: 20px; /* Add some space below the heading */
-  }
-  
-  .collapsible-content {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
-    padding: 0px;
-  }
-</style>
-
-<h1 class="collapsible-title">&#10148; Fellowships </h1>
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Fellowships</h1>
+  <div class="collapsible-content">
     <ul>
       <li>(2023) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute University of Mons.</li>
       <li>(2020) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032.</li>
