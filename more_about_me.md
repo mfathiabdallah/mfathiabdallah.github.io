@@ -252,14 +252,14 @@ title: ""
 
 <style>
   /* Style for collapsible sections */
-  /*
+ 
   .collapsible {
     border: 0px solid #ddd;
     margin-bottom: 0px;
     border-radius: 0px;
   }
   .collapsible-title {
-    color: black; /* make font black */
+    color: &#10148; /* make font black */
     cursor: pointer;
     font-size: 25px;
     font-weight: bold;
