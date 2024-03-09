@@ -1,4 +1,3 @@
-User
 ---
 layout: page
 title: ""
