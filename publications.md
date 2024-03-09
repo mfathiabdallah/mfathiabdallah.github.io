@@ -6,7 +6,7 @@ title: ""
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="flex: 1;">
     <p>&#10148; You can find my CV here <a href="/CV_MFA_2023.pdf" target="_blank" rel="noopener">(click to download)</a>.</p>
-    <p>&#10148; Visit my <a href="https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm" target="_blank" rel="noopener">page</a> at Ghent University</p>
+    <p>&#10148; Visit my <a href="https://biblio.ugent.be/person/A6AE6A7C-5833-11E6-A7EF-CE99B5D1D7B1" target="_blank" rel="noopener">page</a> at Ghent University</p>
     <div style="display: block;">
       <p>or my <a href="https://www.aun.edu.eg/veterinary_medicine/user/3186" target="_blank" rel="noopener">page</a> at Assiut University</p>
     </div>
@@ -48,7 +48,7 @@ title: ""
   <tbody>
     <tr>
       <td>Research Articles</td>
-      <td>24</td>
+      <td>25</td>
       <td>Editorials</td>
        <td>3</td>
     </tr>
@@ -64,11 +64,14 @@ title: ""
     </tr>
   </tbody>
 </table>
-Total = 35 
+Total = 36 
 
    (* corresponding author; † equal co-authorship) 
 
 <h1 align="center">&#10148; Research Articles </h1>
+
+25) WR Van Hassel, **MF Abdallah**, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024).
+<br>Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (Ocimum basilicum L.). Environmental Pollution,  123715. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub){:target="_blank" rel="noopener"}.
 
 24) K Aghebatbinyeganeh, M Movassaghghazani, **MF Abdallah**, (2024).
 <br>Seasonal Variation and Risk Assessment of Exposure to Aflatoxin M1 in Milk, Yoghurt, and Cheese Samples from Ilam and Lorestan Provinces of Iran. Journal of Food Composition and Analysis, 106083. [[Link]](https://www.sciencedirect.com/science/article/pii/S0889157524001170){:target="_blank" rel="noopener"}.
