@@ -277,7 +277,7 @@ title: ""
     padding: 0px;
   }
 
-  .collapsible-title.active {
+  .collapsible-title {
     background-color: #ccc;
   }
   */
