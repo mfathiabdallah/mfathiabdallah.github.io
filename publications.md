@@ -68,6 +68,30 @@ Total = 36
 
    (* corresponding author; † equal co-authorship) 
 
+<style>
+  /* Style for collapsible sections */
+  .collapsible-title {
+    color: black; /* make font black */
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 7.5px;
+    border-radius: 0px;
+    background-color: #ccc; /* Add background color here */
+    text-align: center; /* Center-align the text */
+    margin-bottom: 10px; /* Add some space below the heading */
+  }
+  
+  .collapsible-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    padding: 0px;
+  }
+</style>
+
+<h1 class="collapsible-title">&#10148; Research Articles </h1>
+
 <h1 align="center">&#10148; Research Articles </h1>
 
 25) WR Van Hassel, **MF Abdallah**, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024).
