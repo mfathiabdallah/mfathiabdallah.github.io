@@ -48,9 +48,8 @@ We are looking for motivated students and researchers to join our group. Please 
   </div>
   </div>
   
-  <!-- <div style="width: 220px;"> 
-    <a class="twitter-timeline"
-       href="https://twitter.com/MoFathiAbdallah"
+  !-- <div style="width: 220px;"> 
+    <a <a class="twitter-timeline" href="https://twitter.com/MoFathiAbdallah?ref_src=twsrc%5Etfw">Tweets by MoFathiAbdallah</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
        data-tweet-limit="4"
        data-width="280"
        data-height="380"
