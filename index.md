@@ -36,30 +36,44 @@ We are looking for motivated students and researchers to join our group. Please 
         margin: 10px; /* Add some margin for spacing */
     }
 </style>
+<!-- News and Announcement -->
+<div>
+  <h2>News</h2>
+  <ul>
+    {% for post in site.posts limit:5 %}
+    <li><span style="font-weight: bold;">{{ post.date | date: "%Y-%m-%d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
 <!-- Announcement -->
 <div>
   <h2>Announcements</h2>
   <hr />
-  <div style="display: flex; flex-wrap: wrap;">
-
-    <div style="flex: 1 1 100%; margin-bottom: 20px;">
+  <div style="display: flex;">
+    <div style="flex: 1; margin-right: 50px;">
       <h3 style="margin-bottom: 0;">20 December 2023</h3>
       <p style="margin-top: 0;">Mycotoxin contamination in the Arab world</p>
-      <p>Our review paper about "mycotoxin contamination in the Arab world" is now online in <a href="https://link.springer.com/journal/12550" target="_blank" rel="noopener">Mycotoxin Research Journal</a> (the official publication of the <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener">Society for Mycotoxin Research)</a>.</p>
-      <p>More information through this link: <a href="https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/" target="_blank">Page redirect</a></p>
-      <p>#mycotoxins #arableague #foodsafety #feed #arabworld</p>
-      <img src="/images/2023_12_20.PNG" alt="publication" style="width: 100%; max-width: 450px; border-radius: 10px;">
+      <p >Our review paper about "mycotoxin contamination in the Arab world" is now online in <a href="https://link.springer.com/journal/12550" target="_blank" rel="noopener">Mycotoxin Research Journal</a> (the official publication of the <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener">Society for Mycotoxin Research)</a>.</p>
+      <p style="margin-top: 0;">More information through this link: <a href="https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/" target="_blank">Page redirect</a></p>
+      <p style="margin-top: 0;">#mycotoxins #arableague #foodsafety #feed #arabworld</p>
     </div>
-
-    <div style="flex: 1 1 100%; margin-bottom: 20px;">
+    <div>
+      <img src="/images/2023_12_20.PNG" alt="publication" style="width: 450px;">
+    </div>
+  </div>
+  <hr />
+  <div style="display: flex;">
+    <div style="flex: 1; margin-right: 50px;">
       <h3 style="margin-bottom: 0;">20 July 2023</h3>
       <p style="margin-top: 0;">Data Managment Plan Lecture</p>
-      <p>Introduction to DMP for the selected students for the Advanced Lab 10 -Egypt Scholars Organization under the theme (Towards Mitigating the Climate Change Crisis).</p>
-      <p>More information at: <a href="https://www.mfathiabdallah.com/Data-Managment/" target="_blank">Data Managment Plan Lecture</a></p>
-      <p>#Data_Management #EgyptScholars #Research</p>
-      <img src="/images/2023_07_30.jpeg" alt="Special issue" style="width: 100%; max-width: 450px; border-radius: 10px;">
+      <p >Introduction to DMP for the selected students for the Advanced Lab 10 -Egypt Scholars Organization under the theme (Towards Mitigating the Climate Change Crisis).</p>
+      <p style="margin-top: 0;">More information at: <a href="https://www.mfathiabdallah.com/Data-Managment/" target="_blank">Data Managment Plan Lecture</a></p>
+      <p style="margin-top: 0;">#Data_Management #EgyptScholars #Research</p>
     </div>
-
+    <div>
+      <img src="/images/2023_07_30.jpeg" alt="Special issue" style="width: 450px;">
+    </div>
   </div>
   <hr />
 </div>
