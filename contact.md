@@ -8,19 +8,19 @@ sitemap:
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
 
-  <div>
-    <h4>Dr. Mohamed Fathi Abdallah, Ph.D.</h4>
+  <div style="border: 1px solid #ccc; padding: 20px;">
+    <h4>Dr. Mohamed Fathi Abdallah</h4>
     <p>
-      <img src="/images/Umons1.jpg" alt="Image" style="width: 85%; height: auto;">
       <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mailto:mfathiabdallah@gmail.com" target="_blank">mfathiabdallah@gmail.com</a><br>
       <i class="fab fa-google"></i>   &nbsp; Google Scholar: &nbsp; <a href="https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en" target="_blank">Mohamed Fathi Abdallah</a><br>
       <i class="fab fa-twitter"></i>  &nbsp; Twitter: &nbsp; <a href="https://twitter.com/MoFathiAbdallah" target="_blank">MoFathiAbdallah</a><br>
       <i class="fab fa-linkedin"></i> &nbsp; LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">Mohamed Fathi Abdallah</a><br>
       <i class="fab fa-orcid"></i>    &nbsp; ORCID: &nbsp; <a href="https://orcid.org/0000-0002-3903-6452" target="_blank">0000-0002-3903-6452</a><br>
+      <img src="/images/Umons1.jpg" alt="Image" style="width: 100%; height: auto;">
     </p>
   </div>
 
-  <div>
+  <div style="border: 1px solid #ccc; padding: 20px;">
     <h4>Address:</h4>
     <p>
       Department of Human Biology and Toxicology <br>
