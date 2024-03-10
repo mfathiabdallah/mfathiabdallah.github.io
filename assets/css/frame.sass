@@ -15,13 +15,11 @@ body > header, body > footer
   color: $light
 
 @media (min-width: 32em)
-  html
-    background: darken($dark, 4%)
-  body > header, body > footer
-    background: $dark
   body > header, body > article, body > footer
     padding: 1.75em calc(22% - 6em)
 
 @media (prefers-color-scheme: dark)
   body, body > header, body > footer
     box-shadow: 0 0 0 1px lighten($dark, 8%)
+  html, body > header, body > footer
+    background: $dark
