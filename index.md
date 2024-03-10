@@ -59,7 +59,7 @@ We are looking for motivated students and researchers to join our group. Please 
       <p>#mycotoxins #arableague #foodsafety #feed #arabworld</p>
     </div>
     <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2023_12_20.PNG" alt="publication" style="width: 100%; max-width: 400px; display: block; margin-left: auto; margin-right: auto;">
+      <img src="/images/2023_12_20.PNG" alt="publication" style="width: 100%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
     </div>
   </div>
   <hr />
@@ -72,11 +72,12 @@ We are looking for motivated students and researchers to join our group. Please 
       <p>#Data_Management #EgyptScholars #Research</p>
     </div>
     <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2023_07_30.jpeg" alt="Special issue" style="width: 100%; max-width: 400px; display: block; margin-left: auto; margin-right: auto;">
+      <img src="/images/2023_07_30.jpeg" alt="Special issue" style="width: 100%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
     </div>
   </div>
   <hr />
 </div>
+
 
 
 
