@@ -9,7 +9,7 @@ sitemap:
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
 
   <div style="border: 1px solid #ccc; padding: 20px;">
-    <h4>Dr. Mohamed Fathi Abdallah, Ph.D.</h4>
+    <h4>Dr. Mohamed Fathi Abdallah</h4>
     <p>
       <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mailto:mfathiabdallah@gmail.com" target="_blank">mfathiabdallah@gmail.com</a><br>
       <i class="fab fa-google"></i>   &nbsp; Google Scholar: &nbsp; <a href="https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en" target="_blank">Mohamed Fathi Abdallah</a><br>
@@ -42,20 +42,4 @@ sitemap:
   }
 </style>
 
-<!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-  <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-  <a class="a2a_button_facebook"></a>
-  <a class="a2a_button_linkedin"></a>
-  <a class="a2a_button_x"></a>
-  <a class="a2a_button_microsoft_teams"></a>
-  <a class="a2a_button_whatsapp"></a>
-  <a class="a2a_button_pinterest"></a>
-  <a class="a2a_button_email"></a>
-</div>
-<script>
-  var a2a_config = a2a_config || {};
-  a2a_config.num_services = 12;
-</script>
-<script async src="https://static.addtoany.com/menu/page.js"></script>
-<!-- AddToAny END -->
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=65ee11f0f44fb1001a4c6cbe&product=inline-share-buttons&source=platform" async="async"></script>
