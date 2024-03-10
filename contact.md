@@ -1,25 +1,65 @@
----
-title: "Contact Information & Links"
-layout: page
-sitemap:
-  lastmod: 2023-04-14
-  exclude: 'no'
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Information & Links</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      margin: 0;
+      padding: 20px;
+    }
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
+    .contact-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 20px;
+    }
 
-  <div>
+    .contact-info, .address {
+      background-color: #ffffff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .contact-info h2, .address h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
+    }
+
+    .contact-info ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .contact-info li {
+      margin-bottom: 10px;
+    }
+
+    .contact-info li i {
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="contact-container">
+  <div class="contact-info">
     <h2>Contact Information</h2>
-    <p>
-      <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mailto:mfathiabdallah@gmail.com" target="_blank">mfathiabdallah@gmail.com</a><br>
-      <i class="fab fa-google"></i> &nbsp; Google Scholar: &nbsp; <a href="https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en" target="_blank">Mohamed Fathi Abdallah</a><br>
-      <i class="fab fa-twitter"></i> &nbsp; Twitter: &nbsp; <a href="https://twitter.com/MoFathiAbdallah" target="_blank">MoFathiAbdallah</a><br>
-      <i class="fab fa-linkedin"></i> &nbsp; LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">Mohamed Fathi Abdallah</a><br>
-      <i class="fab fa-orcid"></i> &nbsp; ORCID: &nbsp; <a href="https://orcid.org/0000-0002-3903-6452" target="_blank">0000-0002-3903-6452</a><br>
-    </p>
+    <ul>
+      <li><i class="fas fa-envelope"></i> <a href="mailto:mfathiabdallah@gmail.com" target="_blank">mfathiabdallah@gmail.com</a></li>
+      <li><i class="fab fa-google"></i> <a href="https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en" target="_blank">Mohamed Fathi Abdallah</a></li>
+      <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/MoFathiAbdallah" target="_blank">MoFathiAbdallah</a></li>
+      <li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">Mohamed Fathi Abdallah</a></li>
+      <li><i class="fab fa-orcid"></i> <a href="https://orcid.org/0000-0002-3903-6452" target="_blank">0000-0002-3903-6452</a></li>
+    </ul>
   </div>
-
-  <div>
+  <div class="address">
     <h2>Address</h2>
     <p>
       Department of Human Biology and Toxicology <br>
@@ -30,12 +70,7 @@ sitemap:
       Belgium <br>
     </p>
   </div>
-
-  <div style="text-align: center;">
-    <img src="/images/Umons1.jpg" alt="University of Mons" style="width: 85%; max-height: 200px; border-radius: 5px;">
-  </div>
-
-  <div style="text-align: center;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1269.9160545924133!2d3.954174!3d50.462851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2501e1a860137%3A0x8a6a62c2bc529f12!2sAv.%20du%20Champ%20de%20Mars%206b%2C%207000%20Mons%2C%20Belgium!5e0!3m2!1sen!2sus!4v1706097701120!5m2!1sen!2sus" width="350" height="250" style="border:0; border-radius: 5px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  </div>
 </div>
+
+</body>
+</html>
