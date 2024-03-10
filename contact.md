@@ -8,8 +8,8 @@ sitemap:
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
 
-  <div>
-    <h4>Dr. Mohamed Fathi Abdallah, Ph.D.</h4>
+  <div style="border: 1px solid #ccc; padding: 20px; border-radius: 10px;">
+    <h4 style="margin-bottom: 10px;">Contact Information</h4>
     <p>
       <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mailto:mfathiabdallah@gmail.com" target="_blank">mfathiabdallah@gmail.com</a><br>
       <i class="fab fa-google"></i>   &nbsp; Google Scholar: &nbsp; <a href="https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en" target="_blank">Mohamed Fathi Abdallah</a><br>
@@ -19,8 +19,8 @@ sitemap:
     </p>
   </div>
 
-  <div>
-    <h4>Address:</h4>
+  <div style="border: 1px solid #ccc; padding: 20px; border-radius: 10px;">
+    <h4 style="margin-bottom: 10px;">Address:</h4>
     <p>
       Department of Human Biology and Toxicology <br>
       Faculty of Medicine and Pharmacy <br>
@@ -29,14 +29,16 @@ sitemap:
       7000 Mons <br>
       Belgium <br>
     </p>
+    <div style="text-align: center;">
+      <img src="/images/Umons1.jpg" alt="Image" style="width: 85%; height: 200px; border-radius: 10px;">
+    </div>
   </div>
 
-  <div style="text-align: center;">
-    <img src="/images/Umons1.jpg" alt="Image" style="width: 85%; height: 200px;">
-  </div>
-
-  <div style="text-align: center;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1269.9160545924133!2d3.954174!3d50.462851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2501e1a860137%3A0x8a6a62c2bc529f12!2sAv.%20du%20Champ%20de%20Mars%206b%2C%207000%20Mons%2C%20Belgium!5e0!3m2!1sen!2sus!4v1706097701120!5m2!1sen!2sus" width="350" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <div style="border: 1px solid #ccc; padding: 20px; border-radius: 10px;">
+    <h4 style="margin-bottom: 10px;">Location:</h4>
+    <div style="text-align: center;">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1269.9160545924133!2d3.954174!3d50.462851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2501e1a860137%3A0x8a6a62c2bc529f12!2sAv.%20du%20Champ%20de%20Mars%206b%2C%207000%20Mons%2C%20Belgium!5e0!3m2!1sen!2sus!4v1706097701120!5m2!1sen!2sus" width="350" height="250" style="border:0; border-radius: 10px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
   </div>
   
 </div>
