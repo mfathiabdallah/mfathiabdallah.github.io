@@ -4,21 +4,33 @@ title: ""
 ---
 
 <style>
-  /* Adjust layout for mobile devices */
-  @media only screen and (max-width: 600px) {
-    /* Change flex-direction to column for smaller screens */
-    .flex-container {
-      flex-direction: column;
-    }
-
-    /* Adjust width and margin for iframe */
-    .cv-iframe {
-      width: 100%;
+  /* Adjust iframe size based on screen size */
+  @media (min-width: 768px) {
+    .iframe-container {
+      width: 50%;
       height: 400px; /* Adjust height as needed */
-      margin-top: 20px; /* Add some top margin */
+    }
+  }
+
+  @media (max-width: 767px) {
+    .iframe-container {
+      width: 100%;
+      height: 300px; /* Adjust height as needed */
     }
   }
 </style>
+
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="flex: 1;">
+    <p>&#10148; You can find my CV here <a href="/CV_MFA_2023.pdf" target="_blank" rel="noopener">(click to download)</a>.</p>
+    <p>&#10148; Visit my <a href="https://biblio.ugent.be/person/A6AE6A7C-5833-11E6-A7EF-CE99B5D1D7B1" target="_blank" rel="noopener">page</a> at Ghent University</p>
+    <p>&#10148; Visit my <a href="https://www.aun.edu.eg/veterinary_medicine/user/3186" target="_blank" rel="noopener">page</a> at Assiut University</p>
+  </div>
+  <div class="iframe-container">
+    <iframe src="/CV_MFA_2023.pdf" style="width:100%;height:100%;"></iframe>
+  </div>
+</div>
+
 
 <div class="flex-container" style="display: flex; flex-direction: row; align-items: center;">
   <div style="flex: 1;">
