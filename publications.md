@@ -3,16 +3,34 @@ layout: page
 title: ""
 ---
 
-<div style="display: flex; align-items: center;">
+<style>
+  /* Adjust layout for mobile devices */
+  @media only screen and (max-width: 600px) {
+    /* Change flex-direction to column for smaller screens */
+    .flex-container {
+      flex-direction: column;
+    }
+
+    /* Adjust width and margin for iframe */
+    .cv-iframe {
+      width: 100%;
+      height: 400px; /* Adjust height as needed */
+      margin-top: 20px; /* Add some top margin */
+    }
+  }
+</style>
+
+<div class="flex-container" style="display: flex; flex-direction: row; align-items: center;">
   <div style="flex: 1;">
     <p>&#10148; You can find my CV here <a href="/CV_MFA_2023.pdf" target="_blank" rel="noopener">(click to download)</a>.</p>
     <p>&#10148; Visit my <a href="https://biblio.ugent.be/person/A6AE6A7C-5833-11E6-A7EF-CE99B5D1D7B1" target="_blank" rel="noopener">page</a> at Ghent University</p>
     <p>&#10148; Visit my <a href="https://www.aun.edu.eg/veterinary_medicine/user/3186" target="_blank" rel="noopener">page</a> at Assiut University</p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <iframe src="/CV_MFA_2023.pdf" style="width:100%;height:400px;"></iframe>
+    <iframe class="cv-iframe" src="/CV_MFA_2023.pdf"></iframe>
   </div>
 </div>
+
 
 
 <style>
