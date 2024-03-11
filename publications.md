@@ -10,7 +10,7 @@ title: ""
     <p>&#10148; Visit my <a href="https://www.aun.edu.eg/veterinary_medicine/user/3186" target="_blank" rel="noopener">page</a> at Assiut University</p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <iframe src="/CV_MFA_2023.pdf" style="width:100%;height:400px;"></iframe>
+    <iframe src="/CV_MFA_2023.pdf" style="width:100%;height:200px;"></iframe>
   </div>
 </div>
 
