@@ -5,11 +5,11 @@ date: 2023-12-20
 mathjax: true
 inline: true
 categories: media
-canonical: https://yourwebsite.com/your-post-url
+canonical: https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/
 ---
 
 <!-- Add canonical tag -->
-<link rel="canonical" href="https://yourwebsite.com/your-post-url">
+<link rel="canonical" href="https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/">
 
 <!-- Metadata -->
 <meta name="description" content="Description of your page">
@@ -24,7 +24,7 @@ canonical: https://yourwebsite.com/your-post-url
   "description": "Description of your page",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://yourwebsite.com/your-post-url"
+    "@id": "https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/"
   }
 }
 </script>
