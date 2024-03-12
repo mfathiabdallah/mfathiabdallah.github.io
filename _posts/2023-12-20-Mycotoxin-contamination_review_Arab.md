@@ -43,8 +43,6 @@ The article can be reached through this link <a href="https://pubmed.ncbi.nlm.ni
 
 Finally, I would like to thank all the co-authors for their contributions.
 
-#mycotoxins #arableague #foodsafety #feed #arabworld
-
 <!-- Add modal functionality to the image -->
 <div id="myModal" class="modal">
   <span class="close" onclick="closeModal()">&times;</span>
