@@ -65,7 +65,7 @@ title: ""
 </table>
 Total = 36 
 
-   (* corresponding author; † equal co-authorship). Publications are ordered per year (according to the first publihsed date). 
+   (* corresponding author; † equal co-authorship). Publications are ordered per year (according to the first published date). 
    
 <!-- beark here to begin style for subheadings -->
 
@@ -145,9 +145,9 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 11) F Sun, H Tan, **MF Abdallah**, J Li, J Zhou, Y Li, S Yang (2022).
 <br>A novel calibration strategy based on isotopic distribution for high-throughput quantitative analysis of pesticides and veterinary drugs using LC-HRMS. Journal of Hazardous Materials, 430, 128413. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0304389422002011){:target="_blank" rel="noopener"}.
 
-10) I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021). <br>Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. Toxins, 13 (8), 552. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/8/552){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00552.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
 ### <span style="color: green; font-weight: bold;">2021 Publications</span> <span style="color: pink;">&#9679;</span>
+
+10) I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021). <br>Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. Toxins, 13 (8), 552. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/8/552){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00552.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 9) L De Colli, K De Ruyck, **MF Abdallah**, J Finnan, E Mullins, S Kildea, J Spink, C Elliott, M Danaher (2021).
 <br>Natural co-occurrence of multiple mycotoxins in unprocessed oats grown in Ireland with various production systems. Toxins, 13 (3), 188. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/3/188){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00188-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
