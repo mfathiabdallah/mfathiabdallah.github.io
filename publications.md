@@ -65,7 +65,7 @@ title: ""
 </table>
 Total = 36 
 
-   (* corresponding author; † equal co-authorship) 
+   (* corresponding author; † equal co-authorship). Publications are ordered per year (according to the first publihsed date). 
    
 <!-- beark here to begin style for subheadings -->
 
@@ -92,6 +92,8 @@ Total = 36
 </style>
 
 <h1 class="collapsible-title">&#10148; Research Articles </h1>
+
+### <span style="color: green; font-weight: bold;">2024 Publications</span> <span style="color: pink;">&#9679;</span>
 
 25) WR Van Hassel, **MF Abdallah**, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024).
 <br>Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (Ocimum basilicum L.). Environmental Pollution,  123715. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub){:target="_blank" rel="noopener"}.
@@ -129,6 +131,8 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 15) H Zhang, Y Li, **MF Abdallah**, H Tan, J Li, S Liu, R Zhang, F Sun, Y Li, S Yang (2023). 
 <br>Novel one-point calibration strategy for high-throughput quantitation of microcystins in freshwater using LC-MS/MS. Science of The Total Environment, 159345. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0048969722064440){:target="_blank" rel="noopener"}.
 
+### <span style="color: green; font-weight: bold;">2022 Publications</span> <span style="color: pink;">&#9679;</span>
+
 14) H Zhang, **MF Abdallah**, J Zhang, Y Yu, Q Zhao, C Tang, Y Qin, J Zhang (2022).
 <br>Comprehensive quantitation of multi-signature peptides originating from casein for the discrimination of milk from eight different animal species using LC-HRMS with stable isotope labeled peptides. Food Chemistry, 390, 133126. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0308814622010883){:target="_blank" rel="noopener"}.
 
@@ -143,8 +147,12 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 
 10) I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021). <br>Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. Toxins, 13 (8), 552. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/8/552){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00552.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
+### <span style="color: green; font-weight: bold;">2021 Publications</span> <span style="color: pink;">&#9679;</span>
+
 9) L De Colli, K De Ruyck, **MF Abdallah**, J Finnan, E Mullins, S Kildea, J Spink, C Elliott, M Danaher (2021).
 <br>Natural co-occurrence of multiple mycotoxins in unprocessed oats grown in Ireland with various production systems. Toxins, 13 (3), 188. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/3/188){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00188-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+
+### <span style="color: green; font-weight: bold;">2020 Publications</span> <span style="color: pink;">&#9679;</span>
 
 8) **MF Abdallah***, K Audenaert, SD Saeger, J Houbraken (2020).
 <br>Revisiting an Aspergillus flavus Strain Isolated from an Egyptian Sugarcane Field in 1930. Microorganisms, 8 (11), 1633. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2076-2607/8/11/1633){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/microorganisms-08-01633-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
@@ -154,6 +162,8 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 
 6) **MF Abdallah***, K Audenaert, L Lust, S Landschoot, B Bekaert, G Haesaert, M De Boevre, S De Saeger (2020).
 <br>Risk characterization and quantification of mycotoxins and their producing fungi in sugarcane juice: A neglected problem in a widely-consumed traditional beverage. Food Control, 108, 106811. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0956713519304001){:target="_blank" rel="noopener"}.
+
+### <span style="color: green; font-weight: bold;"> Before 2020 Publications</span> <span style="color: pink;">&#9679;</span>
 
 5) **MF Abdallah***, G Girgin, T Baydar (2019).
 <br>Mycotoxin detection in maize, commercial feed, and raw dairy milk samples from Assiut City, Egypt. Veterinary Sciences, 6 (2), 57. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2306-7381/6/2/57){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/vetsci-06-00057-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
