@@ -95,7 +95,7 @@ Total = 37
 
 ### <span style="color: green; font-weight: bold;">2024 Publications</span> <span style="color: pink;">&#9679;</span>
 
-26) S Yang, H Lin, P Yang, J Meng, MF Abdallah, Y Shencheng, R Li, J Li, S Liu, Q Li, P Lu, R Zhang, Y Li (2024).
+26) S Yang, H Lin, P Yang, J Meng, **MF Abdallah**, Y Shencheng, R Li, J Li, S Liu, Q Li, P Lu, R Zhang, Y Li (2024).
 <br>Advancing High-Throughput MS-Based Protein Quantification: A Case Study on Quantifying 10 Major Food Allergens by LC-MS/MS Using a One-Sample Multipoint External Calibration Curve. Journal of Agricultural and Food Chemistry,  3c08362. [[Link]](https://pubs.acs.org/doi/10.1021/acs.jafc.3c08362){:target="_blank" rel="noopener"}.
 
 25) WR Van Hassel, **MF Abdallah**, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024).
