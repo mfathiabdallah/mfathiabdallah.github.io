@@ -12,7 +12,7 @@ sitemap:
 
 Researcher in Food Toxicology and Human Health. <br />[F.R.S-FNRS](https://www.frs-fnrs.be/en/){:target="_blank" rel="noopener"} mandate. Host institute [University of Mons](https://web.umons.ac.be/en/){:target="_blank" rel="noopener"}, Belgium.
 <br /> <br> 
-My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water. In addition, testing the effect of a mixture of toxins and other environmental contaminantes such as as micro- and nanoplastics using _in vitro_ models.
+My research spans from detection of natural toxins, such as mycotoxins and cyanobacterial toxins, in food and water. In addition, testing the effect of a mixture of toxins and other emerging environmental contaminantes such as as micro- and nanoplastics using _in vitro_ models.
 <br /> <br />
 
 #### Previous Education, Training & Working experience
