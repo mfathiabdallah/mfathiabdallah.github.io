@@ -52,8 +52,8 @@ title: ""
   <h1 class="collapsible-title">&#10148; Funds</h1>
   <div class="collapsible-content">
     <ul>
-      <li>(2021) <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener">VLIRUOS Global Minds Grant</a> from Ghent University for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential in vitro toxic interaction. Role: Principal Researcher.</li>
-      <li>(2018) <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener">VLIRUOS Global Minds Grant</a> from Ghent University for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. Role: Principal Researcher.</li>
+      <li>(2021) VLIRUOS Global Minds Grant</a> from Ghent University for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential _in vitro_ toxic interaction. **Role**: Principal Researcher.</li>
+      <li>(2018) VLIRUOS Global Minds Grant from Ghent University for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. **Role**: Principal Researcher.</li>
     </ul>
       <!-- Four images side by side -->
     <div class="image-container">
@@ -133,8 +133,8 @@ title: ""
     
     <!-- Four images side by side -->
     <div class="image-container">
-       <img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
-       <img src="/images/moreaboutme/Fwo2.jpg" alt="Fwo2"></a>
+       <img src="/images/moreaboutme/UGENT2.png" alt="UGENT">
+       <img src="/images/moreaboutme/Fwo2.jpg" alt="Fwo2">
     </div>  
   </div>
 </div>
@@ -172,11 +172,11 @@ title: ""
     
     <!-- Four images side by side -->
     <div class="image-container">
-       <img src="/images/moreaboutme/2023_07_30_ILSI.PNG" alt="ILSI"></a>
-       <img src="/images/moreaboutme/2023_07_30_MycoTox.png" alt="MycoTox"></a>
-       <img src="/images/moreaboutme/2023_07_30_ESTIV.PNG" alt="ESTIV"></a>
-       <img src="/images/moreaboutme/2023_07_30_BelTox.png" alt="BelTox"></a>
-       <img src="/images/moreaboutme/2023_07_30_ISM.png" alt="ISM"></a>
+       <img src="/images/moreaboutme/2023_07_30_ILSI.PNG" alt="ILSI">
+       <img src="/images/moreaboutme/2023_07_30_MycoTox.png" alt="MycoTox">
+       <img src="/images/moreaboutme/2023_07_30_ESTIV.PNG" alt="ESTIV">
+       <img src="/images/moreaboutme/2023_07_30_BelTox.png" alt="BelTox">
+       <img src="/images/moreaboutme/2023_07_30_ISM.png" alt="ISM">
     </div>  
   </div>
 </div>
