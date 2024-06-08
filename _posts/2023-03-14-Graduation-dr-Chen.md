@@ -9,7 +9,7 @@ categories: media
 
 ## Graduation
 
-Today, Mrs. Xiangrong Chen has successfully defended her PhD at [Ghent University](https://www.ugent.be/en){:target="_blank" rel="noopener"} (Faculty of Bioscience Engineering). 
+Today, Mrs. Xiangrong Chen has successfully defended her PhD at Faculty of Bioscience Engineering, Ghent University. 
 
 Her PhD title was "Cross Talk of Fungi and Mycotoxins with Their Plants and Human Hosts". 
 
@@ -20,8 +20,7 @@ Congratualtion Dr. Chen, and all the best wishes in your future endeavours!
 <div class="image-container">
   <img class="graduation-image" src="/images/2023_03_14.png" alt="Graduation">
   </div>
-  <img class="graduation-image" src="/images/2023_03_14(2).png" alt="Graduation">
-<p class="caption">Pictures Taken at Faculty of Bioscience Engineering, UGent.</p>
+  <p class="caption">Pictures Taken at Faculty of Bioscience Engineering, UGent.</p>
 
 <style>
     .a2a_kit {
