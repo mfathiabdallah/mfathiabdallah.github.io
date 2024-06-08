@@ -81,22 +81,20 @@ title: ""
   }
 </style> 
     
-
 <!-- Scientific Awards -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Scientific Awards</h1>
   <div class="collapsible-content">
     <ul>
-      <li>(2022) Best Oral Presentation from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the international conference <a href="http://pofmy.imi.hr/" target="_blank" rel="noopener">Power of Fungi and Mycotoxins in Climate Change Symposium</a>, which has been hold in Croatia.</li>
-      <li>(2019) The Young Scientist Award during the <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener">EURACHEM 2019</a> meeting held in Tartu, Estonia.</li>
-      <li>(2018) Best Poster Award from <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener">Toxins journal</a> at the 2nd African Symposium on Mycotoxicology, which was hold in Kenya.</li>
+      <li>(2022) Best Oral Presentation from Toxins journal at the international conferencen Power of Fungi and Mycotoxins in Climate Change Symposium, Croatia.</li>
+      <li>(2019) The Young Scientist Award during the EURACHEM 2019 meeting held in Tartu, Estonia.</li>
+      <li>(2018) Best Poster Award from Toxins journal at the 2nd African Symposium on Mycotoxicology, Kenya.</li>
     </ul>
-    
-    
+      
     <!-- Four images side by side -->
     <div class="image-container">
-       <a href="https://www.mdpi.com/journal/toxins" target="_blank" rel="noopener"><img src="/images/moreaboutme/Toxins.png" alt="Toxins"></a>
-       <a href="https://eurachem2019.akki.ut.ee/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Eurachem.jpg" alt="Eurachem"></a>
+       <img src="/images/moreaboutme/Toxins.png" alt="Toxins"></a>
+       <img src="/images/moreaboutme/Eurachem.jpg" alt="Eurachem"></a>
     </div>  
   </div>
 </div>
@@ -135,8 +133,8 @@ title: ""
     
     <!-- Four images side by side -->
     <div class="image-container">
-       <a href="https://www.ugent.be/en/research/funding/mobilityandsabbaticalfund.htm" target="_blank" rel="noopener"><img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
-      <a href="https://www.fwo.be/en/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Fwo2.jpg" alt="Fwo2"></a>
+       <img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
+       <img src="/images/moreaboutme/Fwo2.jpg" alt="Fwo2"></a>
     </div>  
   </div>
 </div>
@@ -164,21 +162,21 @@ title: ""
   <h1 class="collapsible-title">&#10148; Memberships</h1>
   <div class="collapsible-content">
     <ul>
-      <li>(Since 2023) Member of ILSI Europe’s <a href="https://ilsi.eu/" target="_blank" rel="noopener">Natural Toxins’ Expert Group </a>.</li>
-      <li>(Since 2023) Full member <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener">Society for Mycotoxin Research</a>.</li>
-      <li>(Since 2021) Full member <a href="https://www.estiv.org/" target="_blank" rel="noopener">European Society of Toxicology In Vitro (ESTIV)</a>.</li>
-      <li>(Since 2021) Full member <a href="https://beltox.be/" target="_blank" rel="noopener">Belgian society of Toxicology (BelTox)</a>.</li>
-      <li>(Since 2020) Ordinary member <a href="http://www.mycotox-society.org/" target="_blank" rel="noopener">International Society of Mycotoxicology (ISM)</a>.</li>
+      <li>(Since 2023) Member of ILSI Europe’s Natural Toxins’ Expert Group.</li>
+      <li>(Since 2023) Full member Society for Mycotoxin Research.</li>
+      <li>(Since 2021) Full member European Society of Toxicology In Vitro (ESTIV).</li>
+      <li>(Since 2021) Full member Belgian society of Toxicology (BelTox).</li>
+      <li>(Since 2020) Ordinary member International Society of Mycotoxicology (ISM).</li>
     </ul>
     
     
     <!-- Four images side by side -->
     <div class="image-container">
-       <a href="https://ilsi.eu/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_ILSI.PNG" alt="ILSI"></a>
-       <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_MycoTox.png" alt="MycoTox"></a>
-       <a href="https://www.estiv.org/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_ESTIV.PNG" alt="ESTIV"></a>
-       <a href="https://beltox.be/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_BelTox.png" alt="BelTox"></a>
-       <a href="http://www.mycotox-society.org/" target="_blank" rel="noopener"><img src="/images/moreaboutme/2023_07_30_ISM.png" alt="ISM"></a>
+       <img src="/images/moreaboutme/2023_07_30_ILSI.PNG" alt="ILSI"></a>
+       <img src="/images/moreaboutme/2023_07_30_MycoTox.png" alt="MycoTox"></a>
+       <img src="/images/moreaboutme/2023_07_30_ESTIV.PNG" alt="ESTIV"></a>
+       <img src="/images/moreaboutme/2023_07_30_BelTox.png" alt="BelTox"></a>
+       <img src="/images/moreaboutme/2023_07_30_ISM.png" alt="ISM"></a>
     </div>  
   </div>
 </div>
@@ -201,7 +199,6 @@ title: ""
   }
 </style>
   
-
 <!-- Collaboration -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Collaboration</h1>
@@ -252,7 +249,6 @@ title: ""
   }
 </script>
 
-
 <style>
   /* Style for collapsible sections */
   .collapsible-title {
@@ -271,7 +267,6 @@ title: ""
     /* Remove collapsible functionality styles */
   }
 </style>
-
 
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
