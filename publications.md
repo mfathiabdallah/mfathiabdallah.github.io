@@ -47,7 +47,7 @@ title: ""
   <tbody>
     <tr>
       <td>Research Articles</td>
-      <td>26</td>
+      <td>27</td>
       <td>Editorials</td>
        <td>3</td>
     </tr>
@@ -63,7 +63,7 @@ title: ""
     </tr>
   </tbody>
 </table>
-Total = 37 
+Total = 38 
 
    (* corresponding author; † equal co-authorship). Publications are ordered per year (according to the first published date). 
    
@@ -95,21 +95,24 @@ Total = 37
 
 ### <span style="color: green; font-weight: bold;">2024 Publications</span> <span style="color: pink;">&#9679;</span>
 
+27) Z Zhu, W Guo, H Cheng, H Zhao, J Wang, **MF Abdallah**, X Zhou, H Lei, W Tu, H Wang, J Yang (2024).
+<br>Co-contamination and interactions of multiple mycotoxins and heavy metals in rice, maize, soybeans, and wheat flour marketed in Shanghai City. Journal of Hazardous Materials, 134695. [[Link]](https://www.sciencedirect.com/science/article/pii/S0304389424012743){:target="_blank" rel="noopener"}.
+
 26) S Yang, H Lin, P Yang, J Meng, **MF Abdallah**, Y Shencheng, R Li, J Li, S Liu, Q Li, P Lu, R Zhang, Y Li (2024).
-<br>Advancing High-Throughput MS-Based Protein Quantification: A Case Study on Quantifying 10 Major Food Allergens by LC-MS/MS Using a One-Sample Multipoint External Calibration Curve. Journal of Agricultural and Food Chemistry,  3c08362. [[Link]](https://pubs.acs.org/doi/10.1021/acs.jafc.3c08362){:target="_blank" rel="noopener"}.
+<br>Advancing High-Throughput MS-Based Protein Quantification: A Case Study on Quantifying 10 Major Food Allergens by LC-MS/MS Using a One-Sample Multipoint External Calibration Curve. Journal of Agricultural and Food Chemistry, 3c08362. [[Link]](https://pubs.acs.org/doi/10.1021/acs.jafc.3c08362){:target="_blank" rel="noopener"}.
 
 25) WR Van Hassel, **MF Abdallah**, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024).
-<br>Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (Ocimum basilicum L.). Environmental Pollution,  123715. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub){:target="_blank" rel="noopener"}.
+<br>Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (Ocimum basilicum L.). Environmental Pollution, 123715. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub){:target="_blank" rel="noopener"}.
 
 24) K Aghebatbinyeganeh, M Movassaghghazani, **MF Abdallah**, (2024).
 <br>Seasonal Variation and Risk Assessment of Exposure to Aflatoxin M1 in Milk, Yoghurt, and Cheese Samples from Ilam and Lorestan Provinces of Iran. Journal of Food Composition and Analysis, 106083. [[Link]](https://www.sciencedirect.com/science/article/pii/S0889157524001170){:target="_blank" rel="noopener"}.
 
 ### <span style="color: green; font-weight: bold;">2023 Publications</span> <span style="color: pink;">&#9679;</span>
 
-23)  M Gao, **MF Abdallah**, M Song, Y Xu, D Sun, P Lu, J Wang (2023).
+23) M Gao, **MF Abdallah**, M Song, Y Xu, D Sun, P Lu, J Wang (2023).
 <br>Novel Endophytic Pseudescherichia sp. GSE25 Strain Significantly Controls Fusarium graminearum and Reduces Deoxynivalenol in Wheat. Toxins 15 (12), 702. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/15/12/702){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-15-00702-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
-22)  M Gao, M Zhang, J Zhang, X Yang, **MF Abdallah**, J Wang (2023).
+22) M Gao, M Zhang, J Zhang, X Yang, **MF Abdallah**, J Wang (2023).
 <br>Phylogenetic Variation of Tri1 Gene and Development of PCR–RFLP Analysis for the Identification of NX Genotypes in Fusarium graminearum Species Complex. Toxins 15 (12), 692. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/15/12/692){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-15-00692.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 21) M Vandecasteele, T Depaepe, **MF Abdallah**, S De Saeger, M Höfte, G Haesaert, D Vab Der Straeten, K Audenaert (2023).
@@ -118,7 +121,7 @@ Total = 37
 20) S Yang, J Chen, **MF Abdallah**, H Lin, P Yang, J Li, R Zhang, Q Li, P Lu, S Liu, Y Li (2023).
 <br>An integrated calibration strategy for the development and validation of an LC-MS/MS method for accurate quantification of egg allergens (Gal d 1–6) in foods. Food Chemistry, 135593. [[Link]](https://www.sciencedirect.com/science/article/pii/S0308814623025402){:target="_blank" rel="noopener"}.
 
-19)  C Van Camp, W Van Hassel, **MF Abdallah**,  J Masquelier (2023).
+19) C Van Camp, W Van Hassel, **MF Abdallah**, J Masquelier (2023).
 <br>Simultaneous Detection and Quantification of Aflatoxin M1, Eight Microcystin Congeners and Nodularin in Dairy Milk by LC-MS/MS. Chemosensors, 2023, 11(10), 511. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2227-9040/11/10/511){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/chemosensors-11-00511.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 18) F Sun, P Wu, **MF Abdallah**, H Tan, Y Li, S Yang (2023).
