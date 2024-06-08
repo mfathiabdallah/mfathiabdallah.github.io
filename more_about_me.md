@@ -9,18 +9,18 @@ title: ""
   <h1 class="collapsible-title">&#10148; Fellowships</h1>
   <div class="collapsible-content">
     <ul>
-      <li>(2023) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute University of Mons.</li>
-      <li>(2020) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032.</li>
-      <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
-      <li>(2016) PhD Research Fellowship in the framework of Mycokey project, Ghent University, Belgium.</li> 
-      <li>(2015) Erasmus<sup>+</sup> Student Mobility for Studies, Center for Analytical Chemistry, Universität für Bodenkultur Wien, Austria.</li>
+      <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute University of Mons.</li>
+      <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032.</li>
+      <li>(2020-..) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
+      <li>(2016-2020) PhD Research Fellowship in the framework of Mycokey project, Ghent University, Belgium.</li> 
+      <li>(2015-2016) Erasmus<sup>+</sup> Student Mobility for Studies, Center for Analytical Chemistry, Universität für Bodenkultur Wien, Austria.</li>
       <li>(2014) Erasmus<sup>+</sup> Student Mobility for Placement, <em>IfADo</em> Institute, Dortmund, Germany.</li>
-      <li>(2012) Turkish Government Scholarship, Turkey.</li>
+      <li>(2013-2016) Turkish Government Scholarship, Turkey.</li>
     </ul>
     <!-- Four images side by side -->
     <div class="image-container">
        
-       <a href="https://www.frs-fnrs.be/fr/" target="_blank" rel="noopener"><img src="/images/moreaboutme/fnrs.png" alt="fnrs"></a>
+       <img src="/images/moreaboutme/fnrs.png" alt="fnrs"></a>
        <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
        <a href="http://www.mycokey.eu/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Mycokey(3).png" alt="Mycokey"></a>
        <a href="https://erasmus-plus.ec.europa.eu/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Erasmus2.jpg" alt="Erasmus"></a>
@@ -213,18 +213,16 @@ title: ""
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Europe</span></strong>
       <li>Dr. Dachuan Zhang-  Institute of Environmental Engineering, ETH Zürich, <strong>Switzerland</strong>.</li>
       <li>Dr. Julien Masquelier- Sciensano Institute, Tervuren, <strong>Belgium</strong>.</li>
-      <li>Prof. Gerard Bryan Gonzales- Wageningen University, Wageningen, <strong>Netherlands</strong>.</li>
+      <li>Prof. Gerard Bryan Gonzales- Ghent University, Ghent, <strong>Belgium</strong>.</li>
       <li>Dr. Elisabeth Varga- Department of Food Chemistry and Toxicology, University of Vienna, <strong>Austria</strong>.</li>
-      <li>Dr. Mohammed Aufy- Department of Pharmaceutical Sciences, Division of Pharmacology and Toxicology, University of Vienna, <strong>Austria</strong>.</li>
+      <li>Dr. Mohammed Aufy- Division of Pharmacology and Toxicology-Pharmaceutical Sciences, University of Vienna, <strong>Austria</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Asia</span></strong>
       <li>Prof. Shupeng Yang- Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, <strong>PR China</strong>.</li>
       <li>Dr. Ye Tian- University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, <strong>PR China</strong>.</li>
       <li>Dr. Meiling Gao- Northwest A&F University, Xianyang, <strong>PR China</strong>.</li>
       <li>Prof. Junhua Yang- Institute for Agri-Food Standards and Testing Technology, Shanghai Academy of Agricultural Sciences, Shanghai, <strong>PR China</strong>.</li>
-      <li>Prof. Jianhua Wang- Institute for Agri-Food Standards and Testing Technology, Shanghai Academy of Agricultural Sciences, Shanghai, <strong>PR China</strong>.</li>
       <li>Prof. Terken Baydar- Department of Toxicology, Faculty of Pharmacy, Hacettepe University, Ankara, <strong>Turkey</strong>.</li>
       <li>Prof. Mahmoud Abudayyak- Department of Toxicology, Faculty of Pharmacy, Istanbul University, Istanbul, <strong>Turkey</strong>.</li>
-      <li>Prof. Mohammad Hosein Movassagh- Department of Veterinary Medicine, Islamic Azad University, <strong>Iran</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Africa</span></strong>
       <li>Dr. Sara Redouane Salah- Department of Life and Natural Sciences, University Mohamed khider Biskra, <strong>Algeria</strong>.</li>
     </ul>
