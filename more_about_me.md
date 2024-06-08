@@ -20,11 +20,11 @@ title: ""
     <!-- Four images side by side -->
     <div class="image-container">
        
-       <img src="/images/moreaboutme/fnrs.png" alt="fnrs"></a>
-       <a href="https://tinyurl.com/mrfxhxaa" target="_blank" rel="noopener"><img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
-       <a href="http://www.mycokey.eu/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Mycokey(3).png" alt="Mycokey"></a>
-       <a href="https://erasmus-plus.ec.europa.eu/" target="_blank" rel="noopener"><img src="/images/moreaboutme/Erasmus2.jpg" alt="Erasmus"></a>
-      <a href="https://www.turkiyeburslari.gov.tr/" target="_blank" rel="noopener"><img src="/images/moreaboutme/TurkishScholarship.jpeg" alt="TurkishScholarship"></a>
+       <img src="/images/moreaboutme/fnrs.png" alt="fnrs">
+       <img src="/images/moreaboutme/UGENT2.png" alt="UGENT">
+       <img src="/images/moreaboutme/Mycokey(3).png" alt="Mycokey">
+       <img src="/images/moreaboutme/Erasmus2.jpg" alt="Erasmus">
+      <img src="/images/moreaboutme/TurkishScholarship.jpeg" alt="TurkishScholarship">
     </div>  
   </div>
  </div>
@@ -57,8 +57,8 @@ title: ""
     </ul>
       <!-- Four images side by side -->
     <div class="image-container">
-       <a href="https://www.vliruos.be/en/home/1" target="_blank" rel="noopener"><img src="/images/moreaboutme/vliruos.jpg" alt="vliruos"></a>
-       <a href="https://www.ugent.be/en/research/funding/devcoop/globalmindsfund.htm" target="_blank" rel="noopener"><img src="/images/moreaboutme/UGENT2.png" alt="UGENT"></a>
+       <img src="/images/moreaboutme/vliruos.jpg" alt="vliruos">
+       <img src="/images/moreaboutme/UGENT2.png" alt="UGENT">
     </div>  
   </div>
 </div>
@@ -220,7 +220,7 @@ title: ""
       <li>Prof. Shupeng Yang- Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, <strong>PR China</strong>.</li>
       <li>Dr. Ye Tian- University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, <strong>PR China</strong>.</li>
       <li>Dr. Meiling Gao- Northwest A&F University, Xianyang, <strong>PR China</strong>.</li>
-      <li>Prof. Junhua Yang- Institute for Agri-Food Standards and Testing Technology, Shanghai Academy of Agricultural Sciences, Shanghai, <strong>PR China</strong>.</li>
+      <li>Prof. Junhua Yang- Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong>.</li>
       <li>Prof. Terken Baydar- Department of Toxicology, Faculty of Pharmacy, Hacettepe University, Ankara, <strong>Turkey</strong>.</li>
       <li>Prof. Mahmoud Abudayyak- Department of Toxicology, Faculty of Pharmacy, Istanbul University, Istanbul, <strong>Turkey</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Africa</span></strong>
