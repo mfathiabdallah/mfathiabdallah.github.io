@@ -59,8 +59,7 @@ We are looking for motivated students and researchers to join our group. Please 
       <h3 style="margin-bottom: 0;">20 December 2023</h3>
       <p style="margin-top: 0;">Mycotoxin contamination in the Arab world</p>
       <p>Our review paper about "mycotoxin contamination in the Arab world" is now online in Mycotoxin Research Journal.</p>
-      <p>More information through this link: <a href="https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/" target="_blank">Page redirect</a></p>
-    </div>
+   </div>
     <div style="flex: 1; margin-bottom: 20px;">
       <img src="/images/2023_12_20.PNG" alt="publication" style="width: 100%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
     </div>
@@ -71,7 +70,6 @@ We are looking for motivated students and researchers to join our group. Please 
       <h3 style="margin-bottom: 0;">20 July 2023</h3>
       <p style="margin-top: 0;">Data Managment Plan Lecture</p>
       <p>Introduction to DMP for the selected students for the Advanced Lab 10 -Egypt Scholars Organization under the theme (Towards Mitigating the Climate Change Crisis).</p>
-      <p>More information at: <a href="https://www.mfathiabdallah.com/Data-Managment/" target="_blank">Data Managment Plan Lecture</a></p>
     </div>
     <div style="flex: 1; margin-bottom: 20px;">
       <img src="/images/2023_07_30.jpeg" alt="Special issue" style="width: 100%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
