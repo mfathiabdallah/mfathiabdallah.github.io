@@ -11,7 +11,7 @@ title: ""
     <ul>
       <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute University of Mons.</li>
       <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032.</li>
-      <li>(2020-..) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
+      <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
       <li>(2016-2020) PhD Research Fellowship in the framework of Mycokey project, Ghent University, Belgium.</li> 
       <li>(2015-2016) Erasmus<sup>+</sup> Student Mobility for Studies, Center for Analytical Chemistry, Universität für Bodenkultur Wien, Austria.</li>
       <li>(2014) Erasmus<sup>+</sup> Student Mobility for Placement, <em>IfADo</em> Institute, Dortmund, Germany.</li>
@@ -52,7 +52,7 @@ title: ""
   <h1 class="collapsible-title">&#10148; Funds</h1>
   <div class="collapsible-content">
     <ul>
-      <li>(2021) VLIRUOS Global Minds Grant</a> from Ghent University for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential in vitro toxic interaction. Role: Principal Researcher.</li>
+      <li>(2021) VLIRUOS Global Minds Grant from Ghent University for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential in vitro toxic interaction. Role: Principal Researcher.</li>
       <li>(2018) VLIRUOS Global Minds Grant from Ghent University for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. Role: Principal Researcher.</li>
     </ul>
       <!-- Four images side by side -->
