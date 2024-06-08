@@ -33,9 +33,7 @@ canonical: https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/
 ## Publication
 
 <!-- Your content goes here -->
-Our review paper about **"mycotoxin contamination in the Arab world"** is now online in <a href="https://link.springer.com/journal/12550" target="_blank" rel="noopener">Mycotoxin Research Journal</a> (the official publication of the <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener">Society for Mycotoxin Research)</a>.
- 
-The work was done in two years with a significant effort from several researchers and appreciated support from <a href="https://egyptscholars.org/" target="_blank" rel="noopener">Egypt Scholars Organization</a>.
+Our review paper about **"mycotoxin contamination in the Arab world"** is now online in <a href="https://link.springer.com/journal/12550" target="_blank" rel="noopener">Mycotoxin Research Journal</a>.
  
 In this review, an extensive set of data on mycotoxin contamination from all the Arab countries was collected, processed, and visualized to show the current situation of mycotoxin research conducted in the Arab countries, the existing gaps, and the future perspectives.
 
