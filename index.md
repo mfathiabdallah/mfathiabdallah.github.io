@@ -10,12 +10,13 @@ sitemap:
 
 <u>Short Bio (last update: Janurary 2024)</u>
 
-Researcher in Food Toxicology and Human Health. <br />[F.R.S-FNRS](https://www.frs-fnrs.be/en/){:target="_blank" rel="noopener"} mandate. Host institute [University of Mons](https://web.umons.ac.be/en/){:target="_blank" rel="noopener"}, Belgium.
+Researcher in Food Toxicology and Human Health. F.R.S-FNRS mandate. Host institute University of Mons, Belgium.
 <br /> <br> 
 My research is centered on understanding the risks associated with natural toxins and emerging environmental contaminants. This is done by applying LC-MS/MS based methods for the detection of mycotoxins and cyanobacterial toxins in food. Additionally, through the use of _in vitro_ models, I investigate the effects of these natural toxin as mixtures and their interactions with micro- and nanoplastics, thereby yielding valuable insights into their potential impacts on human health. This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.
 <br /> <br />
 
 #### Previous Education, Training & Working experience
+
 - Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.
 - Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland.
 - PhD in Pharmaceutical Sciences, Ghent University, Belgium.
@@ -54,9 +55,8 @@ We are looking for motivated students and researchers to join our group. Please 
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">20 December 2023</h3>
       <p style="margin-top: 0;">Mycotoxin contamination in the Arab world</p>
-      <p>Our review paper about "mycotoxin contamination in the Arab world" is now online in <a href="https://link.springer.com/journal/12550" target="_blank" rel="noopener">Mycotoxin Research Journal</a> (the official publication of the <a href="https://www.mycotoxin.de/" target="_blank" rel="noopener">Society for Mycotoxin Research)</a>.</p>
+      <p>Our review paper about "mycotoxin contamination in the Arab world" is now online in Mycotoxin Research Journal.</p>
       <p>More information through this link: <a href="https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/" target="_blank">Page redirect</a></p>
-      <p>#mycotoxins #arableague #foodsafety #feed #arabworld</p>
     </div>
     <div style="flex: 1; margin-bottom: 20px;">
       <img src="/images/2023_12_20.PNG" alt="publication" style="width: 100%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
@@ -69,7 +69,6 @@ We are looking for motivated students and researchers to join our group. Please 
       <p style="margin-top: 0;">Data Managment Plan Lecture</p>
       <p>Introduction to DMP for the selected students for the Advanced Lab 10 -Egypt Scholars Organization under the theme (Towards Mitigating the Climate Change Crisis).</p>
       <p>More information at: <a href="https://www.mfathiabdallah.com/Data-Managment/" target="_blank">Data Managment Plan Lecture</a></p>
-      <p>#Data_Management #EgyptScholars #Research</p>
     </div>
     <div style="flex: 1; margin-bottom: 20px;">
       <img src="/images/2023_07_30.jpeg" alt="Special issue" style="width: 100%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
@@ -77,9 +76,6 @@ We are looking for motivated students and researchers to join our group. Please 
   </div>
   <hr />
 </div>
-
-
-
 
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
