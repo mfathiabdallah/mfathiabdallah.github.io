@@ -52,8 +52,8 @@ title: ""
   <h1 class="collapsible-title">&#10148; Funds</h1>
   <div class="collapsible-content">
     <ul>
-      <li>(2021) VLIRUOS Global Minds Grant</a> from Ghent University for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential _in vitro_ toxic interaction. **Role**: Principal Researcher.</li>
-      <li>(2018) VLIRUOS Global Minds Grant from Ghent University for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. **Role**: Principal Researcher.</li>
+      <li>(2021) VLIRUOS Global Minds Grant</a> from Ghent University for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential in vitro toxic interaction. Role: Principal Researcher.</li>
+      <li>(2018) VLIRUOS Global Minds Grant from Ghent University for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. Role: Principal Researcher.</li>
     </ul>
       <!-- Four images side by side -->
     <div class="image-container">
@@ -93,8 +93,8 @@ title: ""
       
     <!-- Four images side by side -->
     <div class="image-container">
-       <img src="/images/moreaboutme/Toxins.png" alt="Toxins"></a>
-       <img src="/images/moreaboutme/Eurachem.jpg" alt="Eurachem"></a>
+       <img src="/images/moreaboutme/Toxins.png" alt="Toxins">
+       <img src="/images/moreaboutme/Eurachem.jpg" alt="Eurachem">
     </div>  
   </div>
 </div>
