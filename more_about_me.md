@@ -20,12 +20,7 @@ title: ""
     <!-- Four images side by side -->
     <div class="image-container">
        
-       <img src="/images/moreaboutme/fnrs.png" alt="fnrs">
-       <img src="/images/moreaboutme/UGENT2.png" alt="UGENT">
-       <img src="/images/moreaboutme/Mycokey(3).png" alt="Mycokey">
-       <img src="/images/moreaboutme/Erasmus2.jpg" alt="Erasmus">
-      <img src="/images/moreaboutme/TurkishScholarship.jpeg" alt="TurkishScholarship">
-    </div>  
+   </div>  
   </div>
  </div>
 
@@ -56,9 +51,6 @@ title: ""
       <li>(2018) VLIRUOS Global Minds Grant from Ghent University for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. Role: Principal Researcher.</li>
     </ul>
       <!-- Four images side by side -->
-    <div class="image-container">
-       <img src="/images/moreaboutme/vliruos.jpg" alt="vliruos">
-       <img src="/images/moreaboutme/UGENT2.png" alt="UGENT">
     </div>  
   </div>
 </div>
@@ -91,11 +83,6 @@ title: ""
       <li>(2018) Best Poster Award from Toxins journal at the 2nd African Symposium on Mycotoxicology, Kenya.</li>
     </ul>
       
-    <!-- Four images side by side -->
-    <div class="image-container">
-       <img src="/images/moreaboutme/Toxins.png" alt="Toxins">
-       <img src="/images/moreaboutme/Eurachem.jpg" alt="Eurachem">
-    </div>  
   </div>
 </div>
 
@@ -130,12 +117,7 @@ title: ""
       <li>(2017) Conference Travel Award (€750) Faculty of Pharmaceutical Sciences-UGent to attend the 3<sup>rd</sup> International Mass Spectrometry School, Dubrovnik-Croatia.</li>
       
     </ul>
-    
-    <!-- Four images side by side -->
-    <div class="image-container">
-       <img src="/images/moreaboutme/UGENT2.png" alt="UGENT">
-       <img src="/images/moreaboutme/Fwo2.jpg" alt="Fwo2">
-    </div>  
+
   </div>
 </div>
 
@@ -169,15 +151,7 @@ title: ""
       <li>(Since 2020) Ordinary member International Society of Mycotoxicology (ISM).</li>
     </ul>
     
-    
-    <!-- Four images side by side -->
-    <div class="image-container">
-       <img src="/images/moreaboutme/2023_07_30_ILSI.PNG" alt="ILSI">
-       <img src="/images/moreaboutme/2023_07_30_MycoTox.png" alt="MycoTox">
-       <img src="/images/moreaboutme/2023_07_30_ESTIV.PNG" alt="ESTIV">
-       <img src="/images/moreaboutme/2023_07_30_BelTox.png" alt="BelTox">
-       <img src="/images/moreaboutme/2023_07_30_ISM.png" alt="ISM">
-    </div>  
+
   </div>
 </div>
 
