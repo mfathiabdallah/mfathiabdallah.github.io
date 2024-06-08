@@ -18,7 +18,6 @@ More information at: <a href="https://tinyurl.com/5h7k6n46" target="_blank">http
 <br>
 <img src="/images/2021_12_21.jpg" alt="Special issue" style="width: 90%;">
 <br>
-<br>#toxicology #animal_health #open_access
 <style>
     .a2a_kit {
         float: right; /* Float the div to the right */
