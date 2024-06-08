@@ -105,7 +105,7 @@ title: ""
   <h1 class="collapsible-title">&#10148; Travel Grants</h1>
   <div class="collapsible-content">
     <ul>
-      <li>(2023) National Demonstration Base for Talent Introduction Grant (17,000 RMB) to visit the nstitute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing,                      People’s Republic of China.</li>
+      <li>(2023) National Demonstration Base for Talent Introduction Grant (17,000 RMB) to visit the nstitute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, People’s Republic of China.</li>
       <li>(2023) Conference Travel Award (€500) Faculty of Bioscience Engineering-UGent to attend 44<sup>th</sup> Mycotoxin-Workshop, Celle (at Hannover)-Germany.</li>
       <li>(2022) Workshop Travel Award from the Research Foundation - Flanders (FWO) to attend the Applied <em>In Vitro</em> Toxicology Course, Luxembourg.</li>
       <li>(2022) Conference Travel Award (€500) Faculty of Bioscience Engineering-UGent to attend XVI<sup>th</sup> International Congress of Toxicology (ICT 2022), Maastricht-the Netherlands.</li>
@@ -147,7 +147,6 @@ title: ""
       <li>(Since 2020) Ordinary member International Society of Mycotoxicology (ISM).</li>
     </ul>
     
-
   </div>
 </div>
 
@@ -176,15 +175,14 @@ title: ""
     <ul>
       (Based on running projects and research papers)
       <br>
-      <br>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Europe</span></strong>
       <li>Dr. Dachuan Zhang-  Institute of Environmental Engineering, ETH Zürich, <strong>Switzerland</strong>.</li>
       <li>Dr. Julien Masquelier- Sciensano Institute, Tervuren, <strong>Belgium</strong>.</li>
       <li>Prof. Gerard Bryan Gonzales- Ghent University, Ghent, <strong>Belgium</strong>.</li>
       <li>Dr. Elisabeth Varga- Department of Food Chemistry and Toxicology, University of Vienna, <strong>Austria</strong>.</li>
-      <li>Dr. Mohammed Aufy- Division of Pharmacology and Toxicology-Pharmaceutical Sciences, University of Vienna, <strong>Austria</strong>.</li>
+      <li>Dr. Mohammed Aufy- Division of Pharmacology and Toxicology, University of Vienna, <strong>Austria</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Asia</span></strong>
-      <li>Prof. Shupeng Yang- Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, <strong>PR China</strong>.</li>
+      <li>Prof. Shupeng Yang- Institute of Food Science and Technology, Beijing, <strong>PR China</strong>.</li>
       <li>Dr. Ye Tian- University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, <strong>PR China</strong>.</li>
       <li>Dr. Meiling Gao- Northwest A&F University, Xianyang, <strong>PR China</strong>.</li>
       <li>Prof. Junhua Yang- Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong>.</li>
@@ -198,7 +196,6 @@ title: ""
     <br> <!-- Add line spaces here -->
   </div>
 </div>
-
 
 <script>
   // Function to toggle collapsible sections
