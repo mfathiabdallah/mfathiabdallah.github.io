@@ -13,11 +13,6 @@ This week, I have completed a one-year leadership program offered by Ghent Unive
 
 This program aimed at introducing PhD and PostDoc researchers to the small and medium-sized enterprises world. Together with my teammates (Paulien and Chenxi), we have been visiting Bureau 9000 Studie & Energieadviesbureau, as an existing successful example, to apply all the theoretical knowledge in practice.
 
-<div class="image-container">
-  <img class="graduation-image" src="/images/2022_11_28.jpg" alt="Graduation">
-  </div>
-<p class="caption">Picture Location: VOKA centre, Gent 9000 Belgium.</p>
-
 <style>
 .image-container {
   display: flex;
