@@ -3,15 +3,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-       <loc>https://www.mfathiabdallah.com/feed.xml</loc>
-       <lastmod>2024-06-08T21:23:03+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+    <loc>https://www.mfathiabdallah.com/feed.xml</loc>
+    <lastmod>2024-06-08T21:23:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
   </url>
   <url>
-       <loc>https://www.mfathiabdallah.com/CV_MFA_April2024.pdf</loc>
-       <lastmod>2024-06-08T21:23:03+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+    <loc>https://www.mfathiabdallah.com/CV_MFA_April2024.pdf</loc>
+    <lastmod>2024-06-08T21:23:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.64</priority>
   </url>
 </urlset>
