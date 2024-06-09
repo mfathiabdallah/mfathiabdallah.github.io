@@ -23,29 +23,6 @@ Eleonora studied the <em>in vitro</em> hepatic and intestinal toxicity of nanopl
 
 <p class="caption">Picture Location: Faculty of Bioscience Engineering, UGent.</p>
 
-<style>
-.image-container {
-  display: flex;
-  justify-content: Left;
-  align-items: Left;
-}
-
-.graduation-image {
-  width: 500px;
-  height: 500px;
-  object-fit: cover;
-  margin-right: 10px;
-}
-
-.caption {
-  margin-top: 0;
-  margin-right: 10px;
-  font-size: 14px;
-  text-align: Left;
-  width: 700px;
-}
-</style>
-
 
 <style>
     .a2a_kit {
