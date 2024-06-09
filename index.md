@@ -72,7 +72,7 @@ We are looking for motivated students and researchers to join our group. Please 
       <p>Introduction to DMP for the selected students for the Advanced Lab 10 -Egypt Scholars Organization under the theme (Towards Mitigating the Climate Change Crisis).</p>
     </div>
     <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2023_07_30.jpeg" alt="Special issue" style="width: 100%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
+      <img src="/images/2023_07_30.jpeg" alt="Special issue" style="width: 50%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
     </div>
   </div>
   <hr />
