@@ -61,7 +61,7 @@ We are looking for motivated students and researchers to join our group. Please 
       <p>Our review paper about "mycotoxin contamination in the Arab world" is now online in Mycotoxin Research Journal.</p>
    </div>
     <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2023_12_20.PNG" alt="publication" style="width: 100%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
+      <img src="/images/2023_12_20.PNG" alt="publication" style="width: 50%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
     </div>
   </div>
   <hr />
