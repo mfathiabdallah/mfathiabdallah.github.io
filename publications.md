@@ -184,7 +184,7 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 <br>Occurrence of multiple mycotoxins and other fungal metabolites in animal feed and maize samples from Egypt using LC‐MS/MS. Journal of the Science of Food and Agriculture, 97 (13), 4419-4428. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.8293){:target="_blank" rel="noopener"}.
 
 1) **MF Abdallah**, R Krska, M Sulyok (2016).
-<br>Mycotoxin contamination in sugarcane grass and juice: first report on detection of multiple mycotoxins and exposure assessment for aflatoxins B1 and G1 in humans. Toxins, 8 (11), 343. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/8/11/343){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-08-00343.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+<br>Mycotoxin contamination in sugarcane grass and juice: first report on detection of multiple mycotoxins and exposure assessment for aflatoxins B1 and G1 in humans. Toxins, 8 (11), 343. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/8/11/343){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins_Abdallah_etal2016.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 <style>
   /* Style for collapsible sections */
