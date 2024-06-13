@@ -9,7 +9,8 @@ categories: media
 
 ## Interview
 
-{% include embed.html url="https://www.youtube.com/watch?v=_0Le8Mq143c" %}
+
+{% include embed.html url="https://www.youtube.com/embed/_0Le8Mq143c" %}
 <br />
 Mohamed Fathi Abdallah is a PostDoc Researcher in Toxicology at Ghent University. Find out why he gets interested in science, what he likes about their research at [IMPTOX](https://www.imptox.eu/en/){:target="_blank" rel="noopener"} project, the challenges he is facing and what are his hopes for the future of science.
 <br />
@@ -37,50 +38,28 @@ Mohamed Fathi Abdallah is a PostDoc Researcher in Toxicology at Ghent University
 </style>
 
 <style>
-.a2a_kit {
-  float: right; /* Float the div to the right */
-  margin: 10px; /* Add some margin for spacing */
-}
+    .a2a_kit {
+        float: right; /* Float the div to the right */
+        margin: 10px; /* Add some margin for spacing */
+    }
 </style>
 <br />
 The [IMPTOX](https://www.imptox.eu/en/){:target="_blank" rel="noopener"} project has received funding from the EU’s H2020 framework program for research and innovation under grant agreement n. 965173. Imptox is one of five projects in the EU Horizon 2020 programme that will work together with the European Commission's Joint Research Center to form The European Research Cluster to Understand the Health Impacts of Micro- and Nanoplastics, CUSP. It is the cluster’s overall goal to contribute with new scientific knowledge and know-how to the European Strategy for Plastics.
 
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-  <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-  <a class="a2a_button_facebook"></a>
-  <a class="a2a_button_linkedin"></a>
-  <a class="a2a_button_x"></a>
-  <a class="a2a_button_microsoft_teams"></a>
-  <a class="a2a_button_whatsapp"></a>
-  <a class="a2a_button_pinterest"></a>
-  <a class="a2a_button_email"></a>
+    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+    <a class="a2a_button_facebook"></a>
+    <a class="a2a_button_linkedin"></a>
+    <a class="a2a_button_x"></a>
+    <a class="a2a_button_microsoft_teams"></a>
+    <a class="a2a_button_whatsapp"></a>
+    <a class="a2a_button_pinterest"></a>
+    <a class="a2a_button_email"></a>
 </div>
 <script>
-var a2a_config = a2a_config || {};
-a2a_config.num_services = 12;
+    var a2a_config = a2a_config || {};
+    a2a_config.num_services = 12;
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
-
-<!-- Optional: Include JSON-LD for VideoObject schema -->
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "VideoObject",
-  "name": "Interview with Imptox Young Researchers: Dr. Mohamed Fathi Abdallah",
-  "description": "Interview with Dr. Mohamed Fathi Abdallah about his research at IMPTOX project.",
-  "thumbnailUrl": "https://www.example.com/thumbnail.jpg",  // URL to your video thumbnail image
-  "uploadDate": "2023-04-28T00:00:00Z",
-  "duration": "PT10M",  // Duration in ISO 8601 format (e.g., PT10M for 10 minutes)
-  "contentUrl": "https://www.youtube.com/embed/_0Le8Mq143c",  // URL to your embedded video
-  "embedUrl": "https://www.youtube.com/embed/_0Le8Mq143c",
-  "interactionStatistic": {
-    "@type": "InteractionCounter",
-    "interactionType": {
-      "@type": "http://schema.org/WatchAction"
-    },
-    "userInteractionCount": "12345"  // Number of views or interactions
-  }
-}
-</script>
