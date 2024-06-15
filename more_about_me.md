@@ -176,11 +176,13 @@ title: ""
       (Based on running projects and research papers)
       <br>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Europe</span></strong>
-      <li>Dr. Dachuan Zhang-  Institute of Environmental Engineering, ETH Zürich, <strong>Switzerland</strong>.</li>
+      <li>Prof. Andreja Rajkovic-  Department of Food Technology, Safety and Health, <strong>Belgium</strong>.</li>
+      <li>Dr. Luca Dellafiora-  Department of Food and Drug, University of Parma, <strong>Italy</strong>.</li>
       <li>Dr. Julien Masquelier- Sciensano Institute, Tervuren, <strong>Belgium</strong>.</li>
       <li>Prof. Gerard Bryan Gonzales- Ghent University, Ghent, <strong>Belgium</strong>.</li>
-      <li>Dr. Elisabeth Varga- Department of Food Chemistry and Toxicology, University of Vienna, <strong>Austria</strong>.</li>
+      <li>Dr. Elisabeth Varga- Analytics and chemistry working group, University of Veterinary Medicine Vienna, <strong>Austria</strong>.</li>
       <li>Dr. Mohammed Aufy- Division of Pharmacology and Toxicology, University of Vienna, <strong>Austria</strong>.</li>
+      <li>Dr. Dachuan Zhang-  Institute of Environmental Engineering, ETH Zürich, <strong>Switzerland</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Asia</span></strong>
       <li>Prof. Shupeng Yang- Institute of Food Science and Technology, Beijing, <strong>PR China</strong>.</li>
       <li>Dr. Ye Tian- University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, <strong>PR China</strong>.</li>
