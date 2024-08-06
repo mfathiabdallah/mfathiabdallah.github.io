@@ -47,7 +47,7 @@ title: ""
   <tbody>
     <tr>
       <td>Research Articles</td>
-      <td>27</td>
+      <td>28</td>
       <td>Editorials</td>
        <td>3</td>
     </tr>
@@ -63,7 +63,7 @@ title: ""
     </tr>
   </tbody>
 </table>
-Total = 38 
+Total = 39
 
    (* corresponding author; † equal co-authorship). Publications are ordered per year (according to the first published date). 
    
@@ -94,6 +94,9 @@ Total = 38
 <h1 class="collapsible-title">&#10148; Research Articles </h1>
 
 ### <span style="color: green; font-weight: bold;">2024 Publications</span> <span style="color: pink;">&#9679;</span>
+
+28) **MF Abdallah***, JM Recote, C Van Camp, WHR Van Hasse, L Pedroni, L Dellafiora, J Masquelier, A Rajkovic (2024).
+<br>Potential (co-)contamination of dairy milk with AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction in HepG2 cells. Food and Chemical Toxicology, 114907. [[Link]](https://www.sciencedirect.com/science/article/pii/S0278691524004733?via%3Dihub){:target="_blank" rel="noopener"}.
 
 27) Z Zhu, W Guo, H Cheng, H Zhao, J Wang, **MF Abdallah**, X Zhou, H Lei, W Tu, H Wang, J Yang (2024).
 <br>Co-contamination and interactions of multiple mycotoxins and heavy metals in rice, maize, soybeans, and wheat flour marketed in Shanghai City. Journal of Hazardous Materials, 134695. [[Link]](https://www.sciencedirect.com/science/article/pii/S0304389424012743){:target="_blank" rel="noopener"}.
