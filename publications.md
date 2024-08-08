@@ -214,7 +214,7 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 <h1 class="collapsible-title">&#10148; Reviews </h1>
 
 7) K Aghebatbinyeganeh, **MF Abdallah*** (2024).
-<br>An overview of regional mycotoxin contamination in Iranian food. Food and Humanity, 100370. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S2949824424001459){:target="_blank" rel="noopener"}.
+<br>An overview of regional mycotoxin contamination in Iranian food. Food and Humanity, 100370. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S2949824424001459){:target="_blank" rel="noopener"}. 
 
 6) **MF Abdallah***, M Gado, D Abdelsadek, F Zahran, NN El-Salhey, O Mehrez, S Abdel-Hay, SM Mohamed, K De Ruyck, S Yang, GB Gonzales, E Varga (2023).
 <br>Mycotoxin contamination in the Arab world: Highlighting the main knowledge gaps and the current legislation. Mycotoxin Research, 1-26. [[Link]](https://link.springer.com/article/10.1007/s12550-023-00513-2){:target="_blank" rel="noopener"}.
