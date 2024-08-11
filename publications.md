@@ -10,7 +10,7 @@ title: ""
     <p>&#10148; Visit my <a href="https://orbi.umons.ac.be/profile?uid=538301" target="_blank" rel="noopener">page</a> at University of Mons</p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <iframe src="/CV_MFA_April2024.pdf" style="width:85%;height:250px;"></iframe>
+    <iframe src="/CV_Mohamed_Fathi_Abdallah_August_2024" style="width:85%;height:250px;"></iframe>
   </div>
 </div>
 
