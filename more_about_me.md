@@ -15,7 +15,7 @@ title: ""
       <li>(2016-2020) PhD Research Fellowship in the framework of Mycokey project, Ghent University, Belgium.</li> 
       <li>(2015-2016) Erasmus<sup>+</sup> Student Mobility for Studies, Center for Analytical Chemistry, Universität für Bodenkultur Wien, Austria.</li>
       <li>(2014) Erasmus<sup>+</sup> Student Mobility for Placement, <em>IfADo</em> Institute, Dortmund, Germany.</li>
-      <li>(2013-2016) Turkish Government Scholarship, Turkey.</li>
+      <li>(2013-2016) Turkish Government Scholarship, Türkiye.</li>
     </ul>
 
   </div>
@@ -188,8 +188,8 @@ title: ""
       <li>Dr. Ye Tian- University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, <strong>PR China</strong>.</li>
       <li>Dr. Meiling Gao- Northwest A&F University, Xianyang, <strong>PR China</strong>.</li>
       <li>Prof. Junhua Yang- Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong>.</li>
-      <li>Prof. Terken Baydar- Hacettepe University, Ankara, <strong>Turkey</strong>.</li>
-      <li>Prof. Mahmoud Abudayyak- Istanbul University, Istanbul, <strong>Turkey</strong>.</li>
+      <li>Prof. Terken Baydar- Hacettepe University, Ankara, <strong>Türkiye</strong>.</li>
+      <li>Prof. Mahmoud Abudayyak- Istanbul University, Istanbul, <strong>Türkiye</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Africa</span></strong>
       <li>Dr. Sara Redouane Salah- University Mohamed khider Biskra, <strong>Algeria</strong>.</li>
     </ul>
