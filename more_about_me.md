@@ -140,6 +140,7 @@ title: ""
   <h1 class="collapsible-title">&#10148; Memberships</h1>
   <div class="collapsible-content">
     <ul>
+      <li>(Since 2024) Board member European Society of Toxicology In Vitro (ESTIV).</li>
       <li>(Since 2023) Member of ILSI Europe’s Natural Toxins’ Expert Group.</li>
       <li>(Since 2023) Full member Society for Mycotoxin Research.</li>
       <li>(Since 2021) Full member European Society of Toxicology In Vitro (ESTIV).</li>
