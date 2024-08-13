@@ -25,7 +25,7 @@ This interdisciplinary approach bridges food toxicology and human health, facili
 - PhD in Pharmaceutical Sciences, Ghent University, Belgium.
 - Erasmus+ Exchange Master Student, University of Natural Resources and Life Sciences, Vienna (BOKU), Austria.
 - Erasmus+ Intern Researcher, _IfADo_ Institute, Dortmund, Germany.
-- Master's Degree in Pharmaceutical Toxicology, Hacettepe University, Turkey.
+- Master's Degree in Pharmaceutical Toxicology, Hacettepe University, Türkiye.
 - Bachelor's Degree in Veterinary Medical Sciences, Assiut University, Egypt.
 
 **  **
