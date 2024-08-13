@@ -18,6 +18,12 @@ My research is centered on understanding the risks associated with natural toxin
 This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.
 <br /> <br />
 
+#### Current Membership
+
+- Board Member of the European Society of Toxicology In Vitro (ESTIV).
+- Expert Group Member of ILSI Europe - Natural Toxins.
+- Full Member - Society for Mycotoxin Research
+
 #### Previous Education, Training & Working experience
 
 - Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.
