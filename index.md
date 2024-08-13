@@ -17,9 +17,7 @@ F.R.S-FNRS mandate. Host institute University of Mons, Belgium.
 My research is centered on understanding the risks associated with natural toxins and emerging environmental contaminants in food. This is done by applying LC-MS/MS methods for detection of mycotoxins and cyanotoxins. Also, through the use of _in vitro_ models, I investigate the effects of these toxins as mixtures and their interactions with micro- and nanoplastics. 
 This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.
 <br /> <br />
-
 #### Current Membership
-
 - Board Member of the European Society of Toxicology In Vitro (ESTIV).
 - Expert Group Member of ILSI Europe - Natural Toxins.
 - Full Member - Society for Mycotoxin Research
