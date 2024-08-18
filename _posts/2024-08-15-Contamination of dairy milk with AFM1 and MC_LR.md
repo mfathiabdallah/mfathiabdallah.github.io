@@ -24,7 +24,7 @@ canonical: https://www.mfathiabdallah.com/AFM1_and_MC-LR_and_their_synergistic_i
   "Publication": "contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "[https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/](https://www.mfathiabdallah.com/contamination-of-dairy-milk-with-AFM1-and-MC-LR-and-their-synergistic-interaction-in-inducing-mitochondrial-dysfunction-in-HepG2-cells/)"
+    "@id": "[[https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/](https://www.mfathiabdallah.com/contamination-of-dairy-milk-with-AFM1-and-MC-LR-and-their-synergistic-interaction-in-inducing-mitochondrial-dysfunction-in-HepG2-cells/)](https://www.mfathiabdallah.com/contamination-of-dairy-milk-with-AFM1-and-MC-LR-and-their-synergistic-interaction-in-inducing-mitochondrial-dysfunction-in-HepG2-cells/)"
   }
 }
 </script>
@@ -48,7 +48,7 @@ Finally, I would like to thank all the co-authors for their contributions.
 </div>
 
 <div class="image-container">
-  <img class="Publication" src="/images/2023_12_20.PNG" alt="Publication" onclick="openModal(this.src)">
+  <img class="Publication" src="/images/2024_08_15.JPG" alt="Publication" onclick="openModal(this.src)">
 </div>
 
 <!-- JavaScript for modal functionality -->
