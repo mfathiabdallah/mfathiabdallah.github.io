@@ -67,6 +67,7 @@ We are looking for motivated students and researchers to join our group. Please 
     <div style="flex: 1; margin-bottom: 20px;">
       <img src="/images/2024_08_15.JPG" alt="publication" style="width: 50%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
     </div>
+  </div>
   <hr />
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
