@@ -1,30 +1,30 @@
 ---
 layout: post
-title: "contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction is now online at Food and Chemical Toxicology Journal website"
+title: "Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction is now online at Food and Chemical Toxicology Journal website"
 date: 2024-08-15
 mathjax: true
 inline: true
 categories: media
-canonical: https://www.mfathiabdallah.com/AFM1_and_MC-LR_and_their_synergistic_interaction/
+canonical: https://www.mfathiabdallah.com/Contamination-of-dairy-milk-with-AFM1-and-MC_LR/
 ---
 
 <!-- Add canonical tag -->
-<link rel="canonical" href="https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/">
+<link rel="canonical" href="https://www.mfathiabdallah.com/Contamination-of-dairy-milk-with-AFM1-and-MC_LR/">
 
 <!-- Metadata -->
-<meta name="Publication" content="contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction">
+<meta name="Publication" content="Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction">
 
 <!-- Structured Data -->
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Article",
-  "headline": "contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction is now online at Food and Chemical Toxicology Journal website",
+  "headline": "Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction is now online at Food and Chemical Toxicology Journal website",
   "datePublished": "2028-08-15",
-  "Publication": "contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction",
+  "Publication": "Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "[[https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/](https://www.mfathiabdallah.com/contamination-of-dairy-milk-with-AFM1-and-MC-LR-and-their-synergistic-interaction-in-inducing-mitochondrial-dysfunction-in-HepG2-cells/)](https://www.mfathiabdallah.com/contamination-of-dairy-milk-with-AFM1-and-MC-LR-and-their-synergistic-interaction-in-inducing-mitochondrial-dysfunction-in-HepG2-cells/)"
+    "@id": "https://www.mfathiabdallah.com/Contamination-of-dairy-milk-with-AFM1-and-MC_LR/"
   }
 }
 </script>
@@ -33,13 +33,13 @@ canonical: https://www.mfathiabdallah.com/AFM1_and_MC-LR_and_their_synergistic_i
 ## Publication
 
 <!-- Your content goes here -->
-Our review paper about **"mycotoxin contamination in the Arab world"** is now online at Mycotoxin Research Journal website.
+Our paper about **"Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction"** is now online at Food and Chemical Toxicology Journal website.
  
-In this review, an extensive set of data on mycotoxin contamination from all the Arab countries was collected, processed, and visualized to show the current situation of mycotoxin research conducted in the Arab countries, the existing gaps, and the future perspectives.
+In this work, an LC-MS/MS method for AFM1 and MC-LR quantification in dairy milk was developed and validated to analyze 113 dairy milk samples from Flanders, Belgium. Moreover, an in silico analysis, using a 3D molecular modeling was performed. Since AFM1 and MC-LR are hepatotoxic, their interaction in inducing mitochondrial dysfunction in HepG2 cells was investigated at low (subcytotoxic) concentrations.
 
 The article can be reached through this link <a href="https://pubmed.ncbi.nlm.nih.gov/39111684/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/39111684/</a>.
 
-Finally, I would like to thank all the co-authors for their contributions.
+ Thanks to all co-authors for their contribution!
 
 <!-- Add modal functionality to the image -->
 <div id="myModal" class="modal">
