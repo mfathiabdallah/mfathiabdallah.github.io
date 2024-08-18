@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "contamination of dairy milk with AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction in HepG2 cells is now online at Food and Chemical Toxicology Journal website"
+title: "contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction is now online at Food and Chemical Toxicology Journal website"
 date: 2024-08-15
 mathjax: true
 inline: true
@@ -12,16 +12,16 @@ canonical: https://www.mfathiabdallah.com/AFM1_and_MC-LR_and_their_synergistic_i
 <link rel="canonical" href="https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/">
 
 <!-- Metadata -->
-<meta name="Publication" content="AFM1 and MC-LR and their synergistic interaction">
+<meta name="Publication" content="contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction">
 
 <!-- Structured Data -->
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Article",
-  "headline": "contamination of dairy milk with AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction in HepG2 cells is now online at Food and Chemical Toxicology Journal website",
+  "headline": "contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction is now online at Food and Chemical Toxicology Journal website",
   "datePublished": "2028-08-15",
-  "Publication": "AFM1_and_MC-LR_and_their_synergistic_interaction",
+  "Publication": "contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "[https://www.mfathiabdallah.com/Mycotoxin-contamination_review_Arab/](https://www.mfathiabdallah.com/contamination-of-dairy-milk-with-AFM1-and-MC-LR-and-their-synergistic-interaction-in-inducing-mitochondrial-dysfunction-in-HepG2-cells/)"
