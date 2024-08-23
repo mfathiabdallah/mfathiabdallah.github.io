@@ -8,7 +8,7 @@ sitemap:
 <!-- Profile picture -->
 <img class="ProfilePic" img width="170" align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="mohamed_fathi_abdallah_2023(2).jpg">
 
-<u>Short Bio (last update: Janurary 2024)</u>
+<u>Short Bio (last update: August 2024)</u>
 
 Researcher in Food Toxicology and Human Health.
 <br> 
@@ -17,8 +17,7 @@ F.R.S-FNRS mandate. Host institute University of Mons, Belgium.
 Advisory Expert for The Food Quality and Safety Control Innovation Team, 
 <br> 
 Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, China
-
-<br /> <br> 
+<br />
 My research is centered on understanding the risks associated with natural toxins and emerging environmental contaminants in food. This is done by applying LC-MS/MS methods for detection of mycotoxins and cyanotoxins. Also, through the use of _in vitro_ models, I investigate the effects of these toxins as mixtures and their interactions with micro- and nanoplastics. 
 This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.
 <br /> <br />
