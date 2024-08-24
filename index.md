@@ -10,14 +10,13 @@ sitemap:
 
 <u>Short Bio (last update: August 2024)</u>
 
-Researcher in Food Toxicology and Human Health.
-<br> 
-F.R.S-FNRS mandate. Host institute University of Mons, Belgium.
+- Researcher in Food Toxicology and Human Health. F.R.S-FNRS mandate. Host institute University of Mons, Belgium.
+- Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science
+and Technology, Chinese Academy of Agricultural Sciences, Beijing, China
 
-<br /> 
 My research is centered on understanding the risks associated with natural toxins and emerging environmental contaminants in food. This is done by applying LC-MS/MS methods for detection of mycotoxins and cyanotoxins. Also, through the use of _in vitro_ models, I investigate the effects of these toxins as mixtures and their interactions with micro- and nanoplastics. 
 This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.
-<br /> <br />
+<br />
 #### Current Membership
 - Board Member of the European Society of Toxicology In Vitro (ESTIV).
 - Expert Group Member of ILSI Europe - Natural Toxins.
