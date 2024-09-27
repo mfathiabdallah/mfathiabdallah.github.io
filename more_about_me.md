@@ -178,6 +178,7 @@ title: ""
       <br>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Europe</span></strong>
       <li>Prof. Andreja Rajkovic- Ghent University, <strong>Belgium</strong>.</li>
+      <li>Prof. Carla Bittencourt- University of Mons, <strong>Belgium</strong>.</li>
       <li>Dr. Luca Dellafiora- University of Parma, <strong>Italy</strong>.</li>
       <li>Dr. Julien Masquelier- Sciensano Institute, Tervuren, <strong>Belgium</strong>.</li>
       <li>Prof. Gerard Bryan Gonzales- Ghent University, <strong>Belgium</strong>.</li>
