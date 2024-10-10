@@ -61,6 +61,17 @@ We are looking for motivated students and researchers to join our group. Please 
    <hr />
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
+      <h3 style="margin-bottom: 0;">10 October 2024</h3>
+      <p style="margin-top: 0;">Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control</p>
+      <p>Our Editorial on “the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control” “ is now online at Toxins Journal website.</p>
+   </div>
+    <div style="flex: 1; margin-bottom: 20px;">
+      <img src="/images/2024_10_10.PNG" alt="publication" style="width: 50%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
+    </div>
+  </div>
+  <hr />
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">15 August 2024</h3>
       <p style="margin-top: 0;">AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction</p>
       <p>Our paper about "Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction" is now online in Food and Chemical Toxicology Journal.</p>
