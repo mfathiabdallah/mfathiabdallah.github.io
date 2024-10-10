@@ -288,6 +288,9 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 
 <h1 class="collapsible-title">&#10148; Editorials </h1>
 
+3) **MF Abdallah***, S Yang and E Varag (2024).
+<br>The Editorial on the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control” . Toxins, 16(10), 435. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/16/10/435){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-16-00435.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+
 3) **MF Abdallah***, W Xu and A Abdeen (2022).
 <br>Editorial: Environmental contaminants and animal health: Analysis, toxicity, and mitigation. Front. Vet. Sci. 9:1102836. <span style="color:green">(Open Access)</span> [[Link]](https://www.frontiersin.org/articles/10.3389/fvets.2022.1102836/full){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/fvets-09-1102836.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
