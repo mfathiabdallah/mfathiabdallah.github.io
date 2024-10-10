@@ -5,11 +5,11 @@ date: 2024-10-10
 mathjax: true
 inline: true
 categories: media
-canonical: https://www.mfathiabdallah.com/Contamination-of-dairy-milk-with-AFM1-and-MC_LR/
+canonical: https://www.mfathiabdallah.com/Editorial_Toxins/
 ---
 
 <!-- Add canonical tag -->
-<link rel="canonical" href="https://www.mfathiabdallah.com/Contamination-of-dairy-milk-with-AFM1-and-MC_LR/">
+<link rel="canonical" href="https://www.mfathiabdallah.com/Editorial_Toxins/">
 
 <!-- Metadata -->
 <meta name="Publication" content="The Editorial on the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control” ">
@@ -45,11 +45,11 @@ The Editorial can be reached through this link <a href="https://www.mdpi.com/207
 <!-- Add modal functionality to the image -->
 <div id="myModal" class="modal">
   <span class="close" onclick="closeModal()">&times;</span>
-  <img class="modal-content" id="img01">
+  <img class="modal-content" id="img02">
 </div>
 
 <div class="image-container">
-  <img class="Publication" src="/images/2024_08_15.JPG" alt="Publication" onclick="openModal(this.src)">
+  <img class="Publication" src="/images/2024_10_10.PNG" alt="Publication" onclick="openModal(this.src)">
 </div>
 
 <!-- JavaScript for modal functionality -->
@@ -57,7 +57,7 @@ The Editorial can be reached through this link <a href="https://www.mdpi.com/207
 // Open the modal
 function openModal(imgSrc) {
   var modal = document.getElementById("myModal");
-  var modalImg = document.getElementById("img01");
+  var modalImg = document.getElementById("img02");
   modal.style.display = "block";
   modalImg.src = imgSrc;
 }
