@@ -9,7 +9,8 @@ title: ""
   <h1 class="collapsible-title">&#10148; Fellowships</h1>
   <div class="collapsible-content">
     <ul>
-      <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute University of Mons.</li>
+      <li> (12/2024)  TÜBİTAK 2221-Fellowships for Visiting Scientists (short term). Host institute: Istanbul University, Türkiye.</li>
+      <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute: University of Mons.</li>
       <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032.</li>
       <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
       <li>(2016-2020) PhD Research Fellowship in the framework of Mycokey project, Ghent University, Belgium.</li> 
