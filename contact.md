@@ -16,21 +16,21 @@ sitemap:
       <i class="fab fa-twitter"></i>  &nbsp; Twitter: &nbsp; <a href="https://twitter.com/MoFathiAbdallah" target="_blank">MoFathiAbdallah</a><br>
       <i class="fab fa-linkedin"></i> &nbsp; LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">Mohamed Fathi Abdallah</a><br>
       <i class="fab fa-orcid"></i>    &nbsp; ORCID: &nbsp; <a href="https://orcid.org/0000-0002-3903-6452" target="_blank">0000-0002-3903-6452</a><br><br>
-      <img src="/images/Umons1.jpg" alt="Image" style="width: 100%; height: auto; border-radius: 10px;">
+      <img src="/images/AarhusUni.jpg" alt="Image" style="width: 100%; height: auto; border-radius: 10px;">
     </p>
   </div>
 
   <div style="border: 1px solid #ccc; padding: 20px;">
     <h4>Address:</h4>
     <p>
-      Department of Human Biology and Toxicology <br>
-      Faculty of Medicine and Pharmacy <br>
-      University of Mons <br>
-      Av. du Champ de Mars 6b <br>
-      7000 Mons <br>
-      Belgium <br>
+      Department of Food Science <br>
+      Faculty of Technical Sciences <br>
+      Aarhus University <br>
+      Agro Food Park 48 <br>
+      8200 Aarhus N <br>
+      Denmark <br>
     </p>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1269.9160545924133!2d3.954174!3d50.462851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2501e1a860137%3A0x8a6a62c2bc529f12!2sAv.%20du%20Champ%20de%20Mars%206b%2C%207000%20Mons%2C%20Belgium!5e0!3m2!1sen!2sus!4v1706097701120!5m2!1sen!2sus" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.8577236812416!2d10.153219677617567!3d56.19850617325248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c15cd3e555c11%3A0xc10a2cd724a2185e!2sAgro%20Food%20Park%2048%2C%208200%20Aarhus!5e1!3m2!1sen!2sdk!4v1744464701594!5m2!1sen!2sdk" width="100" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
   
 </div>
