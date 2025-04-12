@@ -186,13 +186,11 @@ title: ""
       <li>Prof. Gerard Bryan Gonzales- Ghent University, <strong>Belgium</strong>.</li>
       <li>Dr. Elisabeth Varga- University of Veterinary Medicine Vienna, <strong>Austria</strong>.</li>
       <li>Dr. Mohammed Aufy- University of Vienna, <strong>Austria</strong>.</li>
-      <li>Dr. Dachuan Zhang-  Institute of Environmental Engineering, ETH Zürich, <strong>Switzerland</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Asia</span></strong>
       <li>Prof. Shupeng Yang- Institute of Food Science and Technology, Beijing, <strong>PR China</strong>.</li>
       <li>Dr. Ye Tian- University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, <strong>PR China</strong>.</li>
       <li>Dr. Meiling Gao- Northwest A&F University, Xianyang, <strong>PR China</strong>.</li>
       <li>Prof. Junhua Yang- Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong>.</li>
-      <li>Prof. Terken Baydar- Hacettepe University, Ankara, <strong>Türkiye</strong>.</li>
       <li>Prof. Mahmoud Abudayyak- Istanbul University, Istanbul, <strong>Türkiye</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Africa</span></strong>
       <li>Dr. Sara Redouane Salah- University Mohamed khider Biskra, <strong>Algeria</strong>.</li>
