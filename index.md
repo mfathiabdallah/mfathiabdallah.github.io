@@ -10,7 +10,7 @@ sitemap:
 
 <u>Short Bio (last update: April 2025)</u>
 
-- Assistant Professor (Tenure Track) in Food Toxicology at Aarhus University, Denmark.
+- Assistant Professor (Tenure Track) in Food Toxicology at Food Chemistry group, Department of Food Science, Aarhus University, Denmark.
 - Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science
 and Technology, Chinese Academy of Agricultural Sciences, Beijing, China
 
