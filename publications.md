@@ -48,7 +48,7 @@ title: ""
   <tbody>
     <tr>
       <td>Research Articles</td>
-      <td>28</td>
+      <td>29</td>
       <td>Editorials</td>
        <td>4</td>
     </tr>
@@ -64,7 +64,7 @@ title: ""
     </tr>
   </tbody>
 </table>
-Total = 41
+Total = 42
 
    (* corresponding author; † equal co-authorship). Publications are ordered per year (according to the first published date). 
    
@@ -93,6 +93,11 @@ Total = 41
 </style>
 
 <h1 class="collapsible-title">&#10148; Research Articles </h1>
+
+### <span style="color: green; font-weight: bold;">2025 Publications</span> <span style="color: pink;">&#9679;</span>
+
+29) C Dongye, X Chen, Y Zhao, H Li, **MF Abdallah**, T Li, X Chen (2025).
+<br>Protective Effects of Octyl Gallate Against Deoxynivalenol-Induced Colon Inflammation: Insights from Proteomic and Metabolomic Analyses. Environment & Health, 4c00250. [[Link]](https://https://pubs.acs.org/doi/full/10.1021/envhealth.4c00250){:target="_blank" rel="noopener"}.
 
 ### <span style="color: green; font-weight: bold;">2024 Publications</span> <span style="color: pink;">&#9679;</span>
 
