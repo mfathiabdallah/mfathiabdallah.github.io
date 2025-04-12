@@ -97,7 +97,7 @@ Total = 42
 ### <span style="color: green; font-weight: bold;">2025 Publications</span> <span style="color: pink;">&#9679;</span>
 
 29) C Dongye, X Chen, Y Zhao, H Li, **MF Abdallah**, T Li, X Chen (2025).
-<br>Protective Effects of Octyl Gallate Against Deoxynivalenol-Induced Colon Inflammation: Insights from Proteomic and Metabolomic Analyses. Environment & Health, 4c00250. [[Link]](https://https://pubs.acs.org/doi/full/10.1021/envhealth.4c00250){:target="_blank" rel="noopener"}.
+<br>Protective Effects of Octyl Gallate Against Deoxynivalenol-Induced Colon Inflammation: Insights from Proteomic and Metabolomic Analyses. Environment & Health, 4c00250. [[Link]](https://pubs.acs.org/doi/full/10.1021/envhealth.4c00250){:target="_blank" rel="noopener"}.
 
 ### <span style="color: green; font-weight: bold;">2024 Publications</span> <span style="color: pink;">&#9679;</span>
 
