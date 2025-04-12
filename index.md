@@ -8,9 +8,9 @@ sitemap:
 <!-- Profile picture -->
 <img class="ProfilePic" img width="170" align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="mohamed_fathi_abdallah_2023(2).jpg">
 
-<u>Short Bio (last update: August 2024)</u>
+<u>Short Bio (last update: April 2025)</u>
 
-- Researcher in Food Toxicology and Human Health. F.R.S-FNRS mandate. Host institute University of Mons, Belgium.
+- Assistant Professor (Tenure Track) in Food Toxicology at Aarhus University.
 - Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science
 and Technology, Chinese Academy of Agricultural Sciences, Beijing, China
 
@@ -25,6 +25,7 @@ This interdisciplinary approach bridges food toxicology and human health, facili
 
 #### Previous Education, Training & Working experience
 
+- F.R.S-FNRS Fellow (Senior Postdoctoral Researcher). Host institute University of Mons, Belgium.
 - Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.
 - Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland.
 - PhD in Pharmaceutical Sciences, Ghent University, Belgium.
