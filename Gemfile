@@ -1,8 +1,7 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2.0"
-gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
+gem "webrick", "~> 1.7"
 
 group :jekyll_plugins do
     gem 'jekyll'
@@ -22,4 +21,5 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
+    gem "jekyll-feed", "~> 0.12"
 end
