@@ -1,7 +1,9 @@
 ---
 layout: page
+title: Home
+permalink: /
 sitemap:
-  lastmod: 2024-03-01
+  lastmod: 2024-04-01
   exclude: 'no'
 ---
 <br />
