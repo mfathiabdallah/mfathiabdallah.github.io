@@ -2,7 +2,7 @@
 layout: page
 title: Home
 permalink: /
-description: "Assistant Professor in Food Toxicology at Aarhus University, Denmark. PhD in Pharmaceutical Sciences, Ghent University. Expert in natural contaminants in food."
+description: "Assistant Professor in Food Toxicology at Aarhus University, Denmark."
 sitemap:
   lastmod: 2025-04-01
   exclude: 'no'
