@@ -234,10 +234,8 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 3) R Tavelli, M Callens, C Grootaert, **MF Abdallah**, A Rajkovic (2022).
 <br>Foodborne pathogens in the plastisphere: Can microplastics in the food chain threaten microbial food safety?. Trends in Food Science & Technology, 129, 1-10. <span style="color:green">(Open Access)</span> [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0924224422003715){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/R_Tavelli_et al. 2022.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
-
 2) **MF Abdallah***, WHR Van Hassel, M Andjelkovic, A Wilmotte, A Rajkovic (2021).
-<br>Cyanotoxins and Food Contamination in Developing Countries: Review of Their Types, Toxicity, Analysis, Occurrence and Mitigation Strategies. Toxins, 13 (11), 786. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/11/786){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00786-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
+<br>Cyanotoxins and Food Contamination in Developing Countries: Review of Their Types, Toxicity, Analysis, Occurrence and Mitigation Strategies. Toxins, 13 (11), 786. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/11/786){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Abdallah et al_toxins_13_00786.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 1) **MF Abdallah**, G Girgin, T Baydar (2015).
 <br>Occurrence, prevention and limitation of mycotoxins in feeds. Animal Nutrition and Feed Technology, 15 (3), 471-490. <span style="color:green">(Open Access)</span> [[Link]](https://www.researchgate.net/publication/280041287_Occurrence_Prevention_and_Limitation_of_Mycotoxins_in_Feeds){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Abdallah_et_al_2015.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
