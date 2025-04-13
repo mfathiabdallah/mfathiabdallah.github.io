@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "News and Views"
+title: "News"
 
 ---
 
