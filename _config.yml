@@ -4,7 +4,7 @@
 
 title: "Mohamed Fathi Abdallah"
 author: "Mohamed Fathi Abdallah"
-description: "Mohamed Fathi Abdallah ©2024"
+description: "Mohamed Fathi Abdallah ©2025"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -36,7 +36,7 @@ external:          # shows a footer with social links - for available icons see 
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Mohamed-Abdallah-13"}
   - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-3903-6452"}
-  - {title: Ghent University, icon: landmark, url: "https://www.ugent.be/"}
+  - {title: Ghent University, icon: landmark, url: "https://www.au.dk/en/mfa@food.au.dk"}
 
  #- {title: Github, icon: github, url: "https://github.com/mfathiabdallah"}
 
