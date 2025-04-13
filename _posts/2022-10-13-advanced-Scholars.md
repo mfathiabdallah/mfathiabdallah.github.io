@@ -7,11 +7,24 @@ inline: true
 categories: media
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Carcinogenic Mycotoxins: From Farm to Fork (Webinar in Arabic)",
+  "description": "A webinar discussing the carcinogenic potential of mycotoxins in food, presented by Egypt Scholars Organization.",
+  "thumbnailUrl": "https://www.example.com/thumbnail.jpg",
+  "contentUrl": "https://www.youtube.com/watch?v=ZGtk-ZGcPPE",
+  "embedUrl": "https://www.youtube.com/embed/ZGtk-ZGcPPE",
+  "uploadDate": "2022-10-13"
+}
+</script>
+
 ## Webinar
 
-Invited talk by Egypt Scholars Orgnizartion.
+Invited talk by Egypt Scholars Organization.
 
-Through this one-hour talk, several highlights were given to the public (in Arabic) on the issue of mycotoxins in food and their carcinogenic potential (the ability to casue cancer) in human. 
+Through this one-hour talk, several highlights were given to the public (in Arabic) on the issue of mycotoxins in food and their carcinogenic potential (the ability to cause cancer) in humans. 
 
 {% include embed.html url="https://www.youtube.com/embed/ZGtk-ZGcPPE" %}
 
