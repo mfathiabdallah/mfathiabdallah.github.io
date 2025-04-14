@@ -5,11 +5,11 @@ date: 2025-03-01
 mathjax: true
 inline: true
 categories: media
-canonical: https://www.mfathiabdallah.com/new-job/
+canonical: https://www.mfathiabdallah.com/Career/
 ---
 
 <!-- Add canonical tag -->
-<link rel="canonical" href="https://www.mfathiabdallah.com/new-job/">
+<link rel="canonical" href="https://www.mfathiabdallah.com/Career/">
 
 <!-- Metadata -->
 <meta name="Career" content="New position at Food Science Department, Aarhus University">
@@ -24,7 +24,7 @@ canonical: https://www.mfathiabdallah.com/new-job/
   "Lecture": "New position at Food Science Department, Aarhus University",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://www.mfathiabdallah.com/new-job/"
+    "@id": "https://www.mfathiabdallah.com/Career/"
   }
 }
 </script>
