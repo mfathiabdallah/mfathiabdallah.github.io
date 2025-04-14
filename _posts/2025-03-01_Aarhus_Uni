@@ -35,7 +35,7 @@ canonical: https://www.mfathiabdallah.com/new-job/
 <!-- Your content goes here -->
 I’m thrilled to share that I will be joining the Department of Food Science at Aarhus University, Denmark, as a Tenure Track Assistant Professor in Food Toxicology, starting April 1st, 2025.
 
-In this new role, I’ll focus on research into the evaluation of toxic compounds in novel and alternative food products, their characterization, and the development of innovative analytical methods—while bridging science with EU legislation and regulatory frameworks. I’m especially excited to contribute to building a dynamic research group within the Food Chemistry Science Team, and to engage in collaboration with industry, government, and advisory services.
+In this new role, I will focus on research into the evaluation of toxic compounds in novel and alternative food products and the development of innovative analytical methods—while bridging science with EU legislation and regulatory frameworks. I’m especially excited to contribute to building a dynamic research group within the Food Chemistry Science Team.
 
 This is a fantastic opportunity to deepen my work in food toxicology, mentor the next generation of scientists, and contribute to a vibrant international research community.
 
@@ -47,7 +47,7 @@ Looking forward to this exciting journey and the opportunities ahead at Aarhus U
 </div>
 
 <div class="image-container">
-  <img class="Lecture" src="/images/AarhusUni.jpg" alt="Career" onclick="openModal(this.src)">
+  <img class="Career" src="/images/AarhusUni.jpg" alt="Career" onclick="openModal(this.src)">
 </div>
 
 <!-- JavaScript for modal functionality -->
