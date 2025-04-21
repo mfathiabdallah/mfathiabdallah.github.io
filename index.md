@@ -20,7 +20,7 @@ and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.
 - Expert Group Member of ILSI Europe - Natural Toxins.
 - Member of Society of Toxicology (SOT) & Post-doctoral Representative of the SOT’s Food Safety Specialty Section (FS3).
 
-#### Current Research at Aarhus University
+#### Research Interest
 My research is centered on understanding the risks associated with natural toxins (mycotoxins and cyanotoxins) and other emerging contaminants in novel food. This is done by applying LC-MS/MS methods for detection. Also, through the use of _in vitro_ models, we investigate the effects of these toxins as mixtures on human health.
 This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.
 <br />
