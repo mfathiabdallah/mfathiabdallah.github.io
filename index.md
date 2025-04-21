@@ -15,16 +15,14 @@ sitemap:
 
 - Assistant Professor (Tenure Track) in Food Toxicology, Food Chemistry group, Department of Food Science, Aarhus University, Denmark.
 - Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science
-and Technology, Chinese Academy of Agricultural Sciences, Beijing, China
+and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.
+- Board Member of the European Society of Toxicology In Vitro (ESTIV).
+- Expert Group Member of ILSI Europe - Natural Toxins.
+- Member of Society of Toxicology (SOT) & Post-doctoral Representative of the SOT’s Food Safety Specialty Section (FS3).
 
 My research is centered on understanding the risks associated with natural toxins and emerging environmental contaminants in food. This is done by applying LC-MS/MS methods for detection of mycotoxins and cyanotoxins. Also, through the use of _in vitro_ models, I investigate the effects of these toxins as mixtures. 
 This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.
 <br />
-#### Current Membership
-- Member of Society of Toxicology (SOT).
-- Board Member -Early Career Network- of the European Society of Toxicology In Vitro (ESTIV).
-- Expert Group Member of ILSI Europe - Natural Toxins.
-- Full Member of Society for Mycotoxin Research
 
 #### Previous Education, Training & Working experience
 
