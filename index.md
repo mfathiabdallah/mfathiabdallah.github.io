@@ -25,17 +25,6 @@ My research is centered on understanding the risks associated with natural toxin
 This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.
 <br />
 
-#### Previous Education, Training & Working experience
-
-- F.R.S-FNRS Fellow (Senior Postdoctoral Researcher). Host institute University of Mons, Belgium.
-- Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.
-- Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland.
-- PhD in Pharmaceutical Sciences, Ghent University, Belgium.
-- Erasmus+ Exchange Master Student, University of Natural Resources and Life Sciences, Vienna (BOKU), Austria.
-- Erasmus+ Intern Researcher, _IfADo_ Institute, Dortmund, Germany.
-- Master's Degree in Pharmaceutical Toxicology, Hacettepe University, Türkiye.
-- Bachelor's Degree in Veterinary Medical Sciences, Assiut University, Egypt.
-
 **  **
 <html>
 <marquee behavior="scroll" direction="left" scrollamount="3">
@@ -48,6 +37,18 @@ We are looking for motivated students and researchers to join our group. Please 
         margin: 10px; /* Add some margin for spacing */
     }
 </style>
+
+#### Previous Education, Training & Working experience
+
+- F.R.S-FNRS Fellow (Senior Postdoctoral Researcher). Host institute University of Mons, Belgium.
+- Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.
+- Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland.
+- PhD in Pharmaceutical Sciences, Ghent University, Belgium.
+- Erasmus+ Exchange Master Student, University of Natural Resources and Life Sciences, Vienna (BOKU), Austria.
+- Erasmus+ Intern Researcher, _IfADo_ Institute, Dortmund, Germany.
+- Master's Degree in Pharmaceutical Toxicology, Hacettepe University, Türkiye.
+- Bachelor's Degree in Veterinary Medical Sciences, Assiut University, Egypt.
+
 <!-- News and Announcement -->
 <div>
   <h2>News</h2>
@@ -57,6 +58,7 @@ We are looking for motivated students and researchers to join our group. Please 
     {% endfor %}
   </ul>
 </div>
+
 
 <!-- Announcement -->
 <div>
