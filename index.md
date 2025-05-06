@@ -65,7 +65,7 @@ We are looking for motivated students and researchers to join our group. Please 
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">01 March 2025</h3>
-      <p style="margin-top: 0;">Joining Food Science Department, Aarhus University as an Assistant Professor (tenure treack) in Food Toxicology</p>
+      <p style="margin-top: 0;">Joining Food Science Department, Aarhus University as an Assistant Professor (tenure track) in Food Toxicology</p>
       <p>I’m thrilled to share that I will be joining the Department of Food Science at Aarhus University, Denmark, as a Tenure Track Assistant Professor in Food Toxicology, starting April 1st, 2025. Looking forward to this exciting journey and the opportunities ahead at Aarhus University!.</p>
    </div>
     <div style="flex: 1; margin-bottom: 20px;">
