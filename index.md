@@ -38,8 +38,9 @@ We are looking for motivated students and researchers to join our group. Please 
     }
 </style>
 
-**  **
+<br />
 <div>
+
 #### Previous Education, Training & Working experience
 
 - F.R.S-FNRS Fellow (Senior Postdoctoral Researcher). Host institute University of Mons, Belgium.
@@ -50,6 +51,7 @@ We are looking for motivated students and researchers to join our group. Please 
 - Erasmus+ Intern Researcher, _IfADo_ Institute, Dortmund, Germany.
 - Master's Degree in Pharmaceutical Toxicology, Hacettepe University, Türkiye.
 - Bachelor's Degree in Veterinary Medical Sciences, Assiut University, Egypt.
+<div>
 
 <!-- News and Announcement -->
 <div>
