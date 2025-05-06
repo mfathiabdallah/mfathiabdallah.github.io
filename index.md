@@ -80,6 +80,7 @@ We are looking for motivated students and researchers to join our group. Please 
   </div> 
  <!-- 👇 Centered divider here -->
 <hr class="centered-hr" />
+ <!-- 👇 adjust the style here only once for all -->
   <style>
   .centered-hr {
     width: 420px;         /* short line: adjust length here */
@@ -88,7 +89,6 @@ We are looking for motivated students and researchers to join our group. Please 
     border-top: 2px solid #aaa; /* line color and thickness */
   }
 </style>
-<hr class="centered-hr" />
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">10 October 2024</h3>
