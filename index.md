@@ -54,6 +54,7 @@ We are looking for motivated students and researchers to join our group. Please 
 
 <!-- News and Announcement -->
 <div>
+   <hr />
   <h2>News</h2>
    <hr />
   <ul>
@@ -66,6 +67,7 @@ We are looking for motivated students and researchers to join our group. Please 
 
 <!-- Announcement -->
 <div>
+   <hr />
   <h2>Announcements</h2>
      <hr />
   <div style="display: flex; flex-wrap: wrap;">
