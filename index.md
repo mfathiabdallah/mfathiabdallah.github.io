@@ -37,11 +37,10 @@ We are looking for motivated students and researchers to join our group. Please 
         margin: 10px; /* Add some margin for spacing */
     }
 </style>
-
+<div>
   <!-- Education, Training & Working experience -->
 <div>
-<br />
- <h2>#### Previous Education, Training & Working experience</h2>
+<h3> Previous Education, Training & Working experience</h3>
 
 - F.R.S-FNRS Fellow (Senior Postdoctoral Researcher). Host institute University of Mons, Belgium.
 - Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.
@@ -57,7 +56,6 @@ We are looking for motivated students and researchers to join our group. Please 
 <div>
    <hr />
   <h2>News</h2>
-
   <ul>
     {% for post in site.posts limit:5 %}
     <li><span style="font-weight: bold;">{{ post.date | date: "%Y-%m-%d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -79,7 +77,6 @@ We are looking for motivated students and researchers to join our group. Please 
       <img src="/images/AarhusUni.jpg" alt="publication" style="width: 80%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 20px;">
     </div>
   </div> 
-
  
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
