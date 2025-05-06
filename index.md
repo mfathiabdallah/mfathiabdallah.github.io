@@ -82,13 +82,13 @@ We are looking for motivated students and researchers to join our group. Please 
 <hr class="centered-hr" />
   <style>
   .centered-hr {
-    width: 220px;         /* short line: adjust length here */
+    width: 420px;         /* short line: adjust length here */
     margin: 40px auto;    /* centers it horizontally */
     border: none;
     border-top: 2px solid #aaa; /* line color and thickness */
   }
 </style>
-
+<hr class="centered-hr" />
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">10 October 2024</h3>
@@ -99,7 +99,8 @@ We are looking for motivated students and researchers to join our group. Please 
       <img src="/images/2024_10_10.PNG" alt="publication" style="width: 80%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 20px;">
     </div>
   </div>
-    
+  
+   <hr class="centered-hr" /> 
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">15 August 2024</h3>
@@ -110,7 +111,8 @@ We are looking for motivated students and researchers to join our group. Please 
       <img src="/images/2024_08_15.JPG" alt="publication" style="width: 50%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
     </div>
   </div>
-   
+  
+   <hr class="centered-hr" />
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">20 December 2023</h3>
@@ -121,6 +123,7 @@ We are looking for motivated students and researchers to join our group. Please 
       <img src="/images/2023_12_20.PNG" alt="publication" style="width: 50%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
     </div>
   </div>
+<hr class="centered-hr" />
  
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
