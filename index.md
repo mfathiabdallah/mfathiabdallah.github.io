@@ -38,6 +38,8 @@ We are looking for motivated students and researchers to join our group. Please 
     }
 </style>
 
+**  **
+<div>
 #### Previous Education, Training & Working experience
 
 - F.R.S-FNRS Fellow (Senior Postdoctoral Researcher). Host institute University of Mons, Belgium.
