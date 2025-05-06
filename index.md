@@ -39,7 +39,6 @@ We are looking for motivated students and researchers to join our group. Please 
 </style>
 
 <br />
-<div>
 
 #### Previous Education, Training & Working experience
 
@@ -56,6 +55,7 @@ We are looking for motivated students and researchers to join our group. Please 
 <!-- News and Announcement -->
 <div>
   <h2>News</h2>
+   <hr />
   <ul>
     {% for post in site.posts limit:5 %}
     <li><span style="font-weight: bold;">{{ post.date | date: "%Y-%m-%d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
