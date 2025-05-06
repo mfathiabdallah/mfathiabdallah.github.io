@@ -76,8 +76,7 @@ We are looking for motivated students and researchers to join our group. Please 
    </div>
     <div style="flex: 1; margin-bottom: 20px;">
       <img src="/images/AarhusUni.jpg" alt="publication" style="width: 80%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 20px;">
-    </div>
-  </div> 
+  </div>
  <!-- 👇 Centered divider here -->
 <hr class="centered-hr" />
  <!-- 👇 adjust the style here only once for all -->
@@ -98,7 +97,6 @@ We are looking for motivated students and researchers to join our group. Please 
     <div style="flex: 1; margin-bottom: 20px;">
       <img src="/images/2024_10_10.PNG" alt="publication" style="width: 80%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 20px;">
     </div>
-  </div>
   
    <hr class="centered-hr" /> 
   <div style="display: flex; flex-wrap: wrap;">
