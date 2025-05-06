@@ -69,7 +69,6 @@ We are looking for motivated students and researchers to join our group. Please 
 <div>
    <hr />
   <h2>Announcements</h2>
-     <hr />
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">01 March 2025</h3>
@@ -80,7 +79,7 @@ We are looking for motivated students and researchers to join our group. Please 
       <img src="/images/AarhusUni.jpg" alt="publication" style="width: 80%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 20px;">
     </div>
   </div> 
-  <hr />
+ 
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">10 October 2024</h3>
