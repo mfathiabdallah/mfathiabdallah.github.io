@@ -38,9 +38,10 @@ We are looking for motivated students and researchers to join our group. Please 
     }
 </style>
 
+  <!-- Education, Training & Working experience -->
+<div>
 <br />
-
-#### Previous Education, Training & Working experience
+ <h2>#### Previous Education, Training & Working experience</h2>
 
 - F.R.S-FNRS Fellow (Senior Postdoctoral Researcher). Host institute University of Mons, Belgium.
 - Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.
@@ -56,14 +57,13 @@ We are looking for motivated students and researchers to join our group. Please 
 <div>
    <hr />
   <h2>News</h2>
-   <hr />
+
   <ul>
     {% for post in site.posts limit:5 %}
     <li><span style="font-weight: bold;">{{ post.date | date: "%Y-%m-%d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 </div>
-
 
 <!-- Announcement -->
 <div>
