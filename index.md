@@ -82,7 +82,7 @@ We are looking for motivated students and researchers to join our group. Please 
 <hr class="centered-hr" />
   <style>
   .centered-hr {
-    width: 120px;         /* short line: adjust length here */
+    width: 220px;         /* short line: adjust length here */
     margin: 40px auto;    /* centers it horizontally */
     border: none;
     border-top: 2px solid #aaa; /* line color and thickness */
