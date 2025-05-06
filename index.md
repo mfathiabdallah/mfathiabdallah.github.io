@@ -40,7 +40,8 @@ We are looking for motivated students and researchers to join our group. Please 
 <div>
   <!-- Education, Training & Working experience -->
 <div>
-<h3> Previous Education, Training & Working experience</h3>
+<h4> Previous Education, Training & Working experience</h4>
+  
 - F.R.S-FNRS Fellow (Senior Postdoctoral Researcher). Host institute University of Mons, Belgium.
 - Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.
 - Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland.
