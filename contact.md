@@ -11,7 +11,7 @@ sitemap:
   <div style="border: 1px solid #ccc; padding: 20px;">
     <h4>Dr. Mohamed Fathi Abdallah</h4>
     <p>
-      <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mailto:mfa@food.au.dk" target="_blank">mfathiabdallah@gmail.com</a><br>
+      <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mailto:mfa@food.au.dk" target="_blank">mfa@food.au.dk</a><br>
       <i class="fab fa-google"></i>   &nbsp; Google Scholar: &nbsp; <a href="https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en" target="_blank">Mohamed Fathi Abdallah</a><br>
       <i class="fab fa-twitter"></i>  &nbsp; Twitter: &nbsp; <a href="https://twitter.com/MoFathiAbdallah" target="_blank">MoFathiAbdallah</a><br>
       <i class="fab fa-linkedin"></i> &nbsp; LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">Mohamed Fathi Abdallah</a><br>
