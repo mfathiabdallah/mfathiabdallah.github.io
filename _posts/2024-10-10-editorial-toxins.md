@@ -18,13 +18,17 @@ canonical: https://www.mfathiabdallah.com/Editorial_Toxins/
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
-  "@type": "Editorial",
+  "@type": "Article",
   "headline": "The Editorial on the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control” is now online at Toxins Journal website",
-  "datePublished": "2028-08-15",
-  "Publication": The Editorial on the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control”,
+  "datePublished": "2024-10-10",
+  "description": "The Editorial on the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control”",
+  "author": {
+    "@type": "Person",
+    "name": "Mohamed Fathi Abdallah"
+  },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://www.mfathiabdallah.com/Contamination-of-dairy-milk-with-AFM1-and-MC_LR/"
+    "@id": "https://www.mfathiabdallah.com/Editorial_Toxins/"
   }
 }
 </script>
@@ -40,7 +44,7 @@ In total, ten papers were finally accepted for publication (eight articles and t
 
 The Editorial can be reached through this link <a href="https://www.mdpi.com/2072-6651/16/10/435" target="_blank" rel="noopener">https://www.mdpi.com/2072-6651/16/10/435</a>.
 
- Thanks to the guest co-editors and authors for their contribution in this special issue!
+Thanks to the guest co-editors and authors for their contribution in this special issue!
 
 <!-- Add modal functionality to the image -->
 <div id="myModal" class="modal">
@@ -81,33 +85,4 @@ function closeModal() {
   width: 100%; /* Full width */
   height: 100%; /* Full height */
   overflow: auto; /* Enable scroll if needed */
-  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
-}
-
-/* Modal Content (image) */
-.modal-content {
-  margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
-}
-
-/* Close Button */
-.close {
-  position: absolute;
-  top: 15px;
-  right: 35px;
-  color: #fff;
-  font-size: 40px;
-  font-weight: bold;
-  transition: 0.3s;
-  cursor: pointer;
-}
-
-.close:hover,
-.close:focus {
-  color: #bbb;
-  text-decoration: none;
-}
-</style>
-
+  background-color: rgba(0,0,0,0.9)
