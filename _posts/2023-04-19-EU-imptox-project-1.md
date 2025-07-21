@@ -9,7 +9,7 @@ categories: media
 
 ## Short video about young researchers who are involved in the IMPTOX project. Stay tuned for the full videos!
 
-{% include embed.html url="https://www.youtube.com/watch?v=tuYnXOp7-RU&t=6s" %}
+{% include embed.html url="https://www.youtube.com/embed/tuYnXOp7-RU?start=6" %}
 <br /> <br />
 
 **  **
@@ -75,6 +75,6 @@ The [IMPTOX](https://www.imptox.eu/en/){:target="_blank" rel="noopener"} project
   "uploadDate": "2023-04-19T00:00:00+00:00",
   "duration": "PT1M23S",
   "contentUrl": "https://www.mfathiabdallah.com/imptox_interview/",
-  "embedUrl": "https://www.youtube.com/watch?v=tuYnXOp7-RU&t=6s"
+  "embedUrl": "https://www.youtube.com/embed/tuYnXOp7-RU?start=6"
 }
 </script>
