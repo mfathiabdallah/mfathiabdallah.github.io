@@ -10,7 +10,21 @@ categories: media
 ## Short video about young researchers who are involved in the IMPTOX project. Stay tuned for the full videos!
 
 {% include embed.html url="https://www.youtube.com/embed/tuYnXOp7-RU" %}
-<br /> <br />
+<br /><br />
+
+<!-- ✅ Structured Data for Google Video indexing -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Have you ever wondered who are the Imptox young researchers?",
+  "description": "Short video about the young researchers involved in the IMPTOX project.",
+  "thumbnailUrl": "https://img.youtube.com/vi/tuYnXOp7-RU/maxresdefault.jpg",
+  "uploadDate": "2023-04-19",
+  "embedUrl": "https://www.youtube.com/embed/tuYnXOp7-RU",
+  "contentUrl": "https://www.youtube.com/watch?v=tuYnXOp7-RU"
+}
+</script>
 
 **  **
 
@@ -24,25 +38,24 @@ The [IMPTOX](https://www.imptox.eu/en/){:target="_blank" rel="noopener"} project
 <style>
 .image-container {
   display: flex;
-  flex-direction: row; /* Change to row */
+  flex-direction: row;
   justify-content: center;
   align-items: center;
-  margin-top: 20px; /* Add some margin */
+  margin-top: 20px;
 }
-
 .imptox-image,
 .cusp-image {
-  width: 150px; /* Adjust image size */
+  width: 150px;
   height: 150px;
-  object-fit: contain; /* Change it from cover to contain to have the full image without being cut off*/
-  margin-right: 20px; /* Add some margin */
+  object-fit: contain;
+  margin-right: 20px;
 }
 </style>
 
 <style>
     .a2a_kit {
-        float: right; /* Float the div to the right */
-        margin: 10px; /* Add some margin for spacing */
+        float: right;
+        margin: 10px;
     }
 </style>
 
