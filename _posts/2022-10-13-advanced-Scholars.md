@@ -14,9 +14,10 @@ categories: media
   "name": "Carcinogenic Mycotoxins: From Farm to Fork (Webinar in Arabic)",
   "description": "A webinar discussing the carcinogenic potential of mycotoxins in food, presented by Egypt Scholars Organization.",
   "thumbnailUrl": "https://www.example.com/thumbnail.jpg",
+  "uploadDate": "2022-10-13T00:00:00+00:00",
+  "duration": "PT1H20M43S",
   "contentUrl": "https://www.youtube.com/watch?v=ZGtk-ZGcPPE",
-  "embedUrl": "https://www.youtube.com/embed/ZGtk-ZGcPPE",
-  "uploadDate": "2022-10-13"
+  "embedUrl": "https://www.youtube.com/embed/ZGtk-ZGcPPE"
 }
 </script>
 
