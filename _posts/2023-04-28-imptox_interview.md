@@ -1,20 +1,13 @@
 ---
-
 layout: post
-
 title: "Interview with Imptox Young Researchers: Dr. Mohamed Fathi Abdallah"
-
 date: 2023-04-28
-
 mathjax: true
-
 inline: true
-
 categories: media
-
 ---
-## Interview
 
+## Interview
 
 {% include embed.html url="https://www.youtube.com/embed/_0Le8Mq143c" %}
 
@@ -32,8 +25,6 @@ Mohamed Fathi Abdallah is a PostDoc Researcher in Toxicology at Ghent University
 
 </div>
 
-
-
 <style>
 
 .image-container {
@@ -49,8 +40,6 @@ Mohamed Fathi Abdallah is a PostDoc Researcher in Toxicology at Ghent University
   margin-top: 20px; /* Add some margin */
 
 }
-
-
 
 .imptox-image,
 
@@ -68,8 +57,6 @@ Mohamed Fathi Abdallah is a PostDoc Researcher in Toxicology at Ghent University
 
 </style>
 
-
-
 <style>
 
     .a2a_kit {
@@ -85,7 +72,6 @@ Mohamed Fathi Abdallah is a PostDoc Researcher in Toxicology at Ghent University
 <br />
 
 The [IMPTOX](https://www.imptox.eu/en/){:target="_blank" rel="noopener"} project has received funding from the EU’s H2020 framework program for research and innovation under grant agreement n. 965173. Imptox is one of five projects in the EU Horizon 2020 programme that will work together with the European Commission's Joint Research Center to form The European Research Cluster to Understand the Health Impacts of Micro- and Nanoplastics, CUSP. It is the cluster’s overall goal to contribute with new scientific knowledge and know-how to the European Strategy for Plastics.
-
 
 
 <!-- AddToAny BEGIN -->
@@ -121,3 +107,19 @@ The [IMPTOX](https://www.imptox.eu/en/){:target="_blank" rel="noopener"} project
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 
 <!-- AddToAny END -->
+
+<!-- VideoObject structured data for Google Rich Results -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Interview with Imptox Young Researchers: Dr. Mohamed Fathi Abdallah",
+  "description": "Mohamed Fathi Abdallah discusses his research and insights in toxicology at Ghent University and the IMPTOX project.",
+  "thumbnailUrl": "https://www.mfathiabdallah.com/images/imptox.png",
+  "uploadDate": "2023-04-28T00:00:00+00:00",
+  "duration": "PT1M23S",
+  "contentUrl": "https://www.mfathiabdallah.com/EU-imptox-project-1/",
+  "embedUrl": "https://www.youtube.com/embed/_0Le8Mq143c"
+}
+</script>
