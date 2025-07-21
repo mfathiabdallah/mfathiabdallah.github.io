@@ -11,7 +11,8 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 icon: # the emoji used as the favicon
 mathjax: true
-url: "http://www.mfathiabdallah.com" # the base hostname & protocol for your site
+url: "https://www.mfathiabdallah.com" # the base hostname & protocol for your site
+baseurl: ""  # Leave this empty if you're deploying to the root domain
 
 # Layout
 show_social: true 
