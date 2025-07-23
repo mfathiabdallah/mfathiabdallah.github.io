@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <article>
   {% include meta.html post=page %}
   {{ content }}
@@ -12,12 +11,3 @@ layout: default
     <noscript>Please enable JavaScript to view comments.</noscript>
   {% endif %}
 </article>
-
-{% unless site.footer %}
-{% if page.next.url or page.previous.url %}
-<footer class="gray">
-  {% if page.next.url %}<a href="{{ page.next.url | relative_url }}">«&nbsp;{{ page.next.title }}</a>&numsp;{% else %}<span></span>{% endif %}
-  {% if page.previous.url %}&numsp;<a href="{{ page.previous.url | relative_url }}">{{ page.previous.title }}&nbsp;»</a>{% else %}<span></span>{% endif %}
-</footer>
-{% endif %}
-{% endunless %}
