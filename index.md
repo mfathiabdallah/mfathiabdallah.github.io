@@ -44,7 +44,7 @@ We are looking for motivated students and researchers to join our group. Please 
   <ul>
     <li>F.R.S-FNRS Fellow (Senior Postdoctoral Researcher). Host institute University of Mons, Belgium.</li>
     <li>Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.</li>
-    <li>Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland.</li>
+    <li><strong>Former</strong> Research Scientist at Teagasc Food Research Centre, Ashtown, Dublin, Ireland.</li>
     <li>PhD in Pharmaceutical Sciences, Ghent University, Belgium.</li>
     <li>Erasmus+ Exchange Master Student, University of Natural Resources and Life Sciences, Vienna (BOKU), Austria.</li>
     <li>Erasmus+ Intern Researcher, <i>IfADo</i> Institute, Dortmund, Germany.</li>
