@@ -18,6 +18,12 @@
 .archive
   font-size: 1.1em
 
+  li
+    margin: 0
+    padding: .4em 0
+    &:not(:last-of-type)
+      border-bottom: 1.5px dashed reduce(25)
+
 .archive time
   display: inline-block
   min-width: 10ch
