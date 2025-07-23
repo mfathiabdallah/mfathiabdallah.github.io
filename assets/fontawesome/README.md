@@ -138,4 +138,3 @@ learn about Font Awesome.
 * [Edward Emanuel](https://github.com/ej2)
 * [Kelsey Jackson](https://github.com/kelseythejackson)
 * [Geremia Taglialatela](https://github.com/tagliala)
-
