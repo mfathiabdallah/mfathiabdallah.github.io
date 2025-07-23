@@ -1,4 +1,3 @@
-@@ -1,45 +1,37 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
@@ -34,9 +33,7 @@
 {% if site.external %}
 <footer>
   <div>{{ site.description | default: site.title }}</div>
-
   {% include menu.html menu=site.external %}
 </footer>
 {% endif %}
- 
-</html>
+ </html>
