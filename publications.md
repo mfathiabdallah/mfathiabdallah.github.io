@@ -48,7 +48,7 @@ title: ""
   <tbody>
     <tr>
       <td>Research Articles</td>
-      <td>29</td>
+      <td>30</td>
       <td>Editorials</td>
        <td>4</td>
     </tr>
@@ -64,7 +64,7 @@ title: ""
     </tr>
   </tbody>
 </table>
-Total = 42
+Total = 43
 
    (* corresponding author; † equal co-authorship). Publications are ordered per year (according to the first published date). 
    
@@ -95,6 +95,9 @@ Total = 42
 <h1 class="collapsible-title">&#10148; Research Articles </h1>
 
 ### <span style="color: green; font-weight: bold;">2025 Publications</span> <span style="color: pink;">&#9679;</span>
+
+30) Y Shencheng, M Zhou, Y Zhao, S Li, H Lin, **MF Abdallah**, R Zhang, S Liu, Y Li, S Yang (2025).
+<br>Development and Validation of a QconCAT-Based LC-MS/MS Method for the Quantification of 12 Food Allergens in Foods. Journal of Agricultural and Food Chemistry, 40681472. [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.jafc.5c03044){:target="_blank" rel="noopener"}.
 
 29) C Dongye, X Chen, Y Zhao, H Li, **MF Abdallah**, T Li, X Chen (2025).
 <br>Protective Effects of Octyl Gallate Against Deoxynivalenol-Induced Colon Inflammation: Insights from Proteomic and Metabolomic Analyses. Environment & Health, 4c00250. [[Link]](https://pubs.acs.org/doi/full/10.1021/envhealth.4c00250){:target="_blank" rel="noopener"}.
