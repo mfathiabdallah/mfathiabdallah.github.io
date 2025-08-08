@@ -11,7 +11,7 @@ sitemap:
 <!-- Profile picture -->
 <img class="ProfilePic" img width="170" align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="mohamed_fathi_abdallah_2023(2).jpg">
 
-<u>Short Bio (last update: April 2025)</u>
+<u>Short Bio (last update: July 2025)</u>
 
 - Assistant Professor in Food Toxicology, Food Chemistry group, Department of Food Science, Aarhus University, Denmark.
 - Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science
