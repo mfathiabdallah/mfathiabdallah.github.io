@@ -5,7 +5,7 @@ title: ""
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p>&#10148; You can find my CV here <a href="/mohamed_fathi_abdallah_april_2025.pdf" target="_blank" rel="noopener">(click to download)</a>.</p>
+    <p>&#10148; You can find my CV here <a href="/mohamed_fathi_abdallah_july_2025.pdf" target="_blank" rel="noopener">(click to download)</a>.</p>
     <p>&#10148; Visit my <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">page</a> at Aarhus University</p>
     <p>&#10148; Visit my <a href="https://biblio.ugent.be/person/A6AE6A7C-5833-11E6-A7EF-CE99B5D1D7B1" target="_blank" rel="noopener">page</a> at Ghent University</p>
     <p>&#10148; Visit my <a href="https://orbi.umons.ac.be/profile?uid=538301" target="_blank" rel="noopener">page</a> at University of Mons</p>
