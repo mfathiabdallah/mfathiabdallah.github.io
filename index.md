@@ -10,7 +10,6 @@ sitemap:
 <br />
 <!-- Profile picture -->
 <img class="ProfilePic" img width="170" align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="mohamed_fathi_abdallah_2023(2).jpg">
-
 <u>Short Bio (last update: July 2025)</u>
 <h4>Current Position</h4>
 - Assistant Professor in Food Toxicology, Food Chemistry group, Department of Food Science, Aarhus University, Denmark.
@@ -57,7 +56,7 @@ We are looking for motivated students and researchers to join our group. Please 
   <div>
 
 We are happy to support applications for scholarships and fellowships such as Marie Curie, DFF, Novo Nordisk Foundation, Lundbeck Foundation, and others. 
-- Areas of interest: 
+<h4>Areas of interest</h4>
      <li> Detection of Natural Food contaminantes (postgradute students, PhDs, Postdoc).</li>
      <li> Application of Large Langauge Models in natural food contaminantes (Only Postrdoc or research assistants with solid expereince in AI).</li>
      <li> Mixture toxicology with a fcous on food contaminantes using NAMs (postgradute students, PhDs, Postdoc).</li>
