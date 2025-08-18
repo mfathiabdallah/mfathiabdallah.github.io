@@ -20,6 +20,21 @@ and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.
 - Expert Group Member of ILSI Europe - Natural Toxins.
 - Member of Society of Toxicology (SOT) & Post-doctoral Representative of the SOT’s Food Safety Specialty Section (FS3).
 
+  <!-- Education, Training & Working experience -->
+<div>
+  <h4>Previous Education, Training & Working experience</h4>
+  <ul>
+    <li>Former F.R.S-FNRS Fellow (Senior Postdoctoral Researcher). Host institute University of Mons, Belgium.</li>
+    <li>Former Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.</li>
+    <li>Former Researcher, Teagasc Food Research Centre, Dublin, Ireland.</li>
+    <li>PhD in Pharmaceutical Sciences, Ghent University, Belgium.</li>
+    <li>Erasmus+ Exchange Master Student, University of Natural Resources and Life Sciences, Vienna (BOKU), Austria.</li>
+    <li>Erasmus+ Intern Researcher, <i>IfADo</i> Institute, Dortmund, Germany.</li>
+    <li>Master's Degree in Pharmaceutical Toxicology, Hacettepe University, Türkiye.</li>
+    <li>Bachelor's Degree in Veterinary Medical Sciences, Assiut University, Egypt.</li>
+  </ul>
+</div>
+
 #### Research Interest
 My research is centered on understanding the risks associated with natural toxins (mycotoxins and cyanotoxins) and other emerging contaminants in novel food. This is done by applying LC-MS/MS methods for detection. Also, through the use of _in vitro_ models, we investigate the effects of these toxins as mixtures on human health.
 This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.
@@ -38,19 +53,7 @@ We are looking for motivated students and researchers to join our group. Please 
     }
 </style>
 <div>
-  <!-- Education, Training & Working experience -->
-<div>
-  <h4>Previous Education, Training & Working experience</h4>
-  <ul>
-    <li>Former F.R.S-FNRS Fellow (Senior Postdoctoral Researcher). Host institute University of Mons, Belgium.</li>
-    <li>Former Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.</li>
-    <li>PhD in Pharmaceutical Sciences, Ghent University, Belgium.</li>
-    <li>Erasmus+ Exchange Master Student, University of Natural Resources and Life Sciences, Vienna (BOKU), Austria.</li>
-    <li>Erasmus+ Intern Researcher, <i>IfADo</i> Institute, Dortmund, Germany.</li>
-    <li>Master's Degree in Pharmaceutical Toxicology, Hacettepe University, Türkiye.</li>
-    <li>Bachelor's Degree in Veterinary Medical Sciences, Assiut University, Egypt.</li>
-  </ul>
-</div>
+
 
 <!-- News and Announcement -->
 <div>
