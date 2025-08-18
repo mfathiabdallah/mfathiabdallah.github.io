@@ -57,9 +57,9 @@ We are looking for motivated students and researchers to join our group. Please 
 
 We are happy to support applications for scholarships and fellowships such as Marie Curie, DFF, Novo Nordisk Foundation, Lundbeck Foundation, and others. 
 <h4>Areas of interest</h4>
-     <li> Detection of Natural Food contaminantes (postgradute students, PhDs, Postdoc).</li>
-     <li> Application of Large Langauge Models in natural food contaminantes (Only Postrdoc or research assistants with solid expereince in AI).</li>
-     <li> Mixture toxicology with a fcous on food contaminantes using NAMs (postgradute students, PhDs, Postdoc).</li>
+     <li> Detection of Natural Food Contaminantes (postgradute students, PhDs, Postdoc).</li>
+     <li> Application of Large Langauge Models in Natural Food Contaminantes (only Postrdoc or research assistants with solid expereince in AI).</li>
+     <li> Mixture toxicology with a focus on Food Contaminantes using NAMs (postgradute students, PhDs, Postdoc).</li>
     
 <!-- News and Announcement -->
 <div>
