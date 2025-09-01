@@ -2,7 +2,7 @@
 layout: page
 title: Home
 permalink: /
-description: "Assistant Professor in Food Toxicology at Aarhus University, Denmark."
+description: "Assistant Professor of Food Toxicology at Aarhus University, Denmark."
 sitemap:
   lastmod: 2025-04-13
   exclude: 'no'
