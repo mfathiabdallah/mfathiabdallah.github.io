@@ -18,8 +18,8 @@ sitemap:
 - Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science
 and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.
 - Board Member of the European Society of Toxicology In Vitro (ESTIV).
-- Expert Group Member of ILSI Europe - Natural Toxins.
-- Member of Society of Toxicology (SOT) & Post-doctoral Representative of the SOT’s Food Safety Specialty Section (FS3).
+- Expert Group Member of ILSI Europe - Natural Toxins, Belgium.
+- Member of Society of Toxicology (SOT) & Post-doctoral Representative of the SOT’s Food Safety Specialty (FS3), USA.
 
 <!-- Education, Training & Working experience -->
 <div>
