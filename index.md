@@ -75,119 +75,139 @@ We are happy to support applications for scholarships and fellowships such as Ma
   </ul>
 </div>
 
-<!-- Announcement -->
+<!-- Announcements Section -->
 <div>
-   <hr />
+  <hr />
   <h2>Announcements</h2>
-   <div style="display: flex; flex-wrap: wrap;">
+
+  <!-- Announcement 1 -->
+  <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">01 October 2025</h3>
       <p style="margin-top: 0;">PhD Vacancy in Food Toxicology at Food Science Department, Aarhus University</p>
-      <p>Fully funded PhD position (salary, tuition fees, others) for 3 years at Department of Food Science, AU FOOD, Aarhus University
-Main focus will be developing mass spec_based methods for screening and quantification of natural toxins in Novel_Food
-
-More info via the link <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener">https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food</a>.<p>
-   </div>
+      <p>
+        Fully funded PhD position (salary, tuition fees, others) for 3 years at Department of Food Science, AU FOOD, Aarhus University. 
+        Main focus will be developing mass spec-based methods for screening and quantification of natural toxins in Novel Food.
+      </p>
+      <p>
+        More info via the link  
+        <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" 
+           target="_blank" rel="noopener">
+          https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food
+        </a>.
+      </p>
+    </div>
     <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/PhD announce.png" alt="publication" style="width: 80%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 20px;">
-   </div>
-</div>
- <!-- 👇 Centered divider here -->
-<hr class="centered-hr" />
- <!-- 👇 adjust the style here only once for all -->
-  <style>
-  .centered-hr {
-    width: 420px;         /* short line: adjust length here */
-    margin: 40px auto;    /* centers it horizontally */
-    border: none;
-    border-top: 2px solid #aaa; /* line color and thickness */
-  }
-  </style>
+      <img src="/images/PhD announce.png" alt="PhD vacancy poster" 
+           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
+    </div>
+  </div>
+
+  <hr class="centered-hr" />
+
+  <!-- Announcement 2 -->
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">01 March 2025</h3>
       <p style="margin-top: 0;">Joining Food Science Department, Aarhus University as an Assistant Professor (tenure track) in Food Toxicology</p>
-      <p>I’m thrilled to share that I will be joining the Department of Food Science at Aarhus University, Denmark, as a Tenure Track Assistant Professor in Food Toxicology, starting April 1st, 2025. Looking forward to this exciting journey and the opportunities ahead at Aarhus University!.</p>
-   </div>
+      <p>
+        I’m thrilled to share that I will be joining the Department of Food Science at Aarhus University, Denmark, 
+        as a Tenure Track Assistant Professor in Food Toxicology, starting April 1st, 2025. 
+        Looking forward to this exciting journey and the opportunities ahead at Aarhus University!
+      </p>
+    </div>
     <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/AarhusUni.jpg" alt="publication" style="width: 80%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 20px;">
-   </div>
-</div>
- <!-- 👇 Centered divider here -->
-<hr class="centered-hr" />
- <!-- 👇 adjust the style here only once for all -->
-  <style>
-  .centered-hr {
-    width: 420px;         /* short line: adjust length here */
-    margin: 40px auto;    /* centers it horizontally */
-    border: none;
-    border-top: 2px solid #aaa; /* line color and thickness */
-  }
-</style>
+      <img src="/images/AarhusUni.jpg" alt="Aarhus University building" 
+           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
+    </div>
+  </div>
+
+  <hr class="centered-hr" />
+
+  <!-- Announcement 3 -->
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">10 October 2024</h3>
       <p style="margin-top: 0;">Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control</p>
-      <p>Our Editorial on “the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control” “ is now online at Toxins Journal website.</p>
-   </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2024_10_10.PNG" alt="publication" style="width: 80%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 20px;">
+      <p>
+        Our editorial on the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control” 
+        is now online at <i>Toxins</i> journal.
+      </p>
     </div>
- </div>
-   <hr class="centered-hr" /> 
+    <div style="flex: 1; margin-bottom: 20px;">
+      <img src="/images/2024_10_10.PNG" alt="Special issue cover on mycotoxins" 
+           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
+    </div>
+  </div>
+
+  <hr class="centered-hr" />
+
+  <!-- Announcement 4 -->
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">15 August 2024</h3>
       <p style="margin-top: 0;">AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction</p>
-      <p>Our paper about "Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction" is now online in Food and Chemical Toxicology Journal.</p>
-   </div>
+      <p>
+        Our paper about “Contamination of dairy milk with AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction” 
+        is now online in <i>Food and Chemical Toxicology</i>.
+      </p>
+    </div>
     <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2024_08_15.JPG" alt="publication" style="width: 50%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
+      <img src="/images/2024_08_15.JPG" alt="Journal cover Food and Chemical Toxicology" 
+           style="width: 50%; max-width: 400px; display: block; margin: 0 auto; border-radius: 10px;">
     </div>
   </div>
-  
-   <hr class="centered-hr" />
+
+  <hr class="centered-hr" />
+
+  <!-- Announcement 5 -->
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">20 December 2023</h3>
       <p style="margin-top: 0;">Mycotoxin contamination in the Arab world</p>
-      <p>Our review paper about "mycotoxin contamination in the Arab world" is now online in Mycotoxin Research Journal.</p>
-   </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2023_12_20.PNG" alt="publication" style="width: 50%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
-    </div>
-  </div>
-<hr class="centered-hr" />
- 
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 0;">20 July 2023</h3>
-      <p style="margin-top: 0;">Data Managment Plan Lecture</p>
-      <p>Introduction to DMP for the selected students for the Advanced Lab 10-Egypt Scholars Organization under the theme (Towards Mitigating the Climate Change Crisis).</p>
+      <p>
+        Our review paper on “Mycotoxin contamination in the Arab world” 
+        is now online in <i>Mycotoxin Research</i>.
+      </p>
     </div>
     <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2023_07_30.jpeg" alt="Special issue" style="width: 70%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 10px;">
+      <img src="/images/2023_12_20.PNG" alt="Journal cover Mycotoxin Research" 
+           style="width: 50%; max-width: 400px; display: block; margin: 0 auto; border-radius: 10px;">
     </div>
   </div>
-  <hr />
 </div>
+
+<!-- Divider Style (only once) -->
+<style>
+  .centered-hr {
+    width: 420px;
+    margin: 40px auto;
+    border: none;
+    border-top: 2px solid #aaa;
+  }
+</style>
 
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-    <a class="a2a_button_facebook"></a>
-    <a class="a2a_button_linkedin"></a>
-    <a class="a2a_button_x"></a>
-    <a class="a2a_button_microsoft_teams"></a>
-    <a class="a2a_button_whatsapp"></a>
-    <a class="a2a_button_pinterest"></a>
-    <a class="a2a_button_email"></a>
+  <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+  <a class="a2a_button_facebook"></a>
+  <a class="a2a_button_linkedin"></a>
+  <a class="a2a_button_x"></a>
+  <a class="a2a_button_microsoft_teams"></a>
+  <a class="a2a_button_whatsapp"></a>
+  <a class="a2a_button_pinterest"></a>
+  <a class="a2a_button_email"></a>
 </div>
 <script>
-    var a2a_config = a2a_config || {};
-    a2a_config.num_services = 12;
+  var a2a_config = a2a_config || {};
+  a2a_config.num_services = 12;
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 
-<a href="https://mapmyvisitors.com/web/1bvu3"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" /></a>
+<!-- Visitors Map -->
+<a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
+  <img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" 
+       alt="Visitor tracker map" />
+</a>
+
