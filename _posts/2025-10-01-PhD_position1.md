@@ -42,6 +42,7 @@ Fully funded PhD position (salary, tuition fees, others) for 3 years at Departme
 Main focus will be developing mass spec_based methods for screening and quantification of natural toxins in Novel_Food
 
 Main supervisor: Prof. Trine Kastrup Dalsgaard
+
 Co-Supervisor: Assis. Prof. Mohamed Fathi Abdallah
 
 The PhD project is part of a 5-years project (2026-2030) funded by Novo Nordisk Foundation
