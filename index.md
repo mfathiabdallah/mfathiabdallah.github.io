@@ -218,8 +218,6 @@ We are happy to support applications for scholarships and fellowships such as Ma
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 
-<hr class="centered-hr" />
-  
 <!-- Visitors Map -->
 <a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
   <img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" 
