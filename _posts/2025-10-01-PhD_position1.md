@@ -39,15 +39,14 @@ The position is available from 01 January 2026 or later.
 
 Fully funded PhD position (salary, tuition fees, others) for 3 years at Department of Food Science, AU FOOD, Aarhus University
 
-Main focus will be developing mass spec_based methods for screening and quantification of natural toxins in hashtag#Novel_Food
+Main focus will be developing mass spec_based methods for screening and quantification of natural toxins in Novel_Food
 
-Main supervisor is Prof. Trine Kastrup Dalsgaard
-Co-Supervisor is Assis. Prof. Mohamed Fathi Abdallah
+Main supervisor: Prof. Trine Kastrup Dalsgaard
+Co-Supervisor: Assis. Prof. Mohamed Fathi Abdallah
 
 The PhD project is part of a 5-years project (2026-2030) funded by Novo Nordisk Foundation
-#novel_food #toxins #food_safety #Mass_Spec
 
-Application deadline is 06 November 2025 at 23:59 CET
+Application deadline is 06 November 2025
 
 You can submit your application via the link  <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener">https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food</a>.
 
