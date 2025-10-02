@@ -82,9 +82,9 @@ We are happy to support applications for scholarships and fellowships such as Ma
       <p style="margin-top: 0;">PhD Vacancy in Food Toxicology at Food Science Department, Aarhus University</p>
       <p>Fully funded PhD position (salary, tuition fees, others) for 3 years at Department of Food Science, AU FOOD, Aarhus University
 
-</li> Main focus will be developing mass spec_based methods for screening and quantification of natural toxins in Novel_Food
+Main focus will be developing mass spec_based methods for screening and quantification of natural toxins in Novel_Food
 
-More info via the link <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener">https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food</a>.</p></li>
+More info via the link <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener">https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food</a>.
    </div>
     <div style="flex: 1; margin-bottom: 20px;">
       <img src="/images/PhD announce.png" alt="publication" style="width: 80%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 20px;">
