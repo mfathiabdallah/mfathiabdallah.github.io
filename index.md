@@ -55,6 +55,10 @@ We are looking for motivated students and researchers to join our group. Please 
 </style>
   <div>
 
+<p style="color: red;">
+We are happy to support applications for scholarships and fellowships such as Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation, and others.
+</p>
+
 We are happy to support applications for scholarships and fellowships such as Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation, and others. 
 <h4>Areas of interest</h4>
      <li> Detection of Natural Food Contaminantes (postgradute students, PhDs, Postdoc).</li>
