@@ -98,6 +98,7 @@ Main focus will be developing mass spec_based methods for screening and quantifi
     border: none;
     border-top: 2px solid #aaa; /* line color and thickness */
   }
+  </style>
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">01 March 2025</h3>
