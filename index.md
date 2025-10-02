@@ -84,7 +84,7 @@ We are happy to support applications for scholarships and fellowships such as Ma
 
 Main focus will be developing mass spec_based methods for screening and quantification of natural toxins in Novel_Food
 
-More info via the link https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food.</p>
+More info via the link <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener">https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food</a>.</p>
    </div>
     <div style="flex: 1; margin-bottom: 20px;">
       <img src="/images/PhD announce.png" alt="publication" style="width: 80%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 20px;">
