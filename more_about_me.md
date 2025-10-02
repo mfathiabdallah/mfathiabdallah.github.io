@@ -4,42 +4,6 @@ title: ""
 
 ---
 
-<!-- Fellowships -->
-<div class="collapsible">
-  <h1 class="collapsible-title">&#10148; Fellowships</h1>
-  <div class="collapsible-content">
-    <ul>
-      <li> (12/2024)  TÜBİTAK 2221-Fellowships for Visiting Scientists (short term). Host institute: Istanbul University, Türkiye.</li>
-      <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute: University of Mons, Belgium.</li>
-      <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032.</li>
-      <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
-      <li>(2016-2020) PhD Research Fellowship in the framework of Mycokey project, Ghent University, Belgium.</li> 
-      <li>(2015-2016) Erasmus<sup>+</sup> Student Mobility for Studies, Center for Analytical Chemistry, Universität für Bodenkultur Wien, Austria.</li>
-      <li>(2014) Erasmus<sup>+</sup> Student Mobility for Placement, <em>IfADo</em> Institute, Dortmund, Germany.</li>
-      <li>(2013-2016) Turkish Government Scholarship, Türkiye.</li>
-    </ul>
-
-  </div>
- </div>
-
-<!-- CSS for image container -->
-<style>
-  .image-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 20px;
-  }
-  
-  .image-container img {
-    width: 150px;
-    height: 75px;
-    margin: 5px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-  }
-</style>
- 
 <!-- Funds -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Funds</h1>
@@ -102,6 +66,42 @@ title: ""
   }
 </style>
   
+<!-- Fellowships -->
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Fellowships</h1>
+  <div class="collapsible-content">
+    <ul>
+      <li> (12/2024)  TÜBİTAK 2221-Fellowships for Visiting Scientists (short term). Host institute: Istanbul University, Türkiye.</li>
+      <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute: University of Mons, Belgium.</li>
+      <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032.</li>
+      <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
+      <li>(2016-2020) PhD Research Fellowship in the framework of Mycokey project, Ghent University, Belgium.</li> 
+      <li>(2015-2016) Erasmus<sup>+</sup> Student Mobility for Studies, Center for Analytical Chemistry, Universität für Bodenkultur Wien, Austria.</li>
+      <li>(2014) Erasmus<sup>+</sup> Student Mobility for Placement, <em>IfADo</em> Institute, Dortmund, Germany.</li>
+      <li>(2013-2016) Turkish Government Scholarship, Türkiye.</li>
+    </ul>
+
+  </div>
+ </div>
+
+<!-- CSS for image container -->
+<style>
+  .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .image-container img {
+    width: 150px;
+    height: 75px;
+    margin: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+</style>
+ 
  <!-- Travel Grants -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Travel Grants</h1>
@@ -180,21 +180,19 @@ title: ""
       (Based on running projects and research papers)
       <br>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Europe</span></strong>
+      <li>Dr. Elisabeth Varga- University of Veterinary Medicine Vienna, <strong>Austria</strong>.</li>
       <li>Prof. Andreja Rajkovic- Ghent University, <strong>Belgium</strong>.</li>
-      <li>Prof. Carla Bittencourt- University of Mons, <strong>Belgium</strong>.</li>
+      <li>Prof. Gerard Bryan Gonzales- Ghent University, <strong>Belgium</strong>.</li>
       <li>Dr. Luca Dellafiora- University of Parma, <strong>Italy</strong>.</li>
       <li>Dr. Julien Masquelier- Sciensano Institute, Tervuren, <strong>Belgium</strong>.</li>
-      <li>Prof. Gerard Bryan Gonzales- Ghent University, <strong>Belgium</strong>.</li>
-      <li>Dr. Elisabeth Varga- University of Veterinary Medicine Vienna, <strong>Austria</strong>.</li>
       <li>Dr. Mohammed Aufy- University of Vienna, <strong>Austria</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Asia</span></strong>
       <li>Prof. Shupeng Yang- Institute of Food Science and Technology, Beijing, <strong>PR China</strong>.</li>
       <li>Dr. Ye Tian- University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, <strong>PR China</strong>.</li>
-      <li>Dr. Meiling Gao- Northwest A&F University, Xianyang, <strong>PR China</strong>.</li>
       <li>Prof. Junhua Yang- Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong>.</li>
       <li>Prof. Mahmoud Abudayyak- Istanbul University, Istanbul, <strong>Türkiye</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Africa</span></strong>
-      <li>Dr. Sara Redouane Salah- University Mohamed khider Biskra, <strong>Algeria</strong>.</li>
+      <li>Prof. Anwar Abdelnaser- Amrican Universirty in Cairo, <strong>Egypt</strong>.</li>
     </ul>
 
 <br> <!-- Add line spaces here -->
