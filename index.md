@@ -76,6 +76,29 @@ We are happy to support applications for scholarships and fellowships such as Ma
 <div>
    <hr />
   <h2>Announcements</h2>
+   <div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
+      <h3 style="margin-bottom: 0;">01 October 2025</h3>
+      <p style="margin-top: 0;">PhD Vacancy in Food Toxicology at Food Science Department, Aarhus University</p>
+      <p>Fully funded PhD position (salary, tuition fees, others) for 3 years at Department of Food Science, AU FOOD, Aarhus University
+
+Main focus will be developing mass spec_based methods for screening and quantification of natural toxins in Novel_Food.</p>
+   </div>
+    <div style="flex: 1; margin-bottom: 20px;">
+      <img src="/images/PhD announce.png" alt="publication" style="width: 80%; max-width: 400px; display: block; margin-left: auto; margin-right: auto; border-radius: 20px;">
+   </div>
+</div>
+ <!-- 👇 Centered divider here -->
+<hr class="centered-hr" />
+ <!-- 👇 adjust the style here only once for all -->
+  <style>
+  .centered-hr {
+    width: 420px;         /* short line: adjust length here */
+    margin: 40px auto;    /* centers it horizontally */
+    border: none;
+    border-top: 2px solid #aaa; /* line color and thickness */
+  }
+    
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">01 March 2025</h3>
