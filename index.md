@@ -151,6 +151,13 @@ We are happy to support applications for scholarships and fellowships such as Ma
         Our paper about “Contamination of dairy milk with AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction” 
         is now online in <i>Food and Chemical Toxicology</i>.
       </p>
+      <p>
+      The article can be found through this link:
+        <a href="https://pubmed.ncbi.nlm.nih.gov/39111684/" 
+           target="_blank" rel="noopener">
+          https://pubmed.ncbi.nlm.nih.gov/39111684/
+        </a>.
+      </p>
     </div>
     <div style="flex: 1; margin-bottom: 20px;">
       <img src="/images/2024_08_15.JPG" alt="Journal cover Food and Chemical Toxicology" 
