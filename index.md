@@ -105,7 +105,25 @@ We are open to support applications for scholarships and fellowships such as Mar
 
   <hr class="centered-hr" />
 
-  <!-- Announcement 2 -->
+<!-- Announcement 2 -->
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
+      <h3 style="margin-bottom: 0;">30 September 2025</h3>
+      <p style="margin-top: 0;">Receiving RECRUIT Grant for International Recruitment 2025 from Novo Nordisk Foundation</p>
+      <p>
+        I am pleased to share that I have been awarded a 5-year "RECRUIT Grant for International Recruitment 2025" from the Novo Nordisk Foundation.
+        This funding will allow me to establish a research group focusing on Food_Toxicology, with the aim of advancing detection, assessment, and risk evaluation of natural hashtag#toxins in novel foods.
+      </p>
+    </div>
+    <div style="flex: 1; margin-bottom: 20px;">
+      <img src="/images/NNF_grant.jpg" alt="NFF grant post" 
+           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
+    </div>
+  </div>
+
+  <hr class="centered-hr" />
+  
+  <!-- Announcement 3 -->
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">01 March 2025</h3>
@@ -124,7 +142,7 @@ We are open to support applications for scholarships and fellowships such as Mar
 
   <hr class="centered-hr" />
 
-  <!-- Announcement 3 -->
+  <!-- Announcement 4 -->
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">10 October 2024</h3>
@@ -142,7 +160,7 @@ We are open to support applications for scholarships and fellowships such as Mar
 
   <hr class="centered-hr" />
 
-  <!-- Announcement 4 -->
+  <!-- Announcement 5 -->
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">15 August 2024</h3>
@@ -167,7 +185,7 @@ We are open to support applications for scholarships and fellowships such as Mar
 
   <hr class="centered-hr" />
 
-  <!-- Announcement 5 -->
+  <!-- Announcement 6 -->
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
       <h3 style="margin-bottom: 0;">20 December 2023</h3>
