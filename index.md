@@ -142,11 +142,6 @@ We are happy to support applications for scholarships and fellowships such as Ma
 
   <hr class="centered-hr" />
 
-<!-- Announcements Section -->
-<div>
-  <hr />
-  <h2>Announcements</h2>
-
   <!-- Announcement 4 -->
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
