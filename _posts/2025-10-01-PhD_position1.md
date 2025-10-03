@@ -51,6 +51,9 @@ Application deadline is 06 November 2025
 
 You can submit your application via the link  <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener">https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food</a>.
 
+
+The advertisment on LinkedIn via the link  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7379068714547163136/" target="_blank" rel="noopener">https://www.linkedin.com/feed/update/urn:li:activity:7379068714547163136/</a>.
+
 <div id="myModal" class="modal">
   <span class="close" onclick="closeModal()">&times;</span>
   <img class="modal-content" id="img01">
