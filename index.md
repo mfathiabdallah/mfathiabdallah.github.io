@@ -194,7 +194,7 @@ We are open to support applications for scholarships and fellowships such as Mar
   <hr class="centered-hr" />
 
   <!-- More News link -->
-  <p style="text-align: center; font-weight: bold; margin-top: 30px;">
+  <p style="text-align: left; font-weight: bold; margin-top: 30px;">
     For more news, please <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
   </p>
 </div>
