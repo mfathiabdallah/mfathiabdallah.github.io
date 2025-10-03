@@ -142,6 +142,11 @@ We are happy to support applications for scholarships and fellowships such as Ma
 
   <hr class="centered-hr" />
 
+<!-- Announcements Section -->
+<div>
+  <hr />
+  <h2>Announcements</h2>
+
   <!-- Announcement 4 -->
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
@@ -152,7 +157,7 @@ We are happy to support applications for scholarships and fellowships such as Ma
         is now online in <i>Food and Chemical Toxicology</i>.
       </p>
       <p>
-      The article can be found through this link:
+        The article can be found through this link:
         <a href="https://pubmed.ncbi.nlm.nih.gov/39111684/" 
            target="_blank" rel="noopener">
           https://pubmed.ncbi.nlm.nih.gov/39111684/
@@ -175,8 +180,9 @@ We are happy to support applications for scholarships and fellowships such as Ma
       <p>
         Our review paper on “Mycotoxin contamination in the Arab world” 
         is now online in <i>Mycotoxin Research</i>.
-           <p>
-      The article can be found through this link:
+      </p>
+      <p>
+        The article can be found through this link:
         <a href="https://pubmed.ncbi.nlm.nih.gov/38117428/" 
            target="_blank" rel="noopener">
           https://pubmed.ncbi.nlm.nih.gov/38117428/
@@ -217,6 +223,9 @@ We are happy to support applications for scholarships and fellowships such as Ma
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
+
+<!-- 👇 Separation line before map -->
+<hr class="centered-hr" />
 
 <!-- Visitors Map -->
 <a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
