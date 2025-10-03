@@ -189,6 +189,9 @@ We are open to support applications for scholarships and fellowships such as Mar
            style="width: 50%; max-width: 400px; display: block; margin: 0 auto; border-radius: 10px;">
     </div>
   </div>
+  
+   <!-- Separator before More News -->
+  <hr class="centered-hr" />
 
   <!-- More News link -->
   <p style="text-align: center; font-weight: bold; margin-top: 30px;">
