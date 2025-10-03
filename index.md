@@ -111,7 +111,7 @@ We are open to support applications for scholarships and fellowships such as Mar
       <h3 style="margin-bottom: 0;">30 September 2025</h3>
       <p style="margin-top: 0;">Receiving RECRUIT Grant for International Recruitment 2025 from Novo Nordisk Foundation</p>
       <p>
-        I am pleased to share that I have been awarded a 5-year Grant from Novo Nordisk Foundation to establish a research group focusing on Food_Toxicology, with the aim of advancing detection, assessment, and risk evaluation of natural hashtag#toxins in novel foods.
+        I am pleased to share that I have been awarded a 5-year Grant from Novo Nordisk Foundation to establish a research group focusing on Food_Toxicology, with the aim of advancing detection, assessment, and risk evaluation of natural toxins in novel foods.
       </p>
     </div>
     <div style="flex: 1; margin-bottom: 20px;">
