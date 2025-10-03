@@ -56,7 +56,7 @@ We are looking for motivated students and researchers to join our group. Please,
   <div>
 
 <p style="color: red;">
-We are happy to support applications for scholarships and fellowships such as Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation, and others.
+We are open to support applications for scholarships and fellowships such as Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation, and others.
 </p>
 
 <h4>Areas of interest</h4>
@@ -189,9 +189,14 @@ We are happy to support applications for scholarships and fellowships such as Ma
            style="width: 50%; max-width: 400px; display: block; margin: 0 auto; border-radius: 10px;">
     </div>
   </div>
+
+  <!-- More News link -->
+  <p style="text-align: center; font-weight: bold; margin-top: 30px;">
+    For more news, please <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
+  </p>
 </div>
 
-<!-- Divider Style (only once) -->
+<!-- Divider Style -->
 <style>
   .centered-hr {
     width: 420px;
@@ -234,4 +239,5 @@ We are happy to support applications for scholarships and fellowships such as Ma
   a2a_config.num_services = 12;
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
+
 
