@@ -96,6 +96,9 @@ Total = 43
 
 ### <span style="color: green; font-weight: bold;">2025 Publications</span> <span style="color: pink;">&#9679;</span>
 
+31) S Yang, Y Shenchen, Y Zhao, M Zhou, **MF Abdallah**, Y Gao, M Gao, R Zhang, S Liu, Y Li (2025).
+<br>Development and validation of an LC-MS/MS method for a sensitive quantitation of livestock and poultry meat allergens. Food Chemistry, 145965. [[Link]](https://www.sciencedirect.com/science/article/pii/S0308814625032169){:target="_blank" rel="noopener"}.
+
 30) Y Shencheng, M Zhou, Y Zhao, S Li, H Lin, **MF Abdallah**, R Zhang, S Liu, Y Li, S Yang (2025).
 <br>Development and Validation of a QconCAT-Based LC-MS/MS Method for the Quantification of 12 Food Allergens in Foods. Journal of Agricultural and Food Chemistry, 40681472. [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.jafc.5c03044){:target="_blank" rel="noopener"}.
 
