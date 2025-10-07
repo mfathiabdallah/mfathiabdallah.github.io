@@ -96,6 +96,9 @@ Total = 43
 
 ### <span style="color: green; font-weight: bold;">2025 Publications</span> <span style="color: pink;">&#9679;</span>
 
+32)  M Suman, M Oboeuf, **MF Abdallah**, C Hazel, E Varga, A Mally, A Medina, M Molero, A Sansom, and KJ Korzeniowski (2025).
+<br>Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products. World Mycotoxin Journal. [[Link]](https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml){:target="_blank" rel="noopener"}.
+
 31) S Yang, Y Shenchen, Y Zhao, M Zhou, **MF Abdallah**, Y Gao, M Gao, R Zhang, S Liu, Y Li (2025).
 <br>Development and validation of an LC-MS/MS method for a sensitive quantitation of livestock and poultry meat allergens. Food Chemistry, 145965. [[Link]](https://www.sciencedirect.com/science/article/pii/S0308814625032169){:target="_blank" rel="noopener"}.
 
