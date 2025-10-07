@@ -48,7 +48,7 @@ title: ""
   <tbody>
     <tr>
       <td>Research Articles</td>
-      <td>30</td>
+      <td>32</td>
       <td>Editorials</td>
        <td>4</td>
     </tr>
@@ -64,7 +64,7 @@ title: ""
     </tr>
   </tbody>
 </table>
-Total = 43
+Total = 45
 
    (* corresponding author; † equal co-authorship). Publications are ordered per year (according to the first published date). 
    
