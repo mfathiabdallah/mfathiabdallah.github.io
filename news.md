@@ -7,5 +7,5 @@ title: "news"
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive.html title="News and Views" %}
+  {% include archive.html title="News" %}
 {% endif %}
