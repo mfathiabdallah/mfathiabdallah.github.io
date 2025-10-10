@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products is now online at World Mycotoxin Journal"
+title: "New publication: Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products is now online at World Mycotoxin Journal"
 date: 2025-10-08
 mathjax: true
 inline: true
@@ -12,16 +12,16 @@ canonical: https://www.mfathiabdallah.com/Framework on risk prioritisationof myc
 <link rel="canonical" href="https://www.mfathiabdallah.com/Framework on risk prioritisationof mycotoxins in food">
 
 <!-- Metadata -->
-<meta name="Publication" content="Framework on risk prioritisationof mycotoxins in food">
+<meta name="Publication" content="New publication: Framework on risk prioritisationof mycotoxins in food">
 
 <!-- Structured Data -->
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Article",
-  "headline": "Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products is now online at World Mycotoxin Journal",
+  "headline": "New publication: Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products is now online at World Mycotoxin Journal",
   "datePublished": "2025-10-08",
-  "Publication": "Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products",
+  "Publication": "New publication: Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.mfathiabdallah.com/Framework on risk prioritisationof mycotoxins in food/"
