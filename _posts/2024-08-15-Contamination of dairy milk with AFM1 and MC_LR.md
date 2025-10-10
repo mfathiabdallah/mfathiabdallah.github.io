@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction is now online at Food and Chemical Toxicology Journal website"
+title: "New publication: Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction is now online at Food and Chemical Toxicology Journal website"
 date: 2024-08-15
 mathjax: true
 inline: true
@@ -12,16 +12,16 @@ canonical: https://www.mfathiabdallah.com/Contamination-of-dairy-milk-with-AFM1-
 <link rel="canonical" href="https://www.mfathiabdallah.com/Contamination-of-dairy-milk-with-AFM1-and-MC_LR/">
 
 <!-- Metadata -->
-<meta name="Publication" content="Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction">
+<meta name="Publication" content="New publication: Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction">
 
 <!-- Structured Data -->
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Article",
-  "headline": "Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction is now online at Food and Chemical Toxicology Journal website",
+  "headline": "New publication: Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction is now online at Food and Chemical Toxicology Journal website",
   "datePublished": "2028-08-15",
-  "Publication": "Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction",
+  "Publication": "New publication: Contamination of dairy milk with AFM1 and MCLR and their synergistic interaction in inducing mitochondrial dysfunction",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.mfathiabdallah.com/Contamination-of-dairy-milk-with-AFM1-and-MC_LR/"
