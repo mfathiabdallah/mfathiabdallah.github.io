@@ -48,7 +48,7 @@ The article can be reached through this link <a href="https://brill.com/view/jou
 </div>
 
 <div class="image-container">
-  <img class="Publication" src="/images/2025_10_paper_worldmycotoxinj" alt="Publication" onclick="openModal(this.src)">
+  <img class="Publication" src="/images/2025_10_paper_worldmycotoxinj.png" alt="Publication" onclick="openModal(this.src)">
 </div>
 
 <!-- JavaScript for modal functionality -->
