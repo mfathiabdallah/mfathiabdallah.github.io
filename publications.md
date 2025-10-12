@@ -5,7 +5,7 @@ title: ""
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p>&#10148; You can find my CV here <a href="/mohamed_fathi_abdallah_july_2025.pdf" target="_blank" rel="noopener">(click to download)</a>.</p>
+    <p>&#10148; My CV <a href="/mohamed_fathi_abdallah_july_2025.pdf" target="_blank" rel="noopener">(click to download)</a>.</p>
     <p>&#10148; Visit my <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">page</a> at Aarhus University</p>
     <i class="fab fa-orcid"></i>    &nbsp; ORCID: &nbsp; <a href="https://orcid.org/0000-0002-3903-6452" target="_blank">0000-0002-3903-6452</a><br><br>
   </div>
