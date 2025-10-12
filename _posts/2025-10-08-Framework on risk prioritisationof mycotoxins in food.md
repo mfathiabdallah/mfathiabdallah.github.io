@@ -39,6 +39,8 @@ In this work, a framework for risk prioritisation of mycotoxins in food, integra
 
 The article can be reached through this link <a href="https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml" target="_blank" rel="noopener">https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml</a>.
 
+The post for this paper on LinkedIn: https://www.linkedin.com/posts/world-mycotoxin-journal_in-simple-terms-risk-depends-on-two-key-activity-7381761554423255041-R6SD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAfehSkBNrRh7LHNCV-IT4vyBVuwyOIgTX0
+
  Thanks to all co-authors for their contribution!
 
 <!-- Add modal functionality to the image -->
