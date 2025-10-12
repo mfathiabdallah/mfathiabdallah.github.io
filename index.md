@@ -224,10 +224,8 @@ For contact
     <h4>Dr. Mohamed Fathi Abdallah</h4>
     <p>
       <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp; <a href="mailto:mfa@food.au.dk" target="_blank">mfa@food.au.dk</a><br>
-      <i class="fab fa-google"></i>   &nbsp; Google Scholar: &nbsp; <a href="https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en" target="_blank">Mohamed Fathi Abdallah</a><br>
       <i class="fab fa-twitter"></i>  &nbsp; Twitter: &nbsp; <a href="https://twitter.com/MoFathiAbdallah" target="_blank">MoFathiAbdallah</a><br>
       <i class="fab fa-linkedin"></i> &nbsp; LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">Mohamed Fathi Abdallah</a><br>
-      <i class="fab fa-orcid"></i>    &nbsp; ORCID: &nbsp; <a href="https://orcid.org/0000-0002-3903-6452" target="_blank">0000-0002-3903-6452</a><br><br>
       <img src="/images/AarhusUni.jpg" alt="Image" style="width: 100%; height: auto; border-radius: 10px;">
     </p>
   </div>
@@ -235,11 +233,8 @@ For contact
     <h4>Address:</h4>
     <p>
       Department of Food Science <br>
-      Faculty of Technical Sciences <br>
       Aarhus University <br>
-      Agro Food Park 48 <br>
-      8200 Aarhus N <br>
-      Denmark <br>
+      Agro Food Park 48, Aarhus, Denmark <br>
     </p>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.8577236812416!2d10.153219677617567!3d56.19850617325248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c15cd3e555c11%3A0xc10a2cd724a2185e!2sAgro%20Food%20Park%2048%2C%208200%20Aarhus!5e1!3m2!1sen!2sdk!4v1744464701594!5m2!1sen!2sdk" width="450" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
