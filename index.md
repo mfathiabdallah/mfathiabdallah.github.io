@@ -217,7 +217,7 @@ We are open to support applications for scholarships and fellowships such as Mar
 </div>
   <hr class="centered-hr" />
 
-For contact
+## For contact
  <p style="text-align: left; font-weight: bold; margin-top: 30px;">
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
 
@@ -246,8 +246,7 @@ For contact
     </p>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.8577236812416!2d10.153219677617567!3d56.19850617325248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c15cd3e555c11%3A0xc10a2cd724a2185e!2sAgro%20Food%20Park%2048%2C%208200%20Aarhus!5e1!3m2!1sen!2sdk!4v1744464701594!5m2!1sen!2sdk" width="450" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
-  
-</div>
+  </div>
 
 <style>
   .a2a_kit {
