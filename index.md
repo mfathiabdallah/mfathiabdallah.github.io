@@ -25,14 +25,14 @@ and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.
 <div>
   <h4>Previous Education, Training & Working experience</h4>
   <ul>
-    <li>Former F.R.S-FNRS Fellow (Senior Postdoctoral Researcher). Host institute University of Mons, Belgium.</li>
-    <li>Former Postdoctoral Fellow, Ghent University-Special Research Fund (BOF), Ghent University, Belgium.</li>
-    <li>Former Researcher, Teagasc Food Research Centre, Dublin, Ireland.</li>
-    <li>PhD in Pharmaceutical Sciences, Ghent University, Belgium.</li>
-    <li>Erasmus+ Exchange Master Student, University of Natural Resources and Life Sciences, Vienna (BOKU), Austria.</li>
-    <li>Erasmus+ Intern Researcher, <i>IfADo</i> Institute, Dortmund, Germany.</li>
-    <li>Master's Degree in Pharmaceutical Toxicology, Hacettepe University, Türkiye.</li>
-    <li>Bachelor's Degree in Veterinary Medical Sciences, Assiut University, Egypt.</li>
+    <li>Former F.R.S-FNRS Postdoctoral Fellow (03/2024). Host institute University of Mons, Belgium.</li>
+    <li>Former Postdoctoral Fellow (09/2023), Ghent University-Special Research Fund (BOF), Ghent University, Belgium.</li>
+    <li>Former Researcher (09/2020), Teagasc Food Research Centre, Dublin, Ireland.</li>
+    <li>PhD in Pharmaceutical Sciences (05/2020), Ghent University, Belgium.</li>
+    <li>Master's Degree (04/2016) in Pharmaceutical Toxicology, Hacettepe University, Türkiye.</li>
+    <li>Erasmus+ Exchange Master Student (03/2016), University of Natural Resources and Life Sciences, Vienna (BOKU), Austria.</li>
+    <li>Erasmus+ Intern Researcher (12/2014), <i>IfADo</i> Institute, Dortmund, Germany.</li>
+    <li>Bachelor's Degree (07/2011) in Veterinary Medical Sciences, Assiut University, Egypt.</li>
   </ul>
 </div>
 
