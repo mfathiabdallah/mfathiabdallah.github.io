@@ -216,13 +216,11 @@ We are open to support applications for scholarships and fellowships such as Mar
   </p>
 </div>
   <hr class="centered-hr" />
+
+For contact
  <p style="text-align: left; font-weight: bold; margin-top: 30px;">
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
 
- <p style="text-align: left; font-weight: bold; margin-top: 30px;">
-  For Contact.
-  </p>
-</div>
 
   <div style="border: 1px solid #ccc; padding: 20px;">
     <h4>Dr. Mohamed Fathi Abdallah</h4>
