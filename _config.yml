@@ -25,10 +25,11 @@ minimal: true            # use a dark header
 
 navigation:        # accepts {file, title, url, icon, sidebaricon}
   - {title: "Lab and Research", file: "Lab and Research.md"}
-  - {title: "CV & Publications", file: "publications.md"}
   - {title: "Funds and awards", file: "Funds_and_grants.md"}
+  - {title: "Teaching", file: "Teaching.md"}
+  - {title: "CV & Publications", file: "publications.md"}
   - {title: "News", file: "news.md"}
-  - {title: "Contact", file: "contact.md"}
+  
   
   
 external:          # shows a footer with social links - for available icons see fontawesome.com/icons
