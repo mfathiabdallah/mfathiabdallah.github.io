@@ -4,13 +4,13 @@ title: Home
 permalink: /
 description: "Assistant Professor of Food Toxicology at Aarhus University, Denmark."
 sitemap:
-  lastmod: 2025-04-13
+  lastmod: 2025-10-12
   exclude: 'no'
 ---
 <br />
 <!-- Profile picture -->
 <img class="ProfilePic" img width="170" align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="mohamed_fathi_abdallah_2023(2).jpg">
-<u>Short Bio (last update: July 2025)</u>
+<u>Short Bio (last update: September 2025)</u>
 <h4>Current Position</h4>
 - Assistant Professor in Food Toxicology, Department of Food Science, Aarhus University, Denmark.
 
@@ -215,9 +215,14 @@ We are open to support applications for scholarships and fellowships such as Mar
     For more news, please <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
   </p>
 </div>
-
+  <hr class="centered-hr" />
  <p style="text-align: left; font-weight: bold; margin-top: 30px;">
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
+
+ <p style="text-align: left; font-weight: bold; margin-top: 30px;">
+  For Contact.
+  </p>
+</div>
 
   <div style="border: 1px solid #ccc; padding: 20px;">
     <h4>Dr. Mohamed Fathi Abdallah</h4>
@@ -297,4 +302,4 @@ We are open to support applications for scholarships and fellowships such as Mar
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 
-
+  <hr class="centered-hr" />
