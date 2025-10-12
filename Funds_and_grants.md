@@ -183,19 +183,18 @@ title: ""
       (Based on running projects and research papers)
       <br>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Europe</span></strong>
-      <li>Dr. Elisabeth Varga- University of Veterinary Medicine Vienna, <strong>Austria</strong>.</li>
-      <li>Prof. Andreja Rajkovic- Ghent University, <strong>Belgium</strong>.</li>
-      <li>Prof. Gerard Bryan Gonzales- Ghent University, <strong>Belgium</strong>.</li>
-      <li>Dr. Luca Dellafiora- University of Parma, <strong>Italy</strong>.</li>
-      <li>Dr. Julien Masquelier- Sciensano Institute, Tervuren, <strong>Belgium</strong>.</li>
-      <li>Dr. Mohammed Aufy- University of Vienna, <strong>Austria</strong>.</li>
+      <li>University of Veterinary Medicine Vienna, <strong>Austria</strong>.</li>
+      <li> University of Vienna, <strong>Austria</strong>.</li>
+      <li>Ghent University, <strong>Belgium</strong>.</li>
+      <li>University of Parma, <strong>Italy</strong>.</li>
+      <li>Sciensano Institute, Tervuren, <strong>Belgium</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Asia</span></strong>
-      <li>Prof. Shupeng Yang- Institute of Food Science and Technology, Beijing, <strong>PR China</strong>.</li>
-      <li>Dr. Ye Tian- University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, <strong>PR China</strong>.</li>
-      <li>Prof. Junhua Yang- Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong>.</li>
-      <li>Prof. Mahmoud Abudayyak- Istanbul University, Istanbul, <strong>Türkiye</strong>.</li>
+      <li>Institute of Food Science and Technology, Beijing, <strong>PR China</strong>.</li>
+      <li>University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, <strong>PR China</strong>.</li>
+      <li>Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong>.</li>
+      <li>Istanbul University, Istanbul, <strong>Türkiye</strong>.</li>
       <strong><span style="font-size: larger; text-decoration: underline; color: red;">Africa</span></strong>
-      <li>Prof. Anwar Abdelnaser- American University in Cairo (AUC), <strong>Egypt</strong>.</li>
+      <li>American University in Cairo (AUC), <strong>Egypt</strong>.</li>
     </ul>
 
 <br> <!-- Add line spaces here -->
@@ -258,4 +257,5 @@ title: ""
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
+
 
