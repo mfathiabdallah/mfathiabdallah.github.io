@@ -47,13 +47,13 @@ title: ""
   <tbody>
     <tr>
       <td>Research Articles</td>
-      <td>32</td>
+      <td>33</td>
       <td>Editorials</td>
        <td>4</td>
     </tr>
     <tr>
       <td>Reviews</td>
-      <td>7</td>
+      <td>8</td>
       <td>Book Chapters</td>
        <td>1</td>
     </tr>
@@ -226,6 +226,9 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 </style>
 
 <h1 class="collapsible-title">&#10148; Reviews </h1>
+
+8) V Uka, **MF Abdallah*** (2024).
+<br>Challenges in Mycotoxin Monitoring in Recently Independent Countries: The Case of Kosovo☆, 108465. [[Link]](https://www.sciencedirect.com/science/article/pii/S0889157525012815#bib34){:target="_blank" rel="noopener"}.
 
 7) K Aghebatbinyeganeh, **MF Abdallah*** (2024).
 <br>An overview of regional mycotoxin contamination in Iranian food. Food and Humanity, 100370. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S2949824424001459){:target="_blank" rel="noopener"}. 
