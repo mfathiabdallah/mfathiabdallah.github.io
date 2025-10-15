@@ -8,23 +8,19 @@ title: ""
   <h1 class="collapsible-title">&#10148; Funds</h1>
   <div class="collapsible-content">
     <ul>
-      <li>(2026-2031) Novo Nordisk Foundation - ECRUIT Grant for International Recruitment 2025 (Assistant Prof level) for the project "ToxiFOOD". Role: Principal Investigator. Total budget: DKK 13.88 Million (= € 1.86 Million). 
-        <span style="color:red; font-weight:bold;">(Ongoing)</span>
+      <li>(2026-2031) Novo Nordisk Foundation - ECRUIT Grant for International Recruitment 2025 (Assistant Prof level) for the project "ToxiFOOD". Role: Principal Investigator. Total budget: DKK 13.88 Million (= € 1.86 Million). <span style="color:red; font-weight:bold;">(Not started)</span>
       </li>
-      <li>(2024) UMONS Research Institute for Health Sciences and Technology (Action Kangaroo) for the project "Optimizing a one-plate method for a high throughput toxicity Screening". Role: Principal Researcher. Total budget: €5,000. 
-        <span style="color:red; font-weight:bold;">(Completed)</span>
+      <li>(2024) UMONS Research Institute for Health Sciences and Technology (Action Kangaroo) for the project "Optimizing a one-plate method for a high throughput toxicity Screening". Role: Principal Researcher. Total budget: €5,000. <span style="color:red; font-weight:bold;">(Discountined in 03/2025)</span>
       </li>
       <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute: University of Mons, Belgium. Total budget: €215,000. 
-        <span style="color:red; font-weight:bold;">(Ongoing)</span>
+        <span style="color:red; font-weight:bold;">(Discountined in 03/2025)</span>
       </li>
       <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032. Total budget: €205,000. 
         <span style="color:red; font-weight:bold;">(Completed)</span>
       </li>
-      <li>(2021) VLIRUOS Global Minds Grant from Ghent University for the project "AF-CYSTIN-milk" to assess the incidence of aflatoxin M1 and microcystin-LR in water buffalo milk from Philippines and their potential in vitro toxic interaction. Role: Principal Researcher. Total budget: €12,000. 
-        <span style="color:red; font-weight:bold;">(Completed)</span>
+      <li>(2021) VLIRUOS Global Minds Grant from Ghent Uni for "AF-CYSTIN-milk" project to assess the incidence of aflatoxin M1 and microcystin-LR in dairy milk and their potential in vitro toxic interaction. Role: Principal Researcher. Total budget: €12,000. <span style="color:red; font-weight:bold;">(Completed)</span>
       </li>
-      <li>(2018) VLIRUOS Global Minds Grant from Ghent University for the side project "MYCOSUGAR" to enrich our knowledge on mycotoxin occurrence in sugarcane as an important cash crop in Africa. Role: Principal Researcher. Total budget: €12,000. 
-        <span style="color:red; font-weight:bold;">(Completed)</span>
+      <li>(2018) VLIRUOS Global Minds Grant from Ghent Uni for "MYCOSUGAR" project to investigate mycotoxin occurrence in sugarcane as an important cash crop. Role: Principal Researcher. Total budget: €12,000. <span style="color:red; font-weight:bold;">(Completed)</span>
       </li>
     </ul>
   </div>
@@ -267,6 +263,7 @@ title: ""
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
+
 
 
 
