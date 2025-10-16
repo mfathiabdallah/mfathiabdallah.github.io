@@ -315,13 +315,14 @@ We are open to support applications for scholarships and fellowships such as Mar
 <!-- 👇 Separation line before map & share -->
 <hr class="centered-hr" />
 
-<!-- Hidden Visitor Icon (centered) -->
-<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-  <!-- This is a placeholder icon, replace with your preferred icon if needed -->
-  <img src="https://cdn-icons-png.flaticon.com/512/565/565547.png" 
-       alt="Visitor icon" 
-       style="width: 50px; height: 50px; opacity: 0.5;">
+<!-- Visitors Map -->
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
+    <img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" 
+         alt="Visitor tracker map" style="max-width: 300px; height: auto; border-radius: 8px;">
+  </a>
 </div>
 
 <hr class="centered-hr" />
+
 
