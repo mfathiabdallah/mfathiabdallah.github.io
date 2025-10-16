@@ -10,6 +10,7 @@ sitemap:
 <br />
 <!-- Profile picture -->
 <img class="ProfilePic" img width="170" align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="mohamed_fathi_abdallah_2023(2).jpg">
+
 <u>Short Bio (last update: September 2025)</u>
 <h4>Current Position</h4>
 - Assistant Professor in Food Toxicology, Department of Food Science, Aarhus University, Denmark.
@@ -47,14 +48,15 @@ This interdisciplinary approach bridges food toxicology and human health, facili
 We are looking for motivated students and researchers to join our group. Please, contact me for more details. 我们正在寻找积极进取的学生和研究人员加入您的团队. 请联系我了解更多详情 &emsp; 
 </marquee>
 <hr />
-<style>
-    .a2a_kit {
-        float: right; /* Float the div to the right */
-        margin: 10px; /* Add some margin for spacing */
-    }
-</style>
-  <div>
 
+<style>
+  .a2a_kit {
+      float: right;
+      margin: 10px;
+  }
+</style>
+
+<div>
 <p style="color: red;">
 We are open to support applications for scholarships and fellowships such as Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation, and others.
 </p>
@@ -63,7 +65,8 @@ We are open to support applications for scholarships and fellowships such as Mar
      <li> Detection of Natural Food Contaminantes (postgradute students, PhDs, Postdoc).</li>
      <li> Application of Large Langauge Models in Food Contaminantes (only Postrdoc or research assistants with solid expereince in AI).</li>
      <li> Mixture toxicology with a focus on Food Contaminantes using NAMs (postgradute students, PhDs, Postdoc).</li>
-    
+</div>
+
 <!-- News and Announcement -->
 <div>
    <hr />
@@ -105,175 +108,92 @@ We are open to support applications for scholarships and fellowships such as Mar
 
   <hr class="centered-hr" />
 
-<!-- Announcement 2 -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 0;">30 September 2025</h3>
-      <p style="margin-top: 0;">Receiving RECRUIT Grant for International Recruitment 2025 from Novo Nordisk Foundation</p>
-      <p>
-        I am pleased to share that I have been awarded a 5-year Grant from Novo Nordisk Foundation to establish a research group focusing on Food_Toxicology, with the aim of advancing detection, assessment, and risk evaluation of natural toxins in novel foods.
+  <!-- Other announcements here (same as your code) -->
+
+  <!-- 👇 Contact Section -->
+  <p style="text-align: left; font-weight: bold; margin-top: 30px;">For contact</p>
+
+  <div class="contact-grid">
+    <div class="contact-card">
+      <h4>Dr. Mohamed Fathi Abdallah</h4>
+      <p style="word-wrap: break-word; overflow-wrap: anywhere;">
+        <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp;
+        <a href="mailto:mfa@food.au.dk" target="_blank">mfa@food.au.dk</a><br>
+
+        <i class="fab fa-twitter"></i> &nbsp; Twitter: &nbsp;
+        <a href="https://twitter.com/MoFathiAbdallah" target="_blank">@MoFathiAbdallah</a><br>
+
+        <i class="fab fa-linkedin"></i> &nbsp; LinkedIn: &nbsp;
+        <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">
+          Mohamed Fathi Abdallah
+        </a><br>
+
+        <img src="/images/AarhusUni.jpg" alt="Aarhus University"
+             style="width: 85%; height: auto; border-radius: 10px; margin-top: 10px;">
       </p>
     </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/NNF_grant.jpg" alt="NFF grant post" 
-           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
-    </div>
-  </div>
 
-  <hr class="centered-hr" />
-  
-  <!-- Announcement 3 -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 0;">01 March 2025</h3>
-      <p style="margin-top: 0;">Joining Food Science Department, Aarhus University as an Assistant Professor (tenure track) in Food Toxicology</p>
+    <div class="contact-card">
+      <h4>Address:</h4>
       <p>
-        I’m thrilled to share that I will be joining the Department of Food Science at Aarhus University, Denmark, 
-        as a Tenure Track Assistant Professor in Food Toxicology, starting April 1st, 2025. 
-        Looking forward to this exciting journey and the opportunities ahead at Aarhus University!
+        Department of Food Science <br>
+        Aarhus University <br>
+        Agro Food Park 48, Aarhus, Denmark <br>
       </p>
-    </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/AarhusUni.jpg" alt="Aarhus University building" 
-           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
-    </div>
-  </div>
-
-  <hr class="centered-hr" />
-
-  <!-- Announcement 4 -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 0;">10 October 2024</h3>
-      <p style="margin-top: 0;">Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control</p>
-      <p>
-        Our editorial on the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control” 
-        is now online at <i>Toxins</i> journal.
-      </p>
-    </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2024_10_10.PNG" alt="Special issue cover on mycotoxins" 
-           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.8577236812416!2d10.153219677617567!3d56.19850617325248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c15cd3e555c11%3A0xc10a2cd724a2185e!2sAgro%20Food%20Park%2048%2C%208200%20Aarhus!5e1!3m2!1sen!2sdk!4v1744464701594!5m2!1sen!2sdk"
+        width="100%"
+        height="225"
+        style="border:0; border-radius:10px;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
     </div>
   </div>
 
   <hr class="centered-hr" />
 
-  <!-- Announcement 5 -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 0;">15 August 2024</h3>
-      <p style="margin-top: 0;">AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction</p>
-      <p>
-        Our paper about “Contamination of dairy milk with AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction” 
-        is now online in <i>Food and Chemical Toxicology</i>.
-      </p>
-      <p>
-        The article can be found through this link:
-        <a href="https://pubmed.ncbi.nlm.nih.gov/39111684/" 
-           target="_blank" rel="noopener">
-          https://pubmed.ncbi.nlm.nih.gov/39111684/
-        </a>.
-      </p>
+  <!-- Map + Share buttons in one line -->
+  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin: 20px 0;">
+    <div>
+      <a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
+        <img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" 
+             alt="Visitor tracker map" style="max-width: 300px; height: auto; border-radius: 8px;">
+      </a>
     </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2024_08_15.JPG" alt="Journal cover Food and Chemical Toxicology" 
-           style="width: 50%; max-width: 400px; display: block; margin: 0 auto; border-radius: 10px;">
+
+    <div class="a2a_kit a2a_kit_size_32 a2a_default_style" style="margin-left: auto;">
+      <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+      <a class="a2a_button_facebook"></a>
+      <a class="a2a_button_linkedin"></a>
+      <a class="a2a_button_x"></a>
+      <a class="a2a_button_microsoft_teams"></a>
+      <a class="a2a_button_whatsapp"></a>
+      <a class="a2a_button_pinterest"></a>
+      <a class="a2a_button_email"></a>
     </div>
   </div>
 
-  <hr class="centered-hr" />
-
-  <!-- Announcement 6 -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 0;">20 December 2023</h3>
-      <p style="margin-top: 0;">Mycotoxin contamination in the Arab world</p>
-      <p>
-        Our review paper on “Mycotoxin contamination in the Arab world” 
-        is now online in <i>Mycotoxin Research</i>.
-      </p>
-      <p>
-        The article can be found through this link:
-        <a href="https://pubmed.ncbi.nlm.nih.gov/38117428/" 
-           target="_blank" rel="noopener">
-          https://pubmed.ncbi.nlm.nih.gov/38117428/
-        </a>.
-      </p>
-    </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2023_12_20.PNG" alt="Journal cover Mycotoxin Research" 
-           style="width: 50%; max-width: 400px; display: block; margin: 0 auto; border-radius: 10px;">
-    </div>
-  </div>
-  
-   <!-- Separator before More News -->
-  <hr class="centered-hr" />
-
-  <!-- More News link -->
-  <p style="text-align: left; font-weight: bold; margin-top: 30px;">
-    For more news, please <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
-  </p>
+  <script>
+    var a2a_config = a2a_config || {};
+    a2a_config.num_services = 12;
+  </script>
+  <script async src="https://static.addtoany.com/menu/page.js"></script>
 </div>
-  <hr class="centered-hr" />
 
-
-<!-- Divider Style -->
+<!-- ✅ Final responsive and overflow fix -->
 <style>
-  .centered-hr {
-    width: 420px;
-    margin: 40px auto;
-    border: none;
-    border-top: 2px solid #aaa;
+  html, body {
+    width: 100%;
+    overflow-x: hidden !important;
   }
-</style>
 
+  img, iframe {
+    max-width: 100%;
+    height: auto;
+  }
 
-<!-- 👇 Contact Section -->
-<p style="text-align: left; font-weight: bold; margin-top: 30px;">For contact</p>
-
-<div class="contact-grid">
-  <div class="contact-card">
-    <h4>Dr. Mohamed Fathi Abdallah</h4>
-    <p style="word-wrap: break-word; overflow-wrap: anywhere;">
-      <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp;
-      <a href="mailto:mfa@food.au.dk" target="_blank">mfa@food.au.dk</a><br>
-
-      <i class="fab fa-twitter"></i> &nbsp; Twitter: &nbsp;
-      <a href="https://twitter.com/MoFathiAbdallah" target="_blank">@MoFathiAbdallah</a><br>
-
-      <i class="fab fa-linkedin"></i> &nbsp; LinkedIn: &nbsp;
-      <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">
-        Mohamed Fathi Abdallah
-      </a><br>
-
-      <img src="/images/AarhusUni.jpg" alt="Aarhus University"
-           style="width: 85%; height: auto; border-radius: 10px; margin-top: 10px;">
-    </p>
-  </div>
-
-  <div class="contact-card">
-    <h4>Address:</h4>
-    <p>
-      Department of Food Science <br>
-      Aarhus University <br>
-      Agro Food Park 48, Aarhus, Denmark <br>
-    </p>
-    <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.8577236812416!2d10.153219677617567!3d56.19850617325248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c15cd3e555c11%3A0xc10a2cd724a2185e!2sAgro%20Food%20Park%2048%2C%208200%20Aarhus!5e1!3m2!1sen!2sdk!4v1744464701594!5m2!1sen!2sdk"
-      width="100%"
-      height="225"
-      style="border:0; border-radius:10px;"
-      allowfullscreen=""
-      loading="lazy"
-      referrerpolicy="no-referrer-when-downgrade">
-    </iframe>
-  </div>
-</div>
-
-<!-- ✅ Responsive and layout fixes -->
-<style>
-  /* Contact grid layout */
   .contact-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -286,64 +206,48 @@ We are open to support applications for scholarships and fellowships such as Mar
     border-radius: 10px;
   }
 
-  /* Responsive layout for small screens */
   @media (max-width: 768px) {
     .contact-grid {
       grid-template-columns: 1fr;
     }
   }
 
-  /* Long URL handling */
-  a {
-    word-wrap: break-word;
-    overflow-wrap: anywhere;
+  [style*="display: flex"][style*="justify-content: space-between"] {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    margin: 0 auto;
   }
 
-  /* Prevent horizontal scroll */
-  body {
-    overflow-x: hidden;
+  .a2a_kit {
+    max-width: 100%;
+    overflow: hidden;
   }
 
-  /* Optional: add subtle hover effect for contact cards */
+  .centered-hr {
+    max-width: 90%;
+    width: 420px;
+    margin: 30px auto;
+    border: none;
+    border-top: 2px solid #aaa;
+  }
+
+  @media (max-width: 768px) {
+    .centered-hr {
+      width: 80%;
+    }
+  }
+
   .contact-card:hover {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     transition: 0.3s;
   }
+
+  .a2a_kit, 
+  a[href*="mapmyvisitors"] img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
 </style>
-
-
-<!-- 👇 Separation line before map & share -->
-<hr class="centered-hr" />
-
-<!-- Map + Share buttons in one line -->
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin: 20px 0;">
-  
-  <!-- Visitors Map (left) -->
-  <div>
-    <a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
-      <img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" 
-           alt="Visitor tracker map" style="max-width: 300px; height: auto; border-radius: 8px;">
-    </a>
-  </div>
-
-  <!-- Share buttons (right) -->
-  <div class="a2a_kit a2a_kit_size_32 a2a_default_style" style="margin-left: auto;">
-    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-    <a class="a2a_button_facebook"></a>
-    <a class="a2a_button_linkedin"></a>
-    <a class="a2a_button_x"></a>
-    <a class="a2a_button_microsoft_teams"></a>
-    <a class="a2a_button_whatsapp"></a>
-    <a class="a2a_button_pinterest"></a>
-    <a class="a2a_button_email"></a>
-  </div>
-</div>
-
-<!-- AddToAny script -->
-<script>
-  var a2a_config = a2a_config || {};
-  a2a_config.num_services = 12;
-</script>
-<script async src="https://static.addtoany.com/menu/page.js"></script>
-
-  <hr class="centered-hr" />
