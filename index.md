@@ -257,6 +257,90 @@ For contact
   }
 </style>
 
+
+<!-- 👇 Contact Section -->
+<p style="text-align: left; font-weight: bold; margin-top: 30px;">For contact</p>
+
+<div class="contact-grid">
+  <div class="contact-card">
+    <h4>Dr. Mohamed Fathi Abdallah</h4>
+    <p style="word-wrap: break-word; overflow-wrap: anywhere;">
+      <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp;
+      <a href="mailto:mfa@food.au.dk" target="_blank">mfa@food.au.dk</a><br>
+
+      <i class="fab fa-twitter"></i> &nbsp; Twitter: &nbsp;
+      <a href="https://twitter.com/MoFathiAbdallah" target="_blank">@MoFathiAbdallah</a><br>
+
+      <i class="fab fa-linkedin"></i> &nbsp; LinkedIn: &nbsp;
+      <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">
+        Mohamed Fathi Abdallah
+      </a><br>
+
+      <img src="/images/AarhusUni.jpg" alt="Aarhus University"
+           style="width: 85%; height: auto; border-radius: 10px; margin-top: 10px;">
+    </p>
+  </div>
+
+  <div class="contact-card">
+    <h4>Address:</h4>
+    <p>
+      Department of Food Science <br>
+      Aarhus University <br>
+      Agro Food Park 48, Aarhus, Denmark <br>
+    </p>
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.8577236812416!2d10.153219677617567!3d56.19850617325248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c15cd3e555c11%3A0xc10a2cd724a2185e!2sAgro%20Food%20Park%2048%2C%208200%20Aarhus!5e1!3m2!1sen!2sdk!4v1744464701594!5m2!1sen!2sdk"
+      width="100%"
+      height="225"
+      style="border:0; border-radius:10px;"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+</div>
+
+<!-- ✅ Responsive and layout fixes -->
+<style>
+  /* Contact grid layout */
+  .contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+
+  .contact-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  /* Responsive layout for small screens */
+  @media (max-width: 768px) {
+    .contact-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  /* Long URL handling */
+  a {
+    word-wrap: break-word;
+    overflow-wrap: anywhere;
+  }
+
+  /* Prevent horizontal scroll */
+  body {
+    overflow-x: hidden;
+  }
+
+  /* Optional: add subtle hover effect for contact cards */
+  .contact-card:hover {
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    transition: 0.3s;
+  }
+</style>
+
+
 <!-- 👇 Separation line before map & share -->
 <hr class="centered-hr" />
 
