@@ -10,120 +10,245 @@ sitemap:
 <br />
 <!-- Profile picture -->
 <img class="ProfilePic" img width="170" align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="mohamed_fathi_abdallah_2023(2).jpg">
-
 <u>Short Bio (last update: September 2025)</u>
 <h4>Current Position</h4>
 - Assistant Professor in Food Toxicology, Department of Food Science, Aarhus University, Denmark.
 
 <h4>Other positions and affiliations</h4>
-- Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.  
-- Board Member of the European Society of Toxicology In Vitro (ESTIV).  
-- Expert Group Member of ILSI Europe - Natural Toxins, Belgium.  
+- Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science
+and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.
+- Board Member of the European Society of Toxicology In Vitro (ESTIV).
+- Expert Group Member of ILSI Europe - Natural Toxins, Belgium.
 - Member of Society of Toxicology (SOT) & Post-doctoral Representative of the SOT’s Food Safety Specialty (FS3), USA.
 
-<!-- Education -->
-<h4>Previous Education, Training & Working Experience</h4>
-<ul>
-  <li>Former F.R.S-FNRS Postdoctoral Fellow (03/2024), University of Mons, Belgium.</li>
-  <li>Former Postdoctoral Fellow (09/2023), Ghent University-Special Research Fund (BOF), Belgium.</li>
-  <li>Former Researcher (09/2020), Teagasc Food Research Centre, Dublin, Ireland.</li>
-  <li>PhD in Pharmaceutical Sciences (05/2020), Ghent University, Belgium.</li>
-  <li>Master's Degree (04/2016), Pharmaceutical Toxicology, Hacettepe University, Türkiye.</li>
-  <li>Erasmus+ Exchange Master Student (03/2016), BOKU University, Vienna, Austria.</li>
-  <li>Erasmus+ Intern Researcher (12/2014), IfADo Institute, Dortmund, Germany.</li>
-  <li>Bachelor's Degree (07/2011), Veterinary Medical Sciences, Assiut University, Egypt.</li>
-</ul>
+<!-- Education, Training & Working experience -->
+<div>
+  <h4>Previous Education, Training & Working experience</h4>
+  <ul>
+    <li>Former F.R.S-FNRS Postdoctoral Fellow (03/2024). Host institute University of Mons, Belgium.</li>
+    <li>Former Postdoctoral Fellow (09/2023), Ghent University-Special Research Fund (BOF), Ghent University, Belgium.</li>
+    <li>Former Researcher (09/2020), Teagasc Food Research Centre, Dublin, Ireland.</li>
+    <li>PhD in Pharmaceutical Sciences (05/2020), Ghent University, Belgium.</li>
+    <li>Master's Degree (04/2016) in Pharmaceutical Toxicology, Hacettepe University, Türkiye.</li>
+    <li>Erasmus+ Exchange Master Student (03/2016), University of Natural Resources and Life Sciences, Vienna (BOKU), Austria.</li>
+    <li>Erasmus+ Intern Researcher (12/2014), <i>IfADo</i> Institute, Dortmund, Germany.</li>
+    <li>Bachelor's Degree (07/2011) in Veterinary Medical Sciences, Assiut University, Egypt.</li>
+  </ul>
+</div>
 
-<h4>Research Interest</h4>
-<p>
-My research focuses on understanding the risks associated with natural toxins (mycotoxins and cyanotoxins) and other emerging contaminants in novel foods.  
-We use LC-MS/MS methods for detection and <i>in vitro</i> models to study the toxicological effects of these compounds and their mixtures on human health.  
-This interdisciplinary work bridges food toxicology and human health.
-</p>
+#### Research Interest
+My research is centered on understanding the risks associated with natural toxins (mycotoxins and cyanotoxins) and other emerging contaminants in novel food. This is done by applying LC-MS/MS methods for detection. Also, through the use of _in vitro_ models, we investigate the effects of these toxins as mixtures on human health.
+This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.
+<br />
 
+**  **
+<html>
 <marquee behavior="scroll" direction="left" scrollamount="3">
-We are looking for motivated students and researchers to join our group. Please contact me for details. 我们正在寻找积极进取的学生和研究人员加入团队. 请联系我了解更多详情 &emsp;
+We are looking for motivated students and researchers to join our group. Please, contact me for more details. 我们正在寻找积极进取的学生和研究人员加入您的团队. 请联系我了解更多详情 &emsp; 
 </marquee>
-
 <hr />
+<style>
+    .a2a_kit {
+        float: right; /* Float the div to the right */
+        margin: 10px; /* Add some margin for spacing */
+    }
+</style>
+  <div>
 
 <p style="color: red;">
 We are open to support applications for scholarships and fellowships such as Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation, and others.
 </p>
 
-<h4>Areas of Interest</h4>
-<ul>
-  <li>Detection of Natural Food Contaminants (Postgraduate, PhD, Postdoc)</li>
-  <li>Application of Large Language Models in Food Contaminants (Postdoc or AI-experienced assistants)</li>
-  <li>Mixture Toxicology focusing on Food Contaminants using NAMs (Postgraduate, PhD, Postdoc)</li>
-</ul>
-
-<hr />
-<h2>News</h2>
-<ul>
-  {% for post in site.posts limit:5 %}
-  <li><strong>{{ post.date | date: "%Y-%m-%d" }}</strong> - <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-<hr />
-<h2>Announcements</h2>
-
-<!-- Announcement 1 -->
-<div class="announcement">
-  <h3>01 October 2025</h3>
-  <p><strong>PhD Vacancy in Food Toxicology</strong> — Fully funded 3-year PhD position at the Department of Food Science, Aarhus University.  
-  Focus: mass spectrometry-based methods for detection of natural toxins in novel foods.</p>
-  <p>
-    <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food"
-       target="_blank">Read more here</a>.
-  </p>
-  <img src="/images/PhD announce.png" alt="PhD vacancy poster" class="announcement-img">
+<h4>Areas of interest</h4>
+     <li> Detection of Natural Food Contaminantes (postgradute students, PhDs, Postdoc).</li>
+     <li> Application of Large Langauge Models in Food Contaminantes (only Postrdoc or research assistants with solid expereince in AI).</li>
+     <li> Mixture toxicology with a focus on Food Contaminantes using NAMs (postgradute students, PhDs, Postdoc).</li>
+    
+<!-- News and Announcement -->
+<div>
+   <hr />
+  <h2>News</h2>
+  <ul>
+    {% for post in site.posts limit:5 %}
+    <li><span style="font-weight: bold;">{{ post.date | date: "%Y-%m-%d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 </div>
 
-<hr class="centered-hr" />
+<!-- Announcements Section -->
+<div>
+  <hr />
+  <h2>Announcements</h2>
+
+  <!-- Announcement 1 -->
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
+      <h3 style="margin-bottom: 0;">01 October 2025</h3>
+      <p style="margin-top: 0;">PhD Vacancy in Food Toxicology at Food Science Department, Aarhus University</p>
+      <p>
+        Fully funded PhD position (salary, tuition fees, others) for 3 years at Department of Food Science, AU FOOD, Aarhus University. 
+        Main focus will be developing mass spec-based methods for screening and quantification of natural toxins in Novel Food.
+      </p>
+      <p>
+        More info via the link  
+        <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" 
+           target="_blank" rel="noopener">
+          https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food
+        </a>.
+      </p>
+    </div>
+    <div style="flex: 1; margin-bottom: 20px;">
+      <img src="/images/PhD announce.png" alt="PhD vacancy poster" 
+           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
+    </div>
+  </div>
+
+  <hr class="centered-hr" />
 
 <!-- Announcement 2 -->
-<div class="announcement">
-  <h3>August 2025</h3>
-  <p><strong>Our review on “Application of New Approach Methodologies in Food Toxicology”</strong> has been accepted for publication in <i>Food and Chemical Toxicology</i>.</p>
-  <img src="/images/FCTpaper.png" alt="Review paper" class="announcement-img">
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
+      <h3 style="margin-bottom: 0;">30 September 2025</h3>
+      <p style="margin-top: 0;">Receiving RECRUIT Grant for International Recruitment 2025 from Novo Nordisk Foundation</p>
+      <p>
+        I am pleased to share that I have been awarded a 5-year Grant from Novo Nordisk Foundation to establish a research group focusing on Food_Toxicology, with the aim of advancing detection, assessment, and risk evaluation of natural toxins in novel foods.
+      </p>
+    </div>
+    <div style="flex: 1; margin-bottom: 20px;">
+      <img src="/images/NNF_grant.jpg" alt="NFF grant post" 
+           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
+    </div>
+  </div>
+
+  <hr class="centered-hr" />
+  
+  <!-- Announcement 3 -->
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
+      <h3 style="margin-bottom: 0;">01 March 2025</h3>
+      <p style="margin-top: 0;">Joining Food Science Department, Aarhus University as an Assistant Professor (tenure track) in Food Toxicology</p>
+      <p>
+        I’m thrilled to share that I will be joining the Department of Food Science at Aarhus University, Denmark, 
+        as a Tenure Track Assistant Professor in Food Toxicology, starting April 1st, 2025. 
+        Looking forward to this exciting journey and the opportunities ahead at Aarhus University!
+      </p>
+    </div>
+    <div style="flex: 1; margin-bottom: 20px;">
+      <img src="/images/AarhusUni.jpg" alt="Aarhus University building" 
+           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
+    </div>
+  </div>
+
+  <hr class="centered-hr" />
+
+  <!-- Announcement 4 -->
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
+      <h3 style="margin-bottom: 0;">10 October 2024</h3>
+      <p style="margin-top: 0;">Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control</p>
+      <p>
+        Our editorial on the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control” 
+        is now online at <i>Toxins</i> journal.
+      </p>
+    </div>
+    <div style="flex: 1; margin-bottom: 20px;">
+      <img src="/images/2024_10_10.PNG" alt="Special issue cover on mycotoxins" 
+           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
+    </div>
+  </div>
+
+  <hr class="centered-hr" />
+
+  <!-- Announcement 5 -->
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
+      <h3 style="margin-bottom: 0;">15 August 2024</h3>
+      <p style="margin-top: 0;">AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction</p>
+      <p>
+        Our paper about “Contamination of dairy milk with AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction” 
+        is now online in <i>Food and Chemical Toxicology</i>.
+      </p>
+      <p>
+        The article can be found through this link:
+        <a href="https://pubmed.ncbi.nlm.nih.gov/39111684/" 
+           target="_blank" rel="noopener">
+          https://pubmed.ncbi.nlm.nih.gov/39111684/
+        </a>.
+      </p>
+    </div>
+    <div style="flex: 1; margin-bottom: 20px;">
+      <img src="/images/2024_08_15.JPG" alt="Journal cover Food and Chemical Toxicology" 
+           style="width: 50%; max-width: 400px; display: block; margin: 0 auto; border-radius: 10px;">
+    </div>
+  </div>
+
+  <hr class="centered-hr" />
+
+  <!-- Announcement 6 -->
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
+      <h3 style="margin-bottom: 0;">20 December 2023</h3>
+      <p style="margin-top: 0;">Mycotoxin contamination in the Arab world</p>
+      <p>
+        Our review paper on “Mycotoxin contamination in the Arab world” 
+        is now online in <i>Mycotoxin Research</i>.
+      </p>
+      <p>
+        The article can be found through this link:
+        <a href="https://pubmed.ncbi.nlm.nih.gov/38117428/" 
+           target="_blank" rel="noopener">
+          https://pubmed.ncbi.nlm.nih.gov/38117428/
+        </a>.
+      </p>
+    </div>
+    <div style="flex: 1; margin-bottom: 20px;">
+      <img src="/images/2023_12_20.PNG" alt="Journal cover Mycotoxin Research" 
+           style="width: 50%; max-width: 400px; display: block; margin: 0 auto; border-radius: 10px;">
+    </div>
+  </div>
+  
+   <!-- Separator before More News -->
+  <hr class="centered-hr" />
+
+  <!-- More News link -->
+  <p style="text-align: left; font-weight: bold; margin-top: 30px;">
+    For more news, please <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
+  </p>
 </div>
+  <hr class="centered-hr" />
 
-<hr class="centered-hr" />
 
-<!-- Announcement 3 -->
-<div class="announcement">
-  <h3>July 2025</h3>
-  <p><strong>Welcome to our new MSc student</strong> joining our group at Aarhus University. She will focus on detecting natural toxins in novel protein sources using LC-MS/MS.</p>
-  <img src="/images/NewMSc.png" alt="New MSc Student" class="announcement-img">
-</div>
+<!-- Divider Style -->
+<style>
+  .centered-hr {
+    width: 420px;
+    margin: 40px auto;
+    border: none;
+    border-top: 2px solid #aaa;
+  }
+</style>
 
-<hr class="centered-hr" />
 
-<!-- Announcement 4 -->
-<div class="announcement">
-  <h3>June 2025</h3>
-  <p><strong>We received a travel grant from ESTIV</strong> to attend the EUROTOX 2025 conference. Congratulations to the team!</p>
-  <img src="/images/ESTIVTravel.png" alt="Travel Grant ESTIV" class="announcement-img">
-</div>
-
-<hr class="centered-hr" />
-
-<!-- CONTACT SECTION -->
+<!-- 👇 Contact Section -->
 <p style="text-align: left; font-weight: bold; margin-top: 30px;">For contact</p>
 
 <div class="contact-grid">
   <div class="contact-card">
     <h4>Dr. Mohamed Fathi Abdallah</h4>
-    <p>
-      <i class="fas fa-envelope"></i> &nbsp;
-      <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a><br>
-      <i class="fab fa-twitter"></i> &nbsp;
+    <p style="word-wrap: break-word; overflow-wrap: anywhere;">
+      <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp;
+      <a href="mailto:mfa@food.au.dk" target="_blank">mfa@food.au.dk</a><br>
+
+      <i class="fab fa-twitter"></i> &nbsp; Twitter: &nbsp;
       <a href="https://twitter.com/MoFathiAbdallah" target="_blank">@MoFathiAbdallah</a><br>
-      <i class="fab fa-linkedin"></i> &nbsp;
-      <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">LinkedIn Profile</a><br>
-      <img src="/images/AarhusUni.jpg" alt="Aarhus University" class="contact-img">
+
+      <i class="fab fa-linkedin"></i> &nbsp; LinkedIn: &nbsp;
+      <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">
+        Mohamed Fathi Abdallah
+      </a><br>
+
+      <img src="/images/AarhusUni.jpg" alt="Aarhus University"
+           style="width: 85%; height: auto; border-radius: 10px; margin-top: 10px;">
     </p>
   </div>
 
@@ -136,22 +261,73 @@ We are open to support applications for scholarships and fellowships such as Mar
     </p>
     <iframe
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.8577236812416!2d10.153219677617567!3d56.19850617325248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c15cd3e555c11%3A0xc10a2cd724a2185e!2sAgro%20Food%20Park%2048%2C%208200%20Aarhus!5e1!3m2!1sen!2sdk!4v1744464701594!5m2!1sen!2sdk"
-      width="100%" height="225" style="border:0; border-radius:10px;"
-      allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+      width="100%"
+      height="225"
+      style="border:0; border-radius:10px;"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade">
     </iframe>
   </div>
 </div>
 
+<!-- ✅ Responsive and layout fixes -->
+<style>
+  /* Contact grid layout */
+  .contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+
+  .contact-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  /* Responsive layout for small screens */
+  @media (max-width: 768px) {
+    .contact-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  /* Long URL handling */
+  a {
+    word-wrap: break-word;
+    overflow-wrap: anywhere;
+  }
+
+  /* Prevent horizontal scroll */
+  body {
+    overflow-x: hidden;
+  }
+
+  /* Optional: add subtle hover effect for contact cards */
+  .contact-card:hover {
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    transition: 0.3s;
+  }
+</style>
+
+
+<!-- 👇 Separation line before map & share -->
 <hr class="centered-hr" />
 
-<!-- MAP + SHARE -->
-<div class="footer-row">
-  <a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
-    <img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff"
-         alt="Visitor map" class="footer-map">
-  </a>
+<!-- Map + Share buttons in one line -->
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin: 20px 0;">
+  
+  <!-- Visitors Map (left) -->
+  <div>
+    <a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
+      <img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" 
+           alt="Visitor tracker map" style="max-width: 300px; height: auto; border-radius: 8px;">
+    </a>
+  </div>
 
-  <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+  <!-- Share buttons (right) -->
+  <div class="a2a_kit a2a_kit_size_32 a2a_default_style" style="margin-left: auto;">
     <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
     <a class="a2a_button_facebook"></a>
     <a class="a2a_button_linkedin"></a>
@@ -163,75 +339,11 @@ We are open to support applications for scholarships and fellowships such as Mar
   </div>
 </div>
 
+<!-- AddToAny script -->
 <script>
   var a2a_config = a2a_config || {};
   a2a_config.num_services = 12;
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 
-<!-- ✅ STYLE FIX -->
-<style>
-  html, body { width: 100%; overflow-x: hidden !important; }
-  img, iframe { max-width: 100%; height: auto; }
-
-  .announcement {
-    border: 1px solid #ccc;
-    border-radius: 12px;
-    padding: 20px;
-    margin-bottom: 30px;
-  }
-
-  .announcement h3 { margin-top: 0; }
-  .announcement-img {
-    display: block;
-    width: 85%;
-    max-width: 420px;
-    margin: 15px auto 0;
-    border-radius: 12px;
-  }
-
-  .contact-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-  }
-  .contact-card {
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    padding: 20px;
-  }
-  .contact-img {
-    width: 85%;
-    height: auto;
-    border-radius: 10px;
-    margin-top: 10px;
-  }
-
-  .footer-row {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    gap: 12px;
-    margin: 20px 0;
-  }
-  .footer-map {
-    max-width: 300px;
-    border-radius: 8px;
-  }
-
-  .a2a_kit { max-width: 100%; overflow: hidden; }
-
-  .centered-hr {
-    max-width: 90%;
-    width: 420px;
-    margin: 30px auto;
-    border: none;
-    border-top: 2px solid #aaa;
-  }
-
-  @media (max-width: 768px) {
-    .contact-grid { grid-template-columns: 1fr; }
-    .centered-hr { width: 80%; }
-  }
-</style>
+  <hr class="centered-hr" />
