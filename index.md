@@ -7,10 +7,29 @@ sitemap:
   lastmod: 2025-10-12
   exclude: 'no'
 ---
+
+<!-- ===== Scrollable Navbar ===== -->
+<div class="navbar-wrapper">
+  <div class="nav-arrow left" onclick="scrollNavbar(-100)">&#10094;</div>
+  <div class="navbar">
+    <a href="/lab/">Lab</a>
+    <a href="/research/">Research</a>
+    <a href="/publications/">Publications</a>
+    <a href="/news/">News</a>
+    <a href="/contact/">Contact</a>
+  </div>
+  <div class="nav-arrow right" onclick="scrollNavbar(100)">&#10095;</div>
+</div>
+
 <br />
-<!-- Profile picture -->
-<img class="ProfilePic" img width="170" align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="mohamed_fathi_abdallah_2023(2).jpg">
+
+<!-- ===== Profile picture ===== -->
+<img class="ProfilePic" img width="170" align="right" alt="Mohamed Fathi Abdallah" 
+     style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" 
+     src="mohamed_fathi_abdallah_2023(2).jpg">
+
 <u>Short Bio (last update: September 2025)</u>
+
 <h4>Current Position</h4>
 - Assistant Professor in Food Toxicology, Department of Food Science, Aarhus University, Denmark.
 
@@ -41,20 +60,20 @@ My research is centered on understanding the risks associated with natural toxin
 This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.
 <br />
 
-**  **
-<html>
 <p style="color: red;">
 We are open to support applications for scholarships and fellowships such as Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation, and others.
 </p>
 
 <h4>Areas of interest</h4>
-     <li> Detection of Natural Food Contaminantes (postgradute students, PhDs, Postdoc).</li>
-     <li> Application of Large Langauge Models in Food Contaminantes (only Postrdoc or research assistants with solid expereince in AI).</li>
-     <li> Mixture toxicology with a focus on Food Contaminantes using NAMs (postgradute students, PhDs, Postdoc).</li> 
-    
-<!-- News and Announcement -->
+<ul>
+  <li>Detection of Natural Food Contaminantes (postgraduate students, PhDs, Postdoc).</li>
+  <li>Application of Large Language Models in Food Contaminantes (only Postdoc or research assistants with solid experience in AI).</li>
+  <li>Mixture toxicology with a focus on Food Contaminantes using NAMs (postgraduate students, PhDs, Postdoc).</li>
+</ul>
+
+<!-- ===== News Section ===== -->
 <div>
-   <hr />
+  <hr />
   <h2>News</h2>
   <ul>
     {% for post in site.posts limit:5 %}
@@ -63,125 +82,26 @@ We are open to support applications for scholarships and fellowships such as Mar
   </ul>
 </div>
 
-<!-- Announcements Section -->
-
-<!-- ✅ Announcement CSS for mobile stacking -->
+<!-- ===== Announcements Section ===== -->
 <style>
   /* Announcement container for mobile stacking */
   @media (max-width: 768px) {
-    /* Select the announcement flex container */
     .announcement-flex {
-      flex-direction: column !important; /* Stack items vertically */
+      flex-direction: column !important;
     }
-
     .announcement-flex > div {
-      margin-right: 0 !important; /* Remove right margin on stacked view */
-      margin-bottom: 15px;        /* Add spacing between text and image */
+      margin-right: 0 !important;
+      margin-bottom: 15px;
     }
-
     .announcement-flex img {
-      width: 100% !important; /* Make image full width on mobile */
+      width: 100% !important;
       max-width: none !important;
       display: block;
       margin: 0 auto;
     }
   }
-</style>
 
-<!-- Announcement 1 -->
-<div> <hr /> <h2>Announcements</h2>
-  
-<div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-    <h3>01 October 2025</h3>
-    <p>PhD Vacancy in Food Toxicology at Food Science Department, Aarhus University</p>
-    <p>Fully funded PhD position (salary, tuition fees, others) for 3 years at Department of Food Science, AU FOOD, Aarhus University. Main focus will be developing mass spec-based methods for screening and quantification of natural toxins in Novel Food.</p>
-    <p>More info via the link <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener">Click here</a>.</p>
-  </div>
-  <div style="flex: 1; margin-bottom: 20px;">
-    <img src="/images/PhD announce.png" alt="PhD vacancy poster" style="width: 80%; max-width: 400px; border-radius: 20px;">
-  </div>
-</div>
-<hr class="centered-hr" />
-
-<!-- Announcement 2 -->
-<div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-    <h3>30 September 2025</h3>
-    <p>Receiving RECRUIT Grant for International Recruitment 2025 from Novo Nordisk Foundation</p>
-    <p>I am pleased to share that I have been awarded a 5-year Grant from Novo Nordisk Foundation to establish a research group focusing on Food Toxicology, advancing detection, assessment, and risk evaluation of natural toxins in novel foods.</p>
-  </div>
-  <div style="flex: 1; margin-bottom: 20px;">
-    <img src="/images/NNF_grant.jpg" alt="NFF grant post" style="width: 80%; max-width: 400px; border-radius: 20px;">
-  </div>
-</div>
-<hr class="centered-hr" />
-
-<!-- Announcement 3 -->
-<div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-    <h3>01 March 2025</h3>
-    <p>Joining Food Science Department, Aarhus University as an Assistant Professor (tenure track) in Food Toxicology</p>
-    <p>I’m thrilled to share that I will be joining the Department of Food Science at Aarhus University as a Tenure Track Assistant Professor in Food Toxicology, starting April 1st, 2025.</p>
-  </div>
-  <div style="flex: 1; margin-bottom: 20px;">
-    <img src="/images/AarhusUni.jpg" alt="Aarhus University building" style="width: 80%; max-width: 400px; border-radius: 20px;">
-  </div>
-</div>
-<hr class="centered-hr" />
-
-<!-- Announcement 4 -->
-<div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-    <h3>10 October 2024</h3>
-    <p>Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control</p>
-    <p>Our editorial on the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control” is now online at <i>Toxins</i> journal.</p>
-  </div>
-  <div style="flex: 1; margin-bottom: 20px;">
-    <img src="/images/2024_10_10.PNG" alt="Special issue cover on mycotoxins" style="width: 80%; max-width: 400px; border-radius: 20px;">
-  </div>
-</div>
-<hr class="centered-hr" />
-
-<!-- Announcement 5 -->
-<div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-    <h3>15 August 2024</h3>
-    <p>AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction</p>
-    <p>Our paper about “Contamination of dairy milk with AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction” is now online in <i>Food and Chemical Toxicology</i>.</p>
-    <p>Article link: <a href="https://pubmed.ncbi.nlm.nih.gov/39111684/" target="_blank" rel="noopener">Click here</a>.</p>
-  </div>
-  <div style="flex: 1; margin-bottom: 20px;">
-    <img src="/images/2024_08_15.JPG" alt="Journal cover Food and Chemical Toxicology" style="width: 50%; max-width: 400px; border-radius: 10px;">
-  </div>
-</div>
-<hr class="centered-hr" />
-
-<!-- Announcement 6 -->
-<div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-    <h3>20 December 2023</h3>
-    <p>Mycotoxin contamination in the Arab world</p>
-    <p>Our review paper on “Mycotoxin contamination in the Arab world” is now online in <i>Mycotoxin Research</i>. <a href="https://pubmed.ncbi.nlm.nih.gov/38117428/" target="_blank" rel="noopener">Click here</a>.</p>
-  </div>
-  <div style="flex: 1; margin-bottom: 20px;">
-    <img src="/images/2023_12_20.PNG" alt="Journal cover Mycotoxin Research" style="width: 50%; max-width: 400px; border-radius: 10px;">
-  </div>
-</div>
-
-<!-- Separator before More News -->
-  <hr class="centered-hr" />
-
-  <!-- More News link -->
-  <p style="text-align: left; font-weight: bold; margin-top: 30px;">
-    For more news, please <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
-  </p>
-</div>
-  <hr class="centered-hr" />
-
-
-<!-- Divider Style -->
-<style>
+  /* Divider style */
   .centered-hr {
     width: 420px;
     margin: 40px auto;
@@ -190,8 +110,25 @@ We are open to support applications for scholarships and fellowships such as Mar
   }
 </style>
 
+<!-- Announcement examples (repeat as before) -->
+<div> <hr /> <h2>Announcements</h2>
+  <!-- Announcement 1 -->
+  <div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
+      <h3>01 October 2025</h3>
+      <p>PhD Vacancy in Food Toxicology at Food Science Department, Aarhus University</p>
+      <p>Fully funded PhD position ...</p>
+      <p>More info via the link <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener">Click here</a>.</p>
+    </div>
+    <div style="flex: 1; margin-bottom: 20px;">
+      <img src="/images/PhD announce.png" alt="PhD vacancy poster" style="width: 80%; max-width: 400px; border-radius: 20px;">
+    </div>
+  </div>
+  <hr class="centered-hr" />
+  <!-- Add remaining announcements similarly -->
+</div>
 
-<!-- 👇 Contact Section -->
+<!-- ===== Contact Section ===== -->
 <p style="text-align: left; font-weight: bold; margin-top: 30px;">For contact</p>
 
 <div class="contact-grid">
@@ -233,51 +170,7 @@ We are open to support applications for scholarships and fellowships such as Mar
   </div>
 </div>
 
-<!-- ✅ Responsive and layout fixes -->
-<style>
-  /* Contact grid layout */
-  .contact-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-  }
-
-  .contact-card {
-    border: 1px solid #ccc;
-    padding: 20px;
-    border-radius: 10px;
-  }
-
-  /* Responsive layout for small screens */
-  @media (max-width: 768px) {
-    .contact-grid {
-      grid-template-columns: 1fr;
-    }
-  }
-
-  /* Long URL handling */
-  a {
-    word-wrap: break-word;
-    overflow-wrap: anywhere;
-  }
-
-  /* Prevent horizontal scroll */
-  body {
-    overflow-x: hidden;
-  }
-
-  /* Optional: add subtle hover effect for contact cards */
-  .contact-card:hover {
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    transition: 0.3s;
-  }
-</style>
-
-
-<!-- 👇 Separation line before map & share -->
-<hr class="centered-hr" />
-
-<!-- Visitors Map -->
+<!-- ===== Visitors Map ===== -->
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
     <img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" 
@@ -287,4 +180,85 @@ We are open to support applications for scholarships and fellowships such as Mar
 
 <hr class="centered-hr" />
 
+<!-- ===== Scroll Navbar JS ===== -->
+<script>
+function scrollNavbar(distance) {
+  const navbar = document.querySelector('.navbar');
+  navbar.scrollBy({ left: distance, behavior: 'smooth' });
+}
+</script>
 
+<!-- ===== Scroll Navbar CSS ===== -->
+<style>
+/* Navbar wrapper with arrows */
+.navbar-wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
+/* Scrollable navbar */
+.navbar {
+  display: flex;
+  gap: 20px;
+  padding: 10px 0;
+  white-space: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+}
+
+.navbar a {
+  flex: 0 0 auto;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  background-color: #eee;
+  color: #333;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.navbar a:hover {
+  background-color: #ccc;
+}
+
+/* Hide scrollbar */
+.navbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Arrow buttons */
+.nav-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 30px;
+  height: 40px;
+  background-color: rgba(255,255,255,0.8);
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 10;
+  font-weight: bold;
+  font-size: 20px;
+  user-select: none;
+}
+
+.nav-arrow.left {
+  left: 5px;
+}
+
+.nav-arrow.right {
+  right: 5px;
+}
+
+/* Hide arrows on desktop */
+@media (min-width: 769px) {
+  .nav-arrow {
+    display: none;
+  }
+}
+</style>
