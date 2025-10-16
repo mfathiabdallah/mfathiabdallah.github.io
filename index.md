@@ -315,35 +315,13 @@ We are open to support applications for scholarships and fellowships such as Mar
 <!-- 👇 Separation line before map & share -->
 <hr class="centered-hr" />
 
-<!-- Map + Share buttons in one line -->
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin: 20px 0;">
-  
-  <!-- Visitors Map (left) -->
-  <div>
-    <a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
-      <img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" 
-           alt="Visitor tracker map" style="max-width: 300px; height: auto; border-radius: 8px;">
-    </a>
-  </div>
-
-  <!-- Share buttons (right) -->
-  <div class="a2a_kit a2a_kit_size_32 a2a_default_style" style="margin-left: auto;">
-    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-    <a class="a2a_button_facebook"></a>
-    <a class="a2a_button_linkedin"></a>
-    <a class="a2a_button_x"></a>
-    <a class="a2a_button_microsoft_teams"></a>
-    <a class="a2a_button_whatsapp"></a>
-    <a class="a2a_button_pinterest"></a>
-    <a class="a2a_button_email"></a>
-  </div>
+<!-- Hidden Visitor Icon (centered) -->
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <!-- This is a placeholder icon, replace with your preferred icon if needed -->
+  <img src="https://cdn-icons-png.flaticon.com/512/565/565547.png" 
+       alt="Visitor icon" 
+       style="width: 50px; height: 50px; opacity: 0.5;">
 </div>
 
-<!-- AddToAny script -->
-<script>
-  var a2a_config = a2a_config || {};
-  a2a_config.num_services = 12;
-</script>
-<script async src="https://static.addtoany.com/menu/page.js"></script>
+<hr class="centered-hr" />
 
-  <hr class="centered-hr" />
