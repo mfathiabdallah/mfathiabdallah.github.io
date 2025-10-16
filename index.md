@@ -76,139 +76,7 @@ We are open to support applications for scholarships and fellowships such as Mar
 </div>
 
 <!-- Announcements Section -->
-<div>
-  <hr />
-  <h2>Announcements</h2>
-
-  <!-- Announcement 1 -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 0;">01 October 2025</h3>
-      <p style="margin-top: 0;">PhD Vacancy in Food Toxicology at Food Science Department, Aarhus University</p>
-      <p>
-        Fully funded PhD position (salary, tuition fees, others) for 3 years at Department of Food Science, AU FOOD, Aarhus University. 
-        Main focus will be developing mass spec-based methods for screening and quantification of natural toxins in Novel Food.
-      </p>
-      <p>
-        More info via the link  
-        <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" 
-           target="_blank" rel="noopener">
-          https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food
-        </a>.
-      </p>
-    </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/PhD announce.png" alt="PhD vacancy poster" 
-           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
-    </div>
-  </div>
-
-  <hr class="centered-hr" />
-
-<!-- Announcement 2 -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 0;">30 September 2025</h3>
-      <p style="margin-top: 0;">Receiving RECRUIT Grant for International Recruitment 2025 from Novo Nordisk Foundation</p>
-      <p>
-        I am pleased to share that I have been awarded a 5-year Grant from Novo Nordisk Foundation to establish a research group focusing on Food_Toxicology, with the aim of advancing detection, assessment, and risk evaluation of natural toxins in novel foods.
-      </p>
-    </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/NNF_grant.jpg" alt="NFF grant post" 
-           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
-    </div>
-  </div>
-
-  <hr class="centered-hr" />
-  
-  <!-- Announcement 3 -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 0;">01 March 2025</h3>
-      <p style="margin-top: 0;">Joining Food Science Department, Aarhus University as an Assistant Professor (tenure track) in Food Toxicology</p>
-      <p>
-        I’m thrilled to share that I will be joining the Department of Food Science at Aarhus University, Denmark, 
-        as a Tenure Track Assistant Professor in Food Toxicology, starting April 1st, 2025. 
-        Looking forward to this exciting journey and the opportunities ahead at Aarhus University!
-      </p>
-    </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/AarhusUni.jpg" alt="Aarhus University building" 
-           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
-    </div>
-  </div>
-
-  <hr class="centered-hr" />
-
-  <!-- Announcement 4 -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 0;">10 October 2024</h3>
-      <p style="margin-top: 0;">Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control</p>
-      <p>
-        Our editorial on the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control” 
-        is now online at <i>Toxins</i> journal.
-      </p>
-    </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2024_10_10.PNG" alt="Special issue cover on mycotoxins" 
-           style="width: 80%; max-width: 400px; display: block; margin: 0 auto; border-radius: 20px;">
-    </div>
-  </div>
-
-  <hr class="centered-hr" />
-
-  <!-- Announcement 5 -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 0;">15 August 2024</h3>
-      <p style="margin-top: 0;">AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction</p>
-      <p>
-        Our paper about “Contamination of dairy milk with AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction” 
-        is now online in <i>Food and Chemical Toxicology</i>.
-      </p>
-      <p>
-        The article can be found through this link:
-        <a href="https://pubmed.ncbi.nlm.nih.gov/39111684/" 
-           target="_blank" rel="noopener">
-          https://pubmed.ncbi.nlm.nih.gov/39111684/
-        </a>.
-      </p>
-    </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2024_08_15.JPG" alt="Journal cover Food and Chemical Toxicology" 
-           style="width: 50%; max-width: 400px; display: block; margin: 0 auto; border-radius: 10px;">
-    </div>
-  </div>
-
-  <hr class="centered-hr" />
-
-  <!-- Announcement 6 -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-      <h3 style="margin-bottom: 0;">20 December 2023</h3>
-      <p style="margin-top: 0;">Mycotoxin contamination in the Arab world</p>
-      <p>
-        Our review paper on “Mycotoxin contamination in the Arab world” 
-        is now online in <i>Mycotoxin Research</i>.
-      </p>
-      <p>
-        The article can be found through this link:
-        <a href="https://pubmed.ncbi.nlm.nih.gov/38117428/" 
-           target="_blank" rel="noopener">
-          https://pubmed.ncbi.nlm.nih.gov/38117428/
-        </a>.
-      </p>
-    </div>
-    <div style="flex: 1; margin-bottom: 20px;">
-      <img src="/images/2023_12_20.PNG" alt="Journal cover Mycotoxin Research" 
-           style="width: 50%; max-width: 400px; display: block; margin: 0 auto; border-radius: 10px;">
-    </div>
-  </div>
-
-
-  <!-- ✅ Announcement CSS for mobile stacking -->
+<!-- ✅ Announcement CSS for mobile stacking -->
 <style>
   /* Announcement container for mobile stacking */
   @media (max-width: 768px) {
@@ -309,10 +177,8 @@ We are open to support applications for scholarships and fellowships such as Mar
     <img src="/images/2023_12_20.PNG" alt="Journal cover Mycotoxin Research" style="width: 50%; max-width: 400px; border-radius: 10px;">
   </div>
 </div>
-<hr class="centered-hr" />
 
-
-   <!-- Separator before More News -->
+<!-- Separator before More News -->
   <hr class="centered-hr" />
 
   <!-- More News link -->
