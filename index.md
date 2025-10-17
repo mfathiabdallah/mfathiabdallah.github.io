@@ -93,6 +93,20 @@ We are open to support applications for scholarships and fellowships such as Mar
   
 <div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
+    <h3>17 October 2025</h3>
+    <p>New publication</p>
+    <p>Challenges in mycotoxin monitoring in recently independent countries: The case of Kosovo☆ is now online at Journal of Food Composition and Analysis.</p>
+    <p>Access to the article via this link <a href="https://www.sciencedirect.com/science/article/pii/S0889157525012815" target="_blank" rel="noopener">Click here</a>.</p>
+  </div>
+  <div style="flex: 1; margin-bottom: 20px;">
+    <img src="/images/mycotoxin_kosovo.png" alt="PhD vacancy poster" style="width: 80%; max-width: 400px; border-radius: 20px;">
+  </div>
+</div>
+<hr class="centered-hr" />
+
+<!-- Announcement 2 --> 
+<div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
     <h3>01 October 2025</h3>
     <p>PhD Vacancy in Food Toxicology at Food Science Department, Aarhus University</p>
     <p>Fully funded PhD position (salary, tuition fees, others) for 3 years at Department of Food Science, AU FOOD, Aarhus University. Main focus will be developing mass spec-based methods for screening and quantification of natural toxins in Novel Food.</p>
@@ -104,7 +118,7 @@ We are open to support applications for scholarships and fellowships such as Mar
 </div>
 <hr class="centered-hr" />
 
-<!-- Announcement 2 -->
+<!-- Announcement 3 -->
 <div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
     <h3>30 September 2025</h3>
@@ -117,7 +131,7 @@ We are open to support applications for scholarships and fellowships such as Mar
 </div>
 <hr class="centered-hr" />
 
-<!-- Announcement 3 -->
+<!-- Announcement 4 -->
 <div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
     <h3>01 March 2025</h3>
