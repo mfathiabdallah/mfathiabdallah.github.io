@@ -92,7 +92,7 @@ We are open to support applications for scholarships and fellowships such as Mar
 <div> <hr /> <h2>Announcements</h2>
   
 <div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 20px; margin-bottom: 20px;">
+  <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
     <h3>17 October 2025</h3>
     <p>New publication</p>
     <p>Challenges in mycotoxin monitoring in recently independent countries: The case of Kosovo☆ is now online at Journal of Food Composition and Analysis.</p>
