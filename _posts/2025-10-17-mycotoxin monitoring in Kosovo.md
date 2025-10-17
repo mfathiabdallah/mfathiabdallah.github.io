@@ -33,7 +33,7 @@ canonical: https://www.mfathiabdallah.com/Mycotoxins in Kosovo/
 ## Publication
 
 <!-- Your content goes here -->
-Our paper about **" Challenges in mycotoxin monitoring in recently independent countries: The case of Kosovo"** is now online at World Mycotoxin Journal website.
+Our paper about **" Challenges in mycotoxin monitoring in recently independent countries: The case of Kosovo"** is now online at Journal of Food Composition and Analysis.
  
 In this work, a summary on mycotoxins in Kosovo and the current challenges on mycotoxin research is preseneted.
 
