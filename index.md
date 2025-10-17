@@ -128,7 +128,6 @@ We are open to support applications for scholarships and fellowships such as Mar
     <img src="/images/AarhusUni.jpg" alt="Aarhus University building" style="width: 80%; max-width: 400px; border-radius: 20px;">
   </div>
 </div>
-<hr class="centered-hr" />
 
 <!-- Separator before More News -->
   <hr class="centered-hr" />
@@ -139,7 +138,6 @@ We are open to support applications for scholarships and fellowships such as Mar
   </p>
 </div>
   <hr class="centered-hr" />
-
 
 <!-- Divider Style -->
 <style>
