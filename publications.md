@@ -47,9 +47,9 @@ title: ""
   <tbody>
     <tr>
       <td>Research Articles</td>
-      <td>33</td>
+      <td>32</td>
       <td>Editorials</td>
-       <td>4</td>
+       <td>3</td>
     </tr>
     <tr>
       <td>Reviews</td>
@@ -303,14 +303,11 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 
 <h1 class="collapsible-title">&#10148; Editorials </h1>
 
-4) **MF Abdallah***, S Yang and E Varag (2024).
+3) **MF Abdallah***, S Yang and E Varag (2024).
 <br>The Editorial on the Special Issue “Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control” . Toxins, 16(10), 435. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/16/10/435){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-16-00435.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
-3) **MF Abdallah***, W Xu and A Abdeen (2022).
+2) **MF Abdallah***, W Xu and A Abdeen (2022).
 <br>Editorial: Environmental contaminants and animal health: Analysis, toxicity, and mitigation. Front. Vet. Sci. 9:1102836. <span style="color:green">(Open Access)</span> [[Link]](https://www.frontiersin.org/articles/10.3389/fvets.2022.1102836/full){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/fvets-09-1102836.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
-2) M Gado, D Abdelsadek, F Zahran, NN El-Salhey, O Mehrez, S Abdel-Hay, S Mohamed, **MF Abdallah*** (2022).
-<br>Mycotoxin occurrence in Egyptian foods: Highlights on the findings of the past decade. Egypt Scholars Journal, 1 (1), 1-3. <span style="color:green">(Open Access)</span> [[Link]](https://journal.egyptscholars.org/index.php/Esj/article/view/6){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Editorial_2022(1).pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 1) **MF Abdallah***, M De Boevre, K Audenaert, G Haesaert, S De Saeger (2018).
 <br>Highlight report: Mycotoxins as food contaminants in Africa—challenges and perspectives. Archives of Toxicology, 92 (6), 2151-2152. <span style="color:green">(Open Access)</span> [[Link]](https://link.springer.com/article/10.1007/s00204-018-2203-2){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Abdallah_et_al_2018_highlight_report.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
