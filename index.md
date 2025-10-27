@@ -18,20 +18,20 @@ sitemap:
 - Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science
 and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.
 - Board Member of the European Society of Toxicology In Vitro (ESTIV).
-- Expert Group Member of ILSI Europe - Natural Toxins, Belgium.
+- Expert Group Member (Natural Toxins), ILSI Europe, Belgium.
 - Member of Society of Toxicology (SOT) & Post-doctoral Representative of the SOT’s Food Safety Specialty (FS3), USA.
 
 <!-- Education, Training & Working experience -->
 <div>
   <h4>Previous Education, Training & Working experience</h4>
   <ul>
-    <li>Former F.R.S-FNRS Postdoctoral Fellow (03/2024). Host institute University of Mons, Belgium.</li>
-    <li>Former Postdoctoral Fellow (09/2023), Ghent University-Special Research Fund (BOF), Ghent University, Belgium.</li>
-    <li>Former Researcher (09/2020), Teagasc Food Research Centre, Dublin, Ireland.</li>
+    <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024). Host institute University of Mons, Belgium.</li>
+    <li>Former Postdoctoral Fellow (until 09/2023), Ghent University-Special Research Fund (BOF), Ghent University, Belgium.</li>
+    <li>Former Researcher (until 09/2020), Teagasc Food Research Centre, Dublin, Ireland.</li>
     <li>PhD in Pharmaceutical Sciences (05/2020), Ghent University, Belgium.</li>
     <li>Master's Degree (04/2016) in Pharmaceutical Toxicology, Hacettepe University, Türkiye.</li>
-    <li>Erasmus+ Exchange Master Student (03/2016), University of Natural Resources and Life Sciences, Vienna (BOKU), Austria.</li>
-    <li>Erasmus+ Intern Researcher (12/2014), <i>IfADo</i> Institute, Dortmund, Germany.</li>
+    <li>Erasmus+ Exchange Master Student (until 03/2016), University of Natural Resources and Life Sciences, Vienna (BOKU), Austria.</li>
+    <li>Erasmus+ Intern Researcher (until 12/2014), <i>IfADo</i> Institute, Dortmund, Germany.</li>
     <li>Bachelor's Degree (07/2011) in Veterinary Medical Sciences, Assiut University, Egypt.</li>
   </ul>
 </div>
@@ -49,7 +49,7 @@ We are open to support applications for scholarships and fellowships such as Mar
 
 <h4>Areas of interest</h4>
      <li> Detection of Natural Food Contaminantes (postgradute students, PhDs, Postdoc).</li>
-     <li> Application of Large Langauge Models in Food Contaminantes (only Postrdoc or research assistants with solid expereince in AI).</li>
+     <li> Application of Large Langauge Models in Food Contaminantes (only Postrdoc or research assistants with a solid expereince in AI or Machine Learning).</li>
      <li> Mixture toxicology with a focus on Food Contaminantes using NAMs (postgradute students, PhDs, Postdoc).</li> 
     
 <!-- News and Announcement -->
