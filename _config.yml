@@ -24,7 +24,7 @@ minimal: true            # use a dark header
 # Menu
 
 navigation:        # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Lab and Research", file: "Lab and Research.md"}
+  - {title: "Lab and Research", file: "Lab_and_Research.md"}
   - {title: "Funds and awards", file: "Funds_and_grants.md"}
   - {title: "Publications", file: "publications.md"}
   - {title: "News", file: "news.md"}
