@@ -58,14 +58,16 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
     <table class="modern-table full-width">
       <thead>
         <tr>
+          <th style="width: 10%;">Status</th>
           <th style="width: 30%;">Project</th>
           <th style="width: 30%;">Funding Agency</th>
-          <th style="width: 20%;">Period</th>
-          <th style="width: 20%;">Role</th>
+          <th style="width: 15%;">Period</th>
+          <th style="width: 15%;">Role</th>
         </tr>
       </thead>
       <tbody>
         <tr>
+          <td><strong>Running</strong></td>
           <td><strong>ToxiFOOD</strong></td>
           <td><img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation"></td>
           <td>2026 – 2031</td>
@@ -99,17 +101,19 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
       <thead>
         <tr>
           <th style="width: 25%;">Name</th>
-          <th style="width: 20%;">Position</th>
-          <th style="width: 35%;">Research Focus</th>
-          <th style="width: 20%;">Contact</th>
+          <th style="width: 15%;">Position</th>
+          <th style="width: 30%;">Research Focus</th>
+          <th style="width: 15%;">Contact</th>
+          <th style="width: 15%;">Link</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
           <td>Principal Investigator</td>
-          <td>Food toxicology, natural toxins, LC-MS/MS, in vitro toxicology</td>
+          <td> Natural toxins, LC-MS/MS, In vitro toxicology</td>
           <td>mfa@food.au.dk</td>
+         <td>Visit my <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">page</td>
         </tr>
       </tbody>
     </table>
