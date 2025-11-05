@@ -2,14 +2,21 @@
 layout: page
 title: "Lab and Research"
 ---
+About AU FOOD TOX
+
+At AU FOOD, our research is centered on understanding the risks associated with natural toxins (mycotoxins and cyanotoxins) and other emerging contaminants in novel food. This is done by applying LC-MS/MS methods for detection. Also, through the use of in vitro models, we investigate the effects of these toxins as mixtures on human health. This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges. 
+
+<!-- Centered logos -->
+<p class="funding-logos" align="center">
+  <img src="/images/aufoodtox.png" alt="AU FOOD TOX" width="800">
+</p>
 
 ## 🧪 Research Lines
 
 ### Natural Toxins in Food
 Detection and occurrence of mycotoxins and cyanotoxins in food products using LC-MS/MS and targeted/non-targeted analysis.  
 **Related publications:**  
-- WR Van Hassel, **MF Abdallah**, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024).  
-<br>Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (*Ocimum basilicum L.*). *Environmental Pollution*, 123715. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub){:target="_blank" rel="noopener"}.
+- WR Van Hassel, **MF Abdallah**, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024). Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (*Ocimum basilicum L.*). *Environmental Pollution*, 123715. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub){:target="_blank" rel="noopener"}.
 
 ---
 
