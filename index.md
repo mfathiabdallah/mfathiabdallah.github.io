@@ -65,7 +65,7 @@ sitemap:
 <div style="margin-top:25px; padding:25px; border-radius:12px; background-color:transparent; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
   <h3 style="color:#004aad; margin-top:0;">🔬 Research Interests</h3>
   <ul style="list-style-type:disc; padding-left:20px; line-height:1.6;">
-<p>My research focuses on <strong>natural toxins</strong> (mycotoxins & cyanotoxins) and other emerging contaminants in novel food. I combine <strong>LC-MS/MS detection</strong> with <em>in vitro mixture toxicology models</em> to study human health impact.</p>
+<p>My research focuses on natural toxins (mycotoxins & cyanotoxins) and other emerging contaminants in novel food. I combine LC-MS/MS detection with <em>in vitro</em> mixture toxicology models to study human health impact.</p>
   <li>Detection of natural food contaminants (postgraduate students, PhDs, Postdocs)</li>
   <li>Application of Large Language Models in food contaminants (Postdoc / research assistants)</li>
   <li>Mixture toxicology with a focus on food contaminants using NAMs (postgraduate students, PhDs, Postdocs)</li>
