@@ -8,10 +8,10 @@ title: "Lab and Research"
 At AU FOOD Department, our research is centered on understanding the risks associated with natural toxins (mycotoxins and cyanotoxins) and other emerging contaminants in novel food. This is done by applying LC-MS/MS methods for detection. Also, through the use of in vitro models, we investigate the effects of these toxins as mixtures on human health. This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges. 
 
 <!-- Research Overview Banner -->
-<p class="research-overview" align="center">
+<figure class="research-overview">
   <img src="/images/aufoodtox.png" alt="AU FOOD TOX" width="1000">
-  <br><em>A schematic overview of AU FOOD TOX group's research focus.</em>
-</p>
+  <figcaption><em>A schematic overview of AU FOOD TOX group's research focus.</em></figcaption>
+</figure>
 
 ---
 
@@ -93,12 +93,22 @@ Global Page Styles
 /* ========================
 Research Banner
 ======================== */
+.research-overview {
+  text-align: center;
+  margin: 20px 0;
+}
+
 .research-overview img {
   max-width: 100%;
   height: auto;
-  margin: 20px 0;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.research-overview figcaption {
+  margin-top: 8px;
+  font-style: italic;
+  color: #555;
 }
 
 /* ========================
