@@ -50,11 +50,11 @@ We are grateful to these foundations and programs for supporting our mission to 
 
 ---
 
+---
+
 ### 🧾 Current Projects
 
-<div class="full-width-section">
-
-<table>
+<table class="full-width-table">
   <thead>
     <tr>
       <th>Project</th>
@@ -67,18 +67,14 @@ We are grateful to these foundations and programs for supporting our mission to 
     <tr>
       <td><strong>ToxiFOOD</strong></td>
       <td>
-        <figure style="text-align:center; margin:0;">
-          <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="150">
-          <figcaption>Novo Nordisk Foundation</figcaption>
-        </figure>
+        <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="120">
+        <div>Novo Nordisk Foundation</div>
       </td>
       <td>2026 – 2031</td>
       <td>PI</td>
     </tr>
   </tbody>
 </table>
-
-</div>
 
 ---
 
@@ -91,9 +87,7 @@ If you are a motivated researcher interested in food toxicology, mixture risk as
 
 ### 👩‍🔬 Lab Members
 
-<div class="full-width-section">
-
-<table>
+<table class="full-width-table">
   <thead>
     <tr>
       <th>Name</th>
@@ -112,44 +106,35 @@ If you are a motivated researcher interested in food toxicology, mixture risk as
   </tbody>
 </table>
 
-</div>
-
 <style>
-/* Full-width tables styling */
-.full-width-section {
-  max-width: 100% !important;
-  padding: 0 20px;
+/* ========================
+Full-width table styling
+======================== */
+.full-width-table {
+  width: 100%;
+  border-collapse: collapse;
   margin: 1.5em 0;
 }
 
-.full-width-section table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 0 auto;
-}
-
-.full-width-section th, 
-.full-width-section td {
-  border-bottom: 1px solid #ddd;
-  padding: 12px 8px;
+.full-width-table th, 
+.full-width-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
   text-align: center;
   vertical-align: middle;
 }
 
-.full-width-section th {
+.full-width-table th {
   background-color: #f8f8f8;
 }
 
-.full-width-section table img {
+.full-width-table img {
   display: block;
-  margin: 0 auto;
-}
-
-.full-width-section figure figcaption {
-  font-size: 0.9em;
-  color: #555;
-  margin-top: 4px;
+  margin: 0 auto 6px;
+  max-width: 120px;
 }
 </style>
+
+---
 
 </style>
