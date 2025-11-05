@@ -36,23 +36,24 @@ title: ""
 
 <!-- ========================= -->
 <!-- Master Thesis / Internship Opportunities -->
-<div style="background-color:#f4f8ff; border-radius:10px; padding:20px; margin:25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-  <h4 style="color:#004aad; margin-top:0; font-size:1.4em; padding:10px 15px; background: linear-gradient(90deg, #e0f0ff 0%, #c8e0ff 100%); border-radius:8px;">🎓 Master Thesis / Internship Opportunities</h4>
-
-  <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
+<div style="border:2px solid #004aad; border-radius:10px; padding:20px; margin:25px 0; background-color:#f4f8ff; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+  <h4 style="color:#004aad; margin-top:0; font-size:1.4em;">🎓 Master Thesis / Internship Opportunities</h4>
+  <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects.</p>
   
   <ul style="list-style-type:none; padding-left:0;">
-    <li style="margin-bottom:20px;">
-      <strong>Project:</strong> Optimization of a 3D in vitro model to study the hepatocytotoxicity of different food contaminants (Mixture Toxicology)<br>
+    <li style="margin-bottom:18px;">
+      <strong>Mixture Toxicology:</strong><br>
+      <span style="display:block; margin:5px 0; font-weight:500;">Optimization of a 3D in vitro model to study hepatocytotoxicity of different food contaminants</span>
       <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants" target="_blank" rel="noopener" 
-         style="display:inline-block; background-color:#1DA1F2; color:white; padding:8px 12px; border-radius:6px; text-decoration:none; font-weight:bold; transition: background 0.3s;">
+         style="display:inline-block; background-color:#1DA1F2; color:white; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: background 0.3s;">
          View Project
       </a>
     </li>
-    <li style="margin-bottom:20px;">
-      <strong>Project:</strong> Developing a database of microbial food toxins in the EU: case study on mycotoxins (Food AI)<br>
+    <li style="margin-bottom:18px;">
+      <strong>Food AI & Database:</strong><br>
+      <span style="display:block; margin:5px 0; font-weight:500;">Developing a database of microbial food toxins in the EU (case study on mycotoxins)</span>
       <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins" target="_blank" rel="noopener" 
-         style="display:inline-block; background-color:#1DA1F2; color:white; padding:8px 12px; border-radius:6px; text-decoration:none; font-weight:bold; transition: background 0.3s;">
+         style="display:inline-block; background-color:#1DA1F2; color:white; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: background 0.3s;">
          View Project
       </a>
     </li>
