@@ -7,11 +7,13 @@ title: "Lab and Research"
 
 At AU FOOD Department, our research is centered on understanding the risks associated with natural toxins (mycotoxins and cyanotoxins) and other emerging contaminants in novel food. This is done by applying LC-MS/MS methods for detection. Also, through the use of in vitro models, we investigate the effects of these toxins as mixtures on human health. This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges. 
 
-<!-- Centered logos -->
-<p class="Research overview" align="center">
+<!-- Research Overview Banner -->
+<p class="research-overview" align="center">
   <img src="/images/aufoodtox.png" alt="AU FOOD TOX" width="1000">
-   <br><em>A schematic overview of AU FOOD TOX group's research focus.</em>
+  <br><em>A schematic overview of AU FOOD TOX group's research focus.</em>
 </p>
+
+---
 
 ## 🧪 Research Lines
 
@@ -38,51 +40,41 @@ Applying AI and large language models for risk prediction, data integration, and
 
 ## 💰 Funding and Support
 
-<!-- 
-==========================================================
-💡 SECTION PURPOSE:
-Showcase lab funding sources (projects + agencies).
-Include logos above and a clean table listing details.
-Place funder logos inside /images/
-==========================================================
--->
-
 Our research activities are supported by competitive national and international funding sources.  
 We are grateful to these foundations and programs for supporting our mission to advance food toxicology and safety research.
 
-<!-- Centered logos -->
+<!-- Centered Logos -->
 <p class="funding-logos" align="center">
   <img src="/images/novonordiskfoundation.jpg" alt="Novo Nordisk Foundation" width="400">
 </p>
 
 ---
 
-<!-- Full-width Current Projects Table -->
+### 🧾 Current Projects (Full Width)
+
 <div class="full-width-section">
-### 🧾 Current Projects
 
 | Project | Funding Agency | Period | Role |
-|----------|----------------|---------|------|
-| **ToxiFOOD** | <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="200"> | 2026 – 2031 | PI |
+|---------|----------------|--------|------|
+| **ToxiFOOD** | <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="150"><br> Novo Nordisk Foundation | 2026 – 2031 | PI |
 
 </div>
 
 ---
 
-
 ### 🎯 Open Opportunities
+
 We are open to collaborate on and support new applications for **Marie Skłodowska-Curie**, **Novo Nordisk Foundation**, **DFF**, **Villum Foundation**, and other national or international fellowships.  
 If you are a motivated researcher interested in food toxicology, mixture risk assessment, or AI-based safety evaluation — **reach out to discuss collaboration opportunities**.
 
 ---
 
-<!-- Full-width Lab Members Table -->
+### 👩‍🔬 Lab Members (Full Width)
+
 <div class="full-width-section">
-  
-## 👩‍🔬 Lab Members
 
 | Name | Position | Research Focus | Contact |
-|------|-----------|----------------|----------|
+|------|-----------|----------------|---------|
 | **Dr. Mohamed Fathi Abdallah** | Principal Investigator | Food toxicology, natural toxins, LC-MS/MS | mfa@food.au.dk |
 
 </div>
@@ -93,10 +85,20 @@ If you are a motivated researcher interested in food toxicology, mixture risk as
 /* ========================
 Global Page Styles
 ======================== */
-
 .page {
   line-height: 1.7;
   font-size: 1.05em;
+}
+
+/* ========================
+Research Banner
+======================== */
+.research-overview img {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
 /* ========================
