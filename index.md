@@ -82,20 +82,27 @@ sitemap:
 <!-- ========================= -->
 <!-- Master Thesis / Internship at AU FOOD 2025/2026-->
 <div style="margin-top:25px; padding:25px; border-radius:12px; background-color:transparent; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
-  <h3 style="color:#004aad; margin-top:0;">🎓 Master Thesis & Internship Opportunities</h3>
+  <h3 style="color:#004aad; margin-top:0;">🎓 Master Thesis & Internship Opportunities at AU FOOD 2025/2026</h3>
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
 
   <ul style="list-style:none; padding-left:0;">
-    <li style="margin-bottom:15px;">
+    <li style="margin-bottom:20px;">
       <strong>Mixture Toxicology:</strong><br>
+      <span style="display:block; margin:6px 0 8px 0; font-style:italic; color:#555;">
+        Optimization of a 3D in vitro model to study hepatocytotoxicity of different food contaminants
+      </span>
       <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants" 
          target="_blank" rel="noopener" 
          style="display:inline-block; padding:10px 16px; border-radius:8px; border:2px solid #004aad; color:#004aad; font-weight:bold; text-decoration:none; transition:0.3s;">
          View Project
       </a>
     </li>
-    <li style="margin-bottom:15px;">
+
+    <li style="margin-bottom:20px;">
       <strong>Food AI & Database:</strong><br>
+      <span style="display:block; margin:6px 0 8px 0; font-style:italic; color:#555;">
+        Developing a database of microbial food toxins in the EU (case study on mycotoxins)
+      </span>
       <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins" 
          target="_blank" rel="noopener" 
          style="display:inline-block; padding:10px 16px; border-radius:8px; border:2px solid #004aad; color:#004aad; font-weight:bold; text-decoration:none; transition:0.3s;">
@@ -107,6 +114,7 @@ sitemap:
   <p>Interns or Erasmus thesis students are welcome!<br>
      For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.</p>
 </div>
+
 
 <!-- ========================= -->
 <!-- Hover effect -->
