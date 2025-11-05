@@ -10,6 +10,7 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 <!-- Centered logos -->
 <p class="Research overview" align="center">
   <img src="/images/aufoodtox.png" alt="AU FOOD TOX" width="1000">
+   <br><em>A schematic overview of AU FOOD TOX group's research focus.</em>
 </p>
 
 ## 🧪 Research Lines
@@ -54,13 +55,20 @@ We are grateful to these foundations and programs for supporting our mission to 
   <img src="/images/novonordiskfoundation.jpg" alt="Novo Nordisk Foundation" width="400">
 </p>
 
+---
+
+<!-- Full-width Current Projects Table -->
+<div class="full-width-section">
 ### 🧾 Current Projects
 
 | Project | Funding Agency | Period | Role |
 |----------|----------------|---------|------|
-| **ToxiFOOD** | <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="100"> | 2026 – 2031 | PI |
+| **ToxiFOOD** | <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="200"> | 2026 – 2031 | PI |
+
+</div>
 
 ---
+
 
 ### 🎯 Open Opportunities
 We are open to collaborate on and support new applications for **Marie Skłodowska-Curie**, **Novo Nordisk Foundation**, **DFF**, **Villum Foundation**, and other national or international fellowships.  
@@ -68,27 +76,32 @@ If you are a motivated researcher interested in food toxicology, mixture risk as
 
 ---
 
+<!-- Full-width Lab Members Table -->
+<div class="full-width-section">
+  
 ## 👩‍🔬 Lab Members
 
 | Name | Position | Research Focus | Contact |
 |------|-----------|----------------|----------|
 | **Dr. Mohamed Fathi Abdallah** | Principal Investigator | Food toxicology, natural toxins, LC-MS/MS | mfa@food.au.dk |
 
+</div>
+
 ---
 
 <style>
-/* 
-==========================================================
-🎨 DESIGN NOTES:
-Unified styling for this page.
-==========================================================
-*/
+/* ========================
+Global Page Styles
+======================== */
 
 .page {
   line-height: 1.7;
   font-size: 1.05em;
 }
 
+/* ========================
+Funding Logos
+======================== */
 .funding-logos img {
   margin: 10px;
   border-radius: 6px;
@@ -101,6 +114,9 @@ Unified styling for this page.
   transform: scale(1.05);
 }
 
+/* ========================
+Tables
+======================== */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -120,5 +136,19 @@ table img {
 
 h2, h3 {
   margin-top: 1.6em;
+}
+
+/* ========================
+Full-Width Sections (Projects & Lab Members)
+======================== */
+.full-width-section {
+  max-width: 100% !important;
+  padding: 0 20px;
+  margin: 1.5em 0;
+}
+
+.full-width-section table {
+  width: 100%;
+  margin: 0 auto;
 }
 </style>
