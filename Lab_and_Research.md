@@ -15,7 +15,7 @@ title: ""
 
 <!-- ========================= -->
 <!-- PhD Hiring Card -->
-<div style="border-left: 8px solid #004aad; background-color: #f0f7ff; border-radius: 10px; padding: 25px 20px; margin: 35px 0; box-shadow: 0 3px 10px rgba(0,0,0,0.08);">
+<div style="border-left: 8px solid rgba(0, 74, 173, 0.2); /* 20% opacity of original blue */; background-color: #f0f7ff; border-radius: 10px; padding: 25px 20px; margin: 35px 0; box-shadow: 0 3px 10px rgba(0,0,0,0.08);">
   <h2 style="color:#004aad; margin-top:0; font-size:1.5em;">🚀 We’re Hiring a PhD Student!</h2>
   <p style="font-size:1.05em; line-height:1.6;">
     <strong>Topic:</strong> Quantification of natural toxins in novel food using advanced mass spectrometry.<br>
