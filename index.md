@@ -51,25 +51,10 @@ We are open to support applications for scholarships and fellowships such as Mar
      <li> Detection of Natural Food Contaminantes (postgradute students, PhDs, Postdoc).</li>
      <li> Application of Large Langauge Models in Food Contaminantes (only Postrdoc or research assistants with a solid expereince in AI or Machine Learning).</li>
      <li> Mixture toxicology with a focus on Food Contaminantes using NAMs (postgradute students, PhDs, Postdoc).</li> 
-    
-<!-- News and Announcement -->
-<div>
-   <hr />
-  <h2>News</h2>
-  <ul>
-    {% for post in site.posts limit:5 %}
-    <li><span style="font-weight: bold;">{{ post.date | date: "%Y-%m-%d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
 
 <!-- ========================= -->
 <!-- Profile Section -->
-<div style="display:flex; flex-wrap:wrap; gap:25px; background-color:#f8faff; padding:30px; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.08); align-items:center;">
-  
-  <!-- Profile Picture -->
-  <img src="mohamed_fathi_abdallah_2023(2).jpg" alt="Mohamed Fathi Abdallah"
-       style="width:170px; border-radius:12px; flex-shrink:0; object-fit:cover; border:2px solid #fff; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
+<div style="display:flex; flex-wrap:wrap; gap:25px; padding:30px; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.08); align-items:center;">
   
   <!-- Bio -->
   <div style="flex:1; min-width:250px;">
@@ -79,16 +64,20 @@ We are open to support applications for scholarships and fellowships such as Mar
     <p>My research focuses on <strong>natural toxins</strong> (mycotoxins & cyanotoxins) and other emerging contaminants in novel food. I combine <strong>LC-MS/MS detection</strong> with <em>in vitro mixture toxicology models</em> to study human health impact.</p>
     
     <div style="margin-top:12px;">
-      <span style="background-color:#e0f7ff; padding:6px 12px; border-radius:6px; font-weight:bold; color:#004aad;">Scholarships & Fellowships Support</span>
+      <span style="background-color:rgba(224, 247, 255,0.5); padding:6px 12px; border-radius:6px; font-weight:bold; color:#004aad;">Scholarships & Fellowships Support</span>
     </div>
 
     <p style="margin-top:12px; font-weight:bold; color:#007bff;">Contact: <a href="mailto:mfa@food.au.dk" style="color:#007bff; text-decoration:none;">mfa@food.au.dk</a></p>
   </div>
+
+  <!-- Profile Picture -->
+  <img src="mohamed_fathi_abdallah_2023(2).jpg" alt="Mohamed Fathi Abdallah"
+       style="width:170px; border-radius:12px; flex-shrink:0; object-fit:cover; border:2px solid #fff; box-shadow:0 2px 8px rgba(0,0,0,0.1); float:right;">
 </div>
 
 <!-- ========================= -->
 <!-- Education & Experience -->
-<div style="margin-top:30px; padding:25px; background-color:#f4f8ff; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+<div style="margin-top:30px; padding:25px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08); background-color:transparent;">
   <h3 style="color:#004aad; margin-top:0;">🎓 Education & Work Experience</h3>
   <ul style="list-style-type:disc; padding-left:20px;">
     <li>PhD in Pharmaceutical Sciences (05/2020), Ghent University, Belgium</li>
@@ -103,7 +92,7 @@ We are open to support applications for scholarships and fellowships such as Mar
 
 <!-- ========================= -->
 <!-- Positions & Affiliations -->
-<div style="margin-top:25px; padding:25px; background-color:#f8faff; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+<div style="margin-top:25px; padding:25px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08); background-color:transparent;">
   <h3 style="color:#004aad; margin-top:0;">🏛️ Positions & Affiliations</h3>
   <ul style="list-style-type:disc; padding-left:20px;">
     <li>Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing</li>
@@ -115,7 +104,7 @@ We are open to support applications for scholarships and fellowships such as Mar
 
 <!-- ========================= -->
 <!-- Research Interests -->
-<div style="margin-top:25px; padding:25px; background-color:#f4f8ff; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+<div style="margin-top:25px; padding:25px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08); background-color:transparent;">
   <h3 style="color:#004aad; margin-top:0;">🔬 Research Interests</h3>
   <ul style="list-style-type:disc; padding-left:20px;">
     <li>Detection of natural food contaminants (postgraduate students, PhDs, Postdocs)</li>
@@ -126,14 +115,14 @@ We are open to support applications for scholarships and fellowships such as Mar
 
 <!-- ========================= -->
 <!-- Scholarships & Fellowships -->
-<div style="margin-top:25px; padding:25px; background-color:#f0faff; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+<div style="margin-top:25px; padding:25px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08); background-color:transparent;">
   <h3 style="color:#004aad; margin-top:0;">🎓 Scholarships & Fellowships</h3>
   <p>We support applications for scholarships and fellowships such as <strong>Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation</strong>, and others.</p>
 </div>
 
 <!-- ========================= -->
 <!-- Master Thesis / Internship -->
-<div style="margin-top:25px; padding:25px; background-color:#f4f8ff; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+<div style="margin-top:25px; padding:25px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08); background-color:transparent;">
   <h3 style="color:#004aad; margin-top:0;">🎓 Master Thesis & Internship Opportunities</h3>
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
   
@@ -161,19 +150,26 @@ We are open to support applications for scholarships and fellowships such as Mar
 </div>
 
 <!-- ========================= -->
-<!-- Styles -->
+<!-- Hover effect -->
 <style>
-  /* Hover effects */
   a:hover {
     background-color:#004aad !important;
     color:white !important;
   }
-  
-  /* Optional: smooth scrolling anchor links */
-  html {
-    scroll-behavior: smooth;
-  }
 </style>
+
+
+
+<!-- News and Announcement -->
+<div>
+   <hr />
+  <h2>News</h2>
+  <ul>
+    {% for post in site.posts limit:5 %}
+    <li><span style="font-weight: bold;">{{ post.date | date: "%Y-%m-%d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
 
 <!-- Announcements Section -->
 
