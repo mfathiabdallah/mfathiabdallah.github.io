@@ -124,6 +124,7 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
           <td>Principal Investigator</td>
           <td>Food toxicology, natural toxins, LC-MS/MS</td>
           <td>mfa@food.au.dk</td>
+          <td>Visit my <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">page</a></td>
         </tr>
       </tbody>
     </table>
