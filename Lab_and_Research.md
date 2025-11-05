@@ -16,27 +16,65 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Research Lines</h1>
   <div class="collapsible-content">
+
     <h3>A) Natural Toxins in Food</h3>
     <p>Detection and occurrence of mycotoxins and cyanotoxins in food products using LC-MS/MS and targeted/non-targeted analysis.</p>
+
     <p><strong>Related publications:</strong></p>
     <ul>
-    <li>WR Van Hassel, <strong>MF Abdallah</strong>, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024). Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (<em>Ocimum basilicum L.</em>). <em>Environmental Pollution</em>, 123715. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub" target="_blank" rel="noopener">Link</a></li>
-    <li> C Van Camp, W Van Hassel, **MF Abdallah**, J Masquelier (2023).Simultaneous Detection and Quantification of Aflatoxin M1, Eight Microcystin Congeners and Nodularin in Dairy Milk by LC-MS/MS. Chemosensors, 2023, 11(10), 511. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2227-9040/11/10/511){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/chemosensors-11-00511.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-- Y Tian, **MF Abdallah**, M De Boevre, K Audenaert, C Wang, S De Saege, A Wu (2023). 
-<br>Deciphering Alternaria metabolic responses in microbial confrontation via an integrated mass spectrometric targeted and non-targeted strategy. Food Chemistry, 134694. [[Link]](https://www.sciencedirect.com/science/article/pii/S0308814622026565){:target="_blank" rel="noopener"}.
-- I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021). <br>Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. Toxins, 13 (8), 552. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/8/552){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00552.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-- L De Colli, K De Ruyck, **MF Abdallah**, J Finnan, E Mullins, S Kildea, J Spink, C Elliott, M Danaher (2021).
-<br>Natural co-occurrence of multiple mycotoxins in unprocessed oats grown in Ireland with various production systems. Toxins, 13 (3), 188. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/3/188){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00188-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-- **MF Abdallah***, K Audenaert, L Lust, S Landschoot, B Bekaert, G Haesaert, M De Boevre, S De Saeger (2020).
-<br>Risk characterization and quantification of mycotoxins and their producing fungi in sugarcane juice: A neglected problem in a widely-consumed traditional beverage. Food Control, 108, 106811. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0956713519304001){:target="_blank" rel="noopener"}.
-- **MF Abdallah**, G Girgin, T Baydar, R Krska, M Sulyok (2017).
-<br>Occurrence of multiple mycotoxins and other fungal metabolites in animal feed and maize samples from Egypt using LC‐MS/MS. Journal of the Science of Food and Agriculture, 97 (13), 4419-4428. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.8293){:target="_blank" rel="noopener"}.
-- **MF Abdallah**, R Krska, M Sulyok (2016).
-<br>Mycotoxin contamination in sugarcane grass and juice: first report on detection of multiple mycotoxins and exposure assessment for aflatoxins B1 and G1 in humans. Toxins, 8 (11), 343. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/8/11/343){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins_Abdallah_etal2016.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
+      <li>WR Van Hassel, <strong>MF Abdallah</strong>, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024). 
+      Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (<em>Ocimum basilicum L.</em>). 
+      <em>Environmental Pollution</em>, 123715. 
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub" target="_blank" rel="noopener">[Link]</a></li>
 
+      <li>C Van Camp, W Van Hassel, <strong>MF Abdallah</strong>, J Masquelier (2023). 
+      Simultaneous detection and quantification of aflatoxin M1, eight microcystin congeners and nodularin in dairy milk by LC-MS/MS. 
+      <em>Chemosensors</em>, 11(10), 511. 
+      <span style="color:green;">(Open Access)</span> 
+      <a href="https://www.mdpi.com/2227-9040/11/10/511" target="_blank" rel="noopener">[Link]</a> 
+      <a href="https://mfathiabdallah.github.io/pdfs/chemosensors-11-00511.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
+
+      <li>Y Tian, <strong>MF Abdallah</strong>, M De Boevre, K Audenaert, C Wang, S De Saeger, A Wu (2023). 
+      Deciphering <em>Alternaria</em> metabolic responses in microbial confrontation via an integrated mass spectrometric targeted and non-targeted strategy. 
+      <em>Food Chemistry</em>, 134694. 
+      <a href="https://www.sciencedirect.com/science/article/pii/S0308814622026565" target="_blank" rel="noopener">[Link]</a></li>
+
+      <li>I Vanhoutte, C De Tender, K Demeyere, <strong>MF Abdallah</strong>, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021). 
+      Bacterial enrichment cultures biotransform the mycotoxin deoxynivalenol into a novel metabolite toxic to plant and porcine cells. 
+      <em>Toxins</em>, 13(8), 552. 
+      <span style="color:green;">(Open Access)</span> 
+      <a href="https://www.mdpi.com/2072-6651/13/8/552" target="_blank" rel="noopener">[Link]</a> 
+      <a href="https://mfathiabdallah.github.io/pdfs/toxins-13-00552.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
+
+      <li>L De Colli, K De Ruyck, <strong>MF Abdallah</strong>, J Finnan, E Mullins, S Kildea, J Spink, C Elliott, M Danaher (2021). 
+      Natural co-occurrence of multiple mycotoxins in unprocessed oats grown in Ireland with various production systems. 
+      <em>Toxins</em>, 13(3), 188. 
+      <span style="color:green;">(Open Access)</span> 
+      <a href="https://www.mdpi.com/2072-6651/13/3/188" target="_blank" rel="noopener">[Link]</a> 
+      <a href="https://mfathiabdallah.github.io/pdfs/toxins-13-00188-v2.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
+
+      <li><strong>MF Abdallah</strong>*, K Audenaert, L Lust, S Landschoot, B Bekaert, G Haesaert, M De Boevre, S De Saeger (2020). 
+      Risk characterization and quantification of mycotoxins and their producing fungi in sugarcane juice: a neglected problem in a widely-consumed traditional beverage. 
+      <em>Food Control</em>, 108, 106811. 
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0956713519304001" target="_blank" rel="noopener">[Link]</a></li>
+
+      <li><strong>MF Abdallah</strong>, G Girgin, T Baydar, R Krska, M Sulyok (2017). 
+      Occurrence of multiple mycotoxins and other fungal metabolites in animal feed and maize samples from Egypt using LC-MS/MS. 
+      <em>Journal of the Science of Food and Agriculture</em>, 97(13), 4419–4428. 
+      <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.8293" target="_blank" rel="noopener">[Link]</a></li>
+
+      <li><strong>MF Abdallah</strong>, R Krska, M Sulyok (2016). 
+      Mycotoxin contamination in sugarcane grass and juice: first report on detection of multiple mycotoxins and exposure assessment for aflatoxins B1 and G1 in humans. 
+      <em>Toxins</em>, 8(11), 343. 
+      <span style="color:green;">(Open Access)</span> 
+      <a href="https://www.mdpi.com/2072-6651/8/11/343" target="_blank" rel="noopener">[Link]</a> 
+      <a href="https://mfathiabdallah.github.io/pdfs/toxins_Abdallah_etal2016.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
     </ul>
+  </div>
+</div>
 
+ </ul>
     <h3>B) Mixture Toxicology, Risk Assessment & Human Health</h3>
     <p>Investigating combined toxic effects of multiple food contaminants using in vitro models and New Approach Methodologies (NAMs).</p>
     <p><strong>Related publications:</strong></p>
