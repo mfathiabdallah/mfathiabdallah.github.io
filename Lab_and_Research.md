@@ -1,26 +1,7 @@
 ---
 layout: page
-title: Home
-permalink: /
-description: "Assistant Professor of Food Toxicology at Aarhus University, Denmark."
-sitemap:
-  lastmod: 2025-10-12
-  exclude: 'no'
+title: ""
 ---
-<br />
-<!-- Profile picture -->
-<img class="ProfilePic" img width="170" align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="mohamed_fathi_abdallah_2023(2).jpg">
-<u>Short Bio (last update: September 2025)</u>
-<h4>Current Position</h4>
-- Assistant Professor of Food Toxicology, Department of Food Science, Aarhus University, Denmark.
-
-<h4>Other positions and affiliations</h4>
-- Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science
-and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.
-- Board Member of the European Society of Toxicology In Vitro (ESTIV).
-- Expert Group Member (Natural Toxins), ILSI Europe, Belgium.
-- Member of Society of Toxicology (SOT) & Post-doctoral Representative of the SOT’s Food Safety Specialty (FS3), USA.
-
 
 
 #### Research Interest
