@@ -66,7 +66,6 @@ We are grateful to these foundations and programs for supporting our mission to 
       <td><strong>ToxiFOOD</strong></td>
       <td>
         <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="120">
-        <div>Novo Nordisk Foundation</div>
       </td>
       <td>2026 – 2031</td>
       <td>PI</td>
