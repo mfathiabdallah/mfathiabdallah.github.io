@@ -10,7 +10,7 @@ sitemap:
 <br />
 <!-- ========================= -->
 <!-- Profile Section -->
-<u>Short Bio (last update: September 2025)</u>
+<u>Last update: October 2025)</u>
 <div style="display:flex; flex-wrap:wrap; gap:25px; padding:30px; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.08); align-items:center;">
   
   <!-- Bio -->
@@ -116,7 +116,7 @@ sitemap:
 </style>
 
 <!-- News and Announcement -->
-<div>
+<!-- <div>
    <hr />
   <h2>News</h2>
   <ul>
@@ -124,7 +124,7 @@ sitemap:
     <li><span style="font-weight: bold;">{{ post.date | date: "%Y-%m-%d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-</div>
+</div> -->
 
 <!-- Announcements Section -->
 
