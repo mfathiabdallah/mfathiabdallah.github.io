@@ -11,24 +11,6 @@ sitemap:
 <!-- ========================= -->
 <!-- Profile Section -->
 <u>Short Bio (last update: September 2025)</u>
-<div style="display:flex; flex-wrap:wrap; gap:25px; padding:30px; border-radius:12px; align-items:center;">
-  
-  <!-- Bio -->
-  <div style="flex:1; min-width:250px;">
-    <h2 style="color:#004aad; margin-top:0;">Dr. Mohamed Fathi Abdallah</h2>
-    <p style="font-style:italic; color:#555; margin-bottom:12px;">Assistant Professor of Food Toxicology, Department of Food Science, Aarhus University, Denmark</p>
-    
-    <p>My research focuses on <strong>natural toxins</strong> (mycotoxins & cyanotoxins) and other emerging contaminants in novel food. I combine <strong>LC-MS/MS detection</strong> with <em>in vitro mixture toxicology models</em> to study human health impact.</p>
-    
-    <div style="margin-top:12px;">
-      <span style="padding:6px 12px; border-radius:6px; font-weight:bold; color:#004aad;">Scholarships & Fellowships Support</span>
-    </div>
-
-    <p style="margin-top:12px; font-weight:bold; color:#007bff;">Contact: <a href="mailto:mfa@food.au.dk" style="color:#007bff; text-decoration:none;">mfa@food.au.dk</a></p>
-  </div>
-
-<!-- ========================= -->
-<!-- Profile Section -->
 <div style="display:flex; flex-wrap:wrap; gap:25px; padding:30px; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.08); align-items:center;">
   
   <!-- Bio -->
@@ -96,7 +78,7 @@ sitemap:
 </div>
 
 <!-- ========================= -->
-<!-- Master Thesis / Internship -->
+<!-- Master Thesis / Internship at AU FOOD 2025/2026-->
 <div style="margin-top:25px; padding:25px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08); background-color:transparent;">
   <h3 style="color:#004aad; margin-top:0;">🎓 Master Thesis & Internship Opportunities</h3>
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
