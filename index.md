@@ -111,8 +111,7 @@ sitemap:
     </li>
   </ul>
 
-  <p>Interns or Erasmus thesis students are welcome!<br>
-     For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.</p>
+  <p>For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.</p>
 </div>
 
 
