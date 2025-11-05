@@ -144,7 +144,7 @@ title: ""
           <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
           <td>Principal Investigator</td>
           <td>Natural toxins, LC-MS/MS, In vitro toxicology</td>
-          <td>mfa@food.au.dk</td>
+          <td>mfa [at] food.au.dk</td>
           <td>Visit my <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">page</a></td>
         </tr>
       </tbody>
@@ -260,7 +260,7 @@ h3 {
 .collapsible-content {
   padding: 12px 18px;
   display: block; /* set to 'none' if you want collapsed by default */
-  border-left: 3px solid #004aad;
+  border-left: 3px solid rgba(0, 74, 173, 0.2); /* 20% opacity of original blue */;
   margin-bottom: 15px;
   border-radius: 5px;
   background-color: #f4f8ff;
