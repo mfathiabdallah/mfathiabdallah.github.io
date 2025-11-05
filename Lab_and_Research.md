@@ -51,11 +51,87 @@ Applying AI and large language models for risk prediction, data integration, and
 
 ---
 
-## 💰 Funding and Awards
+## 💰 Funding and Support
+
+<!-- 
+==========================================================
+💡 SECTION PURPOSE:
+Showcase lab funding sources (projects + agencies).
+Include logos above and a clean table listing details.
+You can add new funders easily by duplicating lines.
+Place funder logos inside /assets/images/funding/
+==========================================================
+-->
+
+<!-- Centered logos for visual impact -->
+<p class="funding-logos" align="center">
+  <img src="/assets/images/novonordiskfoundation.png" alt="Novo Nordisk Foundation" width="180">
+
+</p>
+
+<!-- Optional intro text -->
+Our research activities are supported by competitive national and international funding sources.
+We are grateful to these foundations and programs for supporting our mission to advance food toxicology and safety research.
+
+---
+
+### 🧾 Current Projects
 
 | Project | Funding Agency | Period | Role |
 |----------|----------------|---------|------|
-| **ToxiFOOD** | Novo Nordisk Foundation | 2025 – 2028 | PI |
+| **ToxiFOOD** | <img src="/assets/images/novonordiskfoundation.png" alt="Novo Nordisk Foundation" width="100"><br> Novo Nordisk Foundation | 2026 – 2031 | PI 
+
+---
+
+### 🎯 Open Opportunities
+
+We are open to collaborate on and support new applications for **Marie Skłodowska-Curie**, **Novo Nordisk Foundation**, **DFF**, **Villum Foundation**, and other national or international fellowships.  
+If you are a motivated researcher interested in food toxicology, mixture risk assessment, or AI-based safety evaluation — **reach out to discuss collaboration opportunities**.
+
+---
+
+<style>
+/* 
+==========================================================
+🎨 DESIGN NOTES:
+Enhances table visuals and image layout while staying aligned
+with the minimalist Contrast theme design.
+==========================================================
+*/
+
+.funding-logos img {
+  margin: 10px;
+  border-radius: 6px;
+  vertical-align: middle;
+  transition: transform 0.2s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+}
+
+.funding-logos img:hover {
+  transform: scale(1.05);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.2em 0;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+  padding: 8px 6px;
+  vertical-align: middle;
+}
+
+table img {
+  display: block;
+  margin: 0 auto 4px;
+}
+
+h2, h3 {
+  margin-top: 1.6em;
+}
+</style>
 
 ---
 
