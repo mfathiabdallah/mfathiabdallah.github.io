@@ -51,7 +51,7 @@ We are grateful to these foundations and programs for supporting our mission to 
 
 | Project | Funding Agency | Period | Role |
 |----------|----------------|---------|------|
-| **ToxiFOOD** | <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="100"><br> | 2026 – 2031 | PI 
+| **ToxiFOOD** | <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="100"><br> Novo Nordisk Foundation | 2026 – 2031 | PI 
 
 ---
 
