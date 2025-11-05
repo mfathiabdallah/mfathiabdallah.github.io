@@ -20,7 +20,7 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
     <p>Detection and occurrence of mycotoxins and cyanotoxins in food products using LC-MS/MS and targeted/non-targeted analysis.</p>
     <p><strong>Related publications:</strong></p>
     <ul>
-      <li>WR Van Hassel, <strong>MF Abdallah</strong>, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024). Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (<em>Ocimum basilicum L.</em>). <em>Environmental Pollution</em>, 123715. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub" target="_blank" rel="noopener">Link</a></li>
+    <li>WR Van Hassel, <strong>MF Abdallah</strong>, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024). Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (<em>Ocimum basilicum L.</em>). <em>Environmental Pollution</em>, 123715. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub" target="_blank" rel="noopener">Link</a></li>
     </ul>
 
     <h3>B) Mixture Toxicology, Risk Assessment & Human Health</h3>
@@ -36,7 +36,7 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
   </div>
 </div>
 
-<!-- ========================= -->
+<!-- =========================
 <!-- Funding and Support -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Funding and Support</h1>
@@ -48,13 +48,14 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
       <img src="/images/novonordiskfoundation.jpg" alt="Novo Nordisk Foundation">
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- ========================= -->
 <!-- Current Projects -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Current Projects</h1>
   <div class="collapsible-content">
+    <p>Our research activities are supported by competitive national and international funding sources. We are grateful to these foundations and programs for supporting our mission to advance food toxicology and safety research.</p>
     <table class="modern-table full-width">
       <thead>
         <tr>
