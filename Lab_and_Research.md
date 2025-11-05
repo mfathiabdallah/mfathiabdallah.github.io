@@ -74,13 +74,42 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
   </div>
 </div>
 
- </ul>
-    <h3>B) Mixture Toxicology, Risk Assessment & Human Health</h3>
-    <p>Investigating combined toxic effects of multiple food contaminants using in vitro models and New Approach Methodologies (NAMs).</p>
-    <p><strong>Related publications:</strong></p>
-    <ul>
-      <li>M Suman, M Oboeuf, <strong>MF Abdallah</strong>, C Hazel, E Varga, A Mally, A Medina, M Molero, A Sansom, and KJ Korzeniowski (2025). Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products. <em>World Mycotoxin Journal</em>. <a href="https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml" target="_blank" rel="noopener">Link</a></li>
-    </ul>
+</ul>
+<h3>B) Mixture Toxicology, Risk Assessment & Human Health</h3>
+<p>Investigating combined toxic effects of multiple food contaminants using in vitro models and New Approach Methodologies (NAMs).</p>
+<p><strong>Related publications:</strong></p>
+<ul>
+
+  <li>M Suman, M Oboeuf, <strong>MF Abdallah</strong>, C Hazel, E Varga, A Mally, A Medina, M Molero, A Sansom, KJ Korzeniowski (2025). 
+  Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products. 
+  <em>World Mycotoxin Journal</em>. 
+  <a href="https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml" target="_blank" rel="noopener">[Link]</a></li>
+
+  <li>C Dongye, X Chen, Y Zhao, H Li, <strong>MF Abdallah</strong>, T Li, X Chen (2025). 
+  Protective effects of octyl gallate against deoxynivalenol-induced colon inflammation: insights from proteomic and metabolomic analyses. 
+  <em>Environment & Health</em>, 4c00250. 
+  <a href="https://pubs.acs.org/doi/full/10.1021/envhealth.4c00250" target="_blank" rel="noopener">[Link]</a></li>
+
+  <li><strong>MF Abdallah</strong>*, JM Recote, C Van Camp, WHR Van Hassel, L Pedroni, L Dellafiora, J Masquelier, A Rajkovic (2024). 
+  Potential (co-)contamination of dairy milk with AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction in HepG2 cells. 
+  <em>Food and Chemical Toxicology</em>, 114907. 
+  <a href="https://www.sciencedirect.com/science/article/pii/S0278691524004733?via%3Dihub" target="_blank" rel="noopener">[Link]</a></li>
+
+  <li>X Chen, <strong>MF Abdallah</strong>, C Grootaert, F Van Nieuwerburgh, A Rajkovic (2023). 
+  New insights into the combined toxicity of aflatoxin B1 and fumonisin B1 in HepG2 cells using Seahorse respirometry analysis and RNA transcriptome sequencing. 
+  <em>Environment International</em>, 107945. 
+  <span style="color:green;">(Open Access)</span> 
+  <a href="https://www.sciencedirect.com/science/article/pii/S0160412023002180" target="_blank" rel="noopener">[Link]</a> 
+  <a href="https://mfathiabdallah.github.io/pdfs/Chent et al_2023.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
+
+  <li>X Chen, <strong>MF Abdallah</strong>, C Grootaert, A Rajkovic (2022). 
+  Bioenergetic status of the intestinal and hepatic cells after short-term exposure to fumonisin B1 and aflatoxin B1. 
+  <em>International Journal of Molecular Sciences</em>, 23(13), 6945. 
+  <span style="color:green;">(Open Access)</span> 
+  <a href="https://www.mdpi.com/1422-0067/23/13/6945" target="_blank" rel="noopener">[Link]</a> 
+  <a href="https://mfathiabdallah.github.io/pdfs/ijms-23-06945-v2.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
+
+</ul>
 
     <h3>C) Artificial Intelligence in Food Toxicology</h3>
     <p>Applying AI and large language models for risk prediction, data integration, and contaminant classification.</p>
