@@ -186,7 +186,7 @@ Funding Logos
 Centered Tables
 ======================== */
 .table-container {
-  text-align: right;      /* centers the table itself */
+  text-align: left;      /* centers the table itself */
   margin: 2em 0;           /* vertical spacing */
 }
 
