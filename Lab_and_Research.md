@@ -42,17 +42,17 @@ title: ""
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
   
   <ul style="list-style-type:none; padding-left:0;">
-    <li style="margin-bottom:12px;">
-      <strong>Mixture Toxicology:</strong>
+    <li style="margin-bottom:20px;">
+      <strong>Project:</strong> Optimization of a 3D in vitro model to study the hepatocytotoxicity of different food contaminants (Mixture Toxicology)<br>
       <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants" target="_blank" rel="noopener" 
-         style="display:inline-block; background-color:#e55300; color:white; padding:8px 12px; border-radius:6px; text-decoration:none; font-weight:bold; transition: background 0.3s;">
+         style="display:inline-block; background-color:#1DA1F2; color:white; padding:8px 12px; border-radius:6px; text-decoration:none; font-weight:bold; transition: background 0.3s;">
          View Project
       </a>
     </li>
-    <li style="margin-bottom:12px;">
-      <strong>Food AI & Database:</strong>
+    <li style="margin-bottom:20px;">
+      <strong>Project:</strong> Developing a database of microbial food toxins in the EU: case study on mycotoxins (Food AI)<br>
       <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins" target="_blank" rel="noopener" 
-         style="display:inline-block; background-color:#e55300; color:white; padding:8px 12px; border-radius:6px; text-decoration:none; font-weight:bold; transition: background 0.3s;">
+         style="display:inline-block; background-color:#1DA1F2; color:white; padding:8px 12px; border-radius:6px; text-decoration:none; font-weight:bold; transition: background 0.3s;">
          View Project
       </a>
     </li>
@@ -65,7 +65,7 @@ title: ""
 <style>
   /* Hover effect for project buttons */
   a:hover {
-    background-color: #cc4500 !important;
+    background-color: #0d8ddb !important;
   }
 </style>
 
