@@ -21,8 +21,11 @@ sitemap:
 
     <div style="margin-top:12px;">
       <span style="background-color:rgba(224, 247, 255,0.3); padding:6px 12px; border-radius:6px; color:#004aad;">
-         Accepting Master's and PhD students.
-         Scholarships & Fellowships Support.
+        Accepting Master's and PhD students.
+        Scholarships & Fellowships Support.
+      </span>
+    </div>
+
     <p style="margin-top:12px; color:#007bff;">Contact: <a href="mailto:mfa@food.au.dk" style="color:#007bff; text-decoration:none;">mfa@food.au.dk</a></p>
   </div>
 
