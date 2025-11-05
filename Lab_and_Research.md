@@ -16,8 +16,7 @@ Detection and occurrence of mycotoxins and cyanotoxins in food products using LC
 ### Mixture Toxicology, Risk Assessment & Human Health
 Investigating combined toxic effects of multiple food contaminants using in vitro models and New Approach Methodologies (NAMs).  
 **Related publications:**  
-- M Suman, M Oboeuf, **MF Abdallah**, C Hazel, E Varga, A Mally, A Medina, M Molero, A Sansom, and KJ Korzeniowski (2025).  
-<br>Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products. *World Mycotoxin Journal*. [[Link]](https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml){:target="_blank" rel="noopener"}.
+- M Suman, M Oboeuf, **MF Abdallah**, C Hazel, E Varga, A Mally, A Medina, M Molero, A Sansom, and KJ Korzeniowski (2025). Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products. *World Mycotoxin Journal*. [[Link]](https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml){:target="_blank" rel="noopener"}.
 
 ---
 
@@ -51,7 +50,7 @@ We are grateful to these foundations and programs for supporting our mission to 
 
 | Project | Funding Agency | Period | Role |
 |----------|----------------|---------|------|
-| **ToxiFOOD** | <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="100"><br> Novo Nordisk Foundation | 2026 – 2031 | PI |
+| **ToxiFOOD** | <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="100"> | 2026 – 2031 | PI |
 
 ---
 
