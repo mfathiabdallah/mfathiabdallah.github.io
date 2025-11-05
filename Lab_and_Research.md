@@ -5,6 +5,19 @@ title: "Welcome to the AU FOOD TOX group"
 
 At AU FOOD Department, our research is centered on understanding the risks associated with natural toxins (mycotoxins and cyanotoxins) and other emerging contaminants in novel food. This is done by applying LC-MS/MS methods for detection. Also, through the use of in vitro models, we investigate the effects of these toxins as mixtures on human health. This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges. 
 
+<div style="border:2px solid #004aad; border-radius:10px; padding:18px; margin:25px 0; background-color:#f5f9ff;">
+  <h3 style="color:#004aad; margin-top:0;">📢 We are hiring a PhD student!</h3>
+  <p>
+    <strong>Topic:</strong> Quantification of natural toxins in novel food using advanced mass spectrometry.<br>
+    <strong>Deadline:</strong> 6 November 2025.<br>
+  </p>
+  <p>
+    🔗 <a href="https://www.mfathiabdallah.com/PhD_position1/" target="_blank" rel="noopener" style="color:#e55300; font-weight:bold;">View full details</a><br>
+    🧭 <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener" style="color:#004aad; font-weight:bold;">Apply here</a>
+  </p>
+ </div>
+</div>
+ 
 <!-- Research Overview Banner -->
 <figure class="research-overview">
   <img src="/images/aufoodtox.png" alt="AU FOOD TOX">
