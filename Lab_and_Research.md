@@ -12,9 +12,9 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 </figure>
 
 <!-- ========================= -->
-<!-- 🧪 Research Lines -->
+<!-- Research Lines -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#10148; 🧪 Research Lines</h1>
+  <h1 class="collapsible-title">&#10148; Research Lines</h1>
   <div class="collapsible-content">
     <h3>A) Natural Toxins in Food</h3>
     <p>Detection and occurrence of mycotoxins and cyanotoxins in food products using LC-MS/MS and targeted/non-targeted analysis.</p>
@@ -37,9 +37,9 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 </div>
 
 <!-- ========================= -->
-<!-- 💰 Funding and Support -->
+<!-- Funding and Support -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#10148; 💰 Funding and Support</h1>
+  <h1 class="collapsible-title">&#10148; Funding and Support</h1>
   <div class="collapsible-content">
     <p>Our research activities are supported by competitive national and international funding sources. We are grateful to these foundations and programs for supporting our mission to advance food toxicology and safety research.</p>
     
@@ -51,9 +51,9 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 </div>
 
 <!-- ========================= -->
-<!-- 🧾 Current Projects -->
+<!-- Current Projects -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#10148; 🧾 Current Projects</h1>
+  <h1 class="collapsible-title">&#10148; Current Projects</h1>
   <div class="collapsible-content">
     <table class="modern-table full-width">
       <thead>
@@ -79,9 +79,9 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 </div>
 
 <!-- ========================= -->
-<!-- 🎯 Open Opportunities -->
+<!-- Open Opportunities -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#10148; 🎯 Open Opportunities</h1>
+  <h1 class="collapsible-title">&#10148; Open Opportunities</h1>
   <div class="collapsible-content">
     <ul>
       <li>Marie Skłodowska-Curie Fellowships</li>
@@ -93,9 +93,9 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 </div>
 
 <!-- ========================= -->
-<!-- 👩‍🔬 Lab Members -->
+<!-- Lab Members -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#10148; 👩‍🔬 Lab Members</h1>
+  <h1 class="collapsible-title">&#10148; Lab Members</h1>
   <div class="collapsible-content">
     <table class="modern-table full-width">
       <thead>
@@ -113,7 +113,7 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
           <td>Principal Investigator</td>
           <td> Natural toxins, LC-MS/MS, In vitro toxicology</td>
           <td>mfa@food.au.dk</td>
-         <td>Visit my <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">page</td>
+         <td>Visit my <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">page </td>
         </tr>
       </tbody>
     </table>
