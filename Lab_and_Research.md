@@ -67,13 +67,12 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
     </div>
   </div>
 </div>
-
 <!-- ========================= -->
 <!-- 🧾 Current Projects -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; 🧾 Current Projects</h1>
   <div class="collapsible-content">
-    <table class="full-width-table">
+    <table class="modern-table">
       <thead>
         <tr>
           <th>Project</th>
@@ -99,7 +98,11 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; 🎯 Open Opportunities</h1>
   <div class="collapsible-content">
-    <p>We are open to collaborate on and support new applications for <strong>Marie Skłodowska-Curie</strong>, <strong>Novo Nordisk Foundation</strong>, <strong>DFF</strong>, <strong>Villum Foundation</strong>, and other national or international fellowships.</p>
+    <ul>
+      <li>Marie Skłodowska-Curie Fellowships</li>
+      <li>Funding from Novo Nordisk Foundation, DFF, Villum Foundation</li>
+      <li>Other national or international fellowships</li>
+    </ul>
     <p>If you are a motivated researcher interested in food toxicology, mixture risk assessment, or AI-based safety evaluation — <strong>reach out to discuss collaboration opportunities</strong>.</p>
   </div>
 </div>
@@ -109,7 +112,7 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; 👩‍🔬 Lab Members</h1>
   <div class="collapsible-content">
-    <table class="full-width-table">
+    <table class="modern-table">
       <thead>
         <tr>
           <th>Name</th>
@@ -124,7 +127,6 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
           <td>Principal Investigator</td>
           <td>Food toxicology, natural toxins, LC-MS/MS</td>
           <td>mfa@food.au.dk</td>
-          <td>Visit my <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">page</a></td>
         </tr>
       </tbody>
     </table>
@@ -132,7 +134,72 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 </div>
 
 <!-- ========================= -->
-<!-- JS for collapsible -->
+<!-- Modern Table Styles -->
+<style>
+/* Modern Table Style */
+.modern-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 15px 0;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.modern-table thead {
+  background-color: #004080;
+  color: #fff;
+  text-align: center;
+}
+
+.modern-table th, 
+.modern-table td {
+  padding: 12px 20px;
+  text-align: center;
+}
+
+.modern-table tbody tr {
+  background-color: #f9f9f9;
+  transition: background-color 0.2s ease;
+}
+
+.modern-table tbody tr:nth-child(even) {
+  background-color: #e6f0ff;
+}
+
+.modern-table tbody tr:hover {
+  background-color: #d1e0ff;
+}
+
+.modern-table img {
+  max-width: 120px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Collapsible Sections */
+.collapsible-title {
+  color: #10148;
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 5px;
+  background-color: #ccc;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.collapsible-content {
+  padding: 10px 15px;
+  display: block;
+}
+</style>
+
+<!-- Collapsible JS -->
 <script>
 function toggleCollapsible(event) {
   const content = event.target.nextElementSibling;
@@ -150,63 +217,3 @@ for (let i = 0; i < collapsibleTitles.length; i++) {
 }
 </script>
 
-<!-- ========================= -->
-<!-- CSS -->
-<style>
-.collapsible-title {
-  color: #10148;
-  cursor: pointer;
-  font-size: 25px;
-  font-weight: bold;
-  padding: 7.5px;
-  border-radius: 0px;
-  background-color: #ccc;
-  text-align: left;
-  margin-bottom: 20px;
-}
-
-.collapsible-content {
-  overflow: hidden;
-  transition: max-height 0.3s ease;
-}
-
-.full-width-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 0 auto;
-}
-
-.full-width-table th, 
-.full-width-table td {
-  border: 1px solid #ddd;
-  padding: 12px;
-  text-align: center;
-  vertical-align: middle;
-}
-
-.full-width-table th {
-  background-color: #f8f8f8;
-}
-
-.full-width-table img {
-  display: block;
-  margin: 0 auto;
-  max-width: 120px;
-}
-
-.image-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 15px;
-}
-
-.image-container img {
-  max-width: 600px;
-  height: auto;
-  border-radius: 6px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
-  margin: 0 10px;
-  transition: transform 0.2s ease;
-}
-</style>
