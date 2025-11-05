@@ -34,19 +34,7 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
       <span style="color:green;">(Open Access)</span> 
       <a href="https://www.mdpi.com/2227-9040/11/10/511" target="_blank" rel="noopener">[Link]</a> 
       <a href="https://mfathiabdallah.github.io/pdfs/chemosensors-11-00511.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
-
-      <li>Y Tian, <strong>MF Abdallah</strong>, M De Boevre, K Audenaert, C Wang, S De Saeger, A Wu (2023). 
-      Deciphering <em>Alternaria</em> metabolic responses in microbial confrontation via an integrated mass spectrometric targeted and non-targeted strategy. 
-      <em>Food Chemistry</em>, 134694. 
-      <a href="https://www.sciencedirect.com/science/article/pii/S0308814622026565" target="_blank" rel="noopener">[Link]</a></li>
-
-      <li>I Vanhoutte, C De Tender, K Demeyere, <strong>MF Abdallah</strong>, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021). 
-      Bacterial enrichment cultures biotransform the mycotoxin deoxynivalenol into a novel metabolite toxic to plant and porcine cells. 
-      <em>Toxins</em>, 13(8), 552. 
-      <span style="color:green;">(Open Access)</span> 
-      <a href="https://www.mdpi.com/2072-6651/13/8/552" target="_blank" rel="noopener">[Link]</a> 
-      <a href="https://mfathiabdallah.github.io/pdfs/toxins-13-00552.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
-
+    
       <li>L De Colli, K De Ruyck, <strong>MF Abdallah</strong>, J Finnan, E Mullins, S Kildea, J Spink, C Elliott, M Danaher (2021). 
       Natural co-occurrence of multiple mycotoxins in unprocessed oats grown in Ireland with various production systems. 
       <em>Toxins</em>, 13(3), 188. 
