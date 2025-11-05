@@ -45,7 +45,7 @@ title: ""
       <strong>Mixture Toxicology:</strong><br>
       <span style="display:block; margin:5px 0; font-weight:500;">Optimization of a 3D in vitro model to study hepatocytotoxicity of different food contaminants</span>
       <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants" target="_blank" rel="noopener" 
-         style="display:inline-block; background-color:transparent; border:2px solid #004aad; color:#004aad; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: all 0.3s;">
+         style="display:inline-block; background-color:transparent; border:2px solid #ffffff; color:#004aad; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: all 0.3s;">
          View Project
       </a>
     </li>
@@ -53,7 +53,7 @@ title: ""
       <strong>Food AI & Database:</strong><br>
       <span style="display:block; margin:5px 0; font-weight:500;">Developing a database of microbial food toxins in the EU (case study on mycotoxins)</span>
       <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins" target="_blank" rel="noopener" 
-         style="display:inline-block; background-color:transparent; border:2px solid #004aad; color:#004aad; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: all 0.3s;">
+         style="display:inline-block; background-color:transparent; border:2px solid #ffffff; color:#004aad; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: all 0.3s;">
          View Project
       </a>
     </li>
@@ -64,12 +64,14 @@ title: ""
 </div>
 
 <style>
-  /* Hover effect for transparent buttons */
+  /* Hover effect for transparent buttons with white border */
   a:hover {
     background-color: rgba(0, 74, 173, 0.1); /* light blue fill on hover */
     color: #004aad;
+    border-color: #004aad; /* optional: make border blue on hover */
   }
 </style>
+
 
 <!-- ========================= -->
 <!-- Research Overview Banner -->
