@@ -50,13 +50,33 @@ We are grateful to these foundations and programs for supporting our mission to 
 
 ---
 
-### 🧾 Current Projects (Full Width)
+### 🧾 Current Projects
 
 <div class="full-width-section">
 
-| Project | Funding Agency | Period | Role |
-|---------|----------------|--------|------|
-| **ToxiFOOD** | <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="150"><br> Novo Nordisk Foundation | 2026 – 2031 | PI |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Funding Agency</th>
+      <th>Period</th>
+      <th>Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>ToxiFOOD</strong></td>
+      <td>
+        <figure style="text-align:center; margin:0;">
+          <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="150">
+          <figcaption>Novo Nordisk Foundation</figcaption>
+        </figure>
+      </td>
+      <td>2026 – 2031</td>
+      <td>PI</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -69,90 +89,33 @@ If you are a motivated researcher interested in food toxicology, mixture risk as
 
 ---
 
-### 👩‍🔬 Lab Members (Full Width)
+### 👩‍🔬 Lab Members
 
 <div class="full-width-section">
 
-| Name | Position | Research Focus | Contact |
-|------|-----------|----------------|---------|
-| **Dr. Mohamed Fathi Abdallah** | Principal Investigator | Food toxicology, natural toxins, LC-MS/MS | mfa@food.au.dk |
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Position</th>
+      <th>Research Focus</th>
+      <th>Contact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
+      <td>Principal Investigator</td>
+      <td>Food toxicology, natural toxins, LC-MS/MS</td>
+      <td>mfa@food.au.dk</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
----
-
 <style>
-/* ========================
-Global Page Styles
-======================== */
-.page {
-  line-height: 1.7;
-  font-size: 1.05em;
-}
-
-/* ========================
-Research Banner
-======================== */
-.research-overview {
-  text-align: center;
-  margin: 20px 0;
-}
-
-.research-overview img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-.research-overview figcaption {
-  margin-top: 8px;
-  font-style: italic;
-  color: #555;
-}
-
-/* ========================
-Funding Logos
-======================== */
-.funding-logos img {
-  margin: 10px;
-  border-radius: 6px;
-  vertical-align: middle;
-  transition: transform 0.2s ease;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
-}
-
-.funding-logos img:hover {
-  transform: scale(1.05);
-}
-
-/* ========================
-Tables
-======================== */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1.2em 0;
-}
-
-th, td {
-  border-bottom: 1px solid #ddd;
-  padding: 8px 6px;
-  vertical-align: middle;
-}
-
-table img {
-  display: block;
-  margin: 0 auto 4px;
-}
-
-h2, h3 {
-  margin-top: 1.6em;
-}
-
-/* ========================
-Full-Width Sections (Projects & Lab Members)
-======================== */
+/* Full-width tables styling */
 .full-width-section {
   max-width: 100% !important;
   padding: 0 20px;
@@ -161,6 +124,32 @@ Full-Width Sections (Projects & Lab Members)
 
 .full-width-section table {
   width: 100%;
+  border-collapse: collapse;
   margin: 0 auto;
 }
+
+.full-width-section th, 
+.full-width-section td {
+  border-bottom: 1px solid #ddd;
+  padding: 12px 8px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.full-width-section th {
+  background-color: #f8f8f8;
+}
+
+.full-width-section table img {
+  display: block;
+  margin: 0 auto;
+}
+
+.full-width-section figure figcaption {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 4px;
+}
+</style>
+
 </style>
