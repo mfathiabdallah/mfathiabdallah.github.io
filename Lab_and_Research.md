@@ -61,6 +61,7 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
           <th style="width: 10%;">Status</th>
           <th style="width: 30%;">Project</th>
           <th style="width: 30%;">Funding Agency</th>
+          <th style="width: 30%;">Total Fund</th>
           <th style="width: 15%;">Period</th>
           <th style="width: 15%;">Role</th>
         </tr>
@@ -70,6 +71,7 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
           <td><strong>Running</strong></td>
           <td><strong>ToxiFOOD</strong></td>
           <td><img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation"></td>
+          <td>DKK 13.88 M</td>
           <td>2026 – 2031</td>
           <td>PI</td>
         </tr>
@@ -113,7 +115,7 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
           <td>Principal Investigator</td>
           <td> Natural toxins, LC-MS/MS, In vitro toxicology</td>
           <td>mfa@food.au.dk</td>
-         <td>Visit my <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">page </td>
+          <td>Visit my <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">page</a></td>
         </tr>
       </tbody>
     </table>
