@@ -4,7 +4,7 @@ title: Home
 permalink: /
 description: "Assistant Professor of Food Toxicology at Aarhus University, Denmark."
 sitemap:
-  lastmod: 2025-10-12
+  lastmod: 2025-11-05
   exclude: 'no'
 ---
 <br />
@@ -62,6 +62,118 @@ We are open to support applications for scholarships and fellowships such as Mar
     {% endfor %}
   </ul>
 </div>
+
+<!-- ========================= -->
+<!-- Profile Section -->
+<div style="display:flex; flex-wrap:wrap; gap:25px; background-color:#f8faff; padding:30px; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.08); align-items:center;">
+  
+  <!-- Profile Picture -->
+  <img src="mohamed_fathi_abdallah_2023(2).jpg" alt="Mohamed Fathi Abdallah"
+       style="width:170px; border-radius:12px; flex-shrink:0; object-fit:cover; border:2px solid #fff; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
+  
+  <!-- Bio -->
+  <div style="flex:1; min-width:250px;">
+    <h2 style="color:#004aad; margin-top:0;">Dr. Mohamed Fathi Abdallah</h2>
+    <p style="font-style:italic; color:#555; margin-bottom:12px;">Assistant Professor of Food Toxicology, Department of Food Science, Aarhus University, Denmark</p>
+    
+    <p>My research focuses on <strong>natural toxins</strong> (mycotoxins & cyanotoxins) and other emerging contaminants in novel food. I combine <strong>LC-MS/MS detection</strong> with <em>in vitro mixture toxicology models</em> to study human health impact.</p>
+    
+    <div style="margin-top:12px;">
+      <span style="background-color:#e0f7ff; padding:6px 12px; border-radius:6px; font-weight:bold; color:#004aad;">Scholarships & Fellowships Support</span>
+    </div>
+
+    <p style="margin-top:12px; font-weight:bold; color:#007bff;">Contact: <a href="mailto:mfa@food.au.dk" style="color:#007bff; text-decoration:none;">mfa@food.au.dk</a></p>
+  </div>
+</div>
+
+<!-- ========================= -->
+<!-- Education & Experience -->
+<div style="margin-top:30px; padding:25px; background-color:#f4f8ff; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+  <h3 style="color:#004aad; margin-top:0;">🎓 Education & Work Experience</h3>
+  <ul style="list-style-type:disc; padding-left:20px;">
+    <li>PhD in Pharmaceutical Sciences (05/2020), Ghent University, Belgium</li>
+    <li>Master's Degree in Pharmaceutical Toxicology (04/2016), Hacettepe University, Türkiye</li>
+    <li>Bachelor's Degree in Veterinary Medical Sciences (07/2011), Assiut University, Egypt</li>
+    <li>Former F.R.S-FNRS Postdoctoral Fellow, University of Mons, Belgium (until 03/2024)</li>
+    <li>Former Postdoctoral Fellow, Ghent University (until 09/2023)</li>
+    <li>Former Researcher, Teagasc Food Research Centre, Dublin, Ireland (until 09/2020)</li>
+    <li>Erasmus+ Exchange & Internship experiences in Vienna & Dortmund</li>
+  </ul>
+</div>
+
+<!-- ========================= -->
+<!-- Positions & Affiliations -->
+<div style="margin-top:25px; padding:25px; background-color:#f8faff; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+  <h3 style="color:#004aad; margin-top:0;">🏛️ Positions & Affiliations</h3>
+  <ul style="list-style-type:disc; padding-left:20px;">
+    <li>Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing</li>
+    <li>Board Member of the European Society of Toxicology In Vitro (ESTIV)</li>
+    <li>Expert Group Member (Natural Toxins), ILSI Europe, Belgium</li>
+    <li>Member of Society of Toxicology (SOT) & Postdoctoral Representative of FS3 Food Safety Specialty, USA</li>
+  </ul>
+</div>
+
+<!-- ========================= -->
+<!-- Research Interests -->
+<div style="margin-top:25px; padding:25px; background-color:#f4f8ff; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+  <h3 style="color:#004aad; margin-top:0;">🔬 Research Interests</h3>
+  <ul style="list-style-type:disc; padding-left:20px;">
+    <li>Detection of natural food contaminants (postgraduate students, PhDs, Postdocs)</li>
+    <li>Application of Large Language Models in food contaminants (Postdoc / research assistants)</li>
+    <li>Mixture toxicology with a focus on food contaminants using NAMs (postgraduate students, PhDs, Postdocs)</li>
+  </ul>
+</div>
+
+<!-- ========================= -->
+<!-- Scholarships & Fellowships -->
+<div style="margin-top:25px; padding:25px; background-color:#f0faff; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+  <h3 style="color:#004aad; margin-top:0;">🎓 Scholarships & Fellowships</h3>
+  <p>We support applications for scholarships and fellowships such as <strong>Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation</strong>, and others.</p>
+</div>
+
+<!-- ========================= -->
+<!-- Master Thesis / Internship -->
+<div style="margin-top:25px; padding:25px; background-color:#f4f8ff; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+  <h3 style="color:#004aad; margin-top:0;">🎓 Master Thesis & Internship Opportunities</h3>
+  <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
+  
+  <ul style="list-style:none; padding-left:0;">
+    <li style="margin-bottom:15px;">
+      <strong>Mixture Toxicology:</strong><br>
+      <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants" 
+         target="_blank" rel="noopener" 
+         style="display:inline-block; padding:10px 16px; border-radius:8px; border:2px solid #004aad; color:#004aad; font-weight:bold; text-decoration:none; transition:0.3s;">
+         View Project
+      </a>
+    </li>
+    <li style="margin-bottom:15px;">
+      <strong>Food AI & Database:</strong><br>
+      <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins" 
+         target="_blank" rel="noopener" 
+         style="display:inline-block; padding:10px 16px; border-radius:8px; border:2px solid #004aad; color:#004aad; font-weight:bold; text-decoration:none; transition:0.3s;">
+         View Project
+      </a>
+    </li>
+  </ul>
+  
+  <p>Interns or Erasmus thesis students are welcome!<br>
+     For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.</p>
+</div>
+
+<!-- ========================= -->
+<!-- Styles -->
+<style>
+  /* Hover effects */
+  a:hover {
+    background-color:#004aad !important;
+    color:white !important;
+  }
+  
+  /* Optional: smooth scrolling anchor links */
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
 
 <!-- Announcements Section -->
 
@@ -172,7 +284,7 @@ We are open to support applications for scholarships and fellowships such as Mar
     <h4>Dr. Mohamed Fathi Abdallah</h4>
     <p style="word-wrap: break-word; overflow-wrap: anywhere;">
       <i class="fas fa-envelope"></i> &nbsp; Email: &nbsp;
-      <a href="mailto:mfa@food.au.dk" target="_blank">mfa@food.au.dk</a><br>
+      <a href="mailto:mfa@food.au.dk" target="_blank">mfa[at]food.au.dk</a><br>
 
       <i class="fab fa-twitter"></i> &nbsp; Twitter: &nbsp;
       <a href="https://twitter.com/MoFathiAbdallah" target="_blank">@MoFathiAbdallah</a><br>
