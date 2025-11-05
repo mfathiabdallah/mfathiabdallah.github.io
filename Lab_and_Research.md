@@ -63,15 +63,15 @@ Place funder logos inside /assets/images/funding/
 ==========================================================
 -->
 
-<!-- Centered logos for visual impact -->
-<p class="funding-logos" align="center">
-  <img src="/images/novonordiskfoundation.jpg" alt="Novo Nordisk Foundation" width="480">
-
-</p>
-
 <!-- Optional intro text -->
 Our research activities are supported by competitive national and international funding sources.
 We are grateful to these foundations and programs for supporting our mission to advance food toxicology and safety research.
+
+</p>
+
+<!-- Centered logos for visual impact -->
+<p class="funding-logos" align="center">
+  <img src="/images/novonordiskfoundation.jpg" alt="Novo Nordisk Foundation" width="480">
 
 ---
 
