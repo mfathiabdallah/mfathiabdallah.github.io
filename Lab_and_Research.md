@@ -143,7 +143,7 @@ Page & General Styling
 Research Overview Banner
 ======================== */
 .research-overview {
-  text-align: right;
+  text-align: center;
   margin: 30px 0;
 }
 
@@ -186,7 +186,7 @@ Funding Logos
 Centered Tables
 ======================== */
 .table-container {
-  text-align: center;      /* centers the table itself */
+  text-align: right;      /* centers the table itself */
   margin: 2em 0;           /* vertical spacing */
 }
 
