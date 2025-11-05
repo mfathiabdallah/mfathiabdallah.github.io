@@ -16,7 +16,6 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
     🧭 <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener" style="color:#004aad; font-weight:bold;">Apply here</a>
   </p>
  </div>
-</div>
  
 <!-- Research Overview Banner -->
 <figure class="research-overview">
