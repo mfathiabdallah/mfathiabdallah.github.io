@@ -7,21 +7,20 @@ sitemap:
   lastmod: 2025-11-05
   exclude: 'no'
 ---
-<br />
 <!-- ========================= -->
 <!-- Profile Section -->
-<u>Last update: October 2025)</u>
-<div style="display:flex; flex-wrap:wrap; gap:25px; padding:30px; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.08); align-items:center;">
-  
+<u>Last update: October 2025</u>
+<div style="display:flex; flex-wrap:wrap; gap:25px; padding:30px; border-radius:12px; align-items:center; background-color:transparent;">
+
   <!-- Bio -->
   <div style="flex:1; min-width:250px;">
     <h2 style="color:#004aad; margin-top:0;">Dr. Mohamed Fathi Abdallah</h2>
     <p style="font-style:italic; color:#555; margin-bottom:12px;">Assistant Professor of Food Toxicology, Department of Food Science, Aarhus University, Denmark</p>
-    
-    <p>My research focuses on <strong>natural toxins</strong> (mycotoxins & cyanotoxins) and other emerging contaminants in novel food. I combine <strong>LC-MS/MS detection</strong> with <em>in vitro mixture toxicology models</em> to study human health impact.</p>
+
+    <p><strong>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</strong></p>
     
     <div style="margin-top:12px;">
-      <span style="background-color:rgba(224, 247, 255,0.5); padding:6px 12px; border-radius:6px; font-weight:bold; color:#004aad;">Scholarships & Fellowships Support</span>
+      <span style="background-color:rgba(224, 247, 255,0.3); padding:6px 12px; border-radius:6px; font-weight:bold; color:#004aad;">Scholarships & Fellowships Support</span>
     </div>
 
     <p style="margin-top:12px; font-weight:bold; color:#007bff;">Contact: <a href="mailto:mfa@food.au.dk" style="color:#007bff; text-decoration:none;">mfa@food.au.dk</a></p>
@@ -29,30 +28,32 @@ sitemap:
 
   <!-- Profile Picture -->
   <img src="mohamed_fathi_abdallah_2023(2).jpg" alt="Mohamed Fathi Abdallah"
-       style="width:170px; border-radius:12px; flex-shrink:0; object-fit:cover; border:2px solid #fff; box-shadow:0 2px 8px rgba(0,0,0,0.1); float:right;">
+       style="width:170px; border-radius:12px; flex-shrink:0; object-fit:cover; float:right;">
+
 </div>
 
 <!-- ========================= -->
 <!-- Education & Experience -->
-<div style="margin-top:30px; padding:25px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08); background-color:transparent;">
+<div style="margin-top:30px; padding:25px; border-radius:12px; background-color:transparent; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
   <h3 style="color:#004aad; margin-top:0;">🎓 Education & Work Experience</h3>
-  <ul style="list-style-type:disc; padding-left:20px;">
+  <ul style="list-style-type:disc; padding-left:20px; line-height:1.6;">
+    <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024), Host institute: University of Mons, Belgium</li>
+    <li>Former Postdoctoral Fellow (until 09/2023), Ghent University-Special Research Fund (BOF), Ghent University, Belgium</li>
+    <li>Former Researcher (until 09/2020), Teagasc Food Research Centre, Dublin, Ireland</li>
     <li>PhD in Pharmaceutical Sciences (05/2020), Ghent University, Belgium</li>
-    <li>Master's Degree in Pharmaceutical Toxicology (04/2016), Hacettepe University, Türkiye</li>
-    <li>Bachelor's Degree in Veterinary Medical Sciences (07/2011), Assiut University, Egypt</li>
-    <li>Former F.R.S-FNRS Postdoctoral Fellow, University of Mons, Belgium (until 03/2024)</li>
-    <li>Former Postdoctoral Fellow, Ghent University (until 09/2023)</li>
-    <li>Former Researcher, Teagasc Food Research Centre, Dublin, Ireland (until 09/2020)</li>
-    <li>Erasmus+ Exchange & Internship experiences in Vienna & Dortmund</li>
+    <li>Master's Degree (04/2016) in Pharmaceutical Toxicology, Hacettepe University, Türkiye</li>
+    <li>Erasmus+ Exchange Master Student (until 03/2016), University of Natural Resources and Life Sciences, Vienna (BOKU), Austria</li>
+    <li>Erasmus+ Intern Researcher (until 12/2014), IfADo Institute, Dortmund, Germany</li>
+    <li>Bachelor's Degree (07/2011) in Veterinary Medical Sciences, Assiut University, Egypt</li>
   </ul>
 </div>
 
 <!-- ========================= -->
 <!-- Positions & Affiliations -->
-<div style="margin-top:25px; padding:25px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08); background-color:transparent;">
+<div style="margin-top:25px; padding:25px; border-radius:12px; background-color:transparent; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
   <h3 style="color:#004aad; margin-top:0;">🏛️ Positions & Affiliations</h3>
-  <ul style="list-style-type:disc; padding-left:20px;">
-    <li>Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing</li>
+  <ul style="list-style-type:disc; padding-left:20px; line-height:1.6;">
+    <li>Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, China</li>
     <li>Board Member of the European Society of Toxicology In Vitro (ESTIV)</li>
     <li>Expert Group Member (Natural Toxins), ILSI Europe, Belgium</li>
     <li>Member of Society of Toxicology (SOT) & Postdoctoral Representative of FS3 Food Safety Specialty, USA</li>
@@ -61,9 +62,10 @@ sitemap:
 
 <!-- ========================= -->
 <!-- Research Interests -->
-<div style="margin-top:25px; padding:25px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08); background-color:transparent;">
+<div style="margin-top:25px; padding:25px; border-radius:12px; background-color:transparent; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
   <h3 style="color:#004aad; margin-top:0;">🔬 Research Interests</h3>
-  <ul style="list-style-type:disc; padding-left:20px;">
+  <p>My research focuses on <strong>natural toxins</strong> (mycotoxins & cyanotoxins) and other emerging contaminants in novel food. I combine <strong>LC-MS/MS detection</strong> with <em>in vitro mixture toxicology models</em> to study human health impact.</p>
+  <ul style="list-style-type:disc; padding-left:20px; line-height:1.6;">
     <li>Detection of natural food contaminants (postgraduate students, PhDs, Postdocs)</li>
     <li>Application of Large Language Models in food contaminants (Postdoc / research assistants)</li>
     <li>Mixture toxicology with a focus on food contaminants using NAMs (postgraduate students, PhDs, Postdocs)</li>
@@ -72,17 +74,17 @@ sitemap:
 
 <!-- ========================= -->
 <!-- Scholarships & Fellowships -->
-<div style="margin-top:25px; padding:25px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08); background-color:transparent;">
+<div style="margin-top:25px; padding:25px; border-radius:12px; background-color:transparent; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
   <h3 style="color:#004aad; margin-top:0;">🎓 Scholarships & Fellowships</h3>
   <p>We support applications for scholarships and fellowships such as <strong>Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation</strong>, and others.</p>
 </div>
 
 <!-- ========================= -->
 <!-- Master Thesis / Internship at AU FOOD 2025/2026-->
-<div style="margin-top:25px; padding:25px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08); background-color:transparent;">
+<div style="margin-top:25px; padding:25px; border-radius:12px; background-color:transparent; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
   <h3 style="color:#004aad; margin-top:0;">🎓 Master Thesis & Internship Opportunities</h3>
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
-  
+
   <ul style="list-style:none; padding-left:0;">
     <li style="margin-bottom:15px;">
       <strong>Mixture Toxicology:</strong><br>
@@ -101,7 +103,7 @@ sitemap:
       </a>
     </li>
   </ul>
-  
+
   <p>Interns or Erasmus thesis students are welcome!<br>
      For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.</p>
 </div>
@@ -113,7 +115,17 @@ sitemap:
     background-color:#004aad !important;
     color:white !important;
   }
+
+  /* Responsive adjustments */
+  @media(max-width:768px) {
+    .ProfilePic {
+      width:150px;
+      margin:0 auto 15px auto;
+      display:block;
+    }
+  }
 </style>
+
 
 <!-- News and Announcement -->
 <!-- <div>
