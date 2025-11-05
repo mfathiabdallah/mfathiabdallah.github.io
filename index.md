@@ -15,10 +15,10 @@ sitemap:
   <!-- Bio -->
   <div style="flex:1; min-width:250px;">
     <h2 style="color:#004aad; margin-top:0;">Dr. Mohamed Fathi Abdallah</h2>
-    <p style="font-style:italic; color:#555; margin-bottom:12px;">Assistant Professor of Food Toxicology, Department of Food Science, Aarhus University, Denmark</p>
-
-    <p><strong>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</strong></p>
+    <p style="font-style:italic; color:#555; margin-bottom:12px;">Assistant Professor of Food Toxicology</p>
+    <p style="font-style:italic; color:#555; margin-bottom:12px;">Department of Food Science, Aarhus University, Denmark</p>
     
+    <p><strong>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</strong></p>
 
     <div style="margin-top:12px;">
       <span style="background-color:rgba(224, 247, 255,0.3); padding:6px 12px; border-radius:6px; font-weight:bold; color:#004aad;">Scholarships & Fellowships Support</span>
@@ -66,10 +66,10 @@ sitemap:
 <div style="margin-top:25px; padding:25px; border-radius:12px; background-color:transparent; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
   <h3 style="color:#004aad; margin-top:0;">🔬 Research Interests</h3>
   <ul style="list-style-type:disc; padding-left:20px; line-height:1.6;">
- <p>My research focuses on <strong>natural toxins</strong> (mycotoxins & cyanotoxins) and other emerging contaminants in novel food. I combine <strong>LC-MS/MS detection</strong> with <em>in vitro mixture toxicology models</em> to study human health impact.</p>
-    <li>Detection of natural food contaminants (postgraduate students, PhDs, Postdocs)</li>
-    <li>Application of Large Language Models in food contaminants (Postdoc / research assistants)</li>
-    <li>Mixture toxicology with a focus on food contaminants using NAMs (postgraduate students, PhDs, Postdocs)</li>
+<p>My research focuses on <strong>natural toxins</strong> (mycotoxins & cyanotoxins) and other emerging contaminants in novel food. I combine <strong>LC-MS/MS detection</strong> with <em>in vitro mixture toxicology models</em> to study human health impact.</p>
+  <li>Detection of natural food contaminants (postgraduate students, PhDs, Postdocs)</li>
+  <li>Application of Large Language Models in food contaminants (Postdoc / research assistants)</li>
+  <li>Mixture toxicology with a focus on food contaminants using NAMs (postgraduate students, PhDs, Postdocs)</li>
   </ul>
 </div>
 
