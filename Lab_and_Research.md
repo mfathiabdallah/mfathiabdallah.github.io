@@ -9,25 +9,9 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 
 <!-- Research Overview Banner -->
 <figure class="research-overview">
-  <img src="/images/aufoodtox.png" alt="AU FOOD TOX" width="1000">
+  <img src="/images/aufoodtox.png" alt="AU FOOD TOX">
   <figcaption><em>A schematic overview of AU FOOD TOX group's research focus.</em></figcaption>
 </figure>
-
-<style>
-.research-overview {
-  display: flex;
-  flex-direction: column; /* Stack image and caption vertically */
-  align-items: center;    /* Center horizontally */
-  margin: 20px 0;         /* Optional spacing */
-}
-
-.research-overview figcaption {
-  margin-top: 10px;       /* Space between image and caption */
-  font-style: italic;
-  color: #555;
-  text-align: center;     /* Just in case */
-}
-</style>
 
 <!-- ========================= -->
 <!-- 🧪 Research Lines -->
@@ -67,18 +51,19 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
     </div>
   </div>
 </div>
+
 <!-- ========================= -->
 <!-- 🧾 Current Projects -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; 🧾 Current Projects</h1>
   <div class="collapsible-content">
-    <table class="modern-table">
+    <table class="modern-table full-width">
       <thead>
         <tr>
-          <th>Project</th>
-          <th>Funding Agency</th>
-          <th>Period</th>
-          <th>Role</th>
+          <th style="width: 30%;">Project</th>
+          <th style="width: 30%;">Funding Agency</th>
+          <th style="width: 20%;">Period</th>
+          <th style="width: 20%;">Role</th>
         </tr>
       </thead>
       <tbody>
@@ -112,20 +97,20 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; 👩‍🔬 Lab Members</h1>
   <div class="collapsible-content">
-    <table class="modern-table">
+    <table class="modern-table full-width">
       <thead>
         <tr>
-          <th>Name</th>
-          <th>Position</th>
-          <th>Research Focus</th>
-          <th>Contact</th>
+          <th style="width: 25%;">Name</th>
+          <th style="width: 20%;">Position</th>
+          <th style="width: 35%;">Research Focus</th>
+          <th style="width: 20%;">Contact</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
           <td>Principal Investigator</td>
-          <td>Food toxicology, natural toxins, LC-MS/MS</td>
+          <td>Food toxicology, natural toxins, LC-MS/MS, in vitro toxicology</td>
           <td>mfa@food.au.dk</td>
         </tr>
       </tbody>
@@ -134,11 +119,41 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 </div>
 
 <!-- ========================= -->
-<!-- Modern Table Styles -->
+<!-- Styles -->
 <style>
-/* Modern Table Style */
-.modern-table {
+/* Research Overview */
+.research-overview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px 0;
+}
+.research-overview figcaption {
+  margin-top: 10px;
+  font-style: italic;
+  color: #555;
+  text-align: center;
+}
+
+/* Centered images */
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px 0;
+}
+.image-container img {
+  max-width: 600px;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+}
+
+/* Modern Tables */
+.full-width {
   width: 100%;
+}
+.modern-table {
   border-collapse: separate;
   border-spacing: 0;
   margin: 15px 0;
@@ -147,32 +162,27 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
   overflow: hidden;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-
 .modern-table thead {
   background-color: #004080;
   color: #fff;
   text-align: center;
 }
-
 .modern-table th, 
 .modern-table td {
-  padding: 12px 20px;
+  padding: 12px 15px;
   text-align: center;
+  vertical-align: middle;
 }
-
 .modern-table tbody tr {
   background-color: #f9f9f9;
   transition: background-color 0.2s ease;
 }
-
 .modern-table tbody tr:nth-child(even) {
   background-color: #e6f0ff;
 }
-
 .modern-table tbody tr:hover {
   background-color: #d1e0ff;
 }
-
 .modern-table img {
   max-width: 120px;
   height: auto;
@@ -182,7 +192,7 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 
 /* Collapsible Sections */
 .collapsible-title {
-  color: #10148;
+  color: #10148a;
   cursor: pointer;
   font-size: 25px;
   font-weight: bold;
@@ -192,13 +202,13 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
   text-align: left;
   margin-bottom: 10px;
 }
-
 .collapsible-content {
   padding: 10px 15px;
-  display: block;
+  display: block; /* Change to 'none' if you want collapsed by default */
 }
 </style>
 
+<!-- ========================= -->
 <!-- Collapsible JS -->
 <script>
 function toggleCollapsible(event) {
@@ -216,4 +226,3 @@ for (let i = 0; i < collapsibleTitles.length; i++) {
   collapsibleTitles[i].addEventListener("click", toggleCollapsible);
 }
 </script>
-
