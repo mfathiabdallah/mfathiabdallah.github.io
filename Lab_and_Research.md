@@ -3,74 +3,26 @@ layout: page
 title: "Lab and Research"
 ---
 
-<!-- 
-==========================================================
-🧠 PAGE OVERVIEW:
-This is the improved, Contrast-compatible layout for the Lab & Research page.
-It uses pure Markdown with light inline HTML for styling.
-==========================================================
--->
-
-## 🧬 Research Interest
-My research is centered on understanding the risks associated with natural toxins (mycotoxins and cyanotoxins) and other emerging contaminants in novel food.  
-This is done by applying **LC-MS/MS** methods for detection. Also, through the use of _in vitro_ models, we investigate the effects of these toxins as mixtures on human health.  
-This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.  
-
-<br>
-
-<p style="color: red; font-weight: 500;">
-We are open to support applications for scholarships and fellowships such as Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation, and other international funding opportunities.
-</p>
-
----
-
-## 🔬 Areas of Interest
-- **Detection of Natural Food Contaminants** (Postgraduate students, PhDs, Postdocs)  
-- **Application of Large Language Models in Food Contaminant Research** (Postdocs or research assistants with strong AI/ML experience)  
-- **Mixture Toxicology using New Approach Methodologies (NAMs)** (Postgraduate students, PhDs, Postdocs)  
-
----
-
-## 👩‍🔬 Lab Members
-
-| Name | Position | Research Focus | Contact |
-|------|-----------|----------------|----------|
-| **Dr. Mohamed Fathi Abdallah** | Principal Investigator | Food toxicology, natural toxins, LC-MS/MS | mfa@food.au.dk |
-| *TBA* | PhD Student | *Add topic later* |  |
-| *TBA* | Postdoc | *Add topic later* |  |
-
----
-
 ## 🧪 Research Lines
 
-### 1️⃣ Natural Toxins in Food
+###  Natural Toxins in Food
 Detection and occurrence of mycotoxins and cyanotoxins in food products using LC-MS/MS and targeted/non-targeted analysis.  
 **Related publications:**  
 - [Add publication link here]()
 
-### 2️⃣ Mixture Toxicology & Human Health
+###  Mixture Toxicology & Human Health
 Investigating combined toxic effects of multiple food contaminants using in vitro models and New Approach Methodologies (NAMs).  
 **Related publications:**  
-- [Add publication link here]()
+-  C Dongye, X Chen, Y Zhao, H Li, **MF Abdallah**, T Li, X Chen (2025).
+<br>Protective Effects of Octyl Gallate Against Deoxynivalenol-Induced Colon Inflammation: Insights from Proteomic and Metabolomic Analyses. Environment & Health, 4c00250. [[Link]](https://pubs.acs.org/doi/full/10.1021/envhealth.4c00250){:target="_blank" rel="noopener"}.
+- **MF Abdallah***, JM Recote, C Van Camp, WHR Van Hasse, L Pedroni, L Dellafiora, J Masquelier, A Rajkovic (2024).
+<br>Potential (co-)contamination of dairy milk with AFM1 and MC-LR and their synergistic interaction in inducing mitochondrial dysfunction in HepG2 cells. Food and Chemical Toxicology, 114907. [[Link]](https://www.sciencedirect.com/science/article/pii/S0278691524004733?via%3Dihub){:target="_blank" rel="noopener"}.
 
-### 3️⃣ Emerging Contaminants and Novel Foods
-Exploring risks of new contaminants (microplastics, nanoplastics, cyanotoxins) in plant-based and alternative foods.  
-**Related publications:**  
-- [Add publication link here]()
 
-### 4️⃣ Artificial Intelligence in Food Toxicology
+###  Artificial Intelligence in Food Toxicology
 Applying AI and large language models for risk prediction, data integration, and contaminant classification.  
 **Related publications:**  
-- [Add publication link here]()
 
----
-
-## ⚗️ Methodologies
-- Targeted & untargeted **LC-MS/MS** analysis  
-- **In vitro** toxicological screening (cell-based assays)  
-- **Bioinformatics and AI-based** data analysis  
-- Use of **New Approach Methodologies (NAMs)**  
-- Mixture interaction modeling  
 
 ---
 
@@ -79,7 +31,15 @@ Applying AI and large language models for risk prediction, data integration, and
 | Project | Funding Agency | Period | Role |
 |----------|----------------|---------|------|
 | **ToxiFOOD** | Novo Nordisk Foundation | 2025 – 2028 | PI |
-| *TBA* | *TBA* | *TBA* | *TBA* |
+
+---
+
+## 👩‍🔬 Lab Members
+
+| Name | Position | Research Focus | Contact |
+|------|-----------|----------------|----------|
+| **Dr. Mohamed Fathi Abdallah** | Principal Investigator | mfa@food.au.dk |
+
 
 ---
 
