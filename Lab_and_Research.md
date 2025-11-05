@@ -65,7 +65,7 @@ Place funder logos inside /assets/images/funding/
 
 <!-- Centered logos for visual impact -->
 <p class="funding-logos" align="center">
-  <img src="/assets/images/novonordiskfoundation.png" alt="Novo Nordisk Foundation" width="180">
+  <img src="/images/novonordiskfoundation.jpg" alt="Novo Nordisk Foundation" width="180">
 
 </p>
 
@@ -79,7 +79,7 @@ We are grateful to these foundations and programs for supporting our mission to 
 
 | Project | Funding Agency | Period | Role |
 |----------|----------------|---------|------|
-| **ToxiFOOD** | <img src="/assets/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="100"><br> Novo Nordisk Foundation | 2026 – 2031 | PI 
+| **ToxiFOOD** | <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation" width="100"><br> Novo Nordisk Foundation | 2026 – 2031 | PI 
 
 ---
 
