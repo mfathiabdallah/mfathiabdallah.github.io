@@ -7,24 +7,25 @@ sitemap:
   lastmod: 2025-11-05
   exclude: 'no'
 ---
-<!-- ========================= -->
 <!-- Profile Section -->
 <u>Last update: October 2025</u>
 <div style="margin-top:25px; padding:25px; border-radius:12px; background-color:rgba(255,255,255,0.05); box-shadow:0 6px 18px rgba(0,0,0,0.08); display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
 
   <!-- Bio -->
   <div style="flex:1; min-width:250px;">
-    <h2 style="color:#004aad; margin-top:0;">Dr. Mohamed Fathi Abdallah</h2>
+    <h2 style="margin-top:0;">Dr. Mohamed Fathi Abdallah</h2>
     <p style="font-style:italic; color:#555; margin-bottom:12px;">Assistant Professor of Food Toxicology</p>
     <p style="font-style:italic; color:#555; margin-bottom:12px;">Department of Food Science, Aarhus University, Denmark</p>
     
-    <p><strong>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</strong></p>
+    <p>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</p>
 
     <div style="margin-top:12px;">
-      <span style="background-color:rgba(224, 247, 255,0.3); padding:6px 12px; border-radius:6px; font-weight:bold; color:#004aad;">Scholarships & Fellowships Support</span>
+      <span style="background-color:rgba(224, 247, 255,0.3); padding:6px 12px; border-radius:6px; color:#004aad;">
+        Scholarships & Fellowships Support. Accepting Master's and PhD students.
+      </span>
     </div>
 
-    <p style="margin-top:12px; font-weight:bold; color:#007bff;">Contact: <a href="mailto:mfa@food.au.dk" style="color:#007bff; text-decoration:none;">mfa@food.au.dk</a></p>
+    <p style="margin-top:12px; color:#007bff;">Contact: <a href="mailto:mfa@food.au.dk" style="color:#007bff; text-decoration:none;">mfa@food.au.dk</a></p>
   </div>
 
   <!-- Profile Picture -->
