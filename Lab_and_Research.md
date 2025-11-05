@@ -13,6 +13,22 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
   <figcaption><em>A schematic overview of AU FOOD TOX group's research focus.</em></figcaption>
 </figure>
 
+<style>
+.research-overview {
+  display: flex;
+  flex-direction: column; /* Stack image and caption vertically */
+  align-items: center;    /* Center horizontally */
+  margin: 20px 0;         /* Optional spacing */
+}
+
+.research-overview figcaption {
+  margin-top: 10px;       /* Space between image and caption */
+  font-style: italic;
+  color: #555;
+  text-align: center;     /* Just in case */
+}
+</style>
+
 <!-- ========================= -->
 <!-- 🧪 Research Lines -->
 <div class="collapsible">
