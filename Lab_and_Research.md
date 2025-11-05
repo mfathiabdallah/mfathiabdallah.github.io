@@ -35,7 +35,7 @@ title: ""
 </div>
 
 <!-- ========================= -->
-<!-- Master Thesis / Internship Opportunities at AU FOOD for the academic year 2025/2026 -->
+<!-- Master Thesis / Internship Opportunities -->
 <div style="border:none; border-radius:10px; padding:20px; margin:25px 0; background-color:#f4f8ff; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
   <h4 style="color:#004aad; margin-top:0; font-size:1.4em;">🎓 Master Thesis / Internship Opportunities</h4>
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects.</p>
@@ -45,7 +45,7 @@ title: ""
       <strong>Mixture Toxicology:</strong><br>
       <span style="display:block; margin:5px 0; font-weight:500;">Optimization of a 3D in vitro model to study hepatocytotoxicity of different food contaminants</span>
       <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants" target="_blank" rel="noopener" 
-         style="display:inline-block; background-color:#1DA1F2; color:white; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: background 0.3s;">
+         style="display:inline-block; background-color:transparent; border:2px solid #004aad; color:#004aad; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: all 0.3s;">
          View Project
       </a>
     </li>
@@ -53,21 +53,21 @@ title: ""
       <strong>Food AI & Database:</strong><br>
       <span style="display:block; margin:5px 0; font-weight:500;">Developing a database of microbial food toxins in the EU (case study on mycotoxins)</span>
       <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins" target="_blank" rel="noopener" 
-         style="display:inline-block; background-color:#1DA1F2; color:white; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: background 0.3s;">
+         style="display:inline-block; background-color:transparent; border:2px solid #004aad; color:#004aad; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: all 0.3s;">
          View Project
       </a>
     </li>
   </ul>
 
   <p>Interns or Erasmus thesis students are welcome!<br>
-  
   For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.</p>
 </div>
 
 <style>
-  /* Hover effect for project buttons */
+  /* Hover effect for transparent buttons */
   a:hover {
-    background-color: #0d8ddb !important;
+    background-color: rgba(0, 74, 173, 0.1); /* light blue fill on hover */
+    color: #004aad;
   }
 </style>
 
