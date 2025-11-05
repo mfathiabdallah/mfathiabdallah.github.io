@@ -10,7 +10,7 @@ sitemap:
 <!-- ========================= -->
 <!-- Profile Section -->
 <u>Last update: October 2025</u>
-<div style="display:flex; flex-wrap:wrap; gap:25px; padding:30px; border-radius:12px; align-items:center; background-color:transparent;">
+<div style="margin-top:25px; padding:25px; border-radius:12px; background-color:rgba(255,255,255,0.05); box-shadow:0 6px 18px rgba(0,0,0,0.08); display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
 
   <!-- Bio -->
   <div style="flex:1; min-width:250px;">
@@ -19,6 +19,8 @@ sitemap:
 
     <p><strong>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</strong></p>
     
+    <p>My research focuses on <strong>natural toxins</strong> (mycotoxins & cyanotoxins) and other emerging contaminants in novel food. I combine <strong>LC-MS/MS detection</strong> with <em>in vitro mixture toxicology models</em> to study human health impact.</p>
+
     <div style="margin-top:12px;">
       <span style="background-color:rgba(224, 247, 255,0.3); padding:6px 12px; border-radius:6px; font-weight:bold; color:#004aad;">Scholarships & Fellowships Support</span>
     </div>
@@ -28,7 +30,7 @@ sitemap:
 
   <!-- Profile Picture -->
   <img src="mohamed_fathi_abdallah_2023(2).jpg" alt="Mohamed Fathi Abdallah"
-       style="width:170px; border-radius:12px; flex-shrink:0; object-fit:cover; float:right;">
+       style="width:170px; border-radius:12px; flex-shrink:0; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
 
 </div>
 
@@ -64,7 +66,6 @@ sitemap:
 <!-- Research Interests -->
 <div style="margin-top:25px; padding:25px; border-radius:12px; background-color:transparent; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
   <h3 style="color:#004aad; margin-top:0;">🔬 Research Interests</h3>
-  <p>My research focuses on <strong>natural toxins</strong> (mycotoxins & cyanotoxins) and other emerging contaminants in novel food. I combine <strong>LC-MS/MS detection</strong> with <em>in vitro mixture toxicology models</em> to study human health impact.</p>
   <ul style="list-style-type:disc; padding-left:20px; line-height:1.6;">
     <li>Detection of natural food contaminants (postgraduate students, PhDs, Postdocs)</li>
     <li>Application of Large Language Models in food contaminants (Postdoc / research assistants)</li>
@@ -118,14 +119,13 @@ sitemap:
 
   /* Responsive adjustments */
   @media(max-width:768px) {
-    .ProfilePic {
+    img {
       width:150px;
       margin:0 auto 15px auto;
       display:block;
     }
   }
 </style>
-
 
 <!-- News and Announcement -->
 <!-- <div>
