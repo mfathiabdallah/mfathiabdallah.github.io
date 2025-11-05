@@ -13,7 +13,7 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
 
 ---
 
-## 🧪 Research Lines
+## Research Lines
 
 ### A) Natural Toxins in Food
 Detection and occurrence of mycotoxins and cyanotoxins in food products using LC-MS/MS and targeted/non-targeted analysis.  
@@ -36,7 +36,7 @@ Applying AI and large language models for risk prediction, data integration, and
 
 ---
 
-## 💰 Funding and Support
+## Funding and Support
 
 Our research activities are supported by competitive national and international funding sources.  
 We are grateful to these foundations and programs for supporting our mission to advance food toxicology and safety research.
@@ -48,9 +48,7 @@ We are grateful to these foundations and programs for supporting our mission to 
 
 ---
 
----
-
-### 🧾 Current Projects
+### Current Projects
 
 <table class="full-width-table">
   <thead>
@@ -75,14 +73,14 @@ We are grateful to these foundations and programs for supporting our mission to 
 
 ---
 
-### 🎯 Open Opportunities
+### Open Opportunities
 
 We are open to collaborate on and support new applications for **Marie Skłodowska-Curie**, **Novo Nordisk Foundation**, **DFF**, **Villum Foundation**, and other national or international fellowships.  
 If you are a motivated researcher interested in food toxicology, mixture risk assessment, or AI-based safety evaluation — **reach out to discuss collaboration opportunities**.
 
 ---
 
-### 👩‍🔬 Lab Members
+### Lab Members
 
 <table class="full-width-table">
   <thead>
