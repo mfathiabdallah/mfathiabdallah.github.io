@@ -36,20 +36,6 @@ At AU FOOD Department, our research is centered on understanding the risks assoc
   </div>
 </div>
 
-<!-- =========================
-<!-- Funding and Support -->
-<div class="collapsible">
-  <h1 class="collapsible-title">&#10148; Funding and Support</h1>
-  <div class="collapsible-content">
-    <p>Our research activities are supported by competitive national and international funding sources. We are grateful to these foundations and programs for supporting our mission to advance food toxicology and safety research.</p>
-    
-    <!-- Centered Logos -->
-    <div class="image-container">
-      <img src="/images/novonordiskfoundation.jpg" alt="Novo Nordisk Foundation">
-    </div>
-  </div>
-</div> -->
-
 <!-- ========================= -->
 <!-- Current Projects -->
 <div class="collapsible">
