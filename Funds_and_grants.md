@@ -199,8 +199,6 @@ title: ""
       <li>University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, <strong>PR China</strong>.</li>
       <li>Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong>.</li>
       <li>Istanbul University, Istanbul, <strong>Türkiye</strong>.</li>
-      <strong><span style="font-size: larger; text-decoration: underline; color: red;">Africa</span></strong>
-      <li>American University in Cairo (AUC), <strong>Egypt</strong>.</li>
     </ul>
 
 <br> <!-- Add line spaces here -->
@@ -263,6 +261,7 @@ title: ""
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
+
 
 
 
