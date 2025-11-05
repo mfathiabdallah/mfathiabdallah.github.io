@@ -123,7 +123,7 @@ We are open to support applications for scholarships and fellowships such as Mar
 <!-- ========================= -->
 <!-- Master Thesis / Internship -->
 <div style="margin-top:25px; padding:25px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,0.08); background-color:transparent;">
-  <h3 style="color:#004aad; margin-top:0;">🎓 Master Thesis & Internship Opportunities</h3>
+  <h3 style="color:#004aad; margin-top:0;">🎓 Master Thesis & Internship Opportunities at AU FOOD 2025/2026</h3>
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
   
   <ul style="list-style:none; padding-left:0;">
@@ -157,8 +157,6 @@ We are open to support applications for scholarships and fellowships such as Mar
     color:white !important;
   }
 </style>
-
-
 
 <!-- News and Announcement -->
 <div>
