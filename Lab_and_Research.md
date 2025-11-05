@@ -35,6 +35,27 @@ title: ""
 </div>
 
 <!-- ========================= -->
+<!-- Master Thesis / Internship Opportunities -->
+<div style="border:2px solid #004aad; border-radius:10px; padding:18px; margin:25px 0; background-color:#f4f8ff;">
+  <h4 style="color:#004aad; margin-top:0;">🎓 Master Thesis / Internship Opportunities</h4>
+  <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects.</p>
+  
+  <ul>
+    <li>
+      <strong>Mixture Toxicology:</strong>
+      <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants" target="_blank" rel="noopener" style="color:#e55300; font-weight:bold;">Optimization of a 3D in vitro model to study hepatocytotoxicity of different food contaminants</a>
+    </li>
+    <li>
+      <strong>Food AI & Database:</strong>
+      <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins" target="_blank" rel="noopener" style="color:#e55300; font-weight:bold;">Developing a database of microbial food toxins in the EU (case study on mycotoxins)</a>
+    </li>
+  </ul>
+  
+  <p>For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.</p>
+</div>
+
+
+<!-- ========================= -->
 <!-- Research Overview Banner -->
 <figure class="research-overview">
   <img src="/images/aufoodtox.png" alt="AU FOOD TOX">
