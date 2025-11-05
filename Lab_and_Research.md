@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Welcome to the AU FOOD TOX group"
+title: ""
 ---
-
 <!-- ========================= -->
 <!-- Hero Banner -->
 <div style="background: linear-gradient(135deg, #004aad, #0073e6); color: white; padding: 35px 25px; border-radius: 12px; text-align: center; margin-bottom: 25px;">
@@ -152,7 +151,6 @@ title: "Welcome to the AU FOOD TOX group"
     </table>
   </div>
 </div>
-
 <!-- ========================= -->
 <!-- Styles -->
 <style>
@@ -210,6 +208,7 @@ h3 {
   border-radius: 10px;
   overflow: hidden;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  table-layout: fixed; /* make columns equal width */
 }
 .modern-table thead {
   background-color: #004080;
@@ -221,6 +220,8 @@ h3 {
   padding: 12px 15px;
   text-align: center;
   vertical-align: middle;
+  width: calc(100% / 6); /* evenly distribute 6 columns */
+  word-wrap: break-word; /* wrap long content */
 }
 .modern-table tbody tr {
   background-color: #f9f9f9;
@@ -233,7 +234,7 @@ h3 {
   background-color: #d1e0ff;
 }
 .modern-table img {
-  max-width: 120px;
+  max-width: 100px;
   height: auto;
   display: block;
   margin: 0 auto;
@@ -255,6 +256,7 @@ h3 {
 .collapsible-title:hover {
   transform: translateY(-2px);
   background: linear-gradient(90deg, #003b9b 0%, #0066cc 100%);
+}
 .collapsible-content {
   padding: 12px 18px;
   display: block; /* set to 'none' if you want collapsed by default */
@@ -293,39 +295,3 @@ a:hover {
   background-color: #0066cc;
 }
 </style>
-
-<!-- ========================= -->
-<!-- Collapsible JS -->
-<script>
-function toggleCollapsible(event) {
-  const content = event.target.nextElementSibling;
-  event.target.classList.toggle("active");
-  if (content.style.maxHeight){
-    content.style.maxHeight = null;
-  } else {
-    content.style.maxHeight = content.scrollHeight + "px";
-  }
-}
-
-// Attach click event to all collapsible titles
-const collapsibleTitles = document.getElementsByClassName("collapsible-title");
-for (let i = 0; i < collapsibleTitles.length; i++) {
-  collapsibleTitles[i].addEventListener("click", toggleCollapsible);
-}
-
-// Back-to-top button
-const backToTop = document.createElement('div');
-backToTop.id = "backToTop";
-backToTop.innerText = "↑ Top";
-document.body.appendChild(backToTop);
-
-backToTop.addEventListener("click", () => window.scrollTo({ top: 0, behavior: 'smooth' }));
-
-window.addEventListener("scroll", () => {
-  if (window.scrollY > 400) {
-    backToTop.style.display = "block";
-  } else {
-    backToTop.style.display = "none";
-  }
-});
-</script>
