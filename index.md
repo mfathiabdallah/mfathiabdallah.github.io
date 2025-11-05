@@ -12,21 +12,17 @@ sitemap:
 <div style="margin-top:25px; padding:25px; border-radius:12px; background-color:rgba(255,255,255,0.05); box-shadow:0 6px 18px rgba(0,0,0,0.08); display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
 
   <!-- Bio -->
-  <div style="flex:1; min-width:250px;">
+  <div style="flex:1; min-width:250px; display:flex; flex-direction:column; justify-content:center; height:170px;">
     <h2 style="margin-top:0;">Dr. Mohamed Fathi Abdallah</h2>
-    <p style="font-style:italic; color:#555; margin-bottom:12px;">Assistant Professor of Food Toxicology</p>
-    <p style="font-style:italic; color:#555; margin-bottom:12px;">Department of Food Science, Aarhus University, Denmark</p>
+    <p style="font-style:italic; color:#555; margin:0 0 6px 0;">Assistant Professor of Food Toxicology</p>
+    <p style="font-style:italic; color:#555; margin:0 0 12px 0;">Department of Food Science, Aarhus University, Denmark</p>
     
-    <p>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</p>
+    <p style="margin:0 0 12px 0;">Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</p>
 
-    <div style="margin-top:12px;">
-      <span style="background-color:rgba(224, 247, 255,0.3); padding:6px 12px; border-radius:6px; color:#004aad;">
-        Accepting Master's and PhD students.
-        Scholarships & Fellowships Support.
-      </span>
-    </div>
+    <p style="margin:0 0 6px 0; font-style:italic; color:#555;">Accepting Master's and PhD students.</p>
+    <p style="margin:0; font-style:italic; color:#555;">Scholarships & Fellowships Support.</p>
 
-    <p style="margin-top:12px; color:#007bff;">Contact: <a href="mailto:mfa@food.au.dk" style="color:#007bff; text-decoration:none;">mfa@food.au.dk</a></p>
+    <p style="margin-top:12px; font-style:italic; color:#555;">Contact: <a href="mailto:mfa@food.au.dk" style="color:#007bff; text-decoration:none;">mfa@food.au.dk</a></p>
   </div>
 
   <!-- Profile Picture -->
@@ -34,6 +30,7 @@ sitemap:
        style="width:170px; border-radius:12px; flex-shrink:0; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
 
 </div>
+
 
 <!-- ========================= -->
 <!-- Education & Experience -->
