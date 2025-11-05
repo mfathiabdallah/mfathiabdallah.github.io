@@ -36,7 +36,7 @@ title: ""
 
 <!-- ========================= -->
 <!-- Master Thesis / Internship Opportunities -->
-<div style="border:2px solid #004aad; border-radius:10px; padding:20px; margin:25px 0; background-color:#f4f8ff; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+<div style="border:none; border-radius:10px; padding:20px; margin:25px 0; background-color:#f4f8ff; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
   <h4 style="color:#004aad; margin-top:0; font-size:1.4em;">🎓 Master Thesis / Internship Opportunities</h4>
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects.</p>
   
