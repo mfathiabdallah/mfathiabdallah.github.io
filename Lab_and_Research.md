@@ -121,7 +121,7 @@ If you are a motivated researcher interested in food toxicology, mixture risk as
       <tr>
         <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
         <td>Principal Investigator</td>
-        <td>Food toxicology, natural toxins, LC-MS/MS</td>
+        <td>Food toxicology, in vitro toxicology, natural toxins, LC-MS/MS</td>
         <td>mfa@food.au.dk</td>
       </tr>
     </tbody>
