@@ -28,7 +28,7 @@ sitemap:
     </p>
   </div>
 
-  <!-- Profile Picture (no visible frame) -->
+  <!-- Profile Picture -->
   <img src="mohamed_fathi_abdallah_2023(2).jpg" alt="Mohamed Fathi Abdallah" class="profile-img">
 </div>
 
@@ -68,7 +68,8 @@ sitemap:
 <div class="content-box thesis-box">
   <div class="thesis-header">
     <h3>🎓 Master Thesis & Internship Opportunities at AU FOOD 2025/2026</h3>
-    </div>
+    <span class="new-flag">NEW</span>
+  </div>
 
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
 
@@ -93,13 +94,10 @@ sitemap:
   </p>
 </div>
 
-
-
-
 <!-- ========================= -->
 <!-- Announcements Section -->
-<div class="content-box" style="margin-top:40px;">
-  <h2 style="color:#004aad; margin-top:0;">Announcements</h2>
+<div class="content-box announcements-wrapper">
+  <h2>📢 Announcements</h2>
 
   <div class="announcement-section">
 
@@ -155,7 +153,6 @@ sitemap:
         <img src="/images/AarhusUni.jpg" alt="Aarhus University Building">
       </div>
     </div>
-
   </div>
 
   <!-- More News -->
@@ -205,108 +202,82 @@ sitemap:
 </div>
 
 <!-- ========================= -->
-<!-- ✅ CSS (responsive layout & visual polish) -->
+<!-- ✅ CSS -->
 <style>
-  :root{
+  :root {
     --accent:#004aad;
-    --accent-dark:#003b7a;
     --muted:#555;
-    --card-shadow: 0 4px 14px rgba(0,0,0,0.08);
+    --card-shadow:0 4px 14px rgba(0,0,0,0.08);
   }
 
-  /* Page layout & profile */
+  /* Layout & profile */
   .profile-container {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-between;
-    gap: 25px;
-    margin-top: 15px;
-    padding: 22px;
-    border-radius: 12px;
-    background-color: rgba(255,255,255,0.05);
-    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+    display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
+    gap:25px; margin-top:15px; padding:22px; border-radius:12px;
+    background-color:rgba(255,255,255,0.05); box-shadow:0 6px 18px rgba(0,0,0,0.08);
   }
-
-  .bio { flex: 1; min-width: 250px; }
-  .subtitle { font-style: italic; color: var(--muted); margin: 0 0 8px; }
-  .highlight { font-style: italic; color: #ed1a07; margin: 0 0 4px; }
-  .contact a { color: #007bff; text-decoration: none; }
-  .profile-img { width: 170px; border-radius: 12px; object-fit: cover; box-shadow: none; border: 0; } /* no frame */
+  .bio { flex:1; min-width:250px; }
+  .subtitle { font-style:italic; color:var(--muted); margin:0 0 8px; }
+  .highlight { font-style:italic; color:#ed1a07; margin:0 0 4px; }
+  .profile-img { width:170px; border-radius:12px; object-fit:cover; border:0; }
 
   /* Content boxes */
-  .content-box {
-    margin-top: 20px;
-    padding: 18px;
-    border-radius: 12px;
-    background-color: transparent;
-    box-shadow: var(--card-shadow);
+  .content-box { margin-top:20px; padding:18px; border-radius:12px; box-shadow:var(--card-shadow); background:transparent; }
+
+  /* Thesis header NEW flag */
+  .thesis-header { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .new-flag {
+    background:linear-gradient(135deg,#ff3b3b,#ff7b00);
+    color:#fff; font-size:0.8rem; font-weight:700;
+    padding:4px 10px; border-radius:6px;
+    animation:pulse 1.5s infinite ease-in-out;
+    box-shadow:0 0 6px rgba(255,90,0,0.4);
   }
+  @keyframes pulse { 0%{transform:scale(1)} 50%{transform:scale(1.1)} 100%{transform:scale(1)} }
 
-  /* Projects / buttons */
-  .project-title { margin: 6px 0 10px; font-style: italic; color: var(--muted); }
-  .btn-outline { padding: 8px 14px; border: 2px solid var(--accent); border-radius: 8px; color: var(--accent); font-weight: 700; text-decoration: none; transition: 0.18s; display:inline-block; }
-  .btn-outline:hover { background-color: var(--accent); color: #fff !important; transform: translateY(-2px); }
-
-  /* Announcements: compact and tidy */
-  .announcement-section {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;               /* compact vertical gap between announcement blocks */
-    margin-top: 10px;
-  }
-
+  /* Announcements */
+  .announcements-wrapper h2 { color:var(--accent); margin-top:0; }
+  .announcement-section { display:flex; flex-direction:column; gap:10px; margin-top:10px; }
   .announcement-item {
-    display: flex;
-    flex-wrap: nowrap;
-    align-items: center;
-    gap: 16px;
-    background-color: rgba(255,255,255,0.035);
-    padding: 12px;           /* compact padding */
-    border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-    transition: transform 0.18s ease-in-out;
+    display:flex; flex-wrap:nowrap; align-items:center; gap:16px;
+    background:rgba(255,255,255,0.04); padding:12px; border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.05);
+    transition:transform .18s ease-in-out;
   }
+  .announcement-item:hover { transform:translateY(-3px); }
+  .announcement-text { flex:1; min-width:220px; }
+  .announcement-text h3 { margin:0 0 6px; color:var(--accent); font-size:1.05rem; }
+  .announcement-text p { margin:0 0 6px; line-height:1.45; color:#333; }
+  .announcement-image { flex:0 0 240px; }
+  .announcement-image img { width:100%; border-radius:10px; display:block; box-shadow:0 3px 8px rgba(0,0,0,0.06); }
+  .announcement-hr { width:60%; max-width:360px; margin:10px auto; border:none; border-top:1px solid rgba(160,160,160,0.25); }
 
-  .announcement-item:hover { transform: translateY(-3px); }
-
-  .announcement-text { flex: 1; min-width: 220px; }
-  .announcement-text h3 { margin: 0 0 6px 0; color: var(--accent); font-size: 1.05rem; }
-  .announcement-text p { margin: 0 0 6px 0; line-height: 1.45; color: #333; }
-
-  .announcement-image { flex: 0 0 240px; } /* narrower image column to save space */
-  .announcement-image img { width: 100%; height: auto; border-radius: 10px; display: block; box-shadow: 0 3px 8px rgba(0,0,0,0.06); }
-
-  /* Divider between announcements — small and light */
-  .announcement-hr { width: 60%; max-width: 360px; margin: 10px auto; border: none; border-top: 1px solid rgba(160,160,160,0.25); }
+  /* Buttons & links */
+  .btn-outline {
+    padding:8px 14px; border:2px solid var(--accent); border-radius:8px;
+    color:var(--accent); font-weight:700; text-decoration:none; display:inline-block;
+    transition:0.18s;
+  }
+  .btn-outline:hover { background:var(--accent); color:#fff!important; transform:translateY(-2px); }
 
   /* Contact grid */
-  .contact-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-top: 12px; }
-  .contact-card { border: 1px solid rgba(200,200,200,0.5); padding: 16px; border-radius: 10px; }
-  .contact-img { width: 85%; border-radius: 10px; margin-top: 10px; display:block; }
+  .contact-grid { display:grid; grid-template-columns:1fr 1fr; gap:18px; margin-top:12px; }
+  .contact-card { border:1px solid rgba(200,200,200,0.5); padding:16px; border-radius:10px; }
+  .contact-img { width:85%; border-radius:10px; margin-top:10px; display:block; }
 
-  .centered-hr { width: 420px; max-width: 90%; margin: 30px auto; border: none; border-top: 2px solid #aaa; }
+  .centered-hr { width:420px; max-width:90%; margin:30px auto; border:none; border-top:2px solid #aaa; }
 
-  /* Typography small improvements */
-  h2, h3, h4 { color: var(--accent); }
-  p, li { color: #222; }
-
-  /* Responsive adjustments */
-  @media (max-width: 900px) {
-    .profile-container { flex-direction: column; text-align: center; }
-    .profile-img { margin-top: 12px; width: 150px; }
-    .announcement-item { flex-direction: column; text-align: center; gap: 12px; padding: 12px; }
-    .announcement-image { width: 100%; max-width: 420px; flex: none; }
-    .announcement-hr { width: 70%; margin: 10px auto; }
-    .contact-grid { grid-template-columns: 1fr; }
+  /* Responsive */
+  @media (max-width:900px) {
+    .profile-container { flex-direction:column; text-align:center; }
+    .announcement-item { flex-direction:column; text-align:center; gap:12px; }
+    .announcement-image { width:100%; max-width:420px; flex:none; }
+    .contact-grid { grid-template-columns:1fr; }
+    .new-flag { font-size:0.75rem; padding:3px 8px; }
   }
-
-  @media (max-width: 480px) {
-    .announcement-section { gap: 8px; }
-    .announcement-image { flex: none; width: 100%; }
-    .btn-outline { padding: 8px 12px; }
+  @media (max-width:480px) {
+    .announcement-section { gap:8px; }
+    .announcement-item { padding:10px; }
   }
-
-  /* prevent horizontal scroll */
-  body { overflow-x: hidden; }
+  body { overflow-x:hidden; }
 </style>
