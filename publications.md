@@ -1,45 +1,6 @@
 ---
 layout: page
-title: ""
----
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p>&#10148; My CV <a href="/mohamed_fathi_abdallah_july_2025.pdf" target="_blank" rel="noopener">(click to download)</a>.</p>
-    <p>&#10148; Visit my <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">page</a> at Aarhus University</p>
-    <i class="fab fa-orcid"></i>    &nbsp; ORCID: &nbsp; <a href="https://orcid.org/0000-0002-3903-6452" target="_blank">0000-0002-3903-6452</a><br><br>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <iframe src="/mohamed_fathi_abdallah_july_2025.pdf" style="width:85%;height:250px;"></iframe>
-  </div>
-</div>
-
-
-<style>
-    .a2a_kit {
-        float: right; /* Float the div to the right */
-        margin: 10px; /* Add some margin for spacing */
-    }
-</style>
-
-<!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-    <a class="a2a_button_facebook"></a>
-    <a class="a2a_button_linkedin"></a>
-    <a class="a2a_button_x"></a>
-    <a class="a2a_button_microsoft_teams"></a>
-    <a class="a2a_button_whatsapp"></a>
-    <a class="a2a_button_pinterest"></a>
-    <a class="a2a_button_email"></a>
-</div>
-<script>
-    var a2a_config = a2a_config || {};
-    a2a_config.num_services = 12;
-</script>
-<script async src="https://static.addtoany.com/menu/page.js"></script>
-<!-- AddToAny END -->
-
+title: "Publications"
 ---
 
 ## Publications 
