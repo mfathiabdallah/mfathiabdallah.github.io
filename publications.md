@@ -2,8 +2,6 @@
 layout: page
 title: "Publications"
 ---
-
-## Publications 
 <table>
   <tbody>
     <tr>
