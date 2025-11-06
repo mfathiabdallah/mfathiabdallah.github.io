@@ -273,7 +273,7 @@ sitemap:
   /* Contact grid */
   .contact-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-top: 12px; }
   .contact-card { border: 1px solid rgba(200,200,200,0.5); padding: 16px; border-radius: 10px; }
-  .contact-img { width: 85%; border-radius: 10px; margin-top: 10px; display:block; }
+  .contact-img { width: 100%; border-radius: 10px; margin-top: 10px; display:block; }
 
   .centered-hr { width: 420px; max-width: 90%; margin: 30px auto; border: none; border-top: 2px solid #aaa; }
 
