@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Home Page
+title: AU FOOD TOX Research Group
 permalink: /
 description: "Assistant Professor of Food Toxicology at Aarhus University, Denmark."
 sitemap:
-  lastmod: 2025-11-05
-  exclude: 'no'
+lastmod: 2025-11-05
+exclude: 'no'
 ---
 
 <!-- ========================= -->
@@ -20,10 +20,10 @@ sitemap:
 
     <p>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</p>
 
-    <p class="highlight">Accepting Master's and PhD students.</p>
-    <p class="highlight">Scholarships &amp; Fellowships Support.</p>
+    <p class="highlight">🎯 <strong>Accepting Master's and PhD students.</strong></p>
+    <p class="highlight">🎓 <strong>Scholarships &amp; Fellowships Support.</strong></p>
 
-    <p class="contact">Contact:
+    <p class="contact-title">📬 <strong>Contact:</strong>
       <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>
     </p>
   </div>
@@ -35,11 +35,11 @@ sitemap:
 <!-- ========================= -->
 <!-- Positions & Affiliations -->
 <div class="content-box">
-  <h3>🏛️ Other Positions & Affiliations</h3>
+  <h3 class="section-title">🏛️ Other Positions & Affiliations</h3>
   <ul>
     <li>Expert Group Member (Natural Toxins), ILSI Europe, Belgium.</li>
     <li>Board Member of the European Society of Toxicology In Vitro (ESTIV).</li>
-    <li>Member of Society of Toxicology (SOT) & Postdoctoral Representative of FS3 Food Safety Specialty, USA.</li>
+    <li>Member of Society of Toxicology (SOT) &amp; Postdoctoral Representative of FS3 Food Safety Specialty, USA.</li>
     <li>Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.</li>
   </ul>
 </div>
@@ -47,7 +47,7 @@ sitemap:
 <!-- ========================= -->
 <!-- Research Interests -->
 <div class="content-box">
-  <h3>🔬 Research Interests</h3>
+  <h3 class="section-title">🔬 Research Interests</h3>
   <p>My research focuses on natural toxins (mycotoxins &amp; cyanotoxins) and other emerging contaminants in novel food. I combine LC-MS/MS detection with <em>in vitro</em> mixture toxicology models to study human health impact.</p>
   <ul>
     <li>Detection of natural food contaminants (postgraduate students, PhDs, Postdocs)</li>
@@ -59,15 +59,16 @@ sitemap:
 <!-- ========================= -->
 <!-- Scholarships & Fellowships -->
 <div class="content-box">
-  <h3>🎓 Scholarships & Fellowships</h3>
-  <p>We support applications for scholarships and fellowships such as <strong>Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation</strong>, and others.</p>
+  <h3 class="section-title">🎓 Scholarships & Fellowships</h3>
+  <p>We support applications for scholarships and fellowships such as <strong>Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation</strong>, and others.  
+  Exceptional and motivated candidates are encouraged to get in touch for guidance on proposal writing and research topics.</p>
 </div>
 
 <!-- ========================= -->
 <!-- Master Thesis / Internship at AU FOOD -->
 <div class="content-box thesis-box">
   <div class="thesis-header">
-    <h3>🎓 Master Thesis & Internship Opportunities at AU FOOD 2025/2026</h3>
+    <h3 class="section-title">🧪 Master Thesis & Internship Opportunities at AU FOOD 2025/2026</h3>
     <span class="new-flag">NEW</span>
   </div>
 
@@ -77,14 +78,14 @@ sitemap:
     <li>
       <strong>Mixture Toxicology:</strong>
       <p class="project-title">Optimization of a 3D in vitro model to study hepatocytotoxicity of different food contaminants</p>
-      <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants" 
+      <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants"
          target="_blank" rel="noopener" class="btn-outline">View Project</a>
     </li>
 
     <li>
-      <strong>Food AI & Database:</strong>
+      <strong>Food AI &amp; Database:</strong>
       <p class="project-title">Developing a database of microbial food toxins in the EU (case study on mycotoxins)</p>
-      <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins" 
+      <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins"
          target="_blank" rel="noopener" class="btn-outline">View Project</a>
     </li>
   </ul>
@@ -97,11 +98,10 @@ sitemap:
 <!-- ========================= -->
 <!-- Announcements Section -->
 <div class="content-box announcements-wrapper">
-  <h2>📢 Announcements</h2>
+  <h2 class="section-title">📢 Announcements</h2>
 
   <div class="announcement-section">
 
-    <!-- Announcement 1 -->
     <div class="announcement-item">
       <div class="announcement-text">
         <h3>17 October 2025 — New Publication</h3>
@@ -116,7 +116,6 @@ sitemap:
 
     <hr class="announcement-hr"/>
 
-    <!-- Announcement 2 -->
     <div class="announcement-item">
       <div class="announcement-text">
         <h3>01 October 2025 — PhD Vacancy at AU FOOD</h3>
@@ -130,7 +129,6 @@ sitemap:
 
     <hr class="announcement-hr"/>
 
-    <!-- Announcement 3 -->
     <div class="announcement-item">
       <div class="announcement-text">
         <h3>30 September 2025 — Novo Nordisk Foundation Grant</h3>
@@ -143,7 +141,6 @@ sitemap:
 
     <hr class="announcement-hr"/>
 
-    <!-- Announcement 4 -->
     <div class="announcement-item">
       <div class="announcement-text">
         <h3>01 March 2025 — Joining Aarhus University</h3>
@@ -155,7 +152,6 @@ sitemap:
     </div>
   </div>
 
-  <!-- More News -->
   <div style="margin-top:22px;">
     <hr class="centered-hr"/>
     <p style="text-align:left; font-weight:bold; margin-top:12px;">
@@ -167,11 +163,11 @@ sitemap:
 <!-- ========================= -->
 <!-- Contact Section -->
 <div class="content-box" style="margin-top:30px;">
-  <h3 style="margin-top:0;">For contact</h3>
+  <h3 class="section-title">📞 Contact</h3>
 
   <div class="contact-grid">
     <div class="contact-card">
-      <h4>Dr. Mohamed Fathi Abdallah</h4>
+      <h4>👤 Dr. Mohamed Fathi Abdallah</h4>
       <p>
         <i class="fas fa-envelope"></i> Email: <a href="mailto:mfa@food.au.dk">mfa[at]food.au.dk</a><br>
         <i class="fab fa-twitter"></i> Twitter: <a href="https://twitter.com/MoFathiAbdallah" target="_blank">@MoFathiAbdallah</a><br>
@@ -181,13 +177,14 @@ sitemap:
     </div>
 
     <div class="contact-card">
-      <h4>Address:</h4>
+      <h4>🏢 Address</h4>
       <p>
         Department of Food Science<br>
         Aarhus University<br>
         Agro Food Park 48, Aarhus, Denmark
       </p>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.8577236812416!2d10.153219677617567!3d56.19850617325248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c15cd3e555c11%3A0xc10a2cd724a2185e!2sAgro%20Food%20Park%2048%2C%208200%20Aarhus!5e1!3m2!1sen!2sdk!4v1744464701594!5m2!1sen!2sdk" width="100%" height="225" style="border:0; border-radius:10px;" allowfullscreen loading="lazy"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.8577236812416!2d10.153219677617567!3d56.19850617325248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c15cd3e555c11%3A0xc10a2cd724a2185e!2sAgro%20Food%20Park%2048%2C%208200%20Aarhus!5e1!3m2!1sen!2sdk!4v1744464701594!5m2!1sen!2sdk"
+        width="100%" height="225" style="border:0; border-radius:10px;" allowfullscreen loading="lazy"></iframe>
     </div>
   </div>
 </div>
@@ -218,8 +215,20 @@ sitemap:
   }
   .bio { flex:1; min-width:250px; }
   .subtitle { font-style:italic; color:var(--muted); margin:0 0 8px; }
-  .highlight { font-style:italic; color:#ed1a07; margin:0 0 4px; }
+  .highlight { font-style:italic; color:#ed1a07; margin:4px 0; font-weight:600; }
+  .contact-title { color:var(--accent); margin-top:10px; font-weight:600; }
   .profile-img { width:170px; border-radius:12px; object-fit:cover; border:0; }
+
+  /* Section titles */
+  .section-title {
+    color:var(--accent);
+    font-size:1.3rem;
+    font-weight:700;
+    margin-bottom:10px;
+    border-left:4px solid var(--accent);
+    padding-left:10px;
+    letter-spacing:0.3px;
+  }
 
   /* Content boxes */
   .content-box { margin-top:20px; padding:18px; border-radius:12px; box-shadow:var(--card-shadow); background:transparent; }
@@ -237,7 +246,7 @@ sitemap:
 
   /* Announcements */
   .announcements-wrapper h2 { color:var(--accent); margin-top:0; }
-  .announcement-section { display:flex; flex-direction:column; gap:10px; margin-top:10px; }
+  .announcement-section { display:flex; flex-direction:column; gap:8px; margin-top:10px; }
   .announcement-item {
     display:flex; flex-wrap:nowrap; align-items:center; gap:16px;
     background:rgba(255,255,255,0.04); padding:12px; border-radius:10px;
@@ -250,7 +259,7 @@ sitemap:
   .announcement-text p { margin:0 0 6px; line-height:1.45; color:#333; }
   .announcement-image { flex:0 0 240px; }
   .announcement-image img { width:100%; border-radius:10px; display:block; box-shadow:0 3px 8px rgba(0,0,0,0.06); }
-  .announcement-hr { width:60%; max-width:360px; margin:10px auto; border:none; border-top:1px solid rgba(160,160,160,0.25); }
+  .announcement-hr { width:60%; max-width:360px; margin:8px auto; border:none; border-top:1px solid rgba(160,160,160,0.25); }
 
   /* Buttons & links */
   .btn-outline {
@@ -262,7 +271,8 @@ sitemap:
 
   /* Contact grid */
   .contact-grid { display:grid; grid-template-columns:1fr 1fr; gap:18px; margin-top:12px; }
-  .contact-card { border:1px solid rgba(200,200,200,0.5); padding:16px; border-radius:10px; }
+  .contact-card { border:1px solid rgba(200,200,200,0.5); padding:16px; border-radius:10px; box-shadow:var(--card-shadow); background:rgba(255,255,255,0.03); }
+  .contact-card h4 { color:var(--accent); margin-top:0; }
   .contact-img { width:85%; border-radius:10px; margin-top:10px; display:block; }
 
   .centered-hr { width:420px; max-width:90%; margin:30px auto; border:none; border-top:2px solid #aaa; }
@@ -273,11 +283,13 @@ sitemap:
     .announcement-item { flex-direction:column; text-align:center; gap:12px; }
     .announcement-image { width:100%; max-width:420px; flex:none; }
     .contact-grid { grid-template-columns:1fr; }
-    .new-flag { font-size:0.75rem; padding:3px 8px; }
+    .section-title { font-size:1.15rem; border-left:3px solid var(--accent); }
   }
   @media (max-width:480px) {
-    .announcement-section { gap:8px; }
+    .announcement-section { gap:6px; }
     .announcement-item { padding:10px; }
+    .highlight { font-size:0.95rem; }
   }
+
   body { overflow-x:hidden; }
 </style>
