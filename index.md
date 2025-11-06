@@ -306,6 +306,8 @@ sitemap:
   </p>
 </div>
 
+
+ <hr class="centered-hr" />
 <!-- 👇 Contact Section -->
 <p style="text-align: left; font-weight: bold; margin-top: 30px;">For contact</p>
 
