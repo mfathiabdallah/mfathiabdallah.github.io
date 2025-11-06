@@ -20,8 +20,8 @@ sitemap:
     
     <p style="margin:0 0 12px 0;">Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</p>
 
-    <p style="margin:0 0 6px 0; font-style:italic; color:#555;">Accepting Master's and PhD students.</p>
-    <p style="margin:0; font-style:italic; color:#555;">Scholarships & Fellowships Support.</p>
+    <p style="margin:0 0 6px 0; font-style:italic; color:#ed1a07;">Accepting Master's and PhD students.</p>
+    <p style="margin:0; font-style:italic; color:#ed1a07;">Scholarships & Fellowships Support.</p>
 
     <p style="margin-top:12px; font-style:italic; color:#555;">Contact: 
       <a href="mailto:mfa@food.au.dk" style="color:#007bff; text-decoration:none;">mfa@food.au.dk</a>
