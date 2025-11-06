@@ -1,0 +1,222 @@
+---
+layout: page
+title: "Join Us"
+---
+
+<!-- ========================= -->
+<!-- PhD Hiring Card -->
+<div style="border-left: 8px solid rgba(0, 74, 173, 0.2); /* 20% opacity of original blue */; background-color: #f0f7ff; border-radius: 10px; padding: 25px 20px; margin: 35px 0; box-shadow: 0 3px 10px rgba(0,0,0,0.08);">
+  <h2 style="color:#004aad; margin-top:0; font-size:1.5em;">🚀 We’re Hiring a PhD Student!</h2>
+  <p style="font-size:1.05em; line-height:1.6;">
+    <strong>Topic:</strong> Quantification of natural toxins in novel food using advanced mass spectrometry.<br>
+    <strong>Deadline:</strong> <span style="color:#d12a00; font-weight:bold;">6 November 2025</span>
+  </p>
+  <div style="margin-top:10px;">
+    <a href="https://www.mfathiabdallah.com/PhD_position1/" target="_blank" rel="noopener" 
+       style="display:inline-block; background-color:#004aad; color:white; padding:10px 18px; border-radius:6px; text-decoration:none; font-weight:600; margin-right:10px;">
+       🔍 View Details
+    </a>
+    <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" 
+       target="_blank" rel="noopener"
+       style="display:inline-block; background-color:#e55300; color:white; padding:10px 18px; border-radius:6px; text-decoration:none; font-weight:600;">
+       🧭 Apply Now
+    </a>
+  </div>
+</div>
+
+<!-- ========================= -->
+<!-- Master Thesis / Internship Opportunities -->
+<div style="border:none; border-radius:10px; padding:20px; margin:25px 0; background-color:#f4f8ff; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+  <h4 style="color:#004aad; margin-top:0; font-size:1.4em;">🎓 Master Thesis / Internship Opportunities</h4>
+  <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects.</p>
+  
+  <ul style="list-style-type:none; padding-left:0;">
+    <li style="margin-bottom:18px;">
+      <strong>Mixture Toxicology:</strong><br>
+      <span style="display:block; margin:5px 0; font-weight:500;">Optimization of a 3D in vitro model to study hepatocytotoxicity of different food contaminants</span>
+      <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants" target="_blank" rel="noopener" 
+         style="display:inline-block; background-color:transparent; border:2px solid #004aad; color:#004aad; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: all 0.3s;">
+         View Project
+      </a>
+    </li>
+    <li style="margin-bottom:18px;">
+      <strong>Food AI & Database:</strong><br>
+      <span style="display:block; margin:5px 0; font-weight:500;">Developing a database of microbial food toxins in the EU (case study on mycotoxins)</span>
+      <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins" target="_blank" rel="noopener" 
+         style="display:inline-block; background-color:transparent; border:2px solid #004aad; color:#004aad; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: all 0.3s;">
+         View Project
+      </a>
+    </li>
+  </ul>
+
+  <p>Interns or Erasmus thesis students are welcome!<br>
+  For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.</p>
+</div>
+
+<style>
+  /* Hover effect for transparent buttons */
+  a:hover {
+    background-color: rgba(0, 74, 173, 0.1); /* light blue fill on hover */
+    color: #004aad;
+  }
+</style>
+
+
+<!-- ========================= -->
+<!-- Open Opportunities -->
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Open Opportunities</h1>
+  <div class="collapsible-content">
+    <ul>
+      <li>Marie Skłodowska-Curie Fellowships</li>
+      <li>Funding from Novo Nordisk Foundation, DFF, Villum Foundation</li>
+      <li>Other national or international fellowships</li>
+    </ul>
+    <p>If you are a motivated researcher interested in food toxicology, mixture risk assessment, or AI-based safety evaluation — <strong>reach out to discuss collaboration opportunities</strong>.</p>
+  </div>
+</div>
+
+<!-- ========================= -->
+<!-- Styles -->
+<style>
+/* Typography */
+body {
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.65;
+  color: #222;
+}
+p, li {
+  font-size: 1.05em;
+}
+h3 {
+  color: #004aad;
+  margin-top: 25px;
+}
+
+/* Research Overview */
+.research-overview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px 0;
+}
+.research-overview figcaption {
+  margin-top: 10px;
+  font-style: italic;
+  color: #555;
+  text-align: center;
+}
+
+/* Centered images */
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px 0;
+}
+.image-container img {
+  max-width: 600px;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+}
+
+/* Modern Tables */
+.full-width {
+  width: 100%;
+}
+.modern-table {
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 15px 0;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  table-layout: fixed; /* make columns equal width */
+}
+.modern-table thead {
+  background-color: #004080;
+  color: #fff;
+  text-align: center;
+}
+.modern-table th, 
+.modern-table td {
+  padding: 12px 15px;
+  text-align: center;
+  vertical-align: middle;
+  width: calc(100% / 6); /* evenly distribute 6 columns */
+  word-wrap: break-word; /* wrap long content */
+}
+.modern-table tbody tr {
+  background-color: #f9f9f9;
+  transition: background-color 0.2s ease;
+}
+.modern-table tbody tr:nth-child(even) {
+  background-color: #e6f0ff;
+}
+.modern-table tbody tr:hover {
+  background-color: #d1e0ff;
+}
+.modern-table img {
+  max-width: 100px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Collapsible Sections */
+.collapsible-title {
+  background: linear-gradient(90deg, #004aad 0%, #007bff 100%);
+  color: #fff;
+  cursor: pointer;
+  font-size: 1.3em;
+  font-weight: bold;
+  padding: 12px 18px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.collapsible-title:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(90deg, #003b9b 0%, #0066cc 100%);
+}
+.collapsible-content {
+  padding: 12px 18px;
+  display: block; /* set to 'none' if you want collapsed by default */
+  border-left: 3px solid rgba(0, 74, 173, 0.2); /* 20% opacity of original blue */;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  background-color: #f4f8ff;
+  transition: max-height 0.3s ease;
+}
+
+/* Links styling */
+a {
+  color: #004aad;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: #0073e6;
+}
+
+/* Optional back-to-top button */
+#backToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #004aad;
+  color: #fff;
+  padding: 10px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  display: none;
+  font-weight: bold;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+#backToTop:hover {
+  background-color: #0066cc;
+}
+</style>
