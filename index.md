@@ -8,6 +8,9 @@ lastmod: 2025-11-05
 exclude: 'no'
 ---
 
+<!-- Font Awesome (for modern icons) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 <!-- ========================= -->
 <!-- Profile Section -->
 <u>Last update: October 2025</u>
@@ -20,10 +23,10 @@ exclude: 'no'
 
     <p>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</p>
 
-    <p class="highlight">🎯 <strong>Accepting Master's and PhD students.</strong></p>
-    <p class="highlight">🎓 <strong>Scholarships &amp; Fellowships Support.</strong></p>
+    <p class="highlight"><i class="fa-solid fa-users-line icon-accent"></i> <strong>Accepting Master's and PhD students.</strong></p>
+    <p class="highlight"><i class="fa-solid fa-graduation-cap icon-accent"></i> <strong>Scholarships &amp; Fellowships Support.</strong></p>
 
-    <p class="contact-title">📬 <strong>Contact:</strong>
+    <p class="contact-title"><i class="fa-solid fa-envelope-circle-check icon-accent"></i> <strong>Contact:</strong>
       <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>
     </p>
   </div>
@@ -35,7 +38,7 @@ exclude: 'no'
 <!-- ========================= -->
 <!-- Positions & Affiliations -->
 <div class="content-box">
-  <h3 class="section-title">🏛️ Other Positions & Affiliations</h3>
+  <h3 class="section-title"><i class="fa-solid fa-building-columns"></i> Other Positions & Affiliations</h3>
   <ul>
     <li>Expert Group Member (Natural Toxins), ILSI Europe, Belgium.</li>
     <li>Board Member of the European Society of Toxicology In Vitro (ESTIV).</li>
@@ -47,7 +50,7 @@ exclude: 'no'
 <!-- ========================= -->
 <!-- Research Interests -->
 <div class="content-box">
-  <h3 class="section-title">🔬 Research Interests</h3>
+  <h3 class="section-title"><i class="fa-solid fa-flask-vial"></i> Research Interests</h3>
   <p>My research focuses on natural toxins (mycotoxins &amp; cyanotoxins) and other emerging contaminants in novel food. I combine LC-MS/MS detection with <em>in vitro</em> mixture toxicology models to study human health impact.</p>
   <ul>
     <li>Detection of natural food contaminants (postgraduate students, PhDs, Postdocs)</li>
@@ -59,16 +62,16 @@ exclude: 'no'
 <!-- ========================= -->
 <!-- Scholarships & Fellowships -->
 <div class="content-box">
-  <h3 class="section-title">🎓 Scholarships & Fellowships</h3>
+  <h3 class="section-title"><i class="fa-solid fa-award"></i> Scholarships & Fellowships</h3>
   <p>We support applications for scholarships and fellowships such as <strong>Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation</strong>, and others.  
   Exceptional and motivated candidates are encouraged to get in touch for guidance on proposal writing and research topics.</p>
 </div>
 
 <!-- ========================= -->
-<!-- Master Thesis / Internship at AU FOOD -->
+<!-- Master Thesis / Internship -->
 <div class="content-box thesis-box">
   <div class="thesis-header">
-    <h3 class="section-title">🧪 Master Thesis & Internship Opportunities at AU FOOD 2025/2026</h3>
+    <h3 class="section-title"><i class="fa-solid fa-microscope"></i> Master Thesis & Internship Opportunities at AU FOOD 2025/2026</h3>
     <span class="new-flag">NEW</span>
   </div>
 
@@ -96,9 +99,9 @@ exclude: 'no'
 </div>
 
 <!-- ========================= -->
-<!-- Announcements Section -->
+<!-- Announcements -->
 <div class="content-box announcements-wrapper">
-  <h2 class="section-title">📢 Announcements</h2>
+  <h2 class="section-title"><i class="fa-solid fa-bullhorn"></i> Announcements</h2>
 
   <div class="announcement-section">
 
@@ -161,23 +164,23 @@ exclude: 'no'
 </div>
 
 <!-- ========================= -->
-<!-- Contact Section -->
+<!-- Contact -->
 <div class="content-box" style="margin-top:30px;">
-  <h3 class="section-title">📞 Contact</h3>
+  <h3 class="section-title"><i class="fa-solid fa-paper-plane"></i> Contact</h3>
 
   <div class="contact-grid">
     <div class="contact-card">
-      <h4>👤 Dr. Mohamed Fathi Abdallah</h4>
+      <h4><i class="fa-solid fa-user-tie"></i> Dr. Mohamed Fathi Abdallah</h4>
       <p>
-        <i class="fas fa-envelope"></i> Email: <a href="mailto:mfa@food.au.dk">mfa[at]food.au.dk</a><br>
-        <i class="fab fa-twitter"></i> Twitter: <a href="https://twitter.com/MoFathiAbdallah" target="_blank">@MoFathiAbdallah</a><br>
-        <i class="fab fa-linkedin"></i> LinkedIn: <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">Mohamed Fathi Abdallah</a>
+        <i class="fa-solid fa-envelope"></i> Email: <a href="mailto:mfa@food.au.dk">mfa[at]food.au.dk</a><br>
+        <i class="fa-brands fa-x-twitter"></i> Twitter: <a href="https://twitter.com/MoFathiAbdallah" target="_blank">@MoFathiAbdallah</a><br>
+        <i class="fa-brands fa-linkedin"></i> LinkedIn: <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">Mohamed Fathi Abdallah</a>
       </p>
       <img src="/images/AarhusUni.jpg" alt="Aarhus University" class="contact-img">
     </div>
 
     <div class="contact-card">
-      <h4>🏢 Address</h4>
+      <h4><i class="fa-solid fa-location-dot"></i> Address</h4>
       <p>
         Department of Food Science<br>
         Aarhus University<br>
@@ -201,95 +204,94 @@ exclude: 'no'
 <!-- ========================= -->
 <!-- ✅ CSS -->
 <style>
-  :root {
-    --accent:#004aad;
-    --muted:#555;
-    --card-shadow:0 4px 14px rgba(0,0,0,0.08);
-  }
+:root {
+  --accent:#004aad;
+  --muted:#555;
+  --card-shadow:0 4px 14px rgba(0,0,0,0.08);
+}
 
-  /* Layout & profile */
-  .profile-container {
-    display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
-    gap:25px; margin-top:15px; padding:22px; border-radius:12px;
-    background-color:rgba(255,255,255,0.05); box-shadow:0 6px 18px rgba(0,0,0,0.08);
-  }
-  .bio { flex:1; min-width:250px; }
-  .subtitle { font-style:italic; color:var(--muted); margin:0 0 8px; }
-  .highlight { font-style:italic; color:#ed1a07; margin:4px 0; font-weight:600; }
-  .contact-title { color:var(--accent); margin-top:10px; font-weight:600; }
-  .profile-img { width:170px; border-radius:12px; object-fit:cover; border:0; }
+.icon-accent { color:var(--accent); margin-right:6px; }
 
-  /* Section titles */
-  .section-title {
-    color:var(--accent);
-    font-size:1.3rem;
-    font-weight:700;
-    margin-bottom:10px;
-    border-left:4px solid var(--accent);
-    padding-left:10px;
-    letter-spacing:0.3px;
-  }
+/* Layout & profile */
+.profile-container {
+  display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
+  gap:25px; margin-top:15px; padding:22px; border-radius:12px;
+  background-color:rgba(255,255,255,0.05); box-shadow:0 6px 18px rgba(0,0,0,0.08);
+}
+.bio { flex:1; min-width:250px; }
+.subtitle { font-style:italic; color:var(--muted); margin:0 0 8px; }
+.highlight { font-style:italic; color:#ed1a07; margin:4px 0; font-weight:600; }
+.contact-title { color:var(--accent); margin-top:10px; font-weight:600; }
+.profile-img { width:170px; border-radius:12px; object-fit:cover; border:0; }
 
-  /* Content boxes */
-  .content-box { margin-top:20px; padding:18px; border-radius:12px; box-shadow:var(--card-shadow); background:transparent; }
+/* Section titles */
+.section-title {
+  color:var(--accent);
+  font-size:1.3rem;
+  font-weight:700;
+  margin-bottom:10px;
+  border-left:4px solid var(--accent);
+  padding-left:10px;
+  letter-spacing:0.3px;
+  display:flex; align-items:center; gap:8px;
+}
+.section-title i { color:var(--accent); }
 
-  /* Thesis header NEW flag */
-  .thesis-header { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
-  .new-flag {
-    background:linear-gradient(135deg,#ff3b3b,#ff7b00);
-    color:#fff; font-size:0.8rem; font-weight:700;
-    padding:4px 10px; border-radius:6px;
-    animation:pulse 1.5s infinite ease-in-out;
-    box-shadow:0 0 6px rgba(255,90,0,0.4);
-  }
-  @keyframes pulse { 0%{transform:scale(1)} 50%{transform:scale(1.1)} 100%{transform:scale(1)} }
+/* Content boxes */
+.content-box { margin-top:20px; padding:18px; border-radius:12px; box-shadow:var(--card-shadow); background:transparent; }
 
-  /* Announcements */
-  .announcements-wrapper h2 { color:var(--accent); margin-top:0; }
-  .announcement-section { display:flex; flex-direction:column; gap:8px; margin-top:10px; }
-  .announcement-item {
-    display:flex; flex-wrap:nowrap; align-items:center; gap:16px;
-    background:rgba(255,255,255,0.04); padding:12px; border-radius:10px;
-    box-shadow:0 2px 8px rgba(0,0,0,0.05);
-    transition:transform .18s ease-in-out;
-  }
-  .announcement-item:hover { transform:translateY(-3px); }
-  .announcement-text { flex:1; min-width:220px; }
-  .announcement-text h3 { margin:0 0 6px; color:var(--accent); font-size:1.05rem; }
-  .announcement-text p { margin:0 0 6px; line-height:1.45; color:#333; }
-  .announcement-image { flex:0 0 240px; }
-  .announcement-image img { width:100%; border-radius:10px; display:block; box-shadow:0 3px 8px rgba(0,0,0,0.06); }
-  .announcement-hr { width:60%; max-width:360px; margin:8px auto; border:none; border-top:1px solid rgba(160,160,160,0.25); }
+/* Thesis NEW flag */
+.thesis-header { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+.new-flag {
+  background:linear-gradient(135deg,#ff3b3b,#ff7b00);
+  color:#fff; font-size:0.8rem; font-weight:700;
+  padding:4px 10px; border-radius:6px;
+  animation:pulse 1.5s infinite ease-in-out;
+  box-shadow:0 0 6px rgba(255,90,0,0.4);
+}
+@keyframes pulse { 0%{transform:scale(1)} 50%{transform:scale(1.1)} 100%{transform:scale(1)} }
 
-  /* Buttons & links */
-  .btn-outline {
-    padding:8px 14px; border:2px solid var(--accent); border-radius:8px;
-    color:var(--accent); font-weight:700; text-decoration:none; display:inline-block;
-    transition:0.18s;
-  }
-  .btn-outline:hover { background:var(--accent); color:#fff!important; transform:translateY(-2px); }
+/* Announcements */
+.announcement-item {
+  display:flex; flex-wrap:nowrap; align-items:center; gap:16px;
+  background:rgba(255,255,255,0.04); padding:12px; border-radius:10px;
+  box-shadow:0 2px 8px rgba(0,0,0,0.05);
+  transition:transform .18s ease-in-out;
+}
+.announcement-item:hover { transform:translateY(-3px); }
+.announcement-text { flex:1; min-width:220px; }
+.announcement-text h3 { margin:0 0 6px; color:var(--accent); font-size:1.05rem; }
+.announcement-text p { margin:0 0 6px; line-height:1.45; color:#333; }
+.announcement-image img { width:100%; border-radius:10px; display:block; box-shadow:0 3px 8px rgba(0,0,0,0.06); }
+.announcement-hr { width:60%; max-width:360px; margin:8px auto; border:none; border-top:1px solid rgba(160,160,160,0.25); }
 
-  /* Contact grid */
-  .contact-grid { display:grid; grid-template-columns:1fr 1fr; gap:18px; margin-top:12px; }
-  .contact-card { border:1px solid rgba(200,200,200,0.5); padding:16px; border-radius:10px; box-shadow:var(--card-shadow); background:rgba(255,255,255,0.03); }
-  .contact-card h4 { color:var(--accent); margin-top:0; }
-  .contact-img { width:85%; border-radius:10px; margin-top:10px; display:block; }
+/* Buttons */
+.btn-outline {
+  padding:8px 14px; border:2px solid var(--accent); border-radius:8px;
+  color:var(--accent); font-weight:700; text-decoration:none; display:inline-block;
+  transition:0.18s;
+}
+.btn-outline:hover { background:var(--accent); color:#fff!important; transform:translateY(-2px); }
 
-  .centered-hr { width:420px; max-width:90%; margin:30px auto; border:none; border-top:2px solid #aaa; }
+/* Contact grid */
+.contact-grid { display:grid; grid-template-columns:1fr 1fr; gap:18px; margin-top:12px; }
+.contact-card { border:1px solid rgba(200,200,200,0.5); padding:16px; border-radius:10px; box-shadow:var(--card-shadow); background:rgba(255,255,255,0.03); }
+.contact-card h4 { color:var(--accent); margin-top:0; }
+.contact-img { width:85%; border-radius:10px; margin-top:10px; display:block; }
 
-  /* Responsive */
-  @media (max-width:900px) {
-    .profile-container { flex-direction:column; text-align:center; }
-    .announcement-item { flex-direction:column; text-align:center; gap:12px; }
-    .announcement-image { width:100%; max-width:420px; flex:none; }
-    .contact-grid { grid-template-columns:1fr; }
-    .section-title { font-size:1.15rem; border-left:3px solid var(--accent); }
-  }
-  @media (max-width:480px) {
-    .announcement-section { gap:6px; }
-    .announcement-item { padding:10px; }
-    .highlight { font-size:0.95rem; }
-  }
+.centered-hr { width:420px; max-width:90%; margin:30px auto; border:none; border-top:2px solid #aaa; }
 
-  body { overflow-x:hidden; }
+/* Responsive */
+@media (max-width:900px) {
+  .profile-container { flex-direction:column; text-align:center; }
+  .announcement-item { flex-direction:column; text-align:center; gap:12px; }
+  .announcement-image { width:100%; max-width:420px; flex:none; }
+  .contact-grid { grid-template-columns:1fr; }
+  .section-title { font-size:1.15rem; border-left:3px solid var(--accent); }
+}
+@media (max-width:480px) {
+  .highlight { font-size:0.95rem; }
+  .announcement-item { padding:10px; }
+}
+body { overflow-x:hidden; }
 </style>
