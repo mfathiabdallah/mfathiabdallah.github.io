@@ -13,63 +13,6 @@ title: ""
 
 <p>At AU FOOD Department, our research is centered on understanding the risks associated with natural toxins (mycotoxins and cyanotoxins) and other emerging contaminants in novel food. This is done by applying LC-MS/MS methods for detection. Also, through the use of in vitro models, we investigate the effects of these toxins as mixtures on human health. This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.</p>
  For more details about cv visit this link : https://www.mfathiabdallah.com/CV/
-<!-- ========================= -->
-<!-- PhD Hiring Card -->
-<div style="border-left: 8px solid rgba(0, 74, 173, 0.2); /* 20% opacity of original blue */; background-color: #f0f7ff; border-radius: 10px; padding: 25px 20px; margin: 35px 0; box-shadow: 0 3px 10px rgba(0,0,0,0.08);">
-  <h2 style="color:#004aad; margin-top:0; font-size:1.5em;">🚀 We’re Hiring a PhD Student!</h2>
-  <p style="font-size:1.05em; line-height:1.6;">
-    <strong>Topic:</strong> Quantification of natural toxins in novel food using advanced mass spectrometry.<br>
-    <strong>Deadline:</strong> <span style="color:#d12a00; font-weight:bold;">6 November 2025</span>
-  </p>
-  <div style="margin-top:10px;">
-    <a href="https://www.mfathiabdallah.com/PhD_position1/" target="_blank" rel="noopener" 
-       style="display:inline-block; background-color:#004aad; color:white; padding:10px 18px; border-radius:6px; text-decoration:none; font-weight:600; margin-right:10px;">
-       🔍 View Details
-    </a>
-    <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" 
-       target="_blank" rel="noopener"
-       style="display:inline-block; background-color:#e55300; color:white; padding:10px 18px; border-radius:6px; text-decoration:none; font-weight:600;">
-       🧭 Apply Now
-    </a>
-  </div>
-</div>
-
-<!-- ========================= -->
-<!-- Master Thesis / Internship Opportunities -->
-<div style="border:none; border-radius:10px; padding:20px; margin:25px 0; background-color:#f4f8ff; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-  <h4 style="color:#004aad; margin-top:0; font-size:1.4em;">🎓 Master Thesis / Internship Opportunities</h4>
-  <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects.</p>
-  
-  <ul style="list-style-type:none; padding-left:0;">
-    <li style="margin-bottom:18px;">
-      <strong>Mixture Toxicology:</strong><br>
-      <span style="display:block; margin:5px 0; font-weight:500;">Optimization of a 3D in vitro model to study hepatocytotoxicity of different food contaminants</span>
-      <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants" target="_blank" rel="noopener" 
-         style="display:inline-block; background-color:transparent; border:2px solid #004aad; color:#004aad; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: all 0.3s;">
-         View Project
-      </a>
-    </li>
-    <li style="margin-bottom:18px;">
-      <strong>Food AI & Database:</strong><br>
-      <span style="display:block; margin:5px 0; font-weight:500;">Developing a database of microbial food toxins in the EU (case study on mycotoxins)</span>
-      <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins" target="_blank" rel="noopener" 
-         style="display:inline-block; background-color:transparent; border:2px solid #004aad; color:#004aad; padding:8px 14px; border-radius:6px; text-decoration:none; font-weight:bold; transition: all 0.3s;">
-         View Project
-      </a>
-    </li>
-  </ul>
-
-  <p>Interns or Erasmus thesis students are welcome!<br>
-  For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.</p>
-</div>
-
-<style>
-  /* Hover effect for transparent buttons */
-  a:hover {
-    background-color: rgba(0, 74, 173, 0.1); /* light blue fill on hover */
-    color: #004aad;
-  }
-</style>
 
 <!-- ========================= -->
 <!-- Research Overview Banner -->
@@ -149,9 +92,6 @@ title: ""
 
 
 
-
-
-
 <!-- Funds -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Funds</h1>
@@ -193,25 +133,6 @@ title: ""
   }
 </style> 
 
-
-
-
-
-
-
-<!-- ========================= -->
-<!-- Open Opportunities -->
-<div class="collapsible">
-  <h1 class="collapsible-title">&#10148; Open Opportunities</h1>
-  <div class="collapsible-content">
-    <ul>
-      <li>Marie Skłodowska-Curie Fellowships</li>
-      <li>Funding from Novo Nordisk Foundation, DFF, Villum Foundation</li>
-      <li>Other national or international fellowships</li>
-    </ul>
-    <p>If you are a motivated researcher interested in food toxicology, mixture risk assessment, or AI-based safety evaluation — <strong>reach out to discuss collaboration opportunities</strong>.</p>
-  </div>
-</div>
 
 <!-- ========================= -->
 <!-- Lab Members -->
