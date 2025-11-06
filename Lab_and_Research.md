@@ -4,7 +4,7 @@ title: "AU FOOD TOX Research Group"
 ---
 
 <!-- ========================= -->
-<!-- Hero Banner Carousel -->
+<!-- Hero Banner -->
 <div id="heroBanner" style="position: relative; border-radius: 12px; overflow: hidden; margin-bottom: 25px;">
   <div class="slide" style="background: linear-gradient(135deg, #004aad, #0073e6); color: white; padding: 35px 25px; text-align: center;">
     <h1 style="margin: 0; font-size: 2.2em;">AU FOOD TOX Research Group</h1>
@@ -69,7 +69,7 @@ title: "AU FOOD TOX Research Group"
     <h3>A) Natural Toxins in Food</h3>
     <p>Detection and occurrence of mycotoxins and cyanotoxins in food using LC-MS/MS and targeted/non-targeted analysis.</p>
     <div class="collapsible">
-      <h4 class="collapsible-title">&#128218; Related Publications</h4>
+      <h4 class="collapsible-title"><span class="arrow">&#9656;</span> Related Publications</h4>
       <div class="collapsible-content">
         <ul>
           <li>WR Van Hassel, <strong>MF Abdallah</strong>, et al. (2024). Microcystin-LR in basil. <em>Environmental Pollution</em>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub" target="_blank">[Link]</a></li>
@@ -83,7 +83,7 @@ title: "AU FOOD TOX Research Group"
     <h3>B) Mixture Toxicology, Risk Assessment & Human Health</h3>
     <p>Investigating combined toxic effects of multiple food contaminants using in vitro models and NAMs.</p>
     <div class="collapsible">
-      <h4 class="collapsible-title">&#128218; Related Publications</h4>
+      <h4 class="collapsible-title"><span class="arrow">&#9656;</span> Related Publications</h4>
       <div class="collapsible-content">
         <ul>
           <li>M Suman, et al. (2025). Risk prioritisation of mycotoxins. <em>World Mycotoxin Journal</em>. <a href="https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml" target="_blank">[Link]</a></li>
@@ -103,7 +103,7 @@ title: "AU FOOD TOX Research Group"
 <!-- ========================= -->
 <!-- Current Projects -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#128300; Current Projects</h1>
+  <h1 class="collapsible-title"><span class="arrow">&#9656;</span> Current Projects</h1>
   <div class="collapsible-content">
     <table class="modern-table full-width">
       <thead>
@@ -133,7 +133,7 @@ title: "AU FOOD TOX Research Group"
 <!-- ========================= -->
 <!-- Funds -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#128181; Funds</h1>
+  <h1 class="collapsible-title"><span class="arrow">&#9656;</span> Funds</h1>
   <div class="collapsible-content">
     <ul>
       <li>(2026-2031) Novo Nordisk Foundation - ECRUIT Grant. Role: PI. Budget: DKK 13.88M (€1.86M). <span style="color:red;">(Not started)</span></li>
@@ -147,7 +147,7 @@ title: "AU FOOD TOX Research Group"
 <!-- ========================= -->
 <!-- Lab Members -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#128101; Lab Members</h1>
+  <h1 class="collapsible-title"><span class="arrow">&#9656;</span> Lab Members</h1>
   <div class="collapsible-content">
     <table class="modern-table full-width">
       <thead>
@@ -184,6 +184,9 @@ document.querySelectorAll('.collapsible-title').forEach(title => {
   title.addEventListener('click', () => {
     const content = title.nextElementSibling;
     content.style.display = content.style.display === 'block' ? 'none' : 'block';
+    // Rotate arrow
+    const arrow = title.querySelector('.arrow');
+    if(arrow) arrow.style.transform = content.style.display === 'block' ? 'rotate(90deg)' : 'rotate(0deg)';
   });
 });
 
@@ -253,9 +256,12 @@ h3 { color: #004aad; margin-top: 25px; }
 .modern-table tbody tr:hover { background-color:#d1e0ff; }
 
 /* Collapsible */
-.collapsible-title { background: linear-gradient(90deg, #004aad 0%, #0073e6 100%); color:#fff; cursor:pointer; font-size:1.3em; font-weight:bold; padding:12px 18px; border-radius:8px; margin-bottom:8px; transition:all 0.3s ease; display:flex; align-items:center; gap:8px; }
+.collapsible-title { background: linear-gradient(90deg, #004aad 0%, #0073e6 100%); color:#fff; cursor:pointer; font-size:1.3em; font-weight:bold; padding:12px 18px; border-radius:8px; margin-bottom:8px; display:flex; align-items:center; gap:8px; transition:all 0.3s ease; }
 .collapsible-title:hover { transform: translateY(-2px); }
 .collapsible-content { padding:12px 18px; display:block; border-left:3px solid rgba(0,74,173,0.2); margin-bottom:15px; border-radius:5px; background: linear-gradient(90deg,#f4f8ff,#eaf2ff); transition:max-height 0.3s ease; }
+
+/* Arrow rotation */
+.arrow { display:inline-block; transition: transform 0.3s ease; }
 
 /* Back to Top */
 #backToTop { position: fixed; bottom:20px; right:20px; background-color:#004aad; color:#fff; padding:10px 14px; border-radius:6px; cursor:pointer; display:none; font-weight:bold; box-shadow:0 2px 6px rgba(0,0,0,0.2); }
