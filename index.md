@@ -161,92 +161,6 @@ sitemap:
   </ul>
 </div> -->
 
-<!-- Announcements Section -->
-
-<!-- ✅ Announcement CSS for mobile stacking -->
-<style>
-  /* Announcement container for mobile stacking */
-  @media (max-width: 768px) {
-    /* Select the announcement flex container */
-    .announcement-flex {
-      flex-direction: column !important; /* Stack items vertically */
-    }
-
-    .announcement-flex > div {
-      margin-right: 0 !important; /* Remove right margin on stacked view */
-      margin-bottom: 15px;        /* Add spacing between text and image */
-    }
-
-    .announcement-flex img {
-      width: 100% !important; /* Make image full width on mobile */
-      max-width: none !important;
-      display: block;
-      margin: 0 auto;
-    }
-  }
-</style>
-
-<!-- Announcement 1 -->
-<div> <hr /> <h2>Announcements</h2>
-  
-<div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-    <h3>17 October 2025</h3>
-    <p>New publication</p>
-    <p>Challenges in mycotoxin monitoring in recently independent countries: The case of Kosovo☆ is now online at Journal of Food Composition and Analysis.</p>
-    <p>Access to the article via this link <a href="https://www.sciencedirect.com/science/article/pii/S0889157525012815" target="_blank" rel="noopener">Click here</a>.</p>
-  </div>
-  <div style="flex: 1; margin-bottom: 20px;">
-    <img src="/images/mycotoxin_kosovo.png" alt="PhD vacancy poster" style="width: 80%; max-width: 400px; border-radius: 20px;">
-  </div>
-</div>
-<hr class="centered-hr" />
-
-<!-- Announcement 2 --> 
-<div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-    <h3>01 October 2025</h3>
-    <p>PhD Vacancy in Food Toxicology at Food Science Department, Aarhus University</p>
-    <p>Fully funded PhD position (salary, tuition fees, others) for 3 years at Department of Food Science, AU FOOD, Aarhus University. Main focus will be developing mass spec-based methods for screening and quantification of natural toxins in Novel Food.</p>
-    <p>More info via the link <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener">Click here</a>.</p>
-  </div>
-  <div style="flex: 1; margin-bottom: 20px;">
-    <img src="/images/PhD announce.png" alt="PhD vacancy poster" style="width: 80%; max-width: 400px; border-radius: 20px;">
-  </div>
-</div>
-<hr class="centered-hr" />
-
-<!-- Announcement 3 -->
-<div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-    <h3>30 September 2025</h3>
-    <p>Receiving RECRUIT Grant for International Recruitment 2025 from Novo Nordisk Foundation</p>
-    <p>I am pleased to share that I have been awarded a 5-year Grant from Novo Nordisk Foundation to establish a research group focusing on Food Toxicology, advancing detection, assessment, and risk evaluation of natural toxins in novel foods.</p>
-  </div>
-  <div style="flex: 1; margin-bottom: 20px;">
-    <img src="/images/NNF_grant.jpg" alt="NFF grant post" style="width: 80%; max-width: 400px; border-radius: 20px;">
-  </div>
-</div>
-<hr class="centered-hr" />
-
-<!-- Announcement 4 -->
-<div class="announcement-flex" style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 50px; margin-bottom: 20px;">
-    <h3>01 March 2025</h3>
-    <p>Joining Food Science Department, Aarhus University as an Assistant Professor (tenure track) in Food Toxicology</p>
-    <p>I’m thrilled to share that I will be joining the Department of Food Science at Aarhus University as a Tenure Track Assistant Professor in Food Toxicology, starting April 1st, 2025.</p>
-  </div>
-  <div style="flex: 1; margin-bottom: 20px;">
-    <img src="/images/AarhusUni.jpg" alt="Aarhus University building" style="width: 80%; max-width: 400px; border-radius: 20px;">
-  </div>
-</div>
-
-
-
-
-
-
-
 
 
 <!-- ========================= -->
@@ -391,34 +305,6 @@ sitemap:
     <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
   </p>
 </div>
-
-
-
-
-
-
-
-
-<!-- Separator before More News -->
-  <hr class="centered-hr" />
-
-  <!-- More News link -->
-  <p style="text-align: left; font-weight: bold; margin-top: 30px;">
-    For more news, please <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
-  </p>
-</div>
-  <hr class="centered-hr" />
-
-<!-- Divider Style -->
-<style>
-  .centered-hr {
-    width: 420px;
-    margin: 40px auto;
-    border: none;
-    border-top: 2px solid #aaa;
-  }
-</style>
-
 
 <!-- 👇 Contact Section -->
 <p style="text-align: left; font-weight: bold; margin-top: 30px;">For contact</p>
