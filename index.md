@@ -70,10 +70,10 @@ sitemap:
 <div style="margin-top:25px; padding:25px; border-radius:12px; background-color:transparent; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
   <h3 style="color:#004aad; margin-top:0;">🏛️ Other Positions & Affiliations</h3>
   <ul style="list-style-type:disc; padding-left:20px; line-height:1.6;">
-    <li>Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, China</li>
-    <li>Board Member of the European Society of Toxicology In Vitro (ESTIV)</li>
     <li>Expert Group Member (Natural Toxins), ILSI Europe, Belgium</li>
+    <li>Board Member of the European Society of Toxicology In Vitro (ESTIV)</li>
     <li>Member of Society of Toxicology (SOT) & Postdoctoral Representative of FS3 Food Safety Specialty, USA</li>
+     <li>Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, China</li>
   </ul>
 </div>
 
