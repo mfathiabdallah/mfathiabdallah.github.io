@@ -12,7 +12,7 @@ title: ""
 </div>
 
 <p>At AU FOOD Department, our research is centered on understanding the risks associated with natural toxins (mycotoxins and cyanotoxins) and other emerging contaminants in novel food. This is done by applying LC-MS/MS methods for detection. Also, through the use of in vitro models, we investigate the effects of these toxins as mixtures on human health. This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.</p>
-
+ For more details about cv visit this link : https://www.mfathiabdallah.com/CV/
 <!-- ========================= -->
 <!-- PhD Hiring Card -->
 <div style="border-left: 8px solid rgba(0, 74, 173, 0.2); /* 20% opacity of original blue */; background-color: #f0f7ff; border-radius: 10px; padding: 25px 20px; margin: 35px 0; box-shadow: 0 3px 10px rgba(0,0,0,0.08);">
