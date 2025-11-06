@@ -86,6 +86,180 @@ sitemap:
   <p>For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.</p>
 </div>
 
+
+
+
+<!-- ========================= -->
+<!-- Announcements Section -->
+<div style="margin-top:50px;">
+  <hr />
+  <h2 style="color:#004aad; text-align:left;">Announcements</h2>
+
+  <style>
+    .announcement-section {
+      display: flex;
+      flex-direction: column;
+      gap: 60px;
+      margin-top: 25px;
+    }
+
+    .announcement-item {
+      display: flex;
+      flex-wrap: nowrap;
+      align-items: center;
+      gap: 30px;
+      background-color: rgba(255,255,255,0.04);
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+      transition: transform 0.2s ease-in-out;
+    }
+
+    .announcement-item:hover {
+      transform: translateY(-4px);
+    }
+
+    .announcement-text {
+      flex: 1;
+      min-width: 280px;
+    }
+
+    .announcement-text h3 {
+      margin-top: 0;
+      color: #004aad;
+      font-size: 1.2em;
+    }
+
+    .announcement-text p {
+      line-height: 1.6;
+      margin-bottom: 8px;
+    }
+
+    .announcement-image {
+      flex: 0 0 320px;
+    }
+
+    .announcement-image img {
+      width: 100%;
+      height: auto;
+      border-radius: 12px;
+      display: block;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    .announcement-hr {
+      width: 420px;
+      margin: 40px auto;
+      border: none;
+      border-top: 2px solid #aaa;
+    }
+
+    /* 🔹 Responsive */
+    @media (max-width: 900px) {
+      .announcement-item {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .announcement-image {
+        flex: none;
+        width: 100%;
+        max-width: 400px;
+        margin-top: 15px;
+      }
+
+      .announcement-text h3 {
+        margin-bottom: 10px;
+      }
+
+      .announcement-hr {
+        width: 70%;
+      }
+    }
+  </style>
+
+  <div class="announcement-section">
+
+    <!-- Announcement 1 -->
+    <div class="announcement-item">
+      <div class="announcement-text">
+        <h3>17 October 2025 — New Publication</h3>
+        <p><strong>“Challenges in mycotoxin monitoring in recently independent countries: The case of Kosovo☆”</strong> 
+        is now online in the <em>Journal of Food Composition and Analysis</em>.</p>
+        <p>
+          Access the article: 
+          <a href="https://www.sciencedirect.com/science/article/pii/S0889157525012815" 
+             target="_blank" rel="noopener">Click here</a>.
+        </p>
+      </div>
+      <div class="announcement-image">
+        <img src="/images/mycotoxin_kosovo.png" alt="Mycotoxin Kosovo Article">
+      </div>
+    </div>
+
+    <hr class="announcement-hr" />
+
+    <!-- Announcement 2 -->
+    <div class="announcement-item">
+      <div class="announcement-text">
+        <h3>01 October 2025 — PhD Vacancy at AU FOOD</h3>
+        <p><strong>Fully funded 3-year PhD position</strong> at the Department of Food Science, Aarhus University.  
+        Focus: mass spectrometry-based methods for natural toxins in novel food.</p>
+        <p>
+          More info: 
+          <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" 
+             target="_blank" rel="noopener">Click here</a>.
+        </p>
+      </div>
+      <div class="announcement-image">
+        <img src="/images/PhD announce.png" alt="PhD Vacancy Poster">
+      </div>
+    </div>
+
+    <hr class="announcement-hr" />
+
+    <!-- Announcement 3 -->
+    <div class="announcement-item">
+      <div class="announcement-text">
+        <h3>30 September 2025 — Novo Nordisk Foundation Grant</h3>
+        <p>
+          Awarded a <strong>5-year RECRUIT Grant</strong> from Novo Nordisk Foundation to establish a research group 
+          in Food Toxicology, focusing on detection and risk evaluation of natural toxins in novel foods.
+        </p>
+      </div>
+      <div class="announcement-image">
+        <img src="/images/NNF_grant.jpg" alt="Novo Nordisk Foundation Grant">
+      </div>
+    </div>
+
+    <hr class="announcement-hr" />
+
+    <!-- Announcement 4 -->
+    <div class="announcement-item">
+      <div class="announcement-text">
+        <h3>01 March 2025 — Joining Aarhus University</h3>
+        <p>
+          Starting April 2025 as a <strong>Tenure Track Assistant Professor</strong> in Food Toxicology, 
+          Department of Food Science, Aarhus University.
+        </p>
+      </div>
+      <div class="announcement-image">
+        <img src="/images/AarhusUni.jpg" alt="Aarhus University Building">
+      </div>
+    </div>
+
+  </div>
+
+  <!-- More News -->
+  <p style="text-align:left; font-weight:bold; margin-top:40px;">
+    For more news, please 
+    <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
+  </p>
+</div>
+
+
+
+
 <!-- ========================= -->
 <!-- Announcements Section -->
 <div class="announcements">
