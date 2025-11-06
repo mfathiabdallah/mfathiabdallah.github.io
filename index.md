@@ -1,13 +1,12 @@
 ---
 layout: page
-title:
+title: Home Page
 permalink: /
 description: "Assistant Professor of Food Toxicology at Aarhus University, Denmark."
 sitemap:
   lastmod: 2025-11-05
   exclude: 'no'
 ---
-
 <!-- ========================= -->
 <!-- Profile Section -->
 <u>Last update: October 2025</u>
@@ -37,10 +36,10 @@ sitemap:
 <div class="content-box">
   <h3>🏛️ Other Positions & Affiliations</h3>
   <ul>
-    <li>Expert Group Member (Natural Toxins), ILSI Europe, Belgium</li>
-    <li>Board Member of the European Society of Toxicology In Vitro (ESTIV)</li>
-    <li>Member of Society of Toxicology (SOT) & Postdoctoral Representative of FS3 Food Safety Specialty, USA</li>
-    <li>Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, China</li>
+    <li>Expert Group Member (Natural Toxins), ILSI Europe, Belgium.</li>
+    <li>Board Member of the European Society of Toxicology In Vitro (ESTIV).</li>
+    <li>Member of Society of Toxicology (SOT) & Postdoctoral Representative of FS3 Food Safety Specialty, USA.</li>
+    <li>Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.</li>
   </ul>
 </div>
 
@@ -91,61 +90,62 @@ sitemap:
   .announcement-section {
     display: flex;
     flex-direction: column;
-    gap: 30px; /* reduced from 60px */
-    margin-top: 25px;
+    gap: 15px; /* reduced from 30px */
+    margin-top: 20px;
   }
 
   .announcement-item {
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
-    gap: 25px;
+    gap: 20px;
     background-color: rgba(255,255,255,0.04);
-    padding: 20px;
-    border-radius: 12px;
-    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+    padding: 16px; /* reduced from 20px */
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.06);
     transition: transform 0.2s ease-in-out;
   }
 
   .announcement-item:hover {
-    transform: translateY(-4px);
+    transform: translateY(-3px);
   }
 
   .announcement-text {
     flex: 1;
-    min-width: 280px;
+    min-width: 260px;
   }
 
   .announcement-text h3 {
     margin-top: 0;
+    margin-bottom: 8px;
     color: #004aad;
-    font-size: 1.2em;
+    font-size: 1.1em;
   }
 
   .announcement-text p {
-    line-height: 1.6;
-    margin-bottom: 8px;
+    line-height: 1.5;
+    margin-bottom: 6px;
   }
 
   .announcement-image {
-    flex: 0 0 300px;
+    flex: 0 0 280px; /* slightly smaller */
   }
 
   .announcement-image img {
     width: 100%;
     height: auto;
-    border-radius: 12px;
+    border-radius: 10px;
     display: block;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 3px 10px rgba(0,0,0,0.08);
   }
 
-  /* ✅ Make dividers lighter and with smaller margin */
+  /* ✅ More compact divider */
   .announcement-hr {
-    width: 60%;
-    max-width: 420px;
-    margin: 25px auto;
+    width: 55%;
+    max-width: 380px;
+    margin: 15px auto; /* reduced from 25px */
     border: none;
-    border-top: 1px solid rgba(180,180,180,0.4);
+    border-top: 1px solid rgba(160,160,160,0.3);
   }
 
   /* 🔹 Responsive */
@@ -158,93 +158,21 @@ sitemap:
     .announcement-image {
       flex: none;
       width: 100%;
-      max-width: 400px;
-      margin-top: 15px;
+      max-width: 380px;
+      margin-top: 10px;
     }
 
     .announcement-text h3 {
-      margin-bottom: 10px;
+      margin-bottom: 8px;
     }
 
     .announcement-hr {
       width: 70%;
-      margin: 20px auto;
+      margin: 12px auto;
     }
   }
 </style>
 
-
-  <div class="announcement-section">
-
-    <!-- Announcement 1 -->
-    <div class="announcement-item">
-      <div class="announcement-text">
-        <h3>17 October 2025 — New Publication</h3>
-        <p><strong>“Challenges in mycotoxin monitoring in recently independent countries: The case of Kosovo☆”</strong> 
-        is now online in the <em>Journal of Food Composition and Analysis</em>.</p>
-        <p>
-          Access the article: 
-          <a href="https://www.sciencedirect.com/science/article/pii/S0889157525012815" 
-             target="_blank" rel="noopener">Click here</a>.
-        </p>
-      </div>
-      <div class="announcement-image">
-        <img src="/images/mycotoxin_kosovo.png" alt="Mycotoxin Kosovo Article">
-      </div>
-    </div>
-
-    <hr class="announcement-hr" />
-
-    <!-- Announcement 2 -->
-    <div class="announcement-item">
-      <div class="announcement-text">
-        <h3>01 October 2025 — PhD Vacancy at AU FOOD</h3>
-        <p><strong>Fully funded 3-year PhD position</strong> at the Department of Food Science, Aarhus University.  
-        Focus: mass spectrometry-based methods for natural toxins in novel food.</p>
-        <p>
-          More info: 
-          <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" 
-             target="_blank" rel="noopener">Click here</a>.
-        </p>
-      </div>
-      <div class="announcement-image">
-        <img src="/images/PhD announce.png" alt="PhD Vacancy Poster">
-      </div>
-    </div>
-
-    <hr class="announcement-hr" />
-
-    <!-- Announcement 3 -->
-    <div class="announcement-item">
-      <div class="announcement-text">
-        <h3>30 September 2025 — Novo Nordisk Foundation Grant</h3>
-        <p>
-          Awarded a <strong>5-year RECRUIT Grant</strong> from Novo Nordisk Foundation to establish a research group 
-          in Food Toxicology, focusing on detection and risk evaluation of natural toxins in novel foods.
-        </p>
-      </div>
-      <div class="announcement-image">
-        <img src="/images/NNF_grant.jpg" alt="Novo Nordisk Foundation Grant">
-      </div>
-    </div>
-
-    <hr class="announcement-hr" />
-
-    <!-- Announcement 4 -->
-    <div class="announcement-item">
-      <div class="announcement-text">
-        <h3>01 March 2025 — Joining Aarhus University</h3>
-        <p>
-          Starting April 2025 as a <strong>Tenure Track Assistant Professor</strong> in Food Toxicology, 
-          Department of Food Science, Aarhus University.
-        </p>
-      </div>
-      <div class="announcement-image">
-        <img src="/images/AarhusUni.jpg" alt="Aarhus University Building">
-      </div>
-    </div>
-
-  </div>
 
   <!-- More News -->
   <hr class="centered-hr" />
@@ -252,8 +180,6 @@ sitemap:
     For more news, please 
     <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
   </p>
-</div>
-
 <hr class="centered-hr" />
 
 <!-- ========================= -->
