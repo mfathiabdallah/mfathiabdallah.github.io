@@ -87,93 +87,92 @@ sitemap:
 </div>
 
 <!-- ========================= -->
-<!-- Announcements Section -->
-<div style="margin-top:50px;">
-  <hr />
-  <h2 style="color:#004aad; text-align:left;">Announcements</h2>
+<style>
+  .announcement-section {
+    display: flex;
+    flex-direction: column;
+    gap: 30px; /* reduced from 60px */
+    margin-top: 25px;
+  }
 
-  <style>
-    .announcement-section {
-      display: flex;
-      flex-direction: column;
-      gap: 60px;
-      margin-top: 25px;
-    }
+  .announcement-item {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 25px;
+    background-color: rgba(255,255,255,0.04);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+    transition: transform 0.2s ease-in-out;
+  }
 
+  .announcement-item:hover {
+    transform: translateY(-4px);
+  }
+
+  .announcement-text {
+    flex: 1;
+    min-width: 280px;
+  }
+
+  .announcement-text h3 {
+    margin-top: 0;
+    color: #004aad;
+    font-size: 1.2em;
+  }
+
+  .announcement-text p {
+    line-height: 1.6;
+    margin-bottom: 8px;
+  }
+
+  .announcement-image {
+    flex: 0 0 300px;
+  }
+
+  .announcement-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+
+  /* ✅ Make dividers lighter and with smaller margin */
+  .announcement-hr {
+    width: 60%;
+    max-width: 420px;
+    margin: 25px auto;
+    border: none;
+    border-top: 1px solid rgba(180,180,180,0.4);
+  }
+
+  /* 🔹 Responsive */
+  @media (max-width: 900px) {
     .announcement-item {
-      display: flex;
-      flex-wrap: nowrap;
-      align-items: center;
-      gap: 30px;
-      background-color: rgba(255,255,255,0.04);
-      padding: 20px;
-      border-radius: 12px;
-      box-shadow: 0 4px 14px rgba(0,0,0,0.08);
-      transition: transform 0.2s ease-in-out;
-    }
-
-    .announcement-item:hover {
-      transform: translateY(-4px);
-    }
-
-    .announcement-text {
-      flex: 1;
-      min-width: 280px;
-    }
-
-    .announcement-text h3 {
-      margin-top: 0;
-      color: #004aad;
-      font-size: 1.2em;
-    }
-
-    .announcement-text p {
-      line-height: 1.6;
-      margin-bottom: 8px;
+      flex-direction: column;
+      text-align: center;
     }
 
     .announcement-image {
-      flex: 0 0 320px;
+      flex: none;
+      width: 100%;
+      max-width: 400px;
+      margin-top: 15px;
     }
 
-    .announcement-image img {
-      width: 100%;
-      height: auto;
-      border-radius: 12px;
-      display: block;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    .announcement-text h3 {
+      margin-bottom: 10px;
     }
 
     .announcement-hr {
-      width: 420px;
-      margin: 40px auto;
-      border: none;
-      border-top: 2px solid #aaa;
+      width: 70%;
+      margin: 20px auto;
     }
+  }
+</style>
 
-    /* 🔹 Responsive */
-    @media (max-width: 900px) {
-      .announcement-item {
-        flex-direction: column;
-        text-align: center;
-      }
-
-      .announcement-image {
-        flex: none;
-        width: 100%;
-        max-width: 400px;
-        margin-top: 15px;
-      }
-
-      .announcement-text h3 {
-        margin-bottom: 10px;
-      }
-
-      .announcement-hr {
-        width: 70%;
-      }
-    }
-  </style>
 
   <div class="announcement-section">
 
