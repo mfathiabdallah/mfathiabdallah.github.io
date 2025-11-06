@@ -86,9 +86,6 @@ sitemap:
   <p>For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.</p>
 </div>
 
-
-
-
 <!-- ========================= -->
 <!-- Announcements Section -->
 <div style="margin-top:50px;">
@@ -251,68 +248,11 @@ sitemap:
   </div>
 
   <!-- More News -->
+  <hr class="centered-hr" />
   <p style="text-align:left; font-weight:bold; margin-top:40px;">
     For more news, please 
     <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
   </p>
-</div>
-
-
-
-
-<!-- ========================= -->
-<!-- Announcements Section -->
-<div class="announcements">
-  <hr />
-  <h2>Announcements</h2>
-
-  <div class="announcement-flex">
-    <div>
-      <h3>17 October 2025</h3>
-      <p><strong>New publication</strong></p>
-      <p>“Challenges in mycotoxin monitoring in recently independent countries: The case of Kosovo☆” is now online in the Journal of Food Composition and Analysis.</p>
-      <p>Access the article here: <a href="https://www.sciencedirect.com/science/article/pii/S0889157525012815" target="_blank" rel="noopener">Click here</a>.</p>
-    </div>
-    <img src="/images/mycotoxin_kosovo.png" alt="Mycotoxin Kosovo Article">
-  </div>
-
-  <hr class="centered-hr" />
-
-  <div class="announcement-flex">
-    <div>
-      <h3>01 October 2025</h3>
-      <p><strong>PhD Vacancy in Food Toxicology at AU FOOD</strong></p>
-      <p>Fully funded PhD position (salary, tuition fees, others) for 3 years at Department of Food Science, Aarhus University. Focus: developing mass spectrometry-based methods for screening and quantification of natural toxins in novel food.</p>
-      <p>More info: <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener">Click here</a>.</p>
-    </div>
-    <img src="/images/PhD announce.png" alt="PhD Vacancy Poster">
-  </div>
-
-  <hr class="centered-hr" />
-
-  <div class="announcement-flex">
-    <div>
-      <h3>30 September 2025</h3>
-      <p><strong>Receiving RECRUIT Grant from Novo Nordisk Foundation</strong></p>
-      <p>I’ve been awarded a 5-year grant from Novo Nordisk Foundation to establish a research group focusing on Food Toxicology, advancing detection, assessment, and risk evaluation of natural toxins in novel foods.</p>
-    </div>
-    <img src="/images/NNF_grant.jpg" alt="Novo Nordisk Foundation Grant">
-  </div>
-
-  <hr class="centered-hr" />
-
-  <div class="announcement-flex">
-    <div>
-      <h3>01 March 2025</h3>
-      <p><strong>Joining Aarhus University</strong></p>
-      <p>I’m thrilled to share that I will be joining the Department of Food Science at Aarhus University as a Tenure Track Assistant Professor in Food Toxicology, starting April 1st, 2025.</p>
-    </div>
-    <img src="/images/AarhusUni.jpg" alt="Aarhus University Building">
-  </div>
-
-  <hr class="centered-hr" />
-
-  <p style="font-weight:bold;">For more news, please <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.</p>
 </div>
 
 <hr class="centered-hr" />
