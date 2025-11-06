@@ -51,7 +51,7 @@ sitemap:
 
 <!-- ========================= -->
 <!-- Education & Experience -->
-<div style="margin-top:30px; padding:25px; border-radius:12px; background-color:transparent; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+<!-- <div style="margin-top:30px; padding:25px; border-radius:12px; background-color:transparent; box-shadow:0 4px 14px rgba(0,0,0,0.08);">
   <h3 style="color:#004aad; margin-top:0;">🎓 Education & Work Experience</h3>
   <ul style="list-style-type:disc; padding-left:20px; line-height:1.6;">
     <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024), Host institute: University of Mons, Belgium</li>
@@ -63,7 +63,7 @@ sitemap:
     <li>Erasmus+ Intern Researcher (until 12/2014), IfADo Institute, Dortmund, Germany</li>
     <li>Bachelor's Degree (07/2011) in Veterinary Medical Sciences, Assiut University, Egypt</li>
   </ul>
-</div>
+</div> -->
 
 <!-- ========================= -->
 <!-- Positions & Affiliations -->
