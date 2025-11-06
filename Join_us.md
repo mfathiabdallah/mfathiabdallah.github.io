@@ -3,7 +3,7 @@ layout: page
 title: "Join us"
 ---
 
-<!-- Font Awesome -->
+<!-- Font Awesome for icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <!-- ========================= -->
@@ -68,7 +68,7 @@ title: "Join us"
 <!-- ========================= -->
 <!-- Styles -->
 <style>
-/* Colors & accents */
+/* Base Colors & Fonts */
 :root {
   --accent: #004aad;
   --accent-light: #f4f8ff;
@@ -97,35 +97,39 @@ p, li {
   margin-right: 6px;
 }
 
-/* Opportunity Cards */
+/* Opportunity Cards - Modern with Gradient Border */
 .opportunity-card {
-  border-radius: 10px;
-  padding: 25px 20px;
+  border-radius: 12px;
+  padding: 25px 22px;
   margin: 35px 0;
-  box-shadow: 0 3px 10px var(--shadow);
+  box-shadow: 0 4px 14px var(--shadow);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+  background: var(--accent-light);
+  border-left: 6px solid var(--accent);
 }
 .opportunity-card:hover {
   transform: translateY(-3px);
-  box-shadow: 0 6px 18px var(--shadow);
+  box-shadow: 0 6px 20px var(--shadow);
 }
+
+/* Specific Cards */
 .phd-card {
-  border-left: 8px solid rgba(0, 74, 173, 0.2);
-  background-color: #f0f7ff;
+  border-left-color: rgba(0, 74, 173, 0.9);
 }
 .master-card {
-  background-color: #f4f8ff;
+  border-left-color: rgba(0, 74, 173, 0.6);
 }
 
 /* Buttons */
 .btn {
   display: inline-block;
   padding: 10px 18px;
-  border-radius: 6px;
+  border-radius: 8px;
   font-weight: 600;
   text-decoration: none;
-  transition: all 0.2s ease;
-  margin-right: 10px;
+  transition: all 0.25s ease;
+  margin-top: 10px;
 }
 .btn-primary {
   background-color: var(--accent);
@@ -159,7 +163,7 @@ p, li {
   margin-bottom: 20px;
 }
 
-/* Deadline text */
+/* Deadline */
 .deadline-text {
   color: #d12a00;
   font-weight: 600;
@@ -176,20 +180,35 @@ p, li {
   color: white;
   margin-bottom: 8px;
   transition: all 0.3s ease;
-  box-shadow: 0 2px 5px var(--shadow);
+  box-shadow: 0 3px 10px var(--shadow);
 }
 .collapsible-title:hover {
   transform: translateY(-2px);
   background: linear-gradient(90deg, #003b9b 0%, #0066cc 100%);
 }
 .collapsible-content {
-  padding: 12px 18px;
-  display: block; /* set to none if you want default collapse */
-  border-left: 3px solid rgba(0, 74, 173, 0.2);
-  margin-bottom: 15px;
-  border-radius: 5px;
+  padding: 14px 18px;
+  display: block; /* Change to none for default collapse */
+  border-left: 4px solid rgba(0, 74, 173, 0.3);
+  margin-bottom: 20px;
+  border-radius: 6px;
   background-color: var(--accent-light);
   transition: max-height 0.3s ease;
+}
+
+/* Hover subtle highlight for all cards and links */
+.opportunity-card:hover, .btn-outline:hover {
+  cursor: pointer;
+}
+
+/* Responsive */
+@media (max-width:900px) {
+  .opportunity-card { padding: 20px 18px; }
+  .project-list li { margin-bottom: 16px; }
+}
+@media (max-width:480px) {
+  .btn { width: 100%; margin-bottom: 10px; }
+  .project-list li { margin-bottom: 14px; }
 }
 </style>
 
