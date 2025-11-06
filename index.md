@@ -7,31 +7,6 @@ sitemap:
   lastmod: 2025-11-05
   exclude: 'no'
 ---
-<!-- Profile Section -->
-<u>Last update: October 2025</u>
-<div style="margin-top:25px; padding:25px; border-radius:12px; background-color:rgba(255,255,255,0.05); box-shadow:0 6px 18px rgba(0,0,0,0.08); display:flex; flex-wrap:wrap; gap:25px; align-items:center;">
-
-  <!-- Bio -->
-  <div style="flex:1; min-width:250px; display:flex; flex-direction:column; justify-content:center; height:170px;">
-    <h2 style="margin-top:0;">Dr. Mohamed Fathi Abdallah</h2>
-    <p style="font-style:italic; color:#555; margin:0 0 6px 0;">Assistant Professor of Food Toxicology</p>
-    <p style="font-style:italic; color:#555; margin:0 0 12px 0;">Department of Food Science, Aarhus University, Denmark</p>
-    
-    <p style="margin:0 0 12px 0;">Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</p>
-
-    <p style="margin:0 0 6px 0; font-style:italic; color:#555;">Accepting Master's and PhD students.</p>
-    <p style="margin:0; font-style:italic; color:#555;">Scholarships & Fellowships Support.</p>
-
-    <p style="margin-top:12px; font-style:italic; color:#555;">Contact: <a href="mailto:mfa@food.au.dk" style="color:#007bff; text-decoration:none;">mfa@food.au.dk</a></p>
-  </div>
-
-  <!-- Profile Picture -->
-  <img src="mohamed_fathi_abdallah_2023(2).jpg" alt="Mohamed Fathi Abdallah"
-       style="width:170px; border-radius:12px; flex-shrink:0; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
-
-</div>
-
-
 <!-- ========================= -->
 <!-- Profile Section -->
 <u>Last update: October 2025</u>
@@ -265,6 +240,164 @@ sitemap:
     <img src="/images/AarhusUni.jpg" alt="Aarhus University building" style="width: 80%; max-width: 400px; border-radius: 20px;">
   </div>
 </div>
+
+
+
+
+
+
+
+
+
+<!-- ========================= -->
+<!-- Announcements Section -->
+<div>
+  <hr />
+  <h2>Announcements</h2>
+
+  <!-- Shared responsive style -->
+  <style>
+    .announcement-flex {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      margin-bottom: 40px;
+      gap: 25px;
+    }
+
+    .announcement-flex div {
+      flex: 1;
+    }
+
+    .announcement-flex img {
+      width: 90%;
+      max-width: 400px;
+      border-radius: 16px;
+      display: block;
+      margin: 0 auto;
+    }
+
+    @media (max-width: 768px) {
+      .announcement-flex {
+        flex-direction: column !important;
+        text-align: center !important;
+      }
+
+      .announcement-flex div {
+        margin-right: 0 !important;
+      }
+
+      .announcement-flex img {
+        width: 100% !important;
+        max-width: none !important;
+      }
+    }
+
+    .announcement-flex h3 {
+      margin-top: 0;
+      color: #004aad;
+    }
+
+    .announcement-flex p {
+      line-height: 1.6;
+    }
+
+    .centered-hr {
+      width: 420px;
+      margin: 40px auto;
+      border: none;
+      border-top: 2px solid #aaa;
+    }
+  </style>
+
+  <!-- Announcement 1 -->
+  <div class="announcement-flex">
+    <div>
+      <h3>17 October 2025</h3>
+      <p><strong>New publication</strong></p>
+      <p>
+        “Challenges in mycotoxin monitoring in recently independent countries: The case of Kosovo☆”
+        is now online in the Journal of Food Composition and Analysis.
+      </p>
+      <p>Access the article here: 
+        <a href="https://www.sciencedirect.com/science/article/pii/S0889157525012815" target="_blank" rel="noopener">
+          Click here
+        </a>.
+      </p>
+    </div>
+    <div>
+      <img src="/images/mycotoxin_kosovo.png" alt="Mycotoxin Kosovo Article">
+    </div>
+  </div>
+  <hr class="centered-hr" />
+
+  <!-- Announcement 2 -->
+  <div class="announcement-flex">
+    <div>
+      <h3>01 October 2025</h3>
+      <p><strong>PhD Vacancy in Food Toxicology at AU FOOD</strong></p>
+      <p>
+        Fully funded PhD position (salary, tuition fees, others) for 3 years at Department of Food Science, Aarhus University.
+        Main focus: developing mass spectrometry-based methods for screening and quantification of natural toxins in novel food.
+      </p>
+      <p>
+        More info: 
+        <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" 
+           target="_blank" rel="noopener">Click here</a>.
+      </p>
+    </div>
+    <div>
+      <img src="/images/PhD announce.png" alt="PhD Vacancy Poster">
+    </div>
+  </div>
+  <hr class="centered-hr" />
+
+  <!-- Announcement 3 -->
+  <div class="announcement-flex">
+    <div>
+      <h3>30 September 2025</h3>
+      <p><strong>Receiving RECRUIT Grant from Novo Nordisk Foundation</strong></p>
+      <p>
+        I’m pleased to share that I have been awarded a 5-year grant from Novo Nordisk Foundation to establish a research group 
+        focusing on Food Toxicology, advancing detection, assessment, and risk evaluation of natural toxins in novel foods.
+      </p>
+    </div>
+    <div>
+      <img src="/images/NNF_grant.jpg" alt="Novo Nordisk Foundation Grant">
+    </div>
+  </div>
+  <hr class="centered-hr" />
+
+  <!-- Announcement 4 -->
+  <div class="announcement-flex">
+    <div>
+      <h3>01 March 2025</h3>
+      <p><strong>Joining Aarhus University</strong></p>
+      <p>
+        I’m thrilled to share that I will be joining the Department of Food Science at Aarhus University 
+        as a Tenure Track Assistant Professor in Food Toxicology, starting April 1st, 2025.
+      </p>
+    </div>
+    <div>
+      <img src="/images/AarhusUni.jpg" alt="Aarhus University Building">
+    </div>
+  </div>
+
+  <hr class="centered-hr" />
+
+  <!-- More News link -->
+  <p style="text-align:left; font-weight:bold; margin-top:30px;">
+    For more news, please 
+    <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
+  </p>
+</div>
+
+
+
+
+
+
+
 
 <!-- Separator before More News -->
   <hr class="centered-hr" />
