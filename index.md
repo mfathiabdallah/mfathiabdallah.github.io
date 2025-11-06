@@ -68,8 +68,7 @@ sitemap:
 <div class="content-box thesis-box">
   <div class="thesis-header">
     <h3>🎓 Master Thesis & Internship Opportunities at AU FOOD 2025/2026</h3>
-    <span class="new-flag">NEW</span>
-  </div>
+    </div>
 
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
 
