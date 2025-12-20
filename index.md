@@ -159,7 +159,7 @@ sitemap:
     <img src="/images/AarhusUni.jpg" alt="Aarhus University">
   </article>
 
-  <p>
+   <article class="announcement">
     For more news, please <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
   </p>
 </section>
