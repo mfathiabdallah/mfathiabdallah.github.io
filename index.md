@@ -16,8 +16,6 @@ sitemap:
        alt="Dr. Mohamed Fathi Abdallah"
        class="intro-img">
 
-  <h1>AU FOOD TOX Research Group</h1>
-
   <p class="lead">
     Led by <strong>Dr. Mohamed Fathi Abdallah</strong><br>
     Assistant Professor of Food Toxicology<br>
