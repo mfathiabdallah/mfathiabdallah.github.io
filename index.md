@@ -161,9 +161,6 @@ sitemap:
 
    <article class="announcement">
     For more news, please <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
-  </p>
-</section>
-
 <hr>
 
 <!-- ========================= -->
