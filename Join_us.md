@@ -10,7 +10,7 @@ title: "Join us"
 <!-- Open Opportunities -->
 <div class="section-card">
   <h3 class="section-title">
-    <i class="fa-solid fa-arrow-right"></i> Open Opportunities
+    <i class="fa-solid fa-briefcase"></i> Open Opportunities
   </h3>
 
   <div class="section-content">
@@ -57,7 +57,7 @@ title: "Join us"
 <!-- Master / Internship -->
 <div class="section-card">
   <h3 class="section-title">
-    <i class="fa-solid fa-graduation-cap"></i> Master Thesis / Internship Opportunities
+    <i class="fa-solid fa-microscope"></i> Master Thesis / Internship Opportunities
   </h3>
 
   <div class="section-content">
