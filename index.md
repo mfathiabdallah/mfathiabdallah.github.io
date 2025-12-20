@@ -292,8 +292,3 @@ exclude: 'no'
 }
 body { overflow-x:hidden; }
 </style>
-
-
-in fact i do not really like it. I want something better and more advanced style than this 
-
-keep in mind i build up my website based on niklasbuschmann/contrast
