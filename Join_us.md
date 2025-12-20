@@ -7,6 +7,20 @@ title: "Join us"
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <!-- ========================= -->
+<!-- Open Opportunities -->
+<div class="collapsible-section">
+  <h3 class="collapsible-title"><i class="fa-solid fa-arrow-right"></i> Open Opportunities</h3>
+  <div class="collapsible-content">
+    <ul>
+      <li>Marie Skłodowska-Curie Fellowships</li>
+      <li>Funding from Novo Nordisk Foundation, DFF, Villum Foundation</li>
+      <li>Other national or international fellowships</li>
+    </ul>
+    <p>If you are a motivated researcher interested in food toxicology, mixture risk assessment, or AI-based safety evaluation — <strong>reach out to discuss collaboration opportunities</strong>.</p>
+  </div>
+</div>
+
+<!-- ========================= -->
 <!-- PhD Hiring Card -->
 <div class="opportunity-card phd-card">
   <h2><i class="fa-solid fa-rocket icon-accent"></i> We’re Hiring a PhD Student!</h2>
@@ -49,20 +63,6 @@ title: "Join us"
 
   <p>Interns or Erasmus thesis students are welcome!<br>
   For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.</p>
-</div>
-
-<!-- ========================= -->
-<!-- Open Opportunities -->
-<div class="collapsible-section">
-  <h3 class="collapsible-title"><i class="fa-solid fa-arrow-right"></i> Open Opportunities</h3>
-  <div class="collapsible-content">
-    <ul>
-      <li>Marie Skłodowska-Curie Fellowships</li>
-      <li>Funding from Novo Nordisk Foundation, DFF, Villum Foundation</li>
-      <li>Other national or international fellowships</li>
-    </ul>
-    <p>If you are a motivated researcher interested in food toxicology, mixture risk assessment, or AI-based safety evaluation — <strong>reach out to discuss collaboration opportunities</strong>.</p>
-  </div>
 </div>
 
 <!-- ========================= -->
