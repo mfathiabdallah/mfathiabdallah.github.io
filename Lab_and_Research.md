@@ -43,7 +43,7 @@ interdisciplinary approach bridges food toxicology and human health.
 <!-- Research Lines -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Research Lines</h1>
-  <div class="collapsible-content">
+  <div class="collapsible-content card">
     <h3>A) Natural Toxins in Food</h3>
     <p>
       Detection and occurrence of mycotoxins and cyanotoxins in food products
@@ -79,7 +79,7 @@ interdisciplinary approach bridges food toxicology and human health.
 <!-- Current Projects -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Current Projects</h1>
-  <div class="collapsible-content">
+  <div class="collapsible-content card">
      <p>Our research activities are supported by competitive national and international funding sources. We are grateful to these foundations and programs for their support.</p>
     <table class="modern-table full-width">
       <thead>
@@ -113,7 +113,7 @@ interdisciplinary approach bridges food toxicology and human health.
 <!-- Secured Funds -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Funds</h1>
-  <div class="collapsible-content">
+  <div class="collapsible-content card">
     <ul>
       <li>(2026-2031) Novo Nordisk Foundation - ECRUIT Grant for International Recruitment 2025 (Assistant Prof level) for the project "ToxiFOOD". Role: Principal Investigator. Total budget: DKK 13.88 Million (= € 1.86 Million). <span style="color:red; ">(Not started)</span>
       </li>
@@ -137,7 +137,7 @@ interdisciplinary approach bridges food toxicology and human health.
 <!-- Lab Members -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Lab Members</h1>
-  <div class="collapsible-content">
+  <div class="collapsible-content card">
     <table class="modern-table full-width">
       <thead>
         <tr>
@@ -244,12 +244,15 @@ p, li {
   font-size: 1.3em;
   margin-bottom: 8px;
 }
-.collapsible-content {
-  background: #f5f5f5;
-  /* Removed left border line */
-  border-radius: 6px;
-  margin-bottom: 20px;
-  padding: 14px 18px;
+
+/* Card Style for Collapsible Content */
+.collapsible-content.card {
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  padding: 18px 22px;
+  margin-bottom: 25px;
+  transition: all 0.3s ease;
 }
 
 /* Tables */
@@ -282,4 +285,77 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Project List */
+.project-list {
+  list-style: none;
+  padding-left: 0;
+}
+.project-list li {
+  padding: 16px 0;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+.project-list li:last-child {
+  border-bottom: none;
+}
+
+/* Deadline */
+.deadline-text {
+  color: #d12a00;
+  font-weight: 600;
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  margin-top: 10px;
+  transition: all 0.2s ease;
+}
+.btn-primary {
+  background: #0b3c5d;
+  color: white;
+}
+.btn-primary:hover {
+  background: #1f7a8c;
+}
+.btn-secondary {
+  background: #e55300;
+  color: white;
+}
+.btn-secondary:hover {
+  background: #cc4400;
+}
+.btn-outline {
+  border: 2px solid #0b3c5d;
+  color: #0b3c5d;
+  background: transparent;
+}
+.btn-outline:hover {
+  background: rgba(11,60,93,0.1);
+}
+
+/* =========================
+   Mobile-Friendly Fix
+   ========================= */
+@media (max-width: 768px) {
+  /* Reduce hero banner padding for mobile */
+  .hero-banner {
+    padding: 30px 15px;
+  }
+
+  /* Reduce collapsible content padding */
+  .collapsible-content.card {
+    padding: 14px 12px;
+  }
+
+  /* Ensure no horizontal overflow for lists */
+  .project-list,
+  .collapsible-content ul {
+    padding-left: 0;
+    margin-left: 0;
+  }
+}
 </style>
