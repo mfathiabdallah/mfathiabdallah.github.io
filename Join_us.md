@@ -7,19 +7,27 @@ title: "Join us"
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <!-- ========================= -->
-<!-- Open Opportunities -->
-<div class="section-card">
-  <h3 class="section-title">
-    <i class="fa-solid fa-briefcase"></i> Open Opportunities
-  </h3>
+<!-- Page Header / Hero -->
+<div class="hero-banner">
+  <h1>Join Our Research Group</h1>
+  <p>
+    Explore PhD, Master, and Internship opportunities in food toxicology,
+    mixture risk assessment, and AI-based food safety evaluation.
+  </p>
+</div>
 
-  <div class="section-content">
+<!-- ========================= -->
+<!-- Open Opportunities -->
+<div class="collapsible">
+  <h1 class="collapsible-title">
+    <i class="fa-solid fa-briefcase"></i> Open Opportunities
+  </h1>
+  <div class="collapsible-content">
     <ul>
       <li>Marie Skłodowska-Curie Fellowships</li>
       <li>Funding from Novo Nordisk Foundation, DFF, Villum Foundation</li>
       <li>Other national or international fellowships</li>
     </ul>
-
     <p>
       If you are a motivated researcher interested in food toxicology,
       mixture risk assessment, or AI-based safety evaluation —
@@ -30,17 +38,15 @@ title: "Join us"
 
 <!-- ========================= -->
 <!-- PhD Hiring -->
-<div class="section-card">
-  <h3 class="section-title">
+<div class="collapsible">
+  <h1 class="collapsible-title">
     <i class="fa-solid fa-rocket"></i> We’re Hiring a PhD Student!
-  </h3>
-
-  <div class="section-content">
+  </h1>
+  <div class="collapsible-content">
     <p>
       <strong>Topic:</strong> Quantification of natural toxins in novel food using advanced mass spectrometry.<br>
       <strong>Deadline:</strong> <span class="deadline-text">6 November 2025</span>
     </p>
-
     <div class="button-row">
       <a href="https://www.mfathiabdallah.com/PhD_position1/" target="_blank" rel="noopener" class="btn btn-primary">
         <i class="fa-solid fa-magnifying-glass"></i> View Details
@@ -55,17 +61,15 @@ title: "Join us"
 
 <!-- ========================= -->
 <!-- Master / Internship -->
-<div class="section-card">
-  <h3 class="section-title">
+<div class="collapsible">
+  <h1 class="collapsible-title">
     <i class="fa-solid fa-microscope"></i> Master Thesis / Internship Opportunities
-  </h3>
-
-  <div class="section-content">
+  </h1>
+  <div class="collapsible-content">
     <p>
       We welcome motivated Master students, interns, or Erasmus students
       to join our research projects.
     </p>
-
     <ul class="project-list">
       <li>
         <strong>Mixture Toxicology</strong>
@@ -78,7 +82,6 @@ title: "Join us"
           View Project
         </a>
       </li>
-
       <li>
         <strong>Food AI & Database</strong>
         <p>
@@ -91,7 +94,6 @@ title: "Join us"
         </a>
       </li>
     </ul>
-
     <p>
       Interns or Erasmus thesis students are welcome.<br>
       Contact <strong>Dr. Mohamed Fathi Abdallah</strong> at
@@ -103,51 +105,53 @@ title: "Join us"
 <!-- ========================= -->
 <!-- Styles -->
 <style>
-:root {
-  --accent: #004aad;
-  --secondary: #e55300;
-  --light: #f4f8ff;
-  --shadow: rgba(0,0,0,0.08);
-  --font: "Segoe UI", Roboto, Arial, sans-serif;
-}
-
 body {
-  font-family: var(--font);
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
   color: #222;
   line-height: 1.65;
 }
 
-/* Unified section card */
-.section-card {
-  margin: 35px 0;
-  box-shadow: 0 4px 14px var(--shadow);
-  border-radius: 10px;
-  overflow: hidden;
-  background: white;
+/* Hero Banner */
+.hero-banner {
+  background: linear-gradient(135deg, #0b3c5d, #1f7a8c);
+  color: #ffffff;
+  padding: 50px 30px;
+  border-radius: 12px;
+  text-align: center;
+  margin-bottom: 35px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
-
-/* Unified header (same for all) */
-.section-title {
-  margin: 0;
-  padding: 14px 20px;
-  font-size: 1.25em;
+.hero-banner h1 {
+  font-size: 2.4em;
+  margin: 0 0 10px;
   font-weight: 600;
-  color: white;
-  background: linear-gradient(90deg, var(--accent), #007bff);
+  color: #ffffff;
+}
+.hero-banner p {
+  font-size: 1.1em;
+  max-width: 820px;
+  margin: 10px auto 0;
+  color: #f2f6f9;
 }
 
-.section-title i {
+/* Collapsible Sections */
+.collapsible-title {
+  background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
+  color: #ffffff;
+  padding: 12px 18px;
+  border-radius: 8px;
+  font-size: 1.25em;
+  margin-bottom: 8px;
+}
+.collapsible-title i {
   margin-right: 8px;
 }
-
-/* Content */
-.section-content {
-  padding: 20px 22px;
-  background: var(--light);
-}
-
-p, li {
-  font-size: 1.05em;
+.collapsible-content {
+  background: #f5f5f5;
+  border-left: 4px solid #0b3c5d;
+  padding: 14px 18px;
+  border-radius: 6px;
+  margin-bottom: 25px;
 }
 
 /* Buttons */
@@ -160,50 +164,38 @@ p, li {
   margin-top: 10px;
   transition: all 0.2s ease;
 }
-
 .btn-primary {
-  background: var(--accent);
+  background: #0b3c5d;
   color: white;
 }
 .btn-primary:hover {
-  background: #0066cc;
+  background: #1f7a8c;
 }
-
 .btn-secondary {
-  background: var(--secondary);
+  background: #e55300;
   color: white;
 }
 .btn-secondary:hover {
   background: #cc4400;
 }
-
 .btn-outline {
-  border: 2px solid var(--accent);
-  color: var(--accent);
+  border: 2px solid #0b3c5d;
+  color: #0b3c5d;
   background: transparent;
 }
 .btn-outline:hover {
-  background: rgba(0,74,173,0.1);
+  background: rgba(11,60,93,0.1);
 }
 
-/* Button row */
-.button-row {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-}
-
-/* Projects */
+/* Project list */
 .project-list {
   list-style: none;
   padding-left: 0;
 }
-
 .project-list li {
   padding: 16px 0;
   border-bottom: 1px solid rgba(0,0,0,0.08);
 }
-
 .project-list li:last-child {
   border-bottom: none;
 }
