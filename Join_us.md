@@ -120,6 +120,7 @@ body {
   color: #222;
   line-height: 1.65;
   overflow-x: hidden;
+  background: #f8f9fa; /* light overall background */
 }
 
 /* Hero Banner */
@@ -145,23 +146,24 @@ body {
   color: #f2f6f9;
 }
 
-/* Collapsible Sections */
+/* Collapsible Sections (Card Style) */
 .collapsible-title {
   background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
   color: #ffffff;
   padding: 12px 18px;
-  border-radius: 8px;
+  border-radius: 12px;
   font-size: 1.25em;
-  margin-bottom: 8px;
+  margin-bottom: 12px;
 }
 .collapsible-title i {
   margin-right: 8px;
 }
 .collapsible-content {
-  background: #f5f5f5;
-  padding: 14px 18px;
-  border-radius: 6px;
-  margin-bottom: 25px;
+  background: rgba(255,255,255,0.95); /* slightly transparent card */
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
   width: 100%;
   overflow: hidden;
 }
@@ -222,39 +224,29 @@ body {
    Mobile-Friendly Fix
    ========================= */
 @media (max-width: 768px) {
-  /* Stack buttons in PhD / Internship sections */
   .button-row {
     display: flex;
     flex-direction: column;
     gap: 10px;
   }
-
   .button-row .btn,
   .project-list li .btn {
     width: 100%;
     text-align: center;
     margin-top: 0;
   }
-
-  /* Reduce hero banner padding for mobile */
   .hero-banner {
     padding: 30px 15px;
   }
-
-  /* Reduce collapsible content padding */
   .collapsible-content {
-    padding: 12px 12px;
+    padding: 16px 14px;
   }
-
-  /* Ensure no horizontal overflow for lists */
   .project-list,
   .collapsible-content ul {
     padding-left: 0;
     margin-left: 0;
   }
 }
-
-/* Extra small screens font adjustment */
 @media (max-width: 600px) {
   .btn {
     font-size: 1em;
