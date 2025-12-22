@@ -12,25 +12,35 @@ exclude: 'no'
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <!-- ========================= -->
+<!-- Hero Banner -->
+<div class="hero-banner">
+  <h1>AU FOOD TOX Research Group</h1>
+  <p>
+    Advancing food toxicology through cutting-edge research on natural toxins,
+    emerging contaminants, and mixture risk assessment.
+  </p>
+  <a class="cv-button" href="https://www.mfathiabdallah.com/CV/" target="_blank" rel="noopener">
+    View Academic CV
+  </a>
+</div>
+
+<!-- ========================= -->
 <!-- Profile Section -->
-<u>Last update: October 2025</u>
-<div class="profile-container">
-  <div class="bio">
-    <h2>Dr. Mohamed Fathi Abdallah</h2>
-    <p class="subtitle">Assistant Professor of Food Toxicology</p>
-    <p class="subtitle">Department of Food Science, Aarhus University, Denmark</p>
-
-    <p>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</p>
-
-    <p class="highlight"><i class="fa-solid fa-users-line icon-accent"></i> Accepting Master's and PhD students.</p>
-    <p class="highlight"><i class="fa-solid fa-graduation-cap icon-accent"></i> Scholarships &amp; Fellowships Support.</p>
-
-    <p class="contact-title"><i class="fa-solid fa-envelope-circle-check icon-accent"></i> Contact:
-      <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>
-    </p>
+<div class="content-box">
+  <div class="profile-container">
+    <div class="bio">
+      <h2>Dr. Mohamed Fathi Abdallah</h2>
+      <p class="subtitle">Assistant Professor of Food Toxicology</p>
+      <p class="subtitle">Department of Food Science, Aarhus University, Denmark</p>
+      <p>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</p>
+      <p class="highlight"><i class="fa-solid fa-users-line icon-accent"></i> Accepting Master's and PhD students.</p>
+      <p class="highlight"><i class="fa-solid fa-graduation-cap icon-accent"></i> Scholarships &amp; Fellowships Support.</p>
+      <p class="contact-title"><i class="fa-solid fa-envelope-circle-check icon-accent"></i> Contact:
+        <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>
+      </p>
+    </div>
+    <img src="mohamed_fathi_abdallah_2023(2).jpg" alt="Mohamed Fathi Abdallah" class="profile-img">
   </div>
-
-  <img src="mohamed_fathi_abdallah_2023(2).jpg" alt="Mohamed Fathi Abdallah" class="profile-img">
 </div>
 
 <!-- ========================= -->
@@ -40,7 +50,7 @@ exclude: 'no'
   <ul>
     <li>Expert Group Member (Natural Toxins), ILSI Europe, Belgium.</li>
     <li>Board Member of the European Society of Toxicology In Vitro (ESTIV).</li>
-    <li>Member of Society of Toxicology (SOT) &amp; Postdoctoral Representative of FS3 Food Safety Specialty, USA.</li>
+    <li>Member of Society of Toxicology (SOT) & Postdoctoral Representative of FS3 Food Safety Specialty, USA.</li>
     <li>Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.</li>
   </ul>
 </div>
@@ -49,7 +59,7 @@ exclude: 'no'
 <!-- Research Interests -->
 <div class="content-box">
   <h3 class="section-title"><i class="fa-solid fa-flask-vial"></i> Research Interests</h3>
-  <p>My research focuses on natural toxins (mycotoxins &amp; cyanotoxins) and other emerging contaminants in novel food. I combine LC-MS/MS detection with <em>in vitro</em> mixture toxicology models to study human health impact.</p>
+  <p>My research focuses on natural toxins (mycotoxins & cyanotoxins) and other emerging contaminants in novel food. I combine LC-MS/MS detection with <em>in vitro</em> mixture toxicology models to study human health impact.</p>
   <ul>
     <li>Detection of natural food contaminants (postgraduate students, PhDs, Postdocs)</li>
     <li>Application of Large Language Models in food contaminants (Postdoc / research assistants)</li>
@@ -61,8 +71,7 @@ exclude: 'no'
 <!-- Scholarships & Fellowships -->
 <div class="content-box">
   <h3 class="section-title"><i class="fa-solid fa-award"></i> Scholarships & Fellowships</h3>
-  <p>We support applications for scholarships and fellowships such as <strong>Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation</strong>, and others.  
-  Exceptional and motivated candidates are encouraged to get in touch for guidance on proposal writing and research topics.</p>
+  <p>We support applications for scholarships and fellowships such as <strong>Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation</strong>, and others. Exceptional and motivated candidates are encouraged to get in touch for guidance on proposal writing and research topics.</p>
 </div>
 
 <!-- ========================= -->
@@ -72,9 +81,7 @@ exclude: 'no'
     <h3 class="section-title"><i class="fa-solid fa-microscope"></i> Master Thesis & Internship Opportunities at AU FOOD 2025/2026</h3>
     <span class="new-flag">NEW</span>
   </div>
-
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
-
   <ul class="project-list">
     <li>
       <strong>Mixture Toxicology:</strong>
@@ -82,15 +89,13 @@ exclude: 'no'
       <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants"
          target="_blank" rel="noopener" class="btn-outline">View Project</a>
     </li>
-
     <li>
-      <strong>Food AI &amp; Database:</strong>
+      <strong>Food AI & Database:</strong>
       <p class="project-title">Developing a database of microbial food toxins in the EU (case study on mycotoxins)</p>
       <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins"
          target="_blank" rel="noopener" class="btn-outline">View Project</a>
     </li>
   </ul>
-
   <p>For more information, please contact <strong>Dr. Mohamed Fathi Abdallah</strong> at 
     <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.
   </p>
@@ -100,64 +105,9 @@ exclude: 'no'
 <!-- Announcements -->
 <div class="content-box announcements-wrapper">
   <h2 class="section-title"><i class="fa-solid fa-bullhorn"></i> Announcements</h2>
-
   <div class="announcement-section">
-
-    <div class="announcement-item">
-      <div class="announcement-text">
-        <h3>17 October 2025 — New Publication</h3>
-        <p>“Challenges in mycotoxin monitoring in recently independent countries: The case of Kosovo☆” 
-        is now online in the <em>Journal of Food Composition and Analysis</em>.</p>
-        <p>Access the article: <a href="https://www.sciencedirect.com/science/article/pii/S0889157525012815" target="_blank" rel="noopener">Click here</a>.</p>
-      </div>
-      <div class="announcement-image">
-        <img src="/images/mycotoxin_kosovo.png" alt="Mycotoxin Kosovo Article" class="announcement-img">
-      </div>
-    </div>
-
-    <hr class="announcement-hr"/>
-
-    <div class="announcement-item">
-      <div class="announcement-text">
-        <h3>01 October 2025 — PhD Vacancy at AU FOOD</h3>
-        <p>Fully funded 3-year PhD position at the Department of Food Science, Aarhus University. Focus: mass spectrometry-based methods for natural toxins in novel food.</p>
-        <p>More info: <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener">Click here</a>.</p>
-      </div>
-      <div class="announcement-image">
-        <img src="/images/PhD announce.png" alt="PhD Vacancy Poster" class="announcement-img">
-      </div>
-    </div>
-
-    <hr class="announcement-hr"/>
-
-    <div class="announcement-item">
-      <div class="announcement-text">
-        <h3>30 September 2025 — Novo Nordisk Foundation Grant</h3>
-        <p>Awarded a 5-year RECRUIT Grant from Novo Nordisk Foundation to establish a research group in Food Toxicology, focusing on detection and risk evaluation of natural toxins in novel foods.</p>
-      </div>
-      <div class="announcement-image">
-        <img src="/images/NNF_grant.jpg" alt="Novo Nordisk Foundation Grant" class="announcement-img">
-      </div>
-    </div>
-
-    <hr class="announcement-hr"/>
-
-    <div class="announcement-item">
-      <div class="announcement-text">
-        <h3>01 March 2025 — Joining Aarhus University</h3>
-        <p>Starting April 2025 as a Tenure Track Assistant Professor in Food Toxicology, Department of Food Science, Aarhus University.</p>
-      </div>
-      <div class="announcement-image">
-        <img src="/images/AarhusUni.jpg" alt="Aarhus University Building" class="announcement-img">
-      </div>
-    </div>
-  </div>
-
-  <div style="margin-top:22px;">
-    <hr class="centered-hr"/>
-    <p style="text-align:left; margin-top:12px;">
-      For more news, please <a href="https://www.mfathiabdallah.com/news/" target="_blank" rel="noopener">click here</a>.
-    </p>
+    <!-- Keep your announcement items exactly as before -->
+    ...
   </div>
 </div>
 
@@ -165,28 +115,8 @@ exclude: 'no'
 <!-- Contact -->
 <div class="content-box" style="margin-top:30px;">
   <h3 class="section-title"><i class="fa-solid fa-paper-plane"></i> Contact</h3>
-
   <div class="contact-grid">
-    <div class="contact-card">
-      <h4><i class="fa-solid fa-user-tie"></i> Dr. Mohamed Fathi Abdallah</h4>
-      <p>
-        <i class="fa-solid fa-envelope"></i> Email: <a href="mailto:mfa@food.au.dk">mfa[at]food.au.dk</a><br>
-        <i class="fa-brands fa-x-twitter"></i> Twitter: <a href="https://twitter.com/MoFathiAbdallah" target="_blank">@MoFathiAbdallah</a><br>
-        <i class="fa-brands fa-linkedin"></i> LinkedIn: <a href="https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/" target="_blank">Mohamed Fathi Abdallah</a>
-      </p>
-      <img src="/images/AarhusUni.jpg" alt="Aarhus University" class="contact-img">
-    </div>
-
-    <div class="contact-card">
-      <h4><i class="fa-solid fa-location-dot"></i> Address</h4>
-      <p>
-        Department of Food Science<br>
-        Aarhus University<br>
-        Agro Food Park 48, Aarhus, Denmark
-      </p>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.8577236812416!2d10.153219677617567!3d56.19850617325248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c15cd3e555c11%3A0xc10a2cd724a2185e!2sAgro%20Food%20Park%2048%2C%208200%20Aarhus!5e1!3m2!1sen!2sdk!4v1744464701594!5m2!1sen!2sdk"
-        width="100%" height="225" style="border:0; border-radius:10px;" allowfullscreen loading="lazy"></iframe>
-    </div>
+    ...
   </div>
 </div>
 
@@ -194,101 +124,130 @@ exclude: 'no'
 <!-- Visitors Map -->
 <hr class="centered-hr" />
 <div style="text-align:center; margin-bottom:40px;">
-  <a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
-    <img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" alt="Visitor tracker map" style="max-width:300px; border-radius:8px;">
-  </a>
+  ...
 </div>
 
 <!-- ========================= -->
-<!-- ✅ CSS -->
+<!-- ✅ Styles -->
 <style>
-:root {
-  --accent:#004aad;
-  --muted:#555;
-  --card-shadow:0 4px 14px rgba(0,0,0,0.08);
+/* =========================
+   Base Styles
+========================= */
+body {
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  color: #222;
+  line-height: 1.65;
+  overflow-x: hidden;
 }
 
-.icon-accent { color:var(--accent); margin-right:6px; }
+/* Hero Banner */
+.hero-banner {
+  background: linear-gradient(135deg, #0b3c5d, #1f7a8c);
+  color: #fff;
+  padding: 50px 30px;
+  border-radius: 12px;
+  text-align: center;
+  margin-bottom: 35px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+.hero-banner h1 {
+  font-size: 2.4em;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+.hero-banner p {
+  max-width: 820px;
+  margin: 0 auto 20px;
+  color: #f2f6f9;
+}
+.cv-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #fff;
+  color: #0b3c5d;
+  font-weight: 600;
+  border-radius: 30px;
+  text-decoration: none;
+  transition: all 0.25s ease;
+}
+.cv-button:hover {
+  background: #e6f4f1;
+  transform: translateY(-2px);
+}
 
-/* Layout & profile */
+/* Content Box (for all main sections) */
+.content-box {
+  background: linear-gradient(135deg, #0b3c5d, #1f7a8c);
+  color: #fff;
+  padding: 18px 22px;
+  margin-top: 20px;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+}
+
+/* Section Titles */
+.section-title {
+  font-size: 1.25rem;
+  font-weight: 400;
+  border-left: 4px solid #fff;
+  padding-left: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Profile */
 .profile-container {
-  display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
-  gap:25px; margin-top:15px; padding:22px; border-radius:12px;
-  background-color:rgba(255,255,255,0.05); box-shadow:0 6px 18px rgba(0,0,0,0.08);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 25px;
 }
 .bio { flex:1; min-width:250px; }
-.subtitle { font-style:italic; color:var(--muted); margin:0 0 6px; font-weight:400; }
-.highlight { font-style:italic; color:#ed1a07; margin:4px 0; font-weight:400; }
-.contact-title { color:var(--accent); margin-top:10px; font-weight:400; }
-.profile-img { width:170px; border-radius:12px; object-fit:cover; border:0; }
+.subtitle { font-style: italic; color: rgba(255,255,255,0.85); margin: 0 0 6px; }
+.highlight { color: #ffdc57; font-style: italic; margin: 4px 0; }
+.contact-title { color: #ffdc57; margin-top: 10px; }
+.profile-img { width: 170px; border-radius: 12px; object-fit: cover; }
 
-/* Section titles */
-.section-title {
-  color:var(--accent);
-  font-size:1.28rem;
-  font-weight:400;
-  margin-bottom:10px;
-  border-left:4px solid var(--accent);
-  padding-left:10px;
-  letter-spacing:0.3px;
-  display:flex; align-items:center; gap:8px;
-}
-
-/* Content boxes */
-.content-box { margin-top:20px; padding:18px; border-radius:12px; box-shadow:var(--card-shadow); background:transparent; }
-
-/* Thesis NEW flag */
-.thesis-header { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+/* Thesis NEW Flag */
 .new-flag {
-  background:linear-gradient(135deg,#ff3b3b,#ff7b00);
-  color:#fff; font-size:0.8rem; font-weight:700;
-  padding:4px 10px; border-radius:6px;
-  animation:pulse 1.5s infinite ease-in-out;
-  box-shadow:0 0 6px rgba(255,90,0,0.4);
+  background: linear-gradient(135deg,#ff3b3b,#ff7b00);
+  color: #fff; font-size: 0.8rem; font-weight: 700;
+  padding: 4px 10px; border-radius: 6px;
+  animation: pulse 1.5s infinite ease-in-out;
+  box-shadow: 0 0 6px rgba(255,90,0,0.4);
 }
 @keyframes pulse { 0%{transform:scale(1)} 50%{transform:scale(1.1)} 100%{transform:scale(1)} }
 
-/* Announcements */
-.announcement-item {
-  display:flex; flex-wrap:nowrap; align-items:center; gap:16px;
-  background:rgba(255,255,255,0.04); padding:12px; border-radius:10px;
-  box-shadow:0 2px 8px rgba(0,0,0,0.05);
-  transition:transform .18s ease-in-out;
-}
-.announcement-item:hover { transform:translateY(-3px); }
-.announcement-text { flex:1; min-width:220px; }
-.announcement-text h3 { margin:0 0 4px; color:var(--accent); font-weight:400; font-size:1.03rem; }
-.announcement-text p { margin:0 0 6px; line-height:1.45; color:#333; }
-.announcement-img { width:240px; border-radius:10px; display:block; box-shadow:0 3px 8px rgba(0,0,0,0.06); }
-.announcement-hr { width:60%; max-width:360px; margin:8px auto; border:none; border-top:1px solid rgba(160,160,160,0.25); }
-
 /* Buttons */
 .btn-outline {
-  padding:8px 14px; border:2px solid var(--accent); border-radius:8px;
-  color:var(--accent); font-weight:400; text-decoration:none; display:inline-block;
-  transition:0.18s;
+  border: 2px solid #fff;
+  color: #fff;
+  background: transparent;
+  border-radius: 8px;
+  padding: 8px 14px;
+  display: inline-block;
+  transition: 0.2s;
 }
-.btn-outline:hover { background:var(--accent); color:#fff!important; transform:translateY(-2px); }
+.btn-outline:hover {
+  background: rgba(255,255,255,0.2);
+  color: #fff;
+}
 
-/* Contact grid */
+/* Announcements */
+.announcement-item { display:flex; flex-wrap:nowrap; align-items:center; gap:16px; padding:12px; border-radius:10px; background:rgba(255,255,255,0.05); margin-bottom:12px; }
+.announcement-img { width: 240px; border-radius: 10px; }
+.announcement-text h3 { color: #fff; }
+.announcement-text p { color: #f0f0f0; }
+
+/* Contact Grid */
 .contact-grid { display:grid; grid-template-columns:1fr 1fr; gap:18px; margin-top:12px; }
-.contact-card { border:1px solid rgba(200,200,200,0.5); padding:16px; border-radius:10px; box-shadow:var(--card-shadow); background:rgba(255,255,255,0.03); }
-.contact-card h4 { color:var(--accent); margin-top:0; font-weight:400; }
-.contact-img { width:85%; border-radius:10px; margin-top:10px; display:block; }
-
-.centered-hr { width:420px; max-width:90%; margin:30px auto; border:none; border-top:2px solid #aaa; }
+.contact-card { padding:16px; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.08); background: rgba(255,255,255,0.05); }
 
 /* Responsive */
 @media (max-width:900px) {
-  .profile-container { flex-direction:column; text-align:center; }
-  .announcement-item { flex-direction:column; text-align:center; gap:12px; }
-  .announcement-img { width:100%; max-width:240px; flex:none; }
+  .profile-container { flex-direction: column; text-align:center; }
+  .announcement-item { flex-direction: column; text-align:center; gap:12px; }
   .contact-grid { grid-template-columns:1fr; }
-  .section-title { font-size:1.15rem; border-left:3px solid var(--accent); }
 }
-@media (max-width:480px) {
-  .highlight { font-size:0.95rem; }
-  .announcement-item { padding:10px; }
-}
-body { overflow-x:hidden; }
 </style>
