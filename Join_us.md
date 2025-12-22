@@ -99,8 +99,6 @@ title: ""
       Contact <strong>Dr. Mohamed Fathi Abdallah</strong> at
       <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.
     </p>
-  </div>
-</div>
 
 <!-- ========================= -->
 <!-- Styles -->
