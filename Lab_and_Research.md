@@ -181,9 +181,13 @@ p, li {
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
 .hero-banner h1 {
-  font-size: 2.4em;
+  font-size: 2.5em;
   margin: 0;
+  font-weight: 600;          /* lighter than bold */
+  letter-spacing: 0.6px;
+  color: #ffffff;            /* pure white */
 }
+
 .hero-banner p {
   max-width: 820px;
   margin: 18px auto 28px;
