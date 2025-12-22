@@ -111,7 +111,7 @@ title: ""
    Global Settings
    ========================= */
 * {
-  box-sizing: border-box; /* prevent horizontal overflow */
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
@@ -119,7 +119,7 @@ body {
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
   color: #222;
   line-height: 1.65;
-  overflow-x: hidden; /* prevent horizontal scroll */
+  overflow-x: hidden;
 }
 
 /* Hero Banner */
@@ -159,7 +159,6 @@ body {
 }
 .collapsible-content {
   background: #f5f5f5;
-  border-left: 4px solid #0b3c5d;
   padding: 14px 18px;
   border-radius: 6px;
   margin-bottom: 25px;
@@ -232,7 +231,7 @@ body {
 
   .button-row .btn,
   .project-list li .btn {
-    width: 100%;           /* full container width */
+    width: 100%;
     text-align: center;
     margin-top: 0;
   }
