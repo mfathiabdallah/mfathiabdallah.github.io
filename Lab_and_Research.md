@@ -21,14 +21,16 @@ title: ""
 </div>
 
 <!-- ========================= -->
-<!-- Intro Text -->
-<p>
-At the AU FOOD Department, our research focuses on understanding risks associated
-with natural toxins (mycotoxins and cyanotoxins) and emerging contaminants in
-novel foods. Using advanced LC-MS/MS methods and in vitro models, we investigate
-toxic effects of contaminants and their mixtures on human health. This
-interdisciplinary approach bridges food toxicology and human health.
-</p>
+<!-- Intro Text in Card -->
+<div class="card intro-card">
+  <p>
+    At the AU FOOD Department, our research focuses on understanding risks associated
+    with natural toxins (mycotoxins and cyanotoxins) and emerging contaminants in
+    novel foods. Using advanced LC-MS/MS methods and in vitro models, we investigate
+    toxic effects of contaminants and their mixtures on human health. This
+    interdisciplinary approach bridges food toxicology and human health.
+  </p>
+</div>
 
 <!-- ========================= -->
 <!-- Research Overview Image -->
@@ -81,31 +83,26 @@ interdisciplinary approach bridges food toxicology and human health.
   <h1 class="collapsible-title">&#10148; Current Projects</h1>
   <div class="collapsible-content card">
      <p>Our research activities are supported by competitive national and international funding sources. We are grateful to these foundations and programs for their support.</p>
-    <table class="modern-table full-width">
-      <thead>
-        <tr>
-          <th>Status</th>
-          <th>Project</th>
-          <th>Funding Agency</th>
-          <th>Total Fund</th>
-          <th>Period</th>
-          <th>Role</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><strong>Running</strong></td>
-          <td><strong>ToxiFOOD</strong></td>
-          <td>
-            <img src="/images/novonordiskfoundationlogo.png"
-                 alt="Novo Nordisk Foundation">
-          </td>
-          <td>DKK 13.88 M</td>
-          <td>2026 – 2031</td>
-          <td>PI</td>
-        </tr>
-      </tbody>
-    </table>
+    <div class="table-container">
+      <div class="modern-table-container">
+        <div class="modern-row header">
+          <div>Status</div>
+          <div>Project</div>
+          <div>Funding Agency</div>
+          <div>Total Fund</div>
+          <div>Period</div>
+          <div>Role</div>
+        </div>
+        <div class="modern-row">
+          <div><strong>Running</strong></div>
+          <div><strong>ToxiFOOD</strong></div>
+          <div><img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation"></div>
+          <div>DKK 13.88 M</div>
+          <div>2026 – 2031</div>
+          <div>PI</div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -138,30 +135,22 @@ interdisciplinary approach bridges food toxicology and human health.
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Lab Members</h1>
   <div class="collapsible-content card">
-    <table class="modern-table full-width">
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Position</th>
-          <th>Research Focus</th>
-          <th>Contact</th>
-          <th>Link</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
-          <td>Principal Investigator</td>
-          <td>Natural toxins, LC-MS/MS, In vitro toxicology</td>
-          <td>mfa [at] food.au.dk</td>
-          <td>
-            <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">
-              AU Profile
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
+    <div class="modern-table-container">
+      <div class="modern-row header">
+        <div>Name</div>
+        <div>Position</div>
+        <div>Research Focus</div>
+        <div>Contact</div>
+        <div>Link</div>
+      </div>
+      <div class="modern-row">
+        <div><strong>Dr. Mohamed Fathi Abdallah</strong></div>
+        <div>Principal Investigator</div>
+        <div>Natural toxins, LC-MS/MS, In vitro toxicology</div>
+        <div>mfa [at] food.au.dk</div>
+        <div><a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">AU Profile</a></div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -169,7 +158,9 @@ interdisciplinary approach bridges food toxicology and human health.
 <!-- Styles -->
 <style>
 
-/* Typography */
+/* =========================
+   Typography
+   ========================= */
 body {
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
   line-height: 1.65;
@@ -179,7 +170,9 @@ p, li {
   font-size: 1.05em;
 }
 
-/* Hero Banner */
+/* =========================
+   Hero Banner
+   ========================= */
 .hero-banner {
   background: linear-gradient(135deg, #0b3c5d, #1f7a8c);
   color: #ffffff;
@@ -196,7 +189,6 @@ p, li {
   letter-spacing: 0.6px;
   color: #ffffff;
 }
-
 .hero-banner p {
   max-width: 820px;
   margin: 16px auto 26px;
@@ -219,7 +211,21 @@ p, li {
   transform: translateY(-2px);
 }
 
-/* Research Overview */
+/* =========================
+   Card Styles for Sections
+   ========================= */
+.card {
+  background: rgba(255,255,255,0.95);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  padding: 18px 22px;
+  margin-bottom: 25px;
+  transition: all 0.3s ease;
+}
+
+/* =========================
+   Research Overview
+   ========================= */
 .research-overview {
   text-align: center;
   margin: 25px 0;
@@ -235,7 +241,9 @@ p, li {
   color: #555;
 }
 
-/* Collapsible Sections */
+/* =========================
+   Collapsible Sections
+   ========================= */
 .collapsible-title {
   background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
   color: #ffffff;
@@ -245,38 +253,34 @@ p, li {
   margin-bottom: 8px;
 }
 
-/* Card Style for Collapsible Content */
-.collapsible-content.card {
-  background: rgba(255, 255, 255, 0.95);
-  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
-  border-radius: 12px;
-  padding: 18px 22px;
-  margin-bottom: 25px;
-  transition: all 0.3s ease;
+/* =========================
+   Modern Table Style (no boxed table)
+   ========================= */
+.modern-table-container {
+  display: grid;
+  border-radius: 8px;
+  overflow: hidden;
 }
-
-/* Tables */
-.modern-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 10px;
+.modern-row {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  align-items: center;
 }
-.modern-table thead {
+.modern-row.header {
   background: #0b3c5d;
   color: #fff;
+  font-weight: 600;
 }
-.modern-table th,
-.modern-table td {
-  padding: 12px;
-  text-align: center;
+.modern-row:last-child {
+  border-bottom: none;
 }
-.modern-table tbody tr:nth-child(even) {
-  background: #e6f0ff;
-}
-.modern-table img {
+.modern-row img {
   max-width: 100px;
 }
 
+/* Links */
 a {
   color: #0b3c5d;
 }
@@ -285,77 +289,23 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Project List */
-.project-list {
-  list-style: none;
-  padding-left: 0;
-}
-.project-list li {
-  padding: 16px 0;
-  border-bottom: 1px solid rgba(0,0,0,0.08);
-}
-.project-list li:last-child {
-  border-bottom: none;
-}
-
-/* Deadline */
-.deadline-text {
-  color: #d12a00;
-  font-weight: 600;
-}
-
-/* Buttons */
-.btn {
-  display: inline-block;
-  padding: 10px 18px;
-  border-radius: 8px;
-  font-weight: 600;
-  text-decoration: none;
-  margin-top: 10px;
-  transition: all 0.2s ease;
-}
-.btn-primary {
-  background: #0b3c5d;
-  color: white;
-}
-.btn-primary:hover {
-  background: #1f7a8c;
-}
-.btn-secondary {
-  background: #e55300;
-  color: white;
-}
-.btn-secondary:hover {
-  background: #cc4400;
-}
-.btn-outline {
-  border: 2px solid #0b3c5d;
-  color: #0b3c5d;
-  background: transparent;
-}
-.btn-outline:hover {
-  background: rgba(11,60,93,0.1);
-}
-
 /* =========================
    Mobile-Friendly Fix
    ========================= */
 @media (max-width: 768px) {
-  /* Reduce hero banner padding for mobile */
   .hero-banner {
     padding: 30px 15px;
   }
-
-  /* Reduce collapsible content padding */
-  .collapsible-content.card {
+  .card {
     padding: 14px 12px;
   }
-
-  /* Ensure no horizontal overflow for lists */
-  .project-list,
-  .collapsible-content ul {
-    padding-left: 0;
-    margin-left: 0;
+  .modern-row {
+    grid-template-columns: 1fr 1fr;
+    grid-row-gap: 6px;
+    grid-column-gap: 10px;
+  }
+  .modern-row.header {
+    display: none;
   }
 }
 </style>
