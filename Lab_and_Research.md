@@ -127,7 +127,7 @@ interdisciplinary approach bridges food toxicology and human health.
       </li>
       <li>(2021) VLIRUOS Global Minds Grant from Ghent Uni for "AF-CYSTIN-milk" project to assess the incidence of aflatoxin M1 and microcystin-LR in dairy milk and their potential in vitro toxic interaction. Role: Principal Researcher. Total budget: €12,000. <span style="color:red; ">(Completed)</span>
       </li>
-      <li>(2018) VLIRUOS Global Minds Grant from Ghent Uni for "MYCOSUGAR" project to investigate mycotoxin occurrence in sugarcane as an important cash crop. Role: Principal Researcher. Total budget: €12,000. <span style="color:red; ">(Completed)</span>
+      <li>(2018) VLIRUOS Global Minds Grant from Ghent Uni for "MYCOSUGAR" project to investigate mycotoxin occurrence in sugarcane. Role: Principal Researcher. Total budget: €12,000. <span style="color:red; ">(Completed)</span>
       </li>
     </ul>
   </div>
