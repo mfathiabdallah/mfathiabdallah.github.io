@@ -67,12 +67,12 @@ exclude: 'no'
 
 <!-- ========================= -->
 <!-- Master Thesis / Internship -->
-<div class="fullwidth-header thesis-header-full">
-  <h3 class="section-title-full"><i class="fa-solid fa-microscope"></i> Master Thesis & Internship Opportunities at AU FOOD 2025/2026</h3>
-  <span class="new-flag">NEW</span>
-</div>
-
 <div class="content-box thesis-box">
+  <h3 class="section-title">
+    <i class="fa-solid fa-microscope"></i> Master Thesis & Internship Opportunities at AU FOOD 2025/2026
+    <span class="new-flag">NEW</span>
+  </h3>
+
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
 
   <ul class="project-list">
@@ -210,67 +210,44 @@ exclude: 'no'
 
 .icon-accent { color:var(--accent); margin-right:6px; }
 
-/* Layout & profile */
+/* Profile box */
 .profile-container {
   display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
   gap:25px; margin-top:15px; padding:22px; border-radius:12px;
-  background-color:rgba(255,255,255,0.05); box-shadow:0 6px 18px rgba(0,0,0,0.08);
+  background-color:#e6f4f1;
+  box-shadow:0 6px 18px rgba(0,0,0,0.08);
 }
 .bio { flex:1; min-width:250px; }
 .subtitle { font-style:italic; color:var(--muted); margin:0 0 6px; font-weight:400; }
-.highlight { font-style:italic; color:#ed1a07; margin:4px 0; font-weight:400; }
+.highlight { font-style:italic; color:#d12a00; margin:4px 0; font-weight:400; }
 .contact-title { color:var(--accent); margin-top:10px; font-weight:400; }
 .profile-img { width:170px; border-radius:12px; object-fit:cover; border:0; }
 
 /* Section titles */
 .section-title {
-  color:var(--accent);
-  font-size:1.28rem;
-  font-weight:400;
+  color:#fff;
+  background:var(--accent);
+  padding:10px 12px;
+  border-radius:8px;
+  font-size:1.25rem;
+  display:flex;
+  align-items:center;
+  gap:8px;
   margin-bottom:10px;
-  border-left:4px solid var(--accent);
-  padding-left:10px;
-  letter-spacing:0.3px;
-  display:flex; align-items:center; gap:8px;
 }
 
-/* Full-width header for Thesis / Internship section */
-.thesis-header-full {
-  background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
-  color: #fff;
-  padding: 14px 20px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  border-radius: 0; 
-  margin-top: 20px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
-}
-.section-title-full {
-  font-size: 1.28rem;
-  font-weight: 400;
-  margin: 0;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  color: #fff;
-}
-
-/* NEW flag inside the header */
-.thesis-header-full .new-flag {
-  background: linear-gradient(135deg,#ff3b3b,#ff7b00);
-  color: #fff; 
-  font-size: 0.8rem; 
-  font-weight: 700;
-  padding: 4px 10px; 
-  border-radius: 6px;
-  animation: pulse 1.5s infinite ease-in-out;
-  box-shadow: 0 0 6px rgba(255,90,0,0.4);
+/* NEW flag inside the title */
+.section-title .new-flag {
+  background:linear-gradient(135deg,#ff3b3b,#ff7b00);
+  color:#fff; font-size:0.8rem; font-weight:700;
+  padding:4px 10px; border-radius:6px;
+  animation:pulse 1.5s infinite ease-in-out;
+  box-shadow:0 0 6px rgba(255,90,0,0.4);
 }
 @keyframes pulse { 0%{transform:scale(1)} 50%{transform:scale(1.1)} 100%{transform:scale(1)} }
 
 /* Content boxes */
-.content-box { margin-top:20px; padding:18px; border-radius:12px; box-shadow:var(--card-shadow); background:transparent; }
+.content-box { margin-top:20px; padding:18px; border-radius:12px; box-shadow:var(--card-shadow); background:rgba(255,255,255,0.05); }
 
 /* Announcements */
 .announcement-item {
@@ -314,7 +291,6 @@ exclude: 'no'
   .announcement-item { flex-direction:column; text-align:center; gap:12px; }
   .announcement-img { width:100%; max-width:240px; flex:none; }
   .contact-grid { grid-template-columns:1fr; }
-  .section-title { font-size:1.15rem; border-left:3px solid var(--accent); }
 }
 @media (max-width:480px) {
   .highlight { font-size:0.95rem; }
