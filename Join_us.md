@@ -107,10 +107,19 @@ title: ""
 <!-- ========================= -->
 <!-- Styles -->
 <style>
+/* =========================
+   Global Settings
+   ========================= */
+* {
+  box-sizing: border-box; /* prevent horizontal overflow */
+  margin: 0;
+  padding: 0;
+}
 body {
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
   color: #222;
   line-height: 1.65;
+  overflow-x: hidden; /* prevent horizontal scroll */
 }
 
 /* Hero Banner */
@@ -154,6 +163,8 @@ body {
   padding: 14px 18px;
   border-radius: 6px;
   margin-bottom: 25px;
+  width: 100%;
+  overflow: hidden;
 }
 
 /* Buttons */
@@ -209,27 +220,21 @@ body {
 }
 
 /* =========================
-   Mobile-Friendly Button Fix
+   Mobile-Friendly Fix
    ========================= */
 @media (max-width: 768px) {
   /* Stack buttons in PhD / Internship sections */
   .button-row {
     display: flex;
-    flex-direction: column; /* vertical stacking */
-    gap: 10px;              /* spacing between buttons */
+    flex-direction: column;
+    gap: 10px;
   }
 
-  .button-row .btn {
-    width: 100%;           /* full container width */
-    text-align: center;    /* center the text */
-    margin-top: 0;         /* reset top margin */
-  }
-
-  /* Master / Internship project buttons */
+  .button-row .btn,
   .project-list li .btn {
-    width: 100%;           /* full width */
-    text-align: center;    /* center text */
-    margin-top: 10px;      /* spacing from description */
+    width: 100%;           /* full container width */
+    text-align: center;
+    margin-top: 0;
   }
 
   /* Reduce hero banner padding for mobile */
@@ -237,16 +242,23 @@ body {
     padding: 30px 15px;
   }
 
-  /* Reduce collapsible content padding for mobile */
+  /* Reduce collapsible content padding */
   .collapsible-content {
     padding: 12px 12px;
   }
+
+  /* Ensure no horizontal overflow for lists */
+  .project-list,
+  .collapsible-content ul {
+    padding-left: 0;
+    margin-left: 0;
+  }
 }
 
-/* Responsive */
+/* Extra small screens font adjustment */
 @media (max-width: 600px) {
   .btn {
-    font-size: 1em; /* adjust font for very small screens */
+    font-size: 1em;
   }
 }
 </style>
