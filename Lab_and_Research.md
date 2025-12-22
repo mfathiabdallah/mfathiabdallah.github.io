@@ -175,13 +175,13 @@ p, li {
   background: linear-gradient(135deg, #0b3c5d, #1f7a8c);
   color: #ffffff;
   padding: 50px 30px;
-  border-radius: 14px;
+  border-radius: 12px;
   text-align: center;
   margin-bottom: 35px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
 .hero-banner h1 {
-  font-size: 2.5em;
+  font-size: 2.4em;
   margin: 0;
   font-weight: 600;          /* lighter than bold */
   letter-spacing: 0.6px;
@@ -190,8 +190,8 @@ p, li {
 
 .hero-banner p {
   max-width: 820px;
-  margin: 18px auto 28px;
-  color: #eaf4f8;
+  margin: 16px auto 26px;
+  color: #f2f6f9;
 }
 
 /* CV Button */
