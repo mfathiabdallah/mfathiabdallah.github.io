@@ -93,12 +93,17 @@ title: ""
           View Project
         </a>
       </li>
-     <li>
-    <p>
-      Interns or Erasmus thesis students are welcome.<br>
-      Contact <strong>Dr. Mohamed Fathi Abdallah</strong> at
-      <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.
-  
+      <li>
+        <p>
+          Interns or Erasmus thesis students are welcome.<br>
+          Contact <strong>Dr. Mohamed Fathi Abdallah</strong> at
+          <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.
+        </p>
+      </li>
+    </ul>
+  </div>
+</div>
+
 <!-- ========================= -->
 <!-- Styles -->
 <style>
@@ -203,10 +208,45 @@ body {
   font-weight: 600;
 }
 
+/* =========================
+   Mobile-Friendly Button Fix
+   ========================= */
+@media (max-width: 768px) {
+  /* Stack buttons in PhD / Internship sections */
+  .button-row {
+    display: flex;
+    flex-direction: column; /* vertical stacking */
+    gap: 10px;              /* spacing between buttons */
+  }
+
+  .button-row .btn {
+    width: 100%;           /* full container width */
+    text-align: center;    /* center the text */
+    margin-top: 0;         /* reset top margin */
+  }
+
+  /* Master / Internship project buttons */
+  .project-list li .btn {
+    width: 100%;           /* full width */
+    text-align: center;    /* center text */
+    margin-top: 10px;      /* spacing from description */
+  }
+
+  /* Reduce hero banner padding for mobile */
+  .hero-banner {
+    padding: 30px 15px;
+  }
+
+  /* Reduce collapsible content padding for mobile */
+  .collapsible-content {
+    padding: 12px 12px;
+  }
+}
+
 /* Responsive */
 @media (max-width: 600px) {
   .btn {
-    width: 100%;
+    font-size: 1em; /* adjust font for very small screens */
   }
 }
 </style>
