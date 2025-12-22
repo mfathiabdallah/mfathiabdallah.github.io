@@ -236,7 +236,7 @@ p, li {
   margin-bottom: 8px;
 }
 .collapsible-content {
-  background: #f1f7fb;
+  background: #f5f5f5;
   border-left: 4px solid #1f7a8c;
   padding: 14px 18px;
   border-radius: 6px;
