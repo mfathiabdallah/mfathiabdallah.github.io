@@ -367,8 +367,6 @@ interdisciplinary approach bridges food toxicology and human health.
     <p>
       Investigation of combined toxic effects of food contaminants using
       in vitro models and New Approach Methodologies (NAMs).
-       <p>Investigating combined toxic effects of multiple food contaminants using in vitro models and New Approach Methodologies (NAMs).</p>
-
     <p><strong>Related publications:</strong></p>
     <ul>
       <li>M Suman, M Oboeuf, <strong>MF Abdallah</strong>, C Hazel, E Varga, A Mally, A Medina, M Molero, A Sansom, KJ Korzeniowski (2025). Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products. <em>World Mycotoxin Journal</em>. <a href="https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml" target="_blank" rel="noopener">[Link]</a></li>
@@ -385,6 +383,7 @@ interdisciplinary approach bridges food toxicology and human health.
 <!-- Current Projects -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Current Projects</h1>
+ <p>Our research activities are supported by competitive national and international funding sources. We are grateful to these foundations and programs for their support.</p>
   <div class="collapsible-content">
     <table class="modern-table full-width">
       <thead>
@@ -420,18 +419,19 @@ interdisciplinary approach bridges food toxicology and human health.
   <h1 class="collapsible-title">&#10148; Funds</h1>
   <div class="collapsible-content">
     <ul>
-      <li>
-        (2026–2031) Novo Nordisk Foundation – ECRUIT Grant.
-        Project: <strong>ToxiFOOD</strong>.
-        Role: Principal Investigator.
-        Total budget: DKK 13.88 Million.
+      <li>(2026-2031) Novo Nordisk Foundation - ECRUIT Grant for International Recruitment 2025 (Assistant Prof level) for the project "ToxiFOOD". Role: Principal Investigator. Total budget: DKK 13.88 Million (= € 1.86 Million). <span style="color:red; ">(Not started)</span>
       </li>
-      <li>
-        (2024) UMONS Research Institute for Health Sciences and Technology.
-        High-throughput toxicity screening project.
+      <li>(2024) UMONS Research Institute for Health Sciences and Technology (Action Kangaroo) for the project "Optimizing a one-plate method for a high throughput toxicity Screening". Role: Principal Researcher. Total budget: €5,000. <span style="color:red; ">(Discountined in 03/2025 due to starting a new position at Aarhus Uni, DK)</span>
       </li>
-      <li>
-        (2020–2023) Postdoctoral Fellowship – Ghent University, Belgium.
+      <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute: University of Mons, Belgium. Total budget: €215,000. 
+        <span style="color:red;">(Discountined in 03/2025 due to starting a new position at Aarhus Uni, DK)</span>
+      </li>
+      <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032. Total budget: €205,000. 
+        <span style="color:red; ">(Completed)</span>
+      </li>
+      <li>(2021) VLIRUOS Global Minds Grant from Ghent Uni for "AF-CYSTIN-milk" project to assess the incidence of aflatoxin M1 and microcystin-LR in dairy milk and their potential in vitro toxic interaction. Role: Principal Researcher. Total budget: €12,000. <span style="color:red; ">(Completed)</span>
+      </li>
+      <li>(2018) VLIRUOS Global Minds Grant from Ghent Uni for "MYCOSUGAR" project to investigate mycotoxin occurrence in sugarcane as an important cash crop. Role: Principal Researcher. Total budget: €12,000. <span style="color:red; ">(Completed)</span>
       </li>
     </ul>
   </div>
