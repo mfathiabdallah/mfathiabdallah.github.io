@@ -64,14 +64,15 @@ exclude: 'no'
   <p>We support applications for scholarships and fellowships such as <strong>Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation</strong>, and others.  
   Exceptional and motivated candidates are encouraged to get in touch for guidance on proposal writing and research topics.</p>
 </div>
+
 <!-- ========================= -->
 <!-- Master Thesis / Internship -->
-<div class="content-box thesis-box">
-  <div class="thesis-header">
-    <h3 class="section-title"><i class="fa-solid fa-microscope"></i> Master Thesis & Internship Opportunities at AU FOOD 2025/2026</h3>
-    <span class="new-flag">NEW</span>
-  </div>
+<div class="fullwidth-header thesis-header-full">
+  <h3 class="section-title-full"><i class="fa-solid fa-microscope"></i> Master Thesis & Internship Opportunities at AU FOOD 2025/2026</h3>
+  <span class="new-flag">NEW</span>
+</div>
 
+<div class="content-box thesis-box">
   <p>We welcome motivated Master students, interns, or Erasmus students to join our research projects:</p>
 
   <ul class="project-list">
@@ -94,6 +95,7 @@ exclude: 'no'
     <a href="mailto:mfa@food.au.dk">mfa@food.au.dk</a>.
   </p>
 </div>
+
 <!-- ========================= -->
 <!-- Announcements -->
 <div class="content-box announcements-wrapper">
@@ -201,52 +203,74 @@ exclude: 'no'
 <!-- ✅ CSS -->
 <style>
 :root {
-  --accent:#0b3c5d; /* blue for sections */
+  --accent:#0b3c5d;
   --muted:#555;
   --card-shadow:0 4px 14px rgba(0,0,0,0.08);
 }
 
 .icon-accent { color:var(--accent); margin-right:6px; }
 
-/* Profile box */
+/* Layout & profile */
 .profile-container {
   display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
   gap:25px; margin-top:15px; padding:22px; border-radius:12px;
-  background-color:#e6f4f1; /* light blue visible */
-  box-shadow:0 6px 18px rgba(0,0,0,0.08);
+  background-color:rgba(255,255,255,0.05); box-shadow:0 6px 18px rgba(0,0,0,0.08);
 }
 .bio { flex:1; min-width:250px; }
 .subtitle { font-style:italic; color:var(--muted); margin:0 0 6px; font-weight:400; }
-.highlight { font-style:italic; color:#d12a00; margin:4px 0; font-weight:400; }
+.highlight { font-style:italic; color:#ed1a07; margin:4px 0; font-weight:400; }
 .contact-title { color:var(--accent); margin-top:10px; font-weight:400; }
 .profile-img { width:170px; border-radius:12px; object-fit:cover; border:0; }
 
 /* Section titles */
 .section-title {
-  color:#fff; /* white text */
-  background:var(--accent);
-  padding:10px 12px;
-  border-radius:8px;
-  font-size:1.25rem;
-  display:flex;
-  align-items:center;
-  gap:8px;
+  color:var(--accent);
+  font-size:1.28rem;
+  font-weight:400;
   margin-bottom:10px;
+  border-left:4px solid var(--accent);
+  padding-left:10px;
+  letter-spacing:0.3px;
+  display:flex; align-items:center; gap:8px;
 }
 
-/* Content boxes */
-.content-box { margin-top:20px; padding:18px; border-radius:12px; box-shadow:var(--card-shadow); background:rgba(255,255,255,0.05); }
+/* Full-width header for Thesis / Internship section */
+.thesis-header-full {
+  background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
+  color: #fff;
+  padding: 14px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 0; 
+  margin-top: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+.section-title-full {
+  font-size: 1.28rem;
+  font-weight: 400;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #fff;
+}
 
-/* Thesis NEW flag */
-.thesis-header { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
-.new-flag {
-  background:linear-gradient(135deg,#ff3b3b,#ff7b00);
-  color:#fff; font-size:0.8rem; font-weight:700;
-  padding:4px 10px; border-radius:6px;
-  animation:pulse 1.5s infinite ease-in-out;
-  box-shadow:0 0 6px rgba(255,90,0,0.4);
+/* NEW flag inside the header */
+.thesis-header-full .new-flag {
+  background: linear-gradient(135deg,#ff3b3b,#ff7b00);
+  color: #fff; 
+  font-size: 0.8rem; 
+  font-weight: 700;
+  padding: 4px 10px; 
+  border-radius: 6px;
+  animation: pulse 1.5s infinite ease-in-out;
+  box-shadow: 0 0 6px rgba(255,90,0,0.4);
 }
 @keyframes pulse { 0%{transform:scale(1)} 50%{transform:scale(1.1)} 100%{transform:scale(1)} }
+
+/* Content boxes */
+.content-box { margin-top:20px; padding:18px; border-radius:12px; box-shadow:var(--card-shadow); background:transparent; }
 
 /* Announcements */
 .announcement-item {
@@ -278,16 +302,13 @@ exclude: 'no'
 
 .centered-hr { width:420px; max-width:90%; margin:30px auto; border:none; border-top:2px solid #aaa; }
 
+/* Project list */
+.project-list { list-style:none; padding-left:0; margin:0; }
+.project-list li { padding:16px 0; border-bottom:1px solid rgba(0,0,0,0.08); }
+.project-list li:last-child { border-bottom:none; }
+.project-title { margin:4px 0 6px; }
+
 /* Responsive */
 @media (max-width:900px) {
   .profile-container { flex-direction:column; text-align:center; }
-  .announcement-item { flex-direction:column; text-align:center; gap:12px; }
-  .announcement-img { width:100%; max-width:240px; flex:none; }
-  .contact-grid { grid-template-columns:1fr; }
-}
-@media (max-width:480px) {
-  .highlight { font-size:0.95rem; }
-  .announcement-item { padding:10px; }
-}
-body { overflow-x:hidden; }
-</style>
+  .announcement-item {
