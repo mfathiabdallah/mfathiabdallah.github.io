@@ -48,23 +48,8 @@ interdisciplinary approach bridges food toxicology and human health.
       <li><strong>MF Abdallah</strong>, G Girgin, T Baydar, R Krska, M Sulyok (2017). Occurrence of multiple mycotoxins and other fungal metabolites in animal feed and maize samples from Egypt using LC-MS/MS. <em>Journal of the Science of Food and Agriculture</em>, 97(13), 4419–4428. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.8293" target="_blank" rel="noopener">[Link]</a></li>
       <li><strong>MF Abdallah</strong>, R Krska, M Sulyok (2016). Mycotoxin contamination in sugarcane grass and juice: first report on detection of multiple mycotoxins and exposure assessment for aflatoxins B1 and G1 in humans. <em>Toxins</em>, 8(11), 343. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/2072-6651/8/11/343" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/toxins_Abdallah_etal2016.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
     </ul>
-
-    </p>
-
-    <h3>B) Mixture Toxicology, Risk Assessment & Human Health</h3>
-    <p>
-      Investigation of combined toxic effects of food contaminants using
-      in vitro models and New Approach Methodologies (NAMs).
-    <p><strong>Related publications:</strong></p>
-    <ul>
-      <li>M Suman, M Oboeuf, <strong>MF Abdallah</strong>, C Hazel, E Varga, A Mally, A Medina, M Molero, A Sansom, KJ Korzeniowski (2025). Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products. <em>World Mycotoxin Journal</em>. <a href="https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml" target="_blank" rel="noopener">[Link]</a></li>
-      <li>C Dongye, X Chen, Y Zhao, H Li, <strong>MF Abdallah</strong>, T Li, X Chen (2025). Protective effects of octyl gallate against deoxynivalenol-induced colon inflammation: insights from proteomic and metabolomic analyses. <em>Environment & Health</em>, 4c00250. <a href="https://pubs.acs.org/doi/full/10.1021/envhealth.4c00250" target="_blank" rel="noopener">[Link]</a></li>
-      <li><strong>MF Abdallah</strong>*, JM Recote, C Van Camp, WHR Van Hassel, L Pedroni, L Dellafiora, J Masquelier, A Rajkovic (2024). Potential (co-)contamination of dairy milk with AFM1 and MC-LR. <em>Food and Chemical Toxicology</em>, 114907. <a href="https://www.sciencedirect.com/science/article/pii/S0278691524004733?via%3Dihub" target="_blank" rel="noopener">[Link]</a></li>
-      <li>X Chen, <strong>MF Abdallah</strong>, C Grootaert, F Van Nieuwerburgh, A Rajkovic (2023). Combined toxicity of aflatoxin B1 and fumonisin B1 in HepG2 cells. <em>Environment International</em>, 107945. <span style="color:green;">(Open Access)</span> <a href="https://www.sciencedirect.com/science/article/pii/S0160412023002180" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/Chent%20et%20al_2023.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
-      <li>X Chen, <strong>MF Abdallah</strong>, C Grootaert, A Rajkovic (2022). Bioenergetic status of intestinal and hepatic cells after short-term exposure to fumonisin B1 and aflatoxin B1. <em>International Journal of Molecular Sciences</em>, 23(13), 6945. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/1422-0067/23/13/6945" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/ijms-23-06945-v2.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
-    </ul>
-    </p>
   </div>
+</div>
 
 <!-- ========================= -->
 <!-- Current Projects -->
@@ -101,7 +86,7 @@ interdisciplinary approach bridges food toxicology and human health.
 </div>
 
 <!-- ========================= -->
-<!-- Funds -->
+<!-- Secured Funds -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Funds</h1>
   <div class="collapsible-content">
@@ -183,9 +168,9 @@ p, li {
 .hero-banner h1 {
   font-size: 2.4em;
   margin: 0;
-  font-weight: 600;          /* lighter than bold */
+  font-weight: 600;
   letter-spacing: 0.6px;
-  color: #ffffff;            /* pure white */
+  color: #ffffff;
 }
 
 .hero-banner p {
@@ -237,9 +222,10 @@ p, li {
 }
 .collapsible-content {
   background: #f5f5f5;
-  border-left: 4px solid #0b3c5d;
+  /* Removed left border line */
   border-radius: 6px;
   margin-bottom: 20px;
+  padding: 14px 18px; /* keep padding for content */
 }
 
 /* Tables */
