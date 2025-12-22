@@ -53,9 +53,6 @@ title: ""
       <li>X Chen, <strong>MF Abdallah</strong>, C Grootaert, A Rajkovic (2022). Bioenergetic status of intestinal and hepatic cells after short-term exposure to fumonisin B1 and aflatoxin B1. <em>International Journal of Molecular Sciences</em>, 23(13), 6945. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/1422-0067/23/13/6945" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/ijms-23-06945-v2.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
     </ul>
 
-    <h3>C) Artificial Intelligence in Food Toxicology</h3>
-    <p>Applying AI and large language models for risk prediction, data integration, and contaminant classification.</p>
-    <p><strong>Related publications:</strong> Add soon.</p>
   </div>
 </div>
 
@@ -64,7 +61,7 @@ title: ""
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Current Projects</h1>
   <div class="collapsible-content">
-    <p>Our research activities are supported by competitive national and international funding sources. We are grateful to these foundations and programs for supporting our mission to advance food toxicology and safety research.</p>
+    <p>Our research activities are supported by competitive national and international funding sources. We are grateful to these foundations and programs for their support.</p>
     <table class="modern-table full-width">
       <thead>
         <tr>
@@ -304,4 +301,265 @@ a:hover {
 #backToTop:hover {
   background-color: #0066cc;
 }
+</style>
+
+
+---
+layout: page
+title: ""
+---
+
+<!-- ========================= -->
+<!-- Hero Banner -->
+<div class="hero-banner">
+  <h1>AU FOOD TOX Research Group</h1>
+  <p>
+    Advancing food toxicology through cutting-edge research on natural toxins,
+    emerging contaminants, and mixture risk assessment.
+  </p>
+
+  <a class="cv-button" href="https://www.mfathiabdallah.com/CV/" target="_blank" rel="noopener">
+    View Academic CV
+  </a>
+</div>
+
+<!-- ========================= -->
+<!-- Intro Text -->
+<p>
+At the AU FOOD Department, our research focuses on understanding risks associated
+with natural toxins (mycotoxins and cyanotoxins) and emerging contaminants in
+novel foods. Using advanced LC-MS/MS methods and in vitro models, we investigate
+toxic effects of contaminants and their mixtures on human health. This
+interdisciplinary approach bridges food toxicology and human health.
+</p>
+
+<!-- ========================= -->
+<!-- Research Overview Image -->
+<figure class="research-overview">
+  <img src="/images/aufoodtox.png" alt="AU FOOD TOX research overview">
+  <figcaption>
+    A schematic overview of AU FOOD TOX group’s research focus.
+  </figcaption>
+</figure>
+
+<!-- ========================= -->
+<!-- Research Lines -->
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Research Lines</h1>
+  <div class="collapsible-content">
+    <h3>A) Natural Toxins in Food</h3>
+    <p>
+      Detection and occurrence of mycotoxins and cyanotoxins in food products
+      using LC-MS/MS and targeted/non-targeted analytical approaches.
+    </p>
+
+    <h3>B) Mixture Toxicology, Risk Assessment & Human Health</h3>
+    <p>
+      Investigation of combined toxic effects of food contaminants using
+      in vitro models and New Approach Methodologies (NAMs).
+    </p>
+  </div>
+</div>
+
+<!-- ========================= -->
+<!-- Current Projects -->
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Current Projects</h1>
+  <div class="collapsible-content">
+    <table class="modern-table full-width">
+      <thead>
+        <tr>
+          <th>Status</th>
+          <th>Project</th>
+          <th>Funding Agency</th>
+          <th>Total Fund</th>
+          <th>Period</th>
+          <th>Role</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Running</strong></td>
+          <td><strong>ToxiFOOD</strong></td>
+          <td>
+            <img src="/images/novonordiskfoundationlogo.png"
+                 alt="Novo Nordisk Foundation">
+          </td>
+          <td>DKK 13.88 M</td>
+          <td>2026 – 2031</td>
+          <td>PI</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ========================= -->
+<!-- Funds -->
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Funds</h1>
+  <div class="collapsible-content">
+    <ul>
+      <li>
+        (2026–2031) Novo Nordisk Foundation – ECRUIT Grant.
+        Project: <strong>ToxiFOOD</strong>.
+        Role: Principal Investigator.
+        Total budget: DKK 13.88 Million.
+      </li>
+      <li>
+        (2024) UMONS Research Institute for Health Sciences and Technology.
+        High-throughput toxicity screening project.
+      </li>
+      <li>
+        (2020–2023) Postdoctoral Fellowship – Ghent University, Belgium.
+      </li>
+    </ul>
+  </div>
+</div>
+
+<!-- ========================= -->
+<!-- Lab Members -->
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Lab Members</h1>
+  <div class="collapsible-content">
+    <table class="modern-table full-width">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Position</th>
+          <th>Research Focus</th>
+          <th>Contact</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
+          <td>Principal Investigator</td>
+          <td>Natural toxins, LC-MS/MS, In vitro toxicology</td>
+          <td>mfa [at] food.au.dk</td>
+          <td>
+            <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">
+              AU Profile
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ========================= -->
+<!-- Styles -->
+<style>
+
+/* Typography */
+body {
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.65;
+  color: #222;
+}
+p, li {
+  font-size: 1.05em;
+}
+
+/* Hero Banner */
+.hero-banner {
+  background: linear-gradient(135deg, #0b3c5d, #1f7a8c);
+  color: #ffffff;
+  padding: 50px 30px;
+  border-radius: 14px;
+  text-align: center;
+  margin-bottom: 35px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+.hero-banner h1 {
+  font-size: 2.4em;
+  margin: 0;
+}
+.hero-banner p {
+  max-width: 820px;
+  margin: 18px auto 28px;
+  color: #eaf4f8;
+}
+
+/* CV Button */
+.cv-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #ffffff;
+  color: #0b3c5d;
+  font-weight: 600;
+  border-radius: 30px;
+  text-decoration: none;
+  transition: all 0.25s ease;
+}
+.cv-button:hover {
+  background: #e6f4f1;
+  transform: translateY(-2px);
+}
+
+/* Research Overview */
+.research-overview {
+  text-align: center;
+  margin: 25px 0;
+}
+.research-overview img {
+  max-width: 600px;
+  width: 100%;
+  border-radius: 8px;
+}
+.research-overview figcaption {
+  margin-top: 10px;
+  font-style: italic;
+  color: #555;
+}
+
+/* Collapsible Sections */
+.collapsible-title {
+  background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
+  color: #fff;
+  padding: 12px 18px;
+  border-radius: 8px;
+  font-size: 1.3em;
+  margin-bottom: 8px;
+}
+.collapsible-content {
+  background: #f1f7fb;
+  border-left: 4px solid #1f7a8c;
+  padding: 14px 18px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+/* Tables */
+.modern-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+.modern-table thead {
+  background: #0b3c5d;
+  color: #fff;
+}
+.modern-table th,
+.modern-table td {
+  padding: 12px;
+  text-align: center;
+}
+.modern-table tbody tr:nth-child(even) {
+  background: #e6f0ff;
+}
+.modern-table img {
+  max-width: 100px;
+}
+
+a {
+  color: #0b3c5d;
+}
+a:hover {
+  color: #1f7a8c;
+  text-decoration: underline;
+}
+
 </style>
