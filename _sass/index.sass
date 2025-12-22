@@ -1,14 +1,14 @@
 // ============================
 // Font and Layout Variables
 // ============================
-$font-size: calc(0.8rem + 0.2vw) !default;
-$font-weight: 400 !default;
-$font-family: "Segoe UI", "Montserrat", -apple-system, "Helvetica Neue", "Roboto", sans-serif !default;
-$heading-weight: 600 !default;
-$line-height: 1.6 !default;
+$font-size: calc(0.8rem + 0.2vw);
+$font-weight: 400;
+$font-family: "Segoe UI", "Montserrat", -apple-system, "Helvetica Neue", "Roboto", sans-serif;
+$heading-weight: 600;
+$line-height: 1.6;
 
 // ============================
-// Color Variables (match hero-banner)
+// Color Variables
 // ============================
 $link-color: #0b3c5d;   // links
 $dark: #0b3c5d;         // section headers, tables
@@ -22,5 +22,5 @@ $shadow: rgba(0,0,0,0.15);
 // Helper Function
 // ============================
 @function reduce($percent) {
-  @return rgba(mix($dark, $light), $percent / 70);
+  @return rgba($dark, $percent / 100);
 }
