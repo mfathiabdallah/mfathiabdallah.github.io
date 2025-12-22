@@ -24,7 +24,7 @@ title: ""
   </h1>
   <div class="collapsible-content">
     <ul>
-      <li>Marie Skłodowska-Curie Fellowships</li>
+      <li>Marie Curie Fellowships</li>
       <li>Funding from Novo Nordisk Foundation, DFF, Villum Foundation</li>
       <li>Other national or international fellowships</li>
     </ul>
