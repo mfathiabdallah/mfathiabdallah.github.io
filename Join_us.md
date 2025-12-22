@@ -93,7 +93,7 @@ title: ""
           View Project
         </a>
       </li>
-    </ul>
+     <li>
     <p>
       Interns or Erasmus thesis students are welcome.<br>
       Contact <strong>Dr. Mohamed Fathi Abdallah</strong> at
