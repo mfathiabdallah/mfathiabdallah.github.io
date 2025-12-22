@@ -214,7 +214,7 @@ exclude: 'no'
 .profile-container {
   display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
   gap:25px; margin-top:15px; padding:22px; border-radius:12px;
-  background-color:#e6f4f1;
+  background-color:rgba(255,255,255,0.05); /* subtle light transparent */
   box-shadow:0 6px 18px rgba(0,0,0,0.08);
 }
 .bio { flex:1; min-width:250px; }
