@@ -59,7 +59,7 @@ exclude: 'no'
 <!-- ========================= -->
 <!-- Scholarships & Fellowships -->
 <div class="content-box">
-  <h3 class="section-title"><i class="fa-solid fa-award"></i> Scholarships & Fellowships</h3>
+  <h3 class="section-title"><i class="fa-solid fa-award"></i> Scholarships & Fellowships Support</h3>
   <p>We support applications for scholarships and fellowships such as <strong>Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation</strong>, and others.  
   Exceptional and motivated candidates are encouraged to get in touch for guidance on proposal writing and research topics.</p>
 </div>
