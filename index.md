@@ -311,4 +311,14 @@ exclude: 'no'
 /* Responsive */
 @media (max-width:900px) {
   .profile-container { flex-direction:column; text-align:center; }
-  .announcement-item {
+  .announcement-item { flex-direction:column; text-align:center; gap:12px; }
+  .announcement-img { width:100%; max-width:240px; flex:none; }
+  .contact-grid { grid-template-columns:1fr; }
+  .section-title { font-size:1.15rem; border-left:3px solid var(--accent); }
+}
+@media (max-width:480px) {
+  .highlight { font-size:0.95rem; }
+  .announcement-item { padding:10px; }
+}
+body { overflow-x:hidden; }
+</style>
