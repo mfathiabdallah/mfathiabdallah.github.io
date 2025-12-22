@@ -229,7 +229,7 @@ p, li {
 /* Collapsible Sections */
 .collapsible-title {
   background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
-  color: #fff;
+  color: #ffffff;
   padding: 12px 18px;
   border-radius: 8px;
   font-size: 1.3em;
@@ -237,7 +237,7 @@ p, li {
 }
 .collapsible-content {
   background: #f5f5f5;
-  border-left: 4px solid #1f7a8c;
+  border-left: 4px solid #0b3c5d;
   padding: 14px 18px;
   border-radius: 6px;
   margin-bottom: 20px;
