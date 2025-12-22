@@ -21,8 +21,9 @@ title: ""
 </div>
 
 <!-- ========================= -->
-<!-- Intro Text in Card -->
-<div class="card intro-card">
+<!-- Intro + Figure + Research Lines in Card -->
+<div class="card">
+  <!-- Intro Text -->
   <p>
     At the AU FOOD Department, our research focuses on understanding risks associated
     with natural toxins (mycotoxins and cyanotoxins) and emerging contaminants in
@@ -30,50 +31,48 @@ title: ""
     toxic effects of contaminants and their mixtures on human health. This
     interdisciplinary approach bridges food toxicology and human health.
   </p>
-</div>
 
-<!-- ========================= -->
-<!-- Research Overview Image -->
-<figure class="research-overview">
-  <img src="/images/aufoodtox.png" alt="AU FOOD TOX research overview">
-  <figcaption>
-    A schematic overview of AU FOOD TOX group’s research focus.
-  </figcaption>
-</figure>
+  <!-- Research Overview Image -->
+  <figure class="research-overview">
+    <img src="/images/aufoodtox.png" alt="AU FOOD TOX research overview">
+    <figcaption>
+      A schematic overview of AU FOOD TOX group’s research focus.
+    </figcaption>
+  </figure>
 
-<!-- ========================= -->
-<!-- Research Lines -->
-<div class="collapsible">
-  <h1 class="collapsible-title">&#10148; Research Lines</h1>
-  <div class="collapsible-content card">
-    <h3>A) Natural Toxins in Food</h3>
-    <p>
-      Detection and occurrence of mycotoxins and cyanotoxins in food products
-      using LC-MS/MS and targeted/non-targeted analytical approaches.
-    </p>
-    <p><strong>Related publications:</strong></p>
-    <ul>
-      <li>WR Van Hassel, <strong>MF Abdallah</strong>, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024). Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (<em>Ocimum basilicum</em> L.). <em>Environmental Pollution</em>, 123715. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub" target="_blank" rel="noopener">[Link]</a></li>
-      <li>C Van Camp, W Van Hassel, <strong>MF Abdallah</strong>, J Masquelier (2023). Simultaneous detection and quantification of aflatoxin M1, eight microcystin congeners and nodularin in dairy milk by LC-MS/MS. <em>Chemosensors</em>, 11(10), 511. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/2227-9040/11/10/511" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/chemosensors-11-00511.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
-      <li>L De Colli, K De Ruyck, <strong>MF Abdallah</strong>, J Finnan, E Mullins, S Kildea, J Spink, C Elliott, M Danaher (2021). Natural co-occurrence of multiple mycotoxins in unprocessed oats grown in Ireland with various production systems. <em>Toxins</em>, 13(3), 188. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/2072-6651/13/3/188" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/toxins-13-00188-v2.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
-      <li><strong>MF Abdallah</strong>*, K Audenaert, L Lust, S Landschoot, B Bekaert, G Haesaert, M De Boevre, S De Saeger (2020). Risk characterization and quantification of mycotoxins and their producing fungi in sugarcane juice. <em>Food Control</em>, 108, 106811. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0956713519304001" target="_blank" rel="noopener">[Link]</a></li>
-      <li><strong>MF Abdallah</strong>, G Girgin, T Baydar, R Krska, M Sulyok (2017). Occurrence of multiple mycotoxins and other fungal metabolites in animal feed and maize samples from Egypt using LC-MS/MS. <em>Journal of the Science of Food and Agriculture</em>, 97(13), 4419–4428. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.8293" target="_blank" rel="noopener">[Link]</a></li>
-      <li><strong>MF Abdallah</strong>, R Krska, M Sulyok (2016). Mycotoxin contamination in sugarcane grass and juice: first report on detection of multiple mycotoxins and exposure assessment for aflatoxins B1 and G1 in humans. <em>Toxins</em>, 8(11), 343. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/2072-6651/8/11/343" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/toxins_Abdallah_etal2016.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
-    </ul>
+  <!-- Research Lines -->
+  <div class="collapsible">
+    <h1 class="collapsible-title">&#10148; Research Lines</h1>
+    <div class="collapsible-content">
+      <h3>A) Natural Toxins in Food</h3>
+      <p>
+        Detection and occurrence of mycotoxins and cyanotoxins in food products
+        using LC-MS/MS and targeted/non-targeted analytical approaches.
+      </p>
+      <p><strong>Related publications:</strong></p>
+      <ul>
+        <li>WR Van Hassel, <strong>MF Abdallah</strong>, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024). Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (<em>Ocimum basilicum</em> L.). <em>Environmental Pollution</em>, 123715. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub" target="_blank" rel="noopener">[Link]</a></li>
+        <li>C Van Camp, W Van Hassel, <strong>MF Abdallah</strong>, J Masquelier (2023). Simultaneous detection and quantification of aflatoxin M1, eight microcystin congeners and nodularin in dairy milk by LC-MS/MS. <em>Chemosensors</em>, 11(10), 511. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/2227-9040/11/10/511" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/chemosensors-11-00511.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
+        <li>L De Colli, K De Ruyck, <strong>MF Abdallah</strong>, J Finnan, E Mullins, S Kildea, J Spink, C Elliott, M Danaher (2021). Natural co-occurrence of multiple mycotoxins in unprocessed oats grown in Ireland with various production systems. <em>Toxins</em>, 13(3), 188. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/2072-6651/13/3/188" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/toxins-13-00188-v2.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
+        <li><strong>MF Abdallah</strong>*, K Audenaert, L Lust, S Landschoot, B Bekaert, G Haesaert, M De Boevre, S De Saeger (2020). Risk characterization and quantification of mycotoxins and their producing fungi in sugarcane juice. <em>Food Control</em>, 108, 106811. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0956713519304001" target="_blank" rel="noopener">[Link]</a></li>
+        <li><strong>MF Abdallah</strong>, G Girgin, T Baydar, R Krska, M Sulyok (2017). Occurrence of multiple mycotoxins and other fungal metabolites in animal feed and maize samples from Egypt using LC-MS/MS. <em>Journal of the Science of Food and Agriculture</em>, 97(13), 4419–4428. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.8293" target="_blank" rel="noopener">[Link]</a></li>
+        <li><strong>MF Abdallah</strong>, R Krska, M Sulyok (2016). Mycotoxin contamination in sugarcane grass and juice: first report on detection of multiple mycotoxins and exposure assessment for aflatoxins B1 and G1 in humans. <em>Toxins</em>, 8(11), 343. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/2072-6651/8/11/343" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/toxins_Abdallah_etal2016.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
+      </ul>
 
-    <h3>B) Mixture Toxicology, Risk Assessment & Human Health</h3>
-    <p>
-      Investigation of combined toxic effects of food contaminants using
-      in vitro models and New Approach Methodologies (NAMs).
-    </p>
-    <p><strong>Related publications:</strong></p>
-    <ul>
-      <li>M Suman, M Oboeuf, <strong>MF Abdallah</strong>, C Hazel, E Varga, A Mally, A Medina, M Molero, A Sansom, KJ Korzeniowski (2025). Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products. <em>World Mycotoxin Journal</em>. <a href="https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml" target="_blank" rel="noopener">[Link]</a></li>
-      <li>C Dongye, X Chen, Y Zhao, H Li, <strong>MF Abdallah</strong>, T Li, X Chen (2025). Protective effects of octyl gallate against deoxynivalenol-induced colon inflammation: insights from proteomic and metabolomic analyses. <em>Environment & Health</em>, 4c00250. <a href="https://pubs.acs.org/doi/full/10.1021/envhealth.4c00250" target="_blank" rel="noopener">[Link]</a></li>
-      <li><strong>MF Abdallah</strong>*, JM Recote, C Van Camp, WHR Van Hassel, L Pedroni, L Dellafiora, J Masquelier, A Rajkovic (2024). Potential (co-)contamination of dairy milk with AFM1 and MC-LR. <em>Food and Chemical Toxicology</em>, 114907. <a href="https://www.sciencedirect.com/science/article/pii/S0278691524004733?via%3Dihub" target="_blank" rel="noopener">[Link]</a></li>
-      <li>X Chen, <strong>MF Abdallah</strong>, C Grootaert, F Van Nieuwerburgh, A Rajkovic (2023). Combined toxicity of aflatoxin B1 and fumonisin B1 in HepG2 cells. <em>Environment International</em>, 107945. <span style="color:green;">(Open Access)</span> <a href="https://www.sciencedirect.com/science/article/pii/S0160412023002180" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/Chent%20et%20al_2023.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
-      <li>X Chen, <strong>MF Abdallah</strong>, C Grootaert, A Rajkovic (2022). Bioenergetic status of intestinal and hepatic cells after short-term exposure to fumonisin B1 and aflatoxin B1. <em>International Journal of Molecular Sciences</em>, 23(13), 6945. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/1422-0067/23/13/6945" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/ijms-23-06945-v2.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
-    </ul>
+      <h3>B) Mixture Toxicology, Risk Assessment & Human Health</h3>
+      <p>
+        Investigation of combined toxic effects of food contaminants using
+        in vitro models and New Approach Methodologies (NAMs).
+      </p>
+      <p><strong>Related publications:</strong></p>
+      <ul>
+        <li>M Suman, M Oboeuf, <strong>MF Abdallah</strong>, C Hazel, E Varga, A Mally, A Medina, M Molero, A Sansom, KJ Korzeniowski (2025). Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products. <em>World Mycotoxin Journal</em>. <a href="https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml" target="_blank" rel="noopener">[Link]</a></li>
+        <li>C Dongye, X Chen, Y Zhao, H Li, <strong>MF Abdallah</strong>, T Li, X Chen (2025). Protective effects of octyl gallate against deoxynivalenol-induced colon inflammation: insights from proteomic and metabolomic analyses. <em>Environment & Health</em>, 4c00250. <a href="https://pubs.acs.org/doi/full/10.1021/envhealth.4c00250" target="_blank" rel="noopener">[Link]</a></li>
+        <li><strong>MF Abdallah</strong>*, JM Recote, C Van Camp, WHR Van Hassel, L Pedroni, L Dellafiora, J Masquelier, A Rajkovic (2024). Potential (co-)contamination of dairy milk with AFM1 and MC-LR. <em>Food and Chemical Toxicology</em>, 114907. <a href="https://www.sciencedirect.com/science/article/pii/S0278691524004733?via%3Dihub" target="_blank" rel="noopener">[Link]</a></li>
+        <li>X Chen, <strong>MF Abdallah</strong>, C Grootaert, F Van Nieuwerburgh, A Rajkovic (2023). Combined toxicity of aflatoxin B1 and fumonisin B1 in HepG2 cells. <em>Environment International</em>, 107945. <span style="color:green;">(Open Access)</span> <a href="https://www.sciencedirect.com/science/article/pii/S0160412023002180" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/Chent%20et%20al_2023.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
+        <li>X Chen, <strong>MF Abdallah</strong>, C Grootaert, A Rajkovic (2022). Bioenergetic status of intestinal and hepatic cells after short-term exposure to fumonisin B1 and aflatoxin B1. <em>International Journal of Molecular Sciences</em>, 23(13), 6945. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/1422-0067/23/13/6945" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/ijms-23-06945-v2.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
+      </ul>
+    </div>
   </div>
 </div>
 
@@ -82,27 +81,29 @@ title: ""
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Current Projects</h1>
   <div class="collapsible-content card">
-     <p>Our research activities are supported by competitive national and international funding sources. We are grateful to these foundations and programs for their support.</p>
-    <div class="table-container">
-      <div class="modern-table-container">
-        <div class="modern-row header">
-          <div>Status</div>
-          <div>Project</div>
-          <div>Funding Agency</div>
-          <div>Total Fund</div>
-          <div>Period</div>
-          <div>Role</div>
-        </div>
-        <div class="modern-row">
-          <div><strong>Running</strong></div>
-          <div><strong>ToxiFOOD</strong></div>
-          <div><img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation"></div>
-          <div>DKK 13.88 M</div>
-          <div>2026 – 2031</div>
-          <div>PI</div>
-        </div>
-      </div>
-    </div>
+    <p>Our research activities are supported by competitive national and international funding sources. We are grateful to these foundations and programs for their support.</p>
+    <table class="modern-table">
+      <thead>
+        <tr>
+          <th>Status</th>
+          <th>Project</th>
+          <th>Funding Agency</th>
+          <th>Total Fund</th>
+          <th>Period</th>
+          <th>Role</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Running</strong></td>
+          <td><strong>ToxiFOOD</strong></td>
+          <td><img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation"></td>
+          <td>DKK 13.88 M</td>
+          <td>2026 – 2031</td>
+          <td>PI</td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </div>
 
@@ -112,20 +113,12 @@ title: ""
   <h1 class="collapsible-title">&#10148; Funds</h1>
   <div class="collapsible-content card">
     <ul>
-      <li>(2026-2031) Novo Nordisk Foundation - ECRUIT Grant for International Recruitment 2025 (Assistant Prof level) for the project "ToxiFOOD". Role: Principal Investigator. Total budget: DKK 13.88 Million (= € 1.86 Million). <span style="color:red; ">(Not started)</span>
-      </li>
-      <li>(2024) UMONS Research Institute for Health Sciences and Technology (Action Kangaroo) for the project "Optimizing a one-plate method for a high throughput toxicity Screening". Role: Principal Researcher. Total budget: €5,000. <span style="color:red; ">(Discountined in 03/2025 due to starting a new position at Aarhus Uni, DK)</span>
-      </li>
-      <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute: University of Mons, Belgium. Total budget: €215,000. 
-        <span style="color:red;">(Discountined in 03/2025 due to starting a new position at Aarhus Uni, DK)</span>
-      </li>
-      <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032. Total budget: €205,000. 
-        <span style="color:red; ">(Completed)</span>
-      </li>
-      <li>(2021) VLIRUOS Global Minds Grant from Ghent Uni for "AF-CYSTIN-milk" project to assess the incidence of aflatoxin M1 and microcystin-LR in dairy milk and their potential in vitro toxic interaction. Role: Principal Researcher. Total budget: €12,000. <span style="color:red; ">(Completed)</span>
-      </li>
-      <li>(2018) VLIRUOS Global Minds Grant from Ghent Uni for "MYCOSUGAR" project to investigate mycotoxin occurrence in sugarcane. Role: Principal Researcher. Total budget: €12,000. <span style="color:red; ">(Completed)</span>
-      </li>
+      <li>(2026-2031) Novo Nordisk Foundation - ECRUIT Grant for International Recruitment 2025 (Assistant Prof level) for the project "ToxiFOOD". Role: Principal Investigator. Total budget: DKK 13.88 Million (= € 1.86 Million). <span style="color:red; ">(Not started)</span></li>
+      <li>(2024) UMONS Research Institute for Health Sciences and Technology (Action Kangaroo) for the project "Optimizing a one-plate method for a high throughput toxicity Screening". Role: Principal Researcher. Total budget: €5,000. <span style="color:red; ">(Discountined in 03/2025 due to starting a new position at Aarhus Uni, DK)</span></li>
+      <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute: University of Mons, Belgium. Total budget: €215,000. <span style="color:red;">(Discountined in 03/2025 due to starting a new position at Aarhus Uni, DK)</span></li>
+      <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032. Total budget: €205,000. <span style="color:red; ">(Completed)</span></li>
+      <li>(2021) VLIRUOS Global Minds Grant from Ghent Uni for "AF-CYSTIN-milk" project to assess the incidence of aflatoxin M1 and microcystin-LR in dairy milk and their potential in vitro toxic interaction. Role: Principal Researcher. Total budget: €12,000. <span style="color:red; ">(Completed)</span></li>
+      <li>(2018) VLIRUOS Global Minds Grant from Ghent Uni for "MYCOSUGAR" project to investigate mycotoxin occurrence in sugarcane. Role: Principal Researcher. Total budget: €12,000. <span style="color:red; ">(Completed)</span></li>
     </ul>
   </div>
 </div>
@@ -135,47 +128,46 @@ title: ""
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Lab Members</h1>
   <div class="collapsible-content card">
-    <div class="modern-table-container">
-      <div class="modern-row header">
-        <div>Name</div>
-        <div>Position</div>
-        <div>Research Focus</div>
-        <div>Contact</div>
-        <div>Link</div>
-      </div>
-      <div class="modern-row">
-        <div><strong>Dr. Mohamed Fathi Abdallah</strong></div>
-        <div>Principal Investigator</div>
-        <div>Natural toxins, LC-MS/MS, In vitro toxicology</div>
-        <div>mfa [at] food.au.dk</div>
-        <div><a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">AU Profile</a></div>
-      </div>
-    </div>
+    <table class="modern-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Position</th>
+          <th>Research Focus</th>
+          <th>Contact</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
+          <td>Principal Investigator</td>
+          <td>Natural toxins, LC-MS/MS, In vitro toxicology</td>
+          <td>mfa [at] food.au.dk</td>
+          <td><a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">AU Profile</a></td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </div>
 
 <!-- ========================= -->
 <!-- Styles -->
 <style>
-
-/* =========================
-   Typography
-   ========================= */
 body {
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
-  line-height: 1.65;
   color: #222;
+  line-height: 1.65;
+  overflow-x: hidden;
 }
 p, li {
   font-size: 1.05em;
 }
 
-/* =========================
-   Hero Banner
-   ========================= */
+/* Hero Banner */
 .hero-banner {
   background: linear-gradient(135deg, #0b3c5d, #1f7a8c);
-  color: #ffffff;
+  color: #fff;
   padding: 50px 30px;
   border-radius: 12px;
   text-align: center;
@@ -184,10 +176,7 @@ p, li {
 }
 .hero-banner h1 {
   font-size: 2.4em;
-  margin: 0;
   font-weight: 600;
-  letter-spacing: 0.6px;
-  color: #ffffff;
 }
 .hero-banner p {
   max-width: 820px;
@@ -199,7 +188,7 @@ p, li {
 .cv-button {
   display: inline-block;
   padding: 12px 24px;
-  background: #ffffff;
+  background: #fff;
   color: #0b3c5d;
   font-weight: 600;
   border-radius: 30px;
@@ -211,76 +200,65 @@ p, li {
   transform: translateY(-2px);
 }
 
-/* =========================
-   Card Styles for Sections
-   ========================= */
+/* Cards */
 .card {
   background: rgba(255,255,255,0.95);
-  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  padding: 20px 22px;
   border-radius: 12px;
-  padding: 18px 22px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
   margin-bottom: 25px;
-  transition: all 0.3s ease;
 }
 
-/* =========================
-   Research Overview
-   ========================= */
-.research-overview {
-  text-align: center;
-  margin: 25px 0;
-}
-.research-overview img {
-  max-width: 600px;
-  width: 100%;
-  border-radius: 8px;
-}
-.research-overview figcaption {
-  margin-top: 10px;
-  font-style: italic;
-  color: #555;
-}
-
-/* =========================
-   Collapsible Sections
-   ========================= */
+/* Collapsible */
 .collapsible-title {
   background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
-  color: #ffffff;
+  color: #fff;
   padding: 12px 18px;
   border-radius: 8px;
   font-size: 1.3em;
   margin-bottom: 8px;
 }
+.collapsible-content {
+  padding: 14px 18px;
+  margin-bottom: 20px;
+  border: none; /* remove blue line */
+}
 
-/* =========================
-   Modern Table Style (no boxed table)
-   ========================= */
-.modern-table-container {
-  display: grid;
+/* Research Overview */
+.research-overview {
+  text-align: center;
+  margin: 20px 0;
+}
+.research-overview img {
+  max-width: 100%;
   border-radius: 8px;
-  overflow: hidden;
 }
-.modern-row {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  padding: 10px 12px;
-  border-bottom: 1px solid rgba(0,0,0,0.08);
-  align-items: center;
+.research-overview figcaption {
+  font-style: italic;
+  color: #555;
+  margin-top: 8px;
 }
-.modern-row.header {
+
+/* Modern Table */
+.modern-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+.modern-table th, .modern-table td {
+  padding: 12px;
+  text-align: center;
+}
+.modern-table thead {
   background: #0b3c5d;
   color: #fff;
-  font-weight: 600;
 }
-.modern-row:last-child {
-  border-bottom: none;
+.modern-table tbody tr:nth-child(even) {
+  background: #e6f0ff;
 }
-.modern-row img {
+.modern-table img {
   max-width: 100px;
 }
-
-/* Links */
 a {
   color: #0b3c5d;
 }
@@ -289,23 +267,8 @@ a:hover {
   text-decoration: underline;
 }
 
-/* =========================
-   Mobile-Friendly Fix
-   ========================= */
+/* Responsive */
 @media (max-width: 768px) {
-  .hero-banner {
-    padding: 30px 15px;
-  }
-  .card {
-    padding: 14px 12px;
-  }
-  .modern-row {
-    grid-template-columns: 1fr 1fr;
-    grid-row-gap: 6px;
-    grid-column-gap: 10px;
-  }
-  .modern-row.header {
-    display: none;
-  }
+  .hero-banner { padding: 30px 15px; }
 }
 </style>
