@@ -235,10 +235,7 @@ p, li {
   font-size: 1.3em;
   margin-bottom: 8px;
 }
-.collapsible-content .modern-table.full-width {
-  width: calc(100% + 36px);
-  margin-left: -18px;
-  margin-right: -18px;
+.collapsible-content {
   background: #f5f5f5;
   border-left: 4px solid #0b3c5d;
   padding: 14px 18px;
