@@ -241,7 +241,7 @@ body {
   }
   .project-list,
   .collapsible-content ul {
-    padding-left: 0;
+    padding-left: 25px; /* move bullets a bit to the right */
     margin-left: 1;
   }
 }
