@@ -17,7 +17,8 @@ title: ""
 <!-- ========================= -->
 <!-- Education -->
 <div class="card">
-  <h2>Education</h2>
+  <h1 class="card-title">Education</h1>
+  <p class="card-subtitle">Overview of academic degrees, research fellowships, and international experiences.</p>
   <ul>
     <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024), Host institute: University of Mons, Belgium</li>
     <li>Former Postdoctoral Fellow (until 09/2023), Ghent University-Special Research Fund (BOF), Ghent University, Belgium</li>
@@ -33,7 +34,8 @@ title: ""
 <!-- ========================= -->
 <!-- Scientific Awards -->
 <div class="card">
-  <h2>Scientific Awards</h2>
+  <h1 class="card-title">Scientific Awards</h1>
+  <p class="card-subtitle">Recognition and awards received for research excellence.</p>
   <ul>
     <li>(2022) Best Oral Presentation from Toxins journal at the international conference Power of Fungi and Mycotoxins in Climate Change Symposium, Croatia.</li>
     <li>(2019) The Young Scientist Award during the EURACHEM 2019 meeting held in Tartu, Estonia.</li>
@@ -44,7 +46,8 @@ title: ""
 <!-- ========================= -->
 <!-- Fellowships -->
 <div class="card">
-  <h2>Fellowships</h2>
+  <h1 class="card-title">Fellowships</h1>
+  <p class="card-subtitle">Research and academic fellowships supporting international collaborations.</p>
   <ul>
     <li>(12/2024) TÜBİTAK 2221-Fellowships for Visiting Scientists (short term). Host institute: Istanbul University, Türkiye.</li>
     <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute: University of Mons, Belgium.</li>
@@ -60,7 +63,8 @@ title: ""
 <!-- ========================= -->
 <!-- Travel Grants -->
 <div class="card">
-  <h2>Travel Grants</h2>
+  <h1 class="card-title">Travel Grants</h1>
+  <p class="card-subtitle">Funding received for attending international conferences and workshops.</p>
   <ul>
     <li>(2023) National Demonstration Base for Talent Introduction Grant (17,000 RMB) to visit the Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.</li>
     <li>(2023) Conference Travel Award (€500) Faculty of Bioscience Engineering-UGent to attend 44<sup>th</sup> Mycotoxin-Workshop, Celle (at Hannover)-Germany.</li>
@@ -74,7 +78,8 @@ title: ""
 <!-- ========================= -->
 <!-- Memberships -->
 <div class="card">
-  <h2>Memberships</h2>
+  <h1 class="card-title">Memberships</h1>
+  <p class="card-subtitle">Professional memberships and roles in international scientific organizations.</p>
   <ul>
     <li>(Since 2025) Post-doctoral Representative of the SOT’s Food Safety Specialty Section (FS3).</li>
     <li>(Since 2024) Board member European Society of Toxicology In Vitro (ESTIV).</li>
@@ -89,10 +94,9 @@ title: ""
 <!-- ========================= -->
 <!-- International Collaboration -->
 <div class="card">
-  <h2>International Collaboration</h2>
+  <h1 class="card-title">International Collaboration</h1>
+  <p class="card-subtitle">Based on running projects and research papers.</p>
   <ul>
-    (Based on running projects and research papers)
-    <br>
     <strong style="font-size: larger; text-decoration: underline; color: red;">Europe</strong>
     <li>University of Veterinary Medicine Vienna, <strong>Austria</strong>.</li>
     <li>University of Vienna, <strong>Austria</strong>.</li>
@@ -147,8 +151,15 @@ p, li {
 }
 
 /* Card Headings */
-.card h2 {
-  font-size: 1.5em;
+.card-title {
+  font-size: 1.8em;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.card-subtitle {
+  font-size: 1.05em;
+  color: #555;
   margin-bottom: 15px;
 }
 
