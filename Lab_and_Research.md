@@ -50,7 +50,7 @@ title: ""
         Detection and occurrence of mycotoxins and cyanotoxins in food products
         using LC-MS/MS and targeted/non-targeted analytical approaches.
       </p>
-      <p><strong>Related publications:</strong></p>
+      <p style="text-decoration: underline;"><strong>Related publications:</strong></p>
       <ul>
         <li>WR Van Hassel, <strong>MF Abdallah</strong>, MG Velasquez, C Miles, I Samdal, J Masquelier, A Rajkovic (2024). Experimental accumulation and depuration kinetics and natural occurrence of microcystin-LR in basil (<em>Ocimum basilicum</em> L.). <em>Environmental Pollution</em>, 123715. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749124004299?via%3Dihub" target="_blank" rel="noopener">[Link]</a></li>
         <li>C Van Camp, W Van Hassel, <strong>MF Abdallah</strong>, J Masquelier (2023). Simultaneous detection and quantification of aflatoxin M1, eight microcystin congeners and nodularin in dairy milk by LC-MS/MS. <em>Chemosensors</em>, 11(10), 511. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/2227-9040/11/10/511" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/chemosensors-11-00511.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
@@ -59,13 +59,12 @@ title: ""
         <li><strong>MF Abdallah</strong>, G Girgin, T Baydar, R Krska, M Sulyok (2017). Occurrence of multiple mycotoxins and other fungal metabolites in animal feed and maize samples from Egypt using LC-MS/MS. <em>Journal of the Science of Food and Agriculture</em>, 97(13), 4419–4428. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.8293" target="_blank" rel="noopener">[Link]</a></li>
         <li><strong>MF Abdallah</strong>, R Krska, M Sulyok (2016). Mycotoxin contamination in sugarcane grass and juice: first report on detection of multiple mycotoxins and exposure assessment for aflatoxins B1 and G1 in humans. <em>Toxins</em>, 8(11), 343. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/2072-6651/8/11/343" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/toxins_Abdallah_etal2016.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
       </ul>
-
       <h3>B) Mixture Toxicology, Risk Assessment & Human Health</h3>
       <p>
         Investigation of combined toxic effects of food contaminants using
         in vitro models and New Approach Methodologies (NAMs).
       </p>
-      <p><strong>Related publications:</strong></p>
+      <p style="text-decoration: underline;"><strong>Related publications:</strong></p>
       <ul>
         <li>M Suman, M Oboeuf, <strong>MF Abdallah</strong>, C Hazel, E Varga, A Mally, A Medina, M Molero, A Sansom, KJ Korzeniowski (2025). Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products. <em>World Mycotoxin Journal</em>. <a href="https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml" target="_blank" rel="noopener">[Link]</a></li>
         <li>C Dongye, X Chen, Y Zhao, H Li, <strong>MF Abdallah</strong>, T Li, X Chen (2025). Protective effects of octyl gallate against deoxynivalenol-induced colon inflammation: insights from proteomic and metabolomic analyses. <em>Environment & Health</em>, 4c00250. <a href="https://pubs.acs.org/doi/full/10.1021/envhealth.4c00250" target="_blank" rel="noopener">[Link]</a></li>
