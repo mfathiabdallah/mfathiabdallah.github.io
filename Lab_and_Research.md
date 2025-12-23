@@ -180,6 +180,7 @@ p, li {
 .hero-banner h1 {
   font-size: 2.4em;
   font-weight: 600;
+  color: #ffffff !important; /* this keeps it white */
 }
 .hero-banner p {
   max-width: 820px;
