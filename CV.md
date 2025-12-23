@@ -173,6 +173,7 @@ body {
   border-radius: 12px;
   box-shadow: 0 6px 20px rgba(0,0,0,0.08);
   margin-bottom: 25px;
+  border-left: none; /* explicitly remove any left border */
 }
 
 /* Card Titles & Subtitles */
