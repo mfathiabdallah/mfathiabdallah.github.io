@@ -106,9 +106,9 @@ title: ""
 
 <!-- ========================= -->
 <!-- Current Projects -->
-<div class="collapsible">
+<div class="card">
   <h1 class="collapsible-title">&#10148; Current Projects</h1>
-  <div class="collapsible-content card">
+  <div class="card-content">
     <p>Our research activities are supported by competitive national and international funding sources. We are grateful to these foundations and programs for their support.</p>
     <table class="modern-table">
       <thead>
@@ -137,9 +137,9 @@ title: ""
 
 <!-- ========================= -->
 <!-- Secured Funds -->
-<div class="collapsible">
+<div class="card">
   <h1 class="collapsible-title">&#10148; Secured Funds</h1>
-  <div class="collapsible-content card">
+  <div class="card-content">
     <ul>
       <li>(2026-2031) Novo Nordisk Foundation - ECRUIT Grant for International Recruitment 2025 (Assistant Prof level) for the project "ToxiFOOD". Role: Principal Investigator. Total budget: DKK 13.88 Million (= € 1.86 Million). <span style="color:red; ">(Not started)</span></li>
       <li>(2024) UMONS Research Institute for Health Sciences and Technology (Action Kangaroo) for the project "Optimizing a one-plate method for a high throughput toxicity Screening". Role: Principal Researcher. Total budget: €5,000. <span style="color:red; ">(Discountined in 03/2025 due to starting a new position at Aarhus Uni, DK)</span></li>
