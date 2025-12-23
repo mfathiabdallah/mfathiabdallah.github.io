@@ -39,11 +39,12 @@ title: ""
       A schematic overview of AU FOOD TOX group’s research focus.
     </figcaption>
   </figure>
-
+ </div>
+ 
   <!-- Research Lines -->
-  <div class="collapsible">
+  <div class="collapsible card">
     <h1 class="collapsible-title">&#10148; Research Lines</h1>
-    <div class="collapsible-content card">
+    <div class="collapsible-content">
       <h3>A) Natural Toxins in Food</h3>
       <p>
         Detection and occurrence of mycotoxins and cyanotoxins in food products
