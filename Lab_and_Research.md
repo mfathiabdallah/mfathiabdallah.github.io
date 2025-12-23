@@ -40,7 +40,36 @@ title: ""
     </figcaption>
   </figure>
  </div>
- 
+
+ <!-- ========================= -->
+<!-- Lab Members -->
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Lab Members</h1>
+  <div class="collapsible-content card">
+    <table class="modern-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Position</th>
+          <th>Research Focus</th>
+          <th>Contact</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
+          <td>Principal Investigator</td>
+          <td>Natural toxins, LC-MS/MS, In vitro toxicology</td>
+          <td>mfa [at] food.au.dk</td>
+          <td><a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">AU Profile</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ========================= -->
   <!-- Research Lines -->
   <div class="collapsible">
     <h1 class="collapsible-title">&#10148; Research Lines</h1>
@@ -122,35 +151,7 @@ title: ""
   </div>
 </div>
 
-<!-- ========================= -->
-<!-- Lab Members -->
-<div class="collapsible">
-  <h1 class="collapsible-title">&#10148; Lab Members</h1>
-  <div class="collapsible-content card">
-    <table class="modern-table">
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Position</th>
-          <th>Research Focus</th>
-          <th>Contact</th>
-          <th>Link</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
-          <td>Principal Investigator</td>
-          <td>Natural toxins, LC-MS/MS, In vitro toxicology</td>
-          <td>mfa [at] food.au.dk</td>
-          <td><a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">AU Profile</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
-<!-- ========================= -->
+ <!-- ========================= -->
 <!-- Styles -->
 <style>
 body {
