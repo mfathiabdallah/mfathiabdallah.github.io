@@ -42,9 +42,9 @@ title: ""
  </div>
  
   <!-- Research Lines -->
-  <div class="collapsible card">
+  <div class="collapsible">
     <h1 class="collapsible-title">&#10148; Research Lines</h1>
-    <div class="collapsible-content">
+    <div class="collapsible-content card">
       <h3>A) Natural Toxins in Food</h3>
       <p>
         Detection and occurrence of mycotoxins and cyanotoxins in food products
@@ -74,7 +74,6 @@ title: ""
         <li>X Chen, <strong>MF Abdallah</strong>, C Grootaert, A Rajkovic (2022). Bioenergetic status of intestinal and hepatic cells after short-term exposure to fumonisin B1 and aflatoxin B1. <em>International Journal of Molecular Sciences</em>, 23(13), 6945. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/1422-0067/23/13/6945" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/ijms-23-06945-v2.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
       </ul>
     </div>
-  </div>
 </div>
 
 <!-- ========================= -->
