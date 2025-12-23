@@ -18,6 +18,9 @@ title: ""
   <a class="cv-button" href="https://www.mfathiabdallah.com/CV/">
     View Academic CV
   </a>
+  <a class="cv-button" href="https://www.mfathiabdallah.com/publications/">
+    Publications
+  </a>
 </div>
 
 <!-- ========================= -->
