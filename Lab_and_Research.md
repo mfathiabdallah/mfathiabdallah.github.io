@@ -246,6 +246,7 @@ p, li {
   margin-bottom: 20px;
   border: none; /* remove blue line */
   border-left: none !important;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1); /* keeps subtle shadow for the whole card */
 }
 
 /* Research Overview */
