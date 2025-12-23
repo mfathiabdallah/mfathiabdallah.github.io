@@ -272,6 +272,7 @@ p, li {
   width: 100%;
   border-collapse: collapse;
   margin-top: 10px;
+  table-layout: fixed;   /* forces full-width distribution */
 }
 .modern-table th, .modern-table td {
   padding: 12px;
