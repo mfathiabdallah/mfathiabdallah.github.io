@@ -108,20 +108,27 @@ title: ""
     <i class="fas fa-globe"></i> International Collaboration
   </h1>
   <p class="card-subtitle">Active collaborations based on projects and research papers.</p>
-  <ul>
-    <strong style="font-size: larger; text-decoration: underline; color: red;">Europe</strong>
-    <li>University of Veterinary Medicine Vienna, <strong>Austria</strong></li>
-    <li>University of Vienna, <strong>Austria</strong></li>
-    <li>Ghent University, <strong>Belgium</strong></li>
-    <li>University of Parma, <strong>Italy</strong></li>
-    <li>Sciensano Institute, Tervuren, <strong>Belgium</strong></li>
-    <strong style="font-size: larger; text-decoration: underline; color: red;">Asia</strong>
-    <li>Institute of Food Science and Technology, Beijing, <strong>PR China</strong></li>
-    <li>University of Chinese Academy of Sciences, Shanghai, <strong>PR China</strong></li>
-    <li>Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong></li>
-    <li>Istanbul University, Istanbul, <strong>Türkiye</strong></li>
-  </ul>
+
+  <div class="collaboration-list">
+    <h3 class="region-title">Europe</h3>
+    <ul>
+      <li>University of Veterinary Medicine Vienna, <strong>Austria</strong></li>
+      <li>University of Vienna, <strong>Austria</strong></li>
+      <li>Ghent University, <strong>Belgium</strong></li>
+      <li>University of Parma, <strong>Italy</strong></li>
+      <li>Sciensano Institute, Tervuren, <strong>Belgium</strong></li>
+    </ul>
+
+    <h3 class="region-title">Asia</h3>
+    <ul>
+      <li>Institute of Food Science and Technology, Beijing, <strong>PR China</strong></li>
+      <li>University of Chinese Academy of Sciences, Shanghai, <strong>PR China</strong></li>
+      <li>Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong></li>
+      <li>Istanbul University, Istanbul, <strong>Türkiye</strong></li>
+    </ul>
+  </div>
 </div>
+
 
 <!-- ========================= -->
 <!-- Styles -->
@@ -209,6 +216,29 @@ body {
 /* Responsive */
 @media (max-width: 768px) {
   .hero-banner { padding: 30px 15px; }
+}
+
+.collaboration-list {
+  margin-top: 15px;
+}
+
+.region-title {
+  font-size: 1.2em;
+  font-weight: 700;
+  color: #d12a00; /* red accent */
+  margin-top: 12px;
+  text-decoration: underline;
+}
+
+.collaboration-list ul {
+  list-style: disc inside;
+  margin-bottom: 12px;
+}
+
+.collaboration-list li {
+  margin-left: 15px;
+  margin-bottom: 4px;
+  line-height: 1.5;
 }
 
 /* Collapsible-style section titles (like Join Us page) */
