@@ -50,7 +50,7 @@ title: ""
 <!-- ========================= -->
 <!-- Fellowships -->
 <div class="card">
- <h1 class="card-title">
+ <h1 class="collapsible-title">
   <i class="fas fa-graduation-cap"></i> Fellowships
 </h1>
   <p class="card-subtitle">Research fellowships supporting international collaborations.</p>
@@ -69,7 +69,7 @@ title: ""
 <!-- ========================= -->
 <!-- Travel Grants -->
 <div class="card">
- <h1 class="card-title">
+ <h1 class="collapsible-title">
   <i class="fas fa-graduation-cap"></i> Travel Grants
 </h1>
   <p class="card-subtitle">Support to attend international workshops and conferences.</p>
@@ -86,7 +86,7 @@ title: ""
 <!-- ========================= -->
 <!-- Memberships -->
 <div class="card">
-  <h1 class="card-title">
+  <h1 class="collapsible-title">
   <i class="fas fa-graduation-cap"></i> Memberships
 </h1>
   <p class="card-subtitle">Professional memberships and roles in international organizations.</p>
@@ -104,7 +104,7 @@ title: ""
 <!-- ========================= -->
 <!-- International Collaboration -->
 <div class="card">
-  <h1 class="card-title">
+  <h1 class="collapsible-title">
   <i class="fas fa-graduation-cap"></i> International Collaboration
 </h1>
   <p class="card-subtitle">Active collaborations based on projects and research papers.</p>
