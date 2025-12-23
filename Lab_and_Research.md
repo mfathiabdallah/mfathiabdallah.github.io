@@ -290,6 +290,36 @@ word-wrap: break-word; /* prevents content from forcing narrow columns */
 .modern-table img {
   max-width: 100px;
 }
+/* Improve column distribution for project tables */
+.modern-table th:nth-child(1),
+.modern-table td:nth-child(1) {
+  width: 10%; /* Status */
+}
+
+.modern-table th:nth-child(2),
+.modern-table td:nth-child(2) {
+  width: 25%; /* Project */
+}
+
+.modern-table th:nth-child(3),
+.modern-table td:nth-child(3) {
+  width: 20%; /* Funding Agency */
+}
+
+.modern-table th:nth-child(4),
+.modern-table td:nth-child(4) {
+  width: 15%; /* Total Fund */
+}
+
+.modern-table th:nth-child(5),
+.modern-table td:nth-child(5) {
+  width: 15%; /* Period */
+}
+
+.modern-table th:nth-child(6),
+.modern-table td:nth-child(6) {
+  width: 15%; /* Role */
+}
 
 /* ========================= */
 /* Links */
