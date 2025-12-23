@@ -223,6 +223,7 @@ p, li {
   padding: 14px 18px;
   margin-bottom: 20px;
   border: none; /* remove blue line */
+  border-left: none !important;
 }
 
 /* Research Overview */
