@@ -17,7 +17,7 @@ title: ""
 <!-- ========================= -->
 <!-- Education -->
 <div class="card">
- <h1 class="card-title">
+ <h1 class="collapsible-title">
   <i class="fas fa-graduation-cap"></i> Education
 </h1>
   <p class="card-subtitle">Academic degrees and international research experiences.</p>
