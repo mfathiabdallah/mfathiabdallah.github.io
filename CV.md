@@ -36,7 +36,7 @@ title: ""
 <!-- ========================= -->
 <!-- Scientific Awards -->
 <div class="card">
-<h1 class="card-title">
+<h1 class="collapsible-title">
   <i class="fas fa-graduation-cap"></i> Scientific Awards
 </h1>
   <p class="card-subtitle">Recognition for research achievements and presentations.</p>
