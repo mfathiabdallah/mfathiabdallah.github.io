@@ -169,7 +169,7 @@ body {
 .card {
   background: rgba(255,255,255,0.95);
   color: #222;
-  padding: 20px 22px;
+  padding: 20px 22px 22px 22px; /* top, right, bottom, left */
   border-radius: 12px;
   box-shadow: 0 6px 20px rgba(0,0,0,0.08);
   margin-bottom: 25px;
@@ -185,6 +185,7 @@ body {
 .card-subtitle {
   font-size: 1.05em;
   color: #555;
+  margin-top: 12px; /* add some space above */
   margin-bottom: 15px;
 }
 
