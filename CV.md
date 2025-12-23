@@ -112,23 +112,21 @@ title: ""
   <div class="collaboration-list">
     <h3 class="region-title">Europe</h3>
     <ul>
-      <li>University of Veterinary Medicine Vienna, <strong>Austria</strong></li>
-      <li>University of Vienna, <strong>Austria</strong></li>
-      <li>Ghent University, <strong>Belgium</strong></li>
-      <li>University of Parma, <strong>Italy</strong></li>
-      <li>Sciensano Institute, Tervuren, <strong>Belgium</strong></li>
+      <li><img class="flag" src="/images/flags/austria.png" alt="Austria"> University of Veterinary Medicine Vienna, <strong>Austria</strong></li>
+      <li><img class="flag" src="/images/flags/austria.png" alt="Austria"> University of Vienna, <strong>Austria</strong></li>
+      <li><img class="flag" src="/images/flags/belgium.png" alt="Belgium"> Ghent University, <strong>Belgium</strong></li>
+      <li><img class="flag" src="/images/flags/italy.png" alt="Italy"> University of Parma, <strong>Italy</strong></li>
+      <li><img class="flag" src="/images/flags/belgium.png" alt="Belgium"> Sciensano Institute, Tervuren, <strong>Belgium</strong></li>
     </ul>
-
     <h3 class="region-title">Asia</h3>
     <ul>
-      <li>Institute of Food Science and Technology, Beijing, <strong>PR China</strong></li>
-      <li>University of Chinese Academy of Sciences, Shanghai, <strong>PR China</strong></li>
-      <li>Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong></li>
-      <li>Istanbul University, Istanbul, <strong>Türkiye</strong></li>
+      <li><img class="flag" src="/images/flags/china.png" alt="China"> Institute of Food Science and Technology, Beijing, <strong>PR China</strong></li>
+      <li><img class="flag" src="/images/flags/china.png" alt="China"> University of Chinese Academy of Sciences, Shanghai, <strong>PR China</strong></li>
+      <li><img class="flag" src="/images/flags/china.png" alt="China"> Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong></li>
+      <li><img class="flag" src="/images/flags/turkey.png" alt="Türkiye"> Istanbul University, Istanbul, <strong>Türkiye</strong></li>
     </ul>
   </div>
 </div>
-
 
 <!-- ========================= -->
 <!-- Styles -->
@@ -233,12 +231,22 @@ body {
 .collaboration-list ul {
   list-style: disc inside;
   margin-bottom: 12px;
+  padding-left: 0;
 }
 
 .collaboration-list li {
-  margin-left: 15px;
-  margin-bottom: 4px;
+  margin-left: 0; /* already inside the list */
+  margin-bottom: 6px;
   line-height: 1.5;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.collaboration-list li img.flag {
+  width: 24px;  /* adjust size as needed */
+  height: auto;
+  border-radius: 2px;
 }
 
 /* Collapsible-style section titles (like Join Us page) */
