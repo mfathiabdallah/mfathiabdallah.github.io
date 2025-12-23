@@ -32,6 +32,8 @@ title: ""
 <!-- ========================= -->
 <!-- Intro + Figure + Research Lines in Card -->
 <div class="card no-border">
+ <h1 class="collapsible-title">&#10148; Research Overview</h1>
+ <div class="card-content">
   <!-- Intro Text -->
   <p>
     At the AU FOOD Department, our research focuses on understanding risks associated
