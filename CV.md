@@ -21,7 +21,6 @@ title: ""
 </h1>
 <div class="card">
   <p class="card-subtitle">Academic degrees and international research experiences.</p>
-  <ul>
     <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024), Host institute: University of Mons, Belgium</li>
     <li>Former Postdoctoral Fellow (until 09/2023), Ghent University-Special Research Fund (BOF), Ghent University, Belgium</li>
     <li>Former Researcher (until 09/2020), Teagasc Food Research Centre, Dublin, Ireland</li>
