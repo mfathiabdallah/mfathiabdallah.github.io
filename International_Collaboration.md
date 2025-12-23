@@ -8,97 +8,10 @@ title: ""
 <!-- ========================= -->
 <!-- Hero Banner -->
 <div class="hero-banner">
-  <h1>Education & Work Experience</h1>
+  <h1>International Collaboration</h1>
   <p>
-    Overview of academic background, research fellowships, awards, memberships, and international collaborations.
+    Overview of international collaborations.
   </p>
-</div>
-
-<!-- ========================= -->
-<!-- Education -->
-<div class="card">
-  <h1 class="collapsible-title">
-    <i class="fas fa-graduation-cap"></i> Education
-  </h1>
-  <p class="card-subtitle">Academic degrees and international research experiences.</p>
-  <ul> 
-    <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024), Host institute: University of Mons, Belgium</li>
-    <li>Former Postdoctoral Fellow (until 09/2023), Ghent University-Special Research Fund (BOF), Ghent University, Belgium</li>
-    <li>Former Researcher (until 09/2020), Teagasc Food Research Centre, Dublin, Ireland</li>
-    <li>PhD in Pharmaceutical Sciences (05/2020), Ghent University, Belgium</li>
-    <li>Master's Degree (04/2016) in Pharmaceutical Toxicology, Hacettepe University, Türkiye</li>
-    <li>Erasmus+ Exchange Master Student (until 03/2016), University of Natural Resources and Life Sciences, Vienna (BOKU), Austria</li>
-    <li>Erasmus+ Intern Researcher (until 12/2014), IfADo Institute, Dortmund, Germany</li>
-    <li>Bachelor's Degree (07/2011) in Veterinary Medical Sciences, Assiut University, Egypt</li>
-  </ul>
-</div>
-
-<!-- ========================= -->
-<!-- Scientific Awards -->
-<div class="card">
-  <h1 class="collapsible-title">
-    <i class="fas fa-award"></i> Scientific Awards
-  </h1>
-  <p class="card-subtitle">Recognition for research achievements and presentations.</p>
-  <ul>
-    <li>(2022) Best Oral Presentation from Toxins journal at the international conference Power of Fungi and Mycotoxins in Climate Change Symposium, Croatia.</li>
-    <li>(2019) The Young Scientist Award during the EURACHEM 2019 meeting held in Tartu, Estonia.</li>
-    <li>(2018) Best Poster Award from Toxins journal at the 2nd African Symposium on Mycotoxicology, Kenya.</li>
-  </ul>
-</div>
-
-<!-- ========================= -->
-<!-- Fellowships -->
-<div class="card">
-  <h1 class="collapsible-title">
-    <i class="fas fa-graduation-cap"></i> Fellowships
-  </h1>
-  <p class="card-subtitle">Research fellowships supporting international collaborations.</p>
-  <ul>
-    <li>(12/2024) TÜBİTAK 2221-Fellowships for Visiting Scientists (short term), Istanbul University, Türkiye.</li>
-    <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium, University of Mons.</li>
-    <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium.</li>
-    <li>(2020) Marie Curie Research Leaders 2025 - Fellowship Programme, Austria/Ireland.</li>
-    <li>(2016-2020) PhD Research Fellowship, Mycokey project, Ghent University, Belgium.</li>
-    <li>(2015-2016) Erasmus+ Student Mobility for Studies, BOKU, Austria.</li>
-    <li>(2014) Erasmus+ Student Mobility for Placement, IfADo Institute, Dortmund, Germany.</li>
-    <li>(2013-2016) Turkish Government Scholarship, Türkiye.</li>
-  </ul>
-</div>
-
-<!-- ========================= -->
-<!-- Travel Grants -->
-<div class="card">
-  <h1 class="collapsible-title">
-    <i class="fas fa-plane"></i> Travel Grants
-  </h1>
-  <p class="card-subtitle">Support to attend international workshops and conferences.</p>
-  <ul>
-    <li>(2023) National Demonstration Base for Talent Introduction Grant (17,000 RMB), Beijing, China.</li>
-    <li>(2023) Conference Travel Award (€500), 44th Mycotoxin-Workshop, Celle, Germany.</li>
-    <li>(2022) Workshop Travel Award, Applied In Vitro Toxicology Course, Luxembourg.</li>
-    <li>(2022) Conference Travel Award (€500), ICT 2022, Maastricht, Netherlands.</li>
-    <li>(2018) Conference Travel Award (€1,000), 2nd International MycoKey Conference, Wuhan, China.</li>
-    <li>(2017) Conference Travel Award (€750), 3rd International Mass Spectrometry School, Dubrovnik, Croatia.</li>
-  </ul>
-</div>
-
-<!-- ========================= -->
-<!-- Memberships -->
-<div class="card">
-  <h1 class="collapsible-title">
-    <i class="fas fa-users"></i> Memberships
-  </h1>
-  <p class="card-subtitle">Professional memberships and roles in international organizations.</p>
-  <ul>
-    <li>(Since 2025) Post-doctoral Representative, SOT’s Food Safety Specialty Section (FS3).</li>
-    <li>(Since 2024) Board member, European Society of Toxicology In Vitro (ESTIV).</li>
-    <li>(Since 2023) Member, ILSI Europe’s Natural Toxins’ Expert Group.</li>
-    <li>(Since 2023) Full member, Society for Mycotoxin Research.</li>
-    <li>(Since 2021) Full member, European Society of Toxicology In Vitro (ESTIV).</li>
-    <li>(Since 2021) Full member, Belgian society of Toxicology (BelTox).</li>
-    <li>(Since 2020) Ordinary member, International Society of Mycotoxicology (ISM).</li>
-  </ul>
 </div>
 
 <!-- ========================= -->
@@ -224,4 +137,5 @@ body {
   margin-right: 8px;
 }
 </style>
+
 
