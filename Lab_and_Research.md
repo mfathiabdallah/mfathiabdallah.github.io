@@ -43,7 +43,7 @@ title: ""
   <!-- Research Lines -->
   <div class="collapsible">
     <h1 class="collapsible-title">&#10148; Research Lines</h1>
-    <div class="collapsible-content">
+    <div class="collapsible-content card">
       <h3>A) Natural Toxins in Food</h3>
       <p>
         Detection and occurrence of mycotoxins and cyanotoxins in food products
@@ -110,7 +110,7 @@ title: ""
 <!-- ========================= -->
 <!-- Secured Funds -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#10148; Funds</h1>
+  <h1 class="collapsible-title">&#10148; Secured Funds</h1>
   <div class="collapsible-content card">
     <ul>
       <li>(2026-2031) Novo Nordisk Foundation - ECRUIT Grant for International Recruitment 2025 (Assistant Prof level) for the project "ToxiFOOD". Role: Principal Investigator. Total budget: DKK 13.88 Million (= € 1.86 Million). <span style="color:red; ">(Not started)</span></li>
