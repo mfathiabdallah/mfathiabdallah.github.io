@@ -21,6 +21,9 @@ title: ""
   <a class="cv-button" href="https://www.mfathiabdallah.com/publications/">
     Publications
   </a>
+   <a class="cv-button" href="https://www.mfathiabdallah.com/news/">
+    News
+  </a>
 </div>
 
 <!-- ========================= -->
