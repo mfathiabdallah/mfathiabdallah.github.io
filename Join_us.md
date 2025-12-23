@@ -26,7 +26,7 @@ title: ""
     <p>
       If you are a motivated researcher interested in food toxicology, mixture risk assessment, or AI-based safety evaluation — reach out to discuss collaboration opportunities.
     </p>
-    <ul>
+    <ul class="opportunities-list">
        <li>Marie Curie Fellowships</li>
        <li>Funding from Novo Nordisk Foundation, DFF, Villum Foundation</li>
        <li>Other national or international fellowships</li>
@@ -210,6 +210,10 @@ body {
 }
 .project-list li:last-child {
   border-bottom: none;
+}
+/* Move bullets for Open Opportunities slightly to the right */
+.opportunities-list {
+  padding-left: 30px; /* adjust this value as needed */
 }
 
 /* Deadline */
