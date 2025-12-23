@@ -31,7 +31,7 @@ title: ""
 
 <!-- ========================= -->
 <!-- Intro + Figure + Research Lines in Card -->
-<div class="card no-border">
+<div class="card">
  <h1 class="collapsible-title">&#10148; Research Overview</h1>
  <div class="card-content">
   <!-- Intro Text -->
