@@ -274,7 +274,9 @@ p, li {
   margin-top: 10px;
   table-layout: fixed;   /* forces full-width distribution */
 }
-.modern-table th, .modern-table td {
+.modern-table th, 
+.modern-table td {
+word-wrap: break-word; /* prevents content from forcing narrow columns */
   padding: 12px;
   text-align: center;
 }
