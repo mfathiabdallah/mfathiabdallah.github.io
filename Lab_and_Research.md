@@ -71,9 +71,9 @@ title: ""
 
 <!-- ========================= -->
   <!-- Research Lines -->
-  <div class="collapsible">
-    <h1 class="collapsible-title">&#10148; Research Lines</h1>
-    <div class="collapsible-content card">
+<div class="card">
+  <h1 class="collapsible-title">&#10148; Research Lines</h1>
+  <div class="card-content">
     <h3 style="font-size: 1.4em; font-weight: 700; color: #0b3c5d;">A) Natural Toxins in Food</h3>
       <p>
         Detection and occurrence of mycotoxins and cyanotoxins in food products
