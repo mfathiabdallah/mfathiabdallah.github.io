@@ -16,10 +16,10 @@ title: ""
 
 <!-- ========================= -->
 <!-- Education -->
-<div class="card">
- <h1 class="collapsible-title">
+<h1 class="collapsible-title">
   <i class="fas fa-graduation-cap"></i> Education
 </h1>
+<div class="card">
   <p class="card-subtitle">Academic degrees and international research experiences.</p>
   <ul>
     <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024), Host institute: University of Mons, Belgium</li>
@@ -35,10 +35,10 @@ title: ""
 
 <!-- ========================= -->
 <!-- Scientific Awards -->
-<div class="card">
 <h1 class="collapsible-title">
-  <i class="fas fa-graduation-cap"></i> Scientific Awards
+  <i class="fas fa-award"></i> Scientific Awards
 </h1>
+<div class="card">
   <p class="card-subtitle">Recognition for research achievements and presentations.</p>
   <ul>
     <li>(2022) Best Oral Presentation from Toxins journal at the international conference Power of Fungi and Mycotoxins in Climate Change Symposium, Croatia.</li>
@@ -68,10 +68,10 @@ title: ""
 
 <!-- ========================= -->
 <!-- Travel Grants -->
-<div class="card">
- <h1 class="collapsible-title">
-  <i class="fas fa-graduation-cap"></i> Travel Grants
+<h1 class="collapsible-title">
+  <i class="fas fa-plane"></i> Travel Grants
 </h1>
+<div class="card">
   <p class="card-subtitle">Support to attend international workshops and conferences.</p>
   <ul>
     <li>(2023) National Demonstration Base for Talent Introduction Grant (17,000 RMB), Beijing, China.</li>
@@ -85,10 +85,10 @@ title: ""
 
 <!-- ========================= -->
 <!-- Memberships -->
-<div class="card">
-  <h1 class="collapsible-title">
-  <i class="fas fa-graduation-cap"></i> Memberships
+<h1 class="collapsible-title">
+  <i class="fas fa-users"></i> Memberships
 </h1>
+<div class="card">
   <p class="card-subtitle">Professional memberships and roles in international organizations.</p>
   <ul>
     <li>(Since 2025) Post-doctoral Representative, SOT’s Food Safety Specialty Section (FS3).</li>
@@ -103,10 +103,10 @@ title: ""
 
 <!-- ========================= -->
 <!-- International Collaboration -->
-<div class="card">
-  <h1 class="collapsible-title">
-  <i class="fas fa-graduation-cap"></i> International Collaboration
+<h1 class="collapsible-title">
+  <i class="fas fa-globe"></i> International Collaboration
 </h1>
+<div class="card">
   <p class="card-subtitle">Active collaborations based on projects and research papers.</p>
   <ul>
     <strong style="font-size: larger; text-decoration: underline; color: red;">Europe</strong>
