@@ -133,7 +133,7 @@ title: ""
 <style>
 body {
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
-  color: #222;
+  color: #fff;
   line-height: 1.65;
   overflow-x: hidden;
 }
