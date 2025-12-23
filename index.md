@@ -58,24 +58,41 @@ exclude: 'no'
 
 <!-- ========================= -->
 <!-- Scholarships & Fellowships -->
-<div class="content-box">
+<div class="content-box highlight-box">
   <h3 class="section-title">
     <i class="fa-solid fa-award"></i> Scholarships & Fellowships Support
   </h3>
 
   <p>
-    We actively support applications for competitive <strong>international and national
-    scholarships and fellowships</strong>. Exceptional and motivated candidates are encouraged
-    to get in touch for guidance on proposal writing and research topic development.
+    We actively support applications for <strong>competitive national and international
+    scholarships and fellowships</strong>. Highly motivated candidates are encouraged to
+    contact us for guidance on <strong>proposal writing</strong> and
+    <strong>research topic development</strong>.
   </p>
 
   <ul class="scholarship-list">
-    <li><strong>Marie Skłodowska-Curie Actions (MSCA)</strong></li>
-    <li><strong>Danish Council for Independent Research (DFF)</strong></li>
-    <li><strong>Novo Nordisk Foundation</strong></li>
-    <li><strong>Villum Foundation</strong></li>
+    <li>
+      <span class="badge badge-eu">EU</span>
+      <strong>Marie Skłodowska-Curie Actions (MSCA)</strong>
+    </li>
+    <li>
+      <span class="badge badge-national">National</span>
+      <strong>Danish Council for Independent Research (DFF)</strong>
+    </li>
+    <li>
+      <span class="badge badge-international">International</span>
+      <strong>Novo Nordisk Foundation</strong>
+    </li>
+    <li>
+      <span class="badge badge-international">International</span>
+      <strong>Villum Foundation</strong>
+    </li>
     <li>Other national and international funding schemes</li>
   </ul>
+
+  <a href="mailto:mfa@food.au.dk" class="btn btn-primary">
+    <i class="fa-solid fa-envelope"></i> Contact for Fellowship Support
+  </a>
 </div>
 
 <!-- ========================= -->
@@ -275,6 +292,50 @@ exclude: 'no'
 .announcement-text p { margin:0 0 6px; line-height:1.45; color:#333; }
 .announcement-img { width:240px; border-radius:10px; display:block; box-shadow:0 3px 8px rgba(0,0,0,0.06); }
 .announcement-hr { width:60%; max-width:360px; margin:8px auto; border:none; border-top:1px solid rgba(160,160,160,0.25); }
+
+
+/* Highlighted content box */
+.highlight-box {
+  border: 2px solid rgba(11, 60, 93, 0.15);
+  background: rgba(255,255,255,0.98);
+}
+
+/* Scholarship list */
+.scholarship-list {
+  margin: 14px 0 18px;
+  padding-left: 22px;
+}
+
+.scholarship-list li {
+  margin-bottom: 10px;
+  font-size: 1.05em;
+}
+
+/* Badges */
+.badge {
+  display: inline-block;
+  font-size: 0.75em;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 12px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.badge-eu {
+  background: #1f7a8c;
+  color: #fff;
+}
+
+.badge-national {
+  background: #0b3c5d;
+  color: #fff;
+}
+
+.badge-international {
+  background: #e6f0ff;
+  color: #0b3c5d;
+}
 
 /* Buttons */
 .btn-outline {
