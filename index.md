@@ -225,7 +225,7 @@ exclude: 'no'
 /* Section titles */
 .section-title {
   color:#fff;
-  background:var(--accent);
+  background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
   padding:10px 12px;
   border-radius:8px;
   font-size:1.25rem;
