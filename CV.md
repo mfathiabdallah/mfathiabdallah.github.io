@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-<!-- Font Awesome -->
+<!-- Font Awesome for icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <!-- ========================= -->
@@ -17,8 +17,8 @@ title: ""
 <!-- ========================= -->
 <!-- Education -->
 <div class="card">
-  <h1 class="card-title">Education</h1>
-  <p class="card-subtitle">Overview of academic degrees, research fellowships, and international experiences.</p>
+  <h1 class="card-title"><i class="fas fa-graduation-cap"></i> Education</h1>
+  <p class="card-subtitle">Academic degrees and international research experiences.</p>
   <ul>
     <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024), Host institute: University of Mons, Belgium</li>
     <li>Former Postdoctoral Fellow (until 09/2023), Ghent University-Special Research Fund (BOF), Ghent University, Belgium</li>
@@ -34,8 +34,8 @@ title: ""
 <!-- ========================= -->
 <!-- Scientific Awards -->
 <div class="card">
-  <h1 class="card-title">Scientific Awards</h1>
-  <p class="card-subtitle">Recognition and awards received for research excellence.</p>
+  <h1 class="card-title"><i class="fas fa-trophy"></i> Scientific Awards</h1>
+  <p class="card-subtitle">Recognition for research achievements and presentations.</p>
   <ul>
     <li>(2022) Best Oral Presentation from Toxins journal at the international conference Power of Fungi and Mycotoxins in Climate Change Symposium, Croatia.</li>
     <li>(2019) The Young Scientist Award during the EURACHEM 2019 meeting held in Tartu, Estonia.</li>
@@ -46,16 +46,16 @@ title: ""
 <!-- ========================= -->
 <!-- Fellowships -->
 <div class="card">
-  <h1 class="card-title">Fellowships</h1>
-  <p class="card-subtitle">Research and academic fellowships supporting international collaborations.</p>
+  <h1 class="card-title"><i class="fas fa-briefcase"></i> Fellowships</h1>
+  <p class="card-subtitle">Research fellowships supporting international collaborations.</p>
   <ul>
-    <li>(12/2024) TÜBİTAK 2221-Fellowships for Visiting Scientists (short term). Host institute: Istanbul University, Türkiye.</li>
-    <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute: University of Mons, Belgium.</li>
-    <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032.</li>
-    <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
-    <li>(2016-2020) PhD Research Fellowship in the framework of Mycokey project, Ghent University, Belgium.</li>
-    <li>(2015-2016) Erasmus+ Student Mobility for Studies, Center for Analytical Chemistry, Universität für Bodenkultur Wien, Austria.</li>
-    <li>(2014) Erasmus+ Student Mobility for Placement, <em>IfADo</em> Institute, Dortmund, Germany.</li>
+    <li>(12/2024) TÜBİTAK 2221-Fellowships for Visiting Scientists (short term), Istanbul University, Türkiye.</li>
+    <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium, University of Mons.</li>
+    <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium.</li>
+    <li>(2020) Marie Curie Research Leaders 2025 - Fellowship Programme, Austria/Ireland.</li>
+    <li>(2016-2020) PhD Research Fellowship, Mycokey project, Ghent University, Belgium.</li>
+    <li>(2015-2016) Erasmus+ Student Mobility for Studies, BOKU, Austria.</li>
+    <li>(2014) Erasmus+ Student Mobility for Placement, IfADo Institute, Dortmund, Germany.</li>
     <li>(2013-2016) Turkish Government Scholarship, Türkiye.</li>
   </ul>
 </div>
@@ -63,51 +63,51 @@ title: ""
 <!-- ========================= -->
 <!-- Travel Grants -->
 <div class="card">
-  <h1 class="card-title">Travel Grants</h1>
-  <p class="card-subtitle">Funding received for attending international conferences and workshops.</p>
+  <h1 class="card-title"><i class="fas fa-plane"></i> Travel Grants</h1>
+  <p class="card-subtitle">Support to attend international workshops and conferences.</p>
   <ul>
-    <li>(2023) National Demonstration Base for Talent Introduction Grant (17,000 RMB) to visit the Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.</li>
-    <li>(2023) Conference Travel Award (€500) Faculty of Bioscience Engineering-UGent to attend 44<sup>th</sup> Mycotoxin-Workshop, Celle (at Hannover)-Germany.</li>
-    <li>(2022) Workshop Travel Award from the Research Foundation - Flanders (FWO) to attend the Applied <em>In Vitro</em> Toxicology Course, Luxembourg.</li>
-    <li>(2022) Conference Travel Award (€500) Faculty of Bioscience Engineering-UGent to attend XVI<sup>th</sup> International Congress of Toxicology (ICT 2022), Maastricht-the Netherlands.</li>
-    <li>(2018) Conference Travel Award (€1,000) Faculty of Pharmaceutical Sciences-UGent to attend the 2<sup>nd</sup> International MycoKey Conference, Wuhan-China.</li>
-    <li>(2017) Conference Travel Award (€750) Faculty of Pharmaceutical Sciences-UGent to attend the 3<sup>rd</sup> International Mass Spectrometry School, Dubrovnik-Croatia.</li>
+    <li>(2023) National Demonstration Base for Talent Introduction Grant (17,000 RMB), Beijing, China.</li>
+    <li>(2023) Conference Travel Award (€500), 44th Mycotoxin-Workshop, Celle, Germany.</li>
+    <li>(2022) Workshop Travel Award, Applied In Vitro Toxicology Course, Luxembourg.</li>
+    <li>(2022) Conference Travel Award (€500), ICT 2022, Maastricht, Netherlands.</li>
+    <li>(2018) Conference Travel Award (€1,000), 2nd International MycoKey Conference, Wuhan, China.</li>
+    <li>(2017) Conference Travel Award (€750), 3rd International Mass Spectrometry School, Dubrovnik, Croatia.</li>
   </ul>
 </div>
 
 <!-- ========================= -->
 <!-- Memberships -->
 <div class="card">
-  <h1 class="card-title">Memberships</h1>
-  <p class="card-subtitle">Professional memberships and roles in international scientific organizations.</p>
+  <h1 class="card-title"><i class="fas fa-users"></i> Memberships</h1>
+  <p class="card-subtitle">Professional memberships and roles in international organizations.</p>
   <ul>
-    <li>(Since 2025) Post-doctoral Representative of the SOT’s Food Safety Specialty Section (FS3).</li>
-    <li>(Since 2024) Board member European Society of Toxicology In Vitro (ESTIV).</li>
-    <li>(Since 2023) Member of ILSI Europe’s Natural Toxins’ Expert Group.</li>
-    <li>(Since 2023) Full member Society for Mycotoxin Research.</li>
-    <li>(Since 2021) Full member European Society of Toxicology In Vitro (ESTIV).</li>
-    <li>(Since 2021) Full member Belgian society of Toxicology (BelTox).</li>
-    <li>(Since 2020) Ordinary member International Society of Mycotoxicology (ISM).</li>
+    <li>(Since 2025) Post-doctoral Representative, SOT’s Food Safety Specialty Section (FS3).</li>
+    <li>(Since 2024) Board member, European Society of Toxicology In Vitro (ESTIV).</li>
+    <li>(Since 2023) Member, ILSI Europe’s Natural Toxins’ Expert Group.</li>
+    <li>(Since 2023) Full member, Society for Mycotoxin Research.</li>
+    <li>(Since 2021) Full member, European Society of Toxicology In Vitro (ESTIV).</li>
+    <li>(Since 2021) Full member, Belgian society of Toxicology (BelTox).</li>
+    <li>(Since 2020) Ordinary member, International Society of Mycotoxicology (ISM).</li>
   </ul>
 </div>
 
 <!-- ========================= -->
 <!-- International Collaboration -->
 <div class="card">
-  <h1 class="card-title">International Collaboration</h1>
-  <p class="card-subtitle">Based on running projects and research papers.</p>
+  <h1 class="card-title"><i class="fas fa-globe"></i> International Collaboration</h1>
+  <p class="card-subtitle">Active collaborations based on projects and research papers.</p>
   <ul>
     <strong style="font-size: larger; text-decoration: underline; color: red;">Europe</strong>
-    <li>University of Veterinary Medicine Vienna, <strong>Austria</strong>.</li>
-    <li>University of Vienna, <strong>Austria</strong>.</li>
-    <li>Ghent University, <strong>Belgium</strong>.</li>
-    <li>University of Parma, <strong>Italy</strong>.</li>
-    <li>Sciensano Institute, Tervuren, <strong>Belgium</strong>.</li>
+    <li>University of Veterinary Medicine Vienna, <strong>Austria</strong></li>
+    <li>University of Vienna, <strong>Austria</strong></li>
+    <li>Ghent University, <strong>Belgium</strong></li>
+    <li>University of Parma, <strong>Italy</strong></li>
+    <li>Sciensano Institute, Tervuren, <strong>Belgium</strong></li>
     <strong style="font-size: larger; text-decoration: underline; color: red;">Asia</strong>
-    <li>Institute of Food Science and Technology, Beijing, <strong>PR China</strong>.</li>
-    <li>University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, <strong>PR China</strong>.</li>
-    <li>Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong>.</li>
-    <li>Istanbul University, Istanbul, <strong>Türkiye</strong>.</li>
+    <li>Institute of Food Science and Technology, Beijing, <strong>PR China</strong></li>
+    <li>University of Chinese Academy of Sciences, Shanghai, <strong>PR China</strong></li>
+    <li>Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong></li>
+    <li>Istanbul University, Istanbul, <strong>Türkiye</strong></li>
   </ul>
 </div>
 
@@ -150,13 +150,12 @@ p, li {
   margin-bottom: 25px;
 }
 
-/* Card Headings */
+/* Card Titles & Subtitles */
 .card-title {
   font-size: 1.8em;
   font-weight: 600;
   margin-bottom: 8px;
 }
-
 .card-subtitle {
   font-size: 1.05em;
   color: #555;
