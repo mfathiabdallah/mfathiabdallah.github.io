@@ -242,7 +242,7 @@ body {
   .project-list,
   .collapsible-content ul {
     padding-left: 0;
-    margin-left: 0;
+    margin-left: 1;
   }
 }
 @media (max-width: 600px) {
