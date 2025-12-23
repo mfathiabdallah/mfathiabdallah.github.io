@@ -49,10 +49,10 @@ title: ""
 
 <!-- ========================= -->
 <!-- Fellowships -->
-<div class="card">
- <h1 class="collapsible-title">
+<h1 class="collapsible-title">
   <i class="fas fa-graduation-cap"></i> Fellowships
 </h1>
+<div class="card">
   <p class="card-subtitle">Research fellowships supporting international collaborations.</p>
   <ul>
     <li>(12/2024) TÜBİTAK 2221-Fellowships for Visiting Scientists (short term), Istanbul University, Türkiye.</li>
