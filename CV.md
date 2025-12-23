@@ -156,6 +156,7 @@ body {
   font-size: 2.4em;
   margin-bottom: 10px;
   font-weight: 600;
+  color: #ffffff; /* make the title white */
 }
 .hero-banner p {
   font-size: 1.1em;
