@@ -59,9 +59,23 @@ exclude: 'no'
 <!-- ========================= -->
 <!-- Scholarships & Fellowships -->
 <div class="content-box">
-  <h3 class="section-title"><i class="fa-solid fa-award"></i> Scholarships & Fellowships Support</h3>
-  <p>We support applications for scholarships and fellowships such as <strong>Marie Curie, DFF, Novo Nordisk Foundation, Villum Foundation</strong>, and others.  
-  Exceptional and motivated candidates are encouraged to get in touch for guidance on proposal writing and research topics.</p>
+  <h3 class="section-title">
+    <i class="fa-solid fa-award"></i> Scholarships & Fellowships Support
+  </h3>
+
+  <p>
+    We actively support applications for competitive <strong>international and national
+    scholarships and fellowships</strong>. Exceptional and motivated candidates are encouraged
+    to get in touch for guidance on proposal writing and research topic development.
+  </p>
+
+  <ul class="scholarship-list">
+    <li><strong>Marie Skłodowska-Curie Actions (MSCA)</strong></li>
+    <li><strong>Danish Council for Independent Research (DFF)</strong></li>
+    <li><strong>Novo Nordisk Foundation</strong></li>
+    <li><strong>Villum Foundation</strong></li>
+    <li>Other national and international funding schemes</li>
+  </ul>
 </div>
 
 <!-- ========================= -->
