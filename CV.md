@@ -187,8 +187,7 @@ p, li {
   .hero-banner { padding: 30px 15px; }
 }
 .card-link {
-  color: #222;         /* same as card title */
-  text-decoration: none;
+  text-decoration: none;  /* keep it clean */
 }
 
 .card-link:hover {
@@ -196,5 +195,4 @@ p, li {
   text-decoration: underline;
 }
 
-</style>
 </style>
