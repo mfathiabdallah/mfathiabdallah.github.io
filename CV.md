@@ -16,10 +16,10 @@ title: ""
 
 <!-- ========================= -->
 <!-- Education -->
-<h1 class="collapsible-title">
-  <i class="fas fa-graduation-cap"></i> Education
-</h1>
 <div class="card">
+  <h1 class="collapsible-title">
+    <i class="fas fa-graduation-cap"></i> Education
+  </h1>
   <p class="card-subtitle">Academic degrees and international research experiences.</p>
   <ul> 
     <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024), Host institute: University of Mons, Belgium</li>
