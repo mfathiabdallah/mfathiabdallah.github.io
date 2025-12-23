@@ -15,7 +15,7 @@ title: ""
     emerging contaminants, and mixture risk assessment.
   </p>
 
-  <a class="cv-button" href="https://www.mfathiabdallah.com/CV/" target="_blank" rel="noopener">
+  <a class="cv-button" href="https://www.mfathiabdallah.com/CV/">
     View Academic CV
   </a>
 </div>
