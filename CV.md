@@ -1,20 +1,24 @@
 ---
 layout: page
-title: "Education & Experience"
+title: ""
 ---
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <!-- ========================= -->
 <!-- Hero Banner -->
 <div class="hero-banner">
-  <h1>🎓 Education & Work Experience</h1>
+  <h1> Education & Work Experience</h1>
   <p>
-    Overview of academic background, research fellowships, awards, memberships, and collaborations.
+    Overview of academic background, research fellowships, awards, memberships, and international collaborations.
   </p>
 </div>
 
 <!-- ========================= -->
 <!-- Education & Work Experience -->
-<div class="card">
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Education</h1>
+  <div class="collapsible-content card">
   <ul>
     <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024), Host institute: University of Mons, Belgium</li>
     <li>Former Postdoctoral Fellow (until 09/2023), Ghent University-Special Research Fund (BOF), Ghent University, Belgium</li>
@@ -87,7 +91,7 @@ title: "Education & Experience"
 </div>
 
 <div class="collapsible">
-  <h1 class="collapsible-title">&#10148; Collaboration</h1>
+  <h1 class="collapsible-title">&#10148; International Collaboration</h1>
   <div class="collapsible-content card">
     <ul>
       (Based on running projects and research papers)
