@@ -76,9 +76,10 @@ title: ""
           Optimization of a 3D in vitro model to study hepatocytotoxicity
           of different food contaminants
         </p>
-        <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants"
-           class="btn btn-outline">
-          View Project
+         <a href="https://food.au.dk/masters-thesis-projects/optimization-of-a-3d-in-vitro-model-to-study-the-hepatocytotoxicity-of-different-food-contaminants"
+            target="_blank" rel="noopener"
+            class="btn btn-outline">
+            View Project
         </a>
       </li>
       <li>
@@ -87,8 +88,9 @@ title: ""
           Developing a database of microbial food toxins in the EU
           (case study on mycotoxins)
         </p>
-        <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins"
-           class="btn btn-outline">
+       <a href="https://food.au.dk/masters-thesis-projects/developing-a-database-of-microbial-food-toxins-in-the-eu-case-study-on-mycotoxins"
+          target="_blank" rel="noopener"
+          class="btn btn-outline">
           View Project
         </a>
       </li>
