@@ -154,6 +154,8 @@ title: ""
  <!-- ========================= -->
 <!-- Styles -->
 <style>
+/* ========================= */
+/* Body & Typography */
 body {
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
   color: #222;
@@ -164,6 +166,7 @@ p, li {
   font-size: 1.05em;
 }
 
+/* ========================= */
 /* Hero Banner */
 .hero-banner {
   background: linear-gradient(135deg, #0b3c5d, #1f7a8c);
@@ -177,7 +180,6 @@ p, li {
 .hero-banner h1 {
   font-size: 2.4em;
   font-weight: 600;
-  color: #ffffff !important;
 }
 .hero-banner p {
   max-width: 820px;
@@ -185,6 +187,7 @@ p, li {
   color: #f2f6f9;
 }
 
+/* ========================= */
 /* CV Button */
 .cv-button {
   display: inline-block;
@@ -201,54 +204,52 @@ p, li {
   transform: translateY(-2px);
 }
 
+/* ========================= */
 /* Cards */
 .card {
   background: rgba(255,255,255,0.95);
   padding: 20px 22px;
   border-radius: 12px;
-  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1); /* subtle shadow */
   margin-bottom: 25px;
+  border-left: none !important; /* remove blue line */
+  outline: none; /* remove focus outline */
 }
 
-/* Collapsible */
+/* Optional: specific card with no border */
+.card.no-border {
+  border-left: none !important;
+}
+
+/* ========================= */
+/* Collapsible Titles */
 .collapsible-title {
   background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
   color: #fff;
   padding: 12px 18px;
   border-radius: 8px;
   font-size: 1.3em;
-  margin-bottom: 8px;
+  margin: 0 0 12px 0;
 }
-/* Collapsible Sections (Title inside the box) */
+
+/* Collapsible content */
 .collapsible-content {
-  background: rgba(255,255,255,0.95); /* card background */
+  background: rgba(255,255,255,0.95);
   padding: 20px 22px;
   border-radius: 12px;
   box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  border-left: none !important; /* remove blue line */
   margin-bottom: 25px;
+  outline: none;
 }
 
-.collapsible-title {
-  background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
-  color: #fff;
-  padding: 12px 18px;
-  border-radius: 8px;
-  font-size: 1.3em;
-  margin: 0 0 12px 0; /* no extra space outside, only inside card */
-}
-
+/* Collapsible content spacing */
 .collapsible-content p,
 .collapsible-content ul {
-  margin-top: 8px; /* space between title and content */
+  margin-top: 8px;
 }
 
-  padding: 14px 18px;
-  margin-bottom: 20px;
-  border: none; /* remove blue line */
-  border-left: none !important;
-  box-shadow: 0 6px 15px rgba(0,0,0,0.1); /* keeps subtle shadow for the whole card */
-}
-
+/* ========================= */
 /* Research Overview */
 .research-overview {
   text-align: center;
@@ -264,7 +265,8 @@ p, li {
   margin-top: 8px;
 }
 
-/* Modern Table */
+/* ========================= */
+/* Tables */
 .modern-table {
   width: 100%;
   border-collapse: collapse;
@@ -284,6 +286,9 @@ p, li {
 .modern-table img {
   max-width: 100px;
 }
+
+/* ========================= */
+/* Links */
 a {
   color: #0b3c5d;
 }
@@ -292,14 +297,11 @@ a:hover {
   text-decoration: underline;
 }
 
+/* ========================= */
 /* Responsive */
 @media (max-width: 768px) {
   .hero-banner { padding: 30px 15px; }
 }
-
-/* Remove left border for specific card */
-.card.no-border {
-  border-left: none !important;
-}
+  
 </style>
 
