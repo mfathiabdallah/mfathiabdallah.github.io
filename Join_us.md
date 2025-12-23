@@ -19,11 +19,13 @@ title: ""
 <!-- ========================= -->
 <!-- Open Opportunities -->
 <div class="collapsible">
-  <h1 class="collapsible-title">
-    <i class="fa-solid fa-briefcase"></i> Open Opportunities
-  </h1>
   <div class="collapsible-content">
-   <p> If you are a motivated researcher interested in food toxicology, mixture risk assessment, or AI-based safety evaluation — reach out to discuss collaboration opportunities </p> 
+    <h1 class="collapsible-title">
+      <i class="fa-solid fa-briefcase"></i> Open Opportunities
+    </h1>
+    <p>
+      If you are a motivated researcher interested in food toxicology, mixture risk assessment, or AI-based safety evaluation — reach out to discuss collaboration opportunities.
+    </p>
     <ul>
        <li>Marie Curie Fellowships</li>
        <li>Funding from Novo Nordisk Foundation, DFF, Villum Foundation</li>
@@ -36,10 +38,10 @@ title: ""
 <!-- ========================= -->
 <!-- PhD Hiring -->
 <div class="collapsible">
-  <h1 class="collapsible-title">
-    <i class="fa-solid fa-rocket"></i> We’re Hiring a PhD Student!
-  </h1>
   <div class="collapsible-content">
+    <h1 class="collapsible-title">
+      <i class="fa-solid fa-rocket"></i> We’re Hiring a PhD Student!
+    </h1>
     <p>
       <strong>Topic:</strong> Quantification of natural toxins in novel food using advanced mass spectrometry.<br>
       <strong>Deadline:</strong> <span class="deadline-text">6 November 2025</span>
@@ -59,13 +61,12 @@ title: ""
 <!-- ========================= -->
 <!-- Master / Internship -->
 <div class="collapsible">
-  <h1 class="collapsible-title">
-    <i class="fa-solid fa-microscope"></i> Master Thesis / Internship Opportunities
-  </h1>
   <div class="collapsible-content">
+    <h1 class="collapsible-title">
+      <i class="fa-solid fa-microscope"></i> Master Thesis / Internship Opportunities
+    </h1>
     <p>
-      We welcome motivated Master students, interns, or Erasmus students
-      to join our research projects.
+      We welcome motivated Master students, interns, or Erasmus students to join our research projects.
     </p>
     <ul class="project-list">
       <li>
