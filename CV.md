@@ -8,32 +8,32 @@ title: ""
 <!-- ========================= -->
 <!-- Hero Banner -->
 <div class="hero-banner">
-  <h1> Education & Work Experience</h1>
+  <h1>Education & Work Experience</h1>
   <p>
     Overview of academic background, research fellowships, awards, memberships, and international collaborations.
   </p>
 </div>
 
 <!-- ========================= -->
-<!-- Education & Work Experience -->
+<!-- Education -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Education</h1>
   <div class="collapsible-content card">
-  <ul>
-    <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024), Host institute: University of Mons, Belgium</li>
-    <li>Former Postdoctoral Fellow (until 09/2023), Ghent University-Special Research Fund (BOF), Ghent University, Belgium</li>
-    <li>Former Researcher (until 09/2020), Teagasc Food Research Centre, Dublin, Ireland</li>
-    <li>PhD in Pharmaceutical Sciences (05/2020), Ghent University, Belgium</li>
-    <li>Master's Degree (04/2016) in Pharmaceutical Toxicology, Hacettepe University, Türkiye</li>
-    <li>Erasmus+ Exchange Master Student (until 03/2016), University of Natural Resources and Life Sciences, Vienna (BOKU), Austria</li>
-    <li>Erasmus+ Intern Researcher (until 12/2014), IfADo Institute, Dortmund, Germany</li>
-    <li>Bachelor's Degree (07/2011) in Veterinary Medical Sciences, Assiut University, Egypt</li>
-  </ul>
+    <ul>
+      <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024), Host institute: University of Mons, Belgium</li>
+      <li>Former Postdoctoral Fellow (until 09/2023), Ghent University-Special Research Fund (BOF), Ghent University, Belgium</li>
+      <li>Former Researcher (until 09/2020), Teagasc Food Research Centre, Dublin, Ireland</li>
+      <li>PhD in Pharmaceutical Sciences (05/2020), Ghent University, Belgium</li>
+      <li>Master's Degree (04/2016) in Pharmaceutical Toxicology, Hacettepe University, Türkiye</li>
+      <li>Erasmus+ Exchange Master Student (until 03/2016), University of Natural Resources and Life Sciences, Vienna (BOKU), Austria</li>
+      <li>Erasmus+ Intern Researcher (until 12/2014), IfADo Institute, Dortmund, Germany</li>
+      <li>Bachelor's Degree (07/2011) in Veterinary Medical Sciences, Assiut University, Egypt</li>
+    </ul>
+  </div>
 </div>
 
 <!-- ========================= -->
-<!-- Collapsible Sections -->
-
+<!-- Scientific Awards -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Scientific Awards</h1>
   <div class="collapsible-content card">
@@ -45,6 +45,8 @@ title: ""
   </div>
 </div>
 
+<!-- ========================= -->
+<!-- Fellowships -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Fellowships</h1>
   <div class="collapsible-content card">
@@ -53,7 +55,7 @@ title: ""
       <li>(2023-2026) Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute: University of Mons, Belgium.</li>
       <li>(2020-2023) Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032.</li>
       <li>(2020) Marie Curie Research Leaders 2025 - A Fellowship Programme developing the Next Generation of Agri-Food Research Leaders, Austria/Ireland (granted, but untaken/excused).</li>
-      <li>(2016-2020) PhD Research Fellowship in the framework of Mycokey project, Ghent University, Belgium.</li> 
+      <li>(2016-2020) PhD Research Fellowship in the framework of Mycokey project, Ghent University, Belgium.</li>
       <li>(2015-2016) Erasmus+ Student Mobility for Studies, Center for Analytical Chemistry, Universität für Bodenkultur Wien, Austria.</li>
       <li>(2014) Erasmus+ Student Mobility for Placement, <em>IfADo</em> Institute, Dortmund, Germany.</li>
       <li>(2013-2016) Turkish Government Scholarship, Türkiye.</li>
@@ -61,6 +63,8 @@ title: ""
   </div>
 </div>
 
+<!-- ========================= -->
+<!-- Travel Grants -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Travel Grants</h1>
   <div class="collapsible-content card">
@@ -75,6 +79,8 @@ title: ""
   </div>
 </div>
 
+<!-- ========================= -->
+<!-- Memberships -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; Memberships</h1>
   <div class="collapsible-content card">
@@ -90,6 +96,8 @@ title: ""
   </div>
 </div>
 
+<!-- ========================= -->
+<!-- International Collaboration -->
 <div class="collapsible">
   <h1 class="collapsible-title">&#10148; International Collaboration</h1>
   <div class="collapsible-content card">
@@ -112,7 +120,7 @@ title: ""
 </div>
 
 <!-- ========================= -->
-<!-- Scripts & Styles -->
+<!-- Scripts -->
 <script>
   function toggleCollapsible(event) {
     const content = event.target.nextElementSibling;
@@ -130,10 +138,12 @@ title: ""
   }
 </script>
 
+<!-- ========================= -->
+<!-- Styles -->
 <style>
 body {
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
-  color: #fff;
+  color: #222; /* Dark text for main content */
   line-height: 1.65;
   overflow-x: hidden;
 }
@@ -151,19 +161,16 @@ p, li {
   margin-bottom: 35px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
-.hero-banner h1 {
-  font-size: 2.4em;
-  font-weight: 600;
-}
+.hero-banner h1,
 .hero-banner p {
-  max-width: 820px;
-  margin: 16px auto 26px;
-  color: #f2f6f9;
+  color: #fff;
+  margin: 0;
 }
 
 /* Cards */
 .card {
   background: rgba(255,255,255,0.95);
+  color: #222; /* Dark text inside cards */
   padding: 20px 22px;
   border-radius: 12px;
   box-shadow: 0 6px 15px rgba(0,0,0,0.1);
