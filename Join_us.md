@@ -47,9 +47,10 @@ title: ""
       <strong>Deadline:</strong> <span class="deadline-text">6 November 2025</span>
     </p>
     <div class="button-row">
-      <a href="https://www.mfathiabdallah.com/PhD_position1/" target="_blank" rel="noopener" class="btn btn-primary">
-        <i class="fa-solid fa-magnifying-glass"></i> View Details
-      </a>
+      <a href="https://www.mfathiabdallah.com/PhD_position1/"
+        class="btn btn-primary">
+      <i class="fa-solid fa-magnifying-glass"></i> View Details
+     </a>
       <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food"
          target="_blank" rel="noopener" class="btn btn-secondary">
         <i class="fa-solid fa-compass"></i> Apply Now
