@@ -185,7 +185,7 @@ body {
 .card-subtitle {
   font-size: 1.05em;
   color: #555;
-  margin-top: 12px; /* add some space above */
+  margin-top: 14px; /* add some space above */
   margin-bottom: 15px;
 }
 
