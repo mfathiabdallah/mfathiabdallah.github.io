@@ -42,7 +42,7 @@ title: ""
     toxic effects of contaminants and their mixtures on human health. This
     interdisciplinary approach bridges food toxicology and human health.
   </p>
-
+  
   <!-- Research Overview Image -->
   <figure class="research-overview">
     <img src="/images/aufoodtox.png" alt="AU FOOD TOX research overview">
@@ -50,6 +50,7 @@ title: ""
       A schematic overview of AU FOOD TOX group’s research focus.
     </figcaption>
   </figure>
+ </div>
  </div>
 
  <!-- ========================= -->
