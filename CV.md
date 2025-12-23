@@ -102,6 +102,7 @@ title: ""
 </div>
 
 <!-- ========================= -->
+<!-- ========================= -->
 <!-- International Collaboration -->
 <div class="card">
   <h1 class="collapsible-title">
@@ -130,7 +131,6 @@ title: ""
     </ul>
   </div>
 </div>
-
 
 <!-- ========================= -->
 <!-- Styles -->
@@ -222,6 +222,7 @@ body {
 
 .collaboration-list {
   margin-top: 15px;
+  padding-right: 10px; /* avoid text touching the right */
 }
 
 .region-title {
@@ -229,28 +230,30 @@ body {
   font-weight: 700;
   color: #d12a00; /* red accent */
   margin-top: 12px;
+  margin-bottom: 6px;
   text-decoration: underline;
 }
 
 .collaboration-list ul {
   list-style: disc inside;
-  margin-bottom: 12px;
   padding-left: 0;
+  margin-bottom: 15px;
 }
 
 .collaboration-list li {
-  margin-left: 0; /* already inside the list */
-  margin-bottom: 6px;
-  line-height: 1.5;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+  flex-wrap: wrap;   /* allow long text to wrap */
   gap: 8px;
+  margin-bottom: 8px;
+  line-height: 1.5;
 }
 
 .collaboration-list li img.flag {
-  width: 24px;  /* adjust size as needed */
+  width: 24px;       /* small flag */
   height: auto;
   border-radius: 2px;
+  flex-shrink: 0;    /* prevent shrinking */
 }
 
 /* Collapsible-style section titles (like Join Us page) */
