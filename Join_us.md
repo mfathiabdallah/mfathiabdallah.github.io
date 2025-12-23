@@ -24,9 +24,9 @@ title: ""
   </h1>
   <div class="collapsible-content">
     <ul>
-      <li>Marie Curie Fellowships</li>
-      <li>Funding from Novo Nordisk Foundation, DFF, Villum Foundation</li>
-      <li>Other national or international fellowships</li>
+       <li>Marie Curie Fellowships</li>
+       <li>Funding from Novo Nordisk Foundation, DFF, Villum Foundation</li>
+       <li>Other national or international fellowships</li>
     </ul>
     <p>
       If you are a motivated researcher interested in food toxicology,
