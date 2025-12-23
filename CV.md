@@ -209,4 +209,18 @@ body {
 @media (max-width: 768px) {
   .hero-banner { padding: 30px 15px; }
 }
+
+/* Collapsible-style section titles (like Join Us page) */
+.collapsible-title {
+  background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
+  color: #ffffff;
+  padding: 12px 18px;
+  border-radius: 12px;
+  font-size: 1.25em;
+  margin-bottom: 12px;
+}
+.collapsible-title i {
+  margin-right: 8px;
+}
 </style>
+
