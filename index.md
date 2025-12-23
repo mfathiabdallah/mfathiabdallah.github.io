@@ -73,7 +73,7 @@ exclude: 'no'
   <ul class="scholarship-list">
     <li>
       <span class="badge badge-eu">EU</span>
-      <strong>Marie Skłodowska-Curie Actions (MSCA)</strong>
+      <strong>Marie Curie Actions (MSCA)</strong>
     </li>
     <li>
       <span class="badge badge-national">National</span>
