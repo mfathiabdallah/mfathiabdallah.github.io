@@ -110,6 +110,7 @@ title: ""
   <p class="card-subtitle">Active collaborations based on projects and research papers.</p>
 
   <div class="collaboration-list">
+    <!-- Europe -->
     <h3 class="region-title">Europe</h3>
     <ul>
       <li><img class="flag" src="/images/flags/austria.png" alt="Austria"> University of Veterinary Medicine Vienna, <strong>Austria</strong></li>
@@ -118,6 +119,8 @@ title: ""
       <li><img class="flag" src="/images/flags/italy.png" alt="Italy"> University of Parma, <strong>Italy</strong></li>
       <li><img class="flag" src="/images/flags/belgium.png" alt="Belgium"> Sciensano Institute, Tervuren, <strong>Belgium</strong></li>
     </ul>
+
+    <!-- Asia -->
     <h3 class="region-title">Asia</h3>
     <ul>
       <li><img class="flag" src="/images/flags/china.png" alt="China"> Institute of Food Science and Technology, Beijing, <strong>PR China</strong></li>
@@ -127,6 +130,7 @@ title: ""
     </ul>
   </div>
 </div>
+
 
 <!-- ========================= -->
 <!-- Styles -->
