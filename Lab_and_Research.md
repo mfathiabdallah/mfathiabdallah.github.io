@@ -24,6 +24,10 @@ title: ""
    <a class="cv-button" href="https://www.mfathiabdallah.com/news/">
     News
   </a>
+  </a>
+   <a class="cv-button" href="https://www.mfathiabdallah.com/International_Collaboration/">
+    International Collaboration
+  </a>
 </div>
 
 <!-- ========================= -->
