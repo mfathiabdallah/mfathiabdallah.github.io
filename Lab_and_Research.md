@@ -272,3 +272,281 @@ a:hover {
   .hero-banner { padding: 30px 15px; }
 }
 </style>
+
+
+
+
+---
+layout: page
+title: ""
+---
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<!-- ========================= -->
+<!-- Hero Banner -->
+<div class="hero-banner">
+  <h1 class="hero-title">AU FOOD TOX Research Group</h1>
+  <p>
+    Advancing food toxicology through cutting-edge research on natural toxins,
+    emerging contaminants, and mixture risk assessment.
+  </p>
+
+  <a class="cv-button" href="https://www.mfathiabdallah.com/CV/" target="_blank" rel="noopener">
+    View Academic CV
+  </a>
+</div>
+
+<!-- ========================= -->
+<!-- Intro + Figure + Research Lines in Card -->
+<div class="card">
+
+  <p>
+    At the AU FOOD Department, our research focuses on understanding risks associated
+    with natural toxins (mycotoxins and cyanotoxins) and emerging contaminants in
+    novel foods. Using advanced LC-MS/MS methods and in vitro models, we investigate
+    toxic effects of contaminants and their mixtures on human health. This
+    interdisciplinary approach bridges food toxicology and human health.
+  </p>
+
+  <figure class="research-overview">
+    <img src="/images/aufoodtox.png" alt="AU FOOD TOX research overview">
+    <figcaption>
+      A schematic overview of AU FOOD TOX group’s research focus.
+    </figcaption>
+  </figure>
+
+  <div class="collapsible">
+    <h1 class="collapsible-title">&#10148; Research Lines</h1>
+    <div class="collapsible-content">
+
+      <!-- CONTENT UNCHANGED -->
+      <!-- (All your publications stay exactly the same) -->
+
+    </div>
+  </div>
+</div>
+
+<!-- ========================= -->
+<!-- Current Projects -->
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Current Projects</h1>
+  <div class="collapsible-content card">
+
+    <p>
+      Our research activities are supported by competitive national and international
+      funding sources. We are grateful to these foundations and programs for their support.
+    </p>
+
+    <table class="modern-table clean-table">
+      <thead>
+        <tr>
+          <th>Status</th>
+          <th>Project</th>
+          <th>Funding Agency</th>
+          <th>Total Fund</th>
+          <th>Period</th>
+          <th>Role</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Running</strong></td>
+          <td><strong>ToxiFOOD</strong></td>
+          <td>
+            <img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation">
+          </td>
+          <td>DKK 13.88 M</td>
+          <td>2026 – 2031</td>
+          <td>PI</td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+</div>
+
+<!-- ========================= -->
+<!-- Secured Funds -->
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Funds</h1>
+  <div class="collapsible-content card">
+    <ul>
+      <!-- CONTENT UNCHANGED -->
+    </ul>
+  </div>
+</div>
+
+<!-- ========================= -->
+<!-- Lab Members -->
+<div class="collapsible">
+  <h1 class="collapsible-title">&#10148; Lab Members</h1>
+  <div class="collapsible-content card">
+
+    <table class="modern-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Position</th>
+          <th>Research Focus</th>
+          <th>Contact</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
+          <td>Principal Investigator</td>
+          <td>Natural toxins, LC-MS/MS, In vitro toxicology</td>
+          <td>mfa [at] food.au.dk</td>
+          <td>
+            <a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">
+              AU Profile
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+</div>
+
+<!-- ========================= -->
+<!-- Styles -->
+<style>
+body {
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  color: #222;
+  line-height: 1.65;
+  overflow-x: hidden;
+}
+p, li {
+  font-size: 1.05em;
+}
+
+/* Hero */
+.hero-banner {
+  background: linear-gradient(135deg, #0b3c5d, #1f7a8c);
+  color: #fff;
+  padding: 50px 30px;
+  border-radius: 12px;
+  text-align: center;
+  margin-bottom: 35px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+.hero-title {
+  color: #ffffff !important;   /* FORCE WHITE */
+  font-size: 2.4em;
+  font-weight: 600;
+}
+.hero-banner p {
+  max-width: 820px;
+  margin: 16px auto 26px;
+  color: #f2f6f9;
+}
+
+/* Button */
+.cv-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #fff;
+  color: #0b3c5d;
+  font-weight: 600;
+  border-radius: 30px;
+  text-decoration: none;
+  transition: 0.25s;
+}
+.cv-button:hover {
+  background: #e6f4f1;
+  transform: translateY(-2px);
+}
+
+/* Cards */
+.card {
+  background: rgba(255,255,255,0.96);
+  padding: 22px;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  margin-bottom: 25px;
+}
+
+/* Collapsible */
+.collapsible-title {
+  background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
+  color: #fff;
+  padding: 12px 18px;
+  border-radius: 8px;
+  font-size: 1.3em;
+  margin-bottom: 8px;
+}
+.collapsible-content {
+  padding: 14px 18px;
+  margin-bottom: 20px;
+  border: none !important; /* REMOVE BLUE LINE */
+}
+
+/* Image */
+.research-overview {
+  text-align: center;
+  margin: 20px 0;
+}
+.research-overview img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+.research-overview figcaption {
+  font-style: italic;
+  color: #555;
+  margin-top: 8px;
+}
+
+/* Tables */
+.modern-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 12px;
+}
+.modern-table thead {
+  background: #0b3c5d;
+  color: #fff;
+}
+.modern-table th,
+.modern-table td {
+  padding: 14px 12px;
+  text-align: center;
+}
+.modern-table tbody tr {
+  background: #ffffff;
+}
+.modern-table tbody tr:nth-child(even) {
+  background: #f2f6fb;
+}
+.clean-table {
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+.modern-table img {
+  max-width: 110px;
+}
+
+a {
+  color: #0b3c5d;
+}
+a:hover {
+  color: #1f7a8c;
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero-banner {
+    padding: 30px 15px;
+  }
+  .modern-table {
+    font-size: 0.95em;
+  }
+}
+</style>
+
