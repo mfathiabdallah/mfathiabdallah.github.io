@@ -102,34 +102,25 @@ title: ""
 </div>
 
 <!-- ========================= -->
-<!-- ========================= -->
 <!-- International Collaboration -->
 <div class="card">
   <h1 class="collapsible-title">
     <i class="fas fa-globe"></i> International Collaboration
   </h1>
   <p class="card-subtitle">Active collaborations based on projects and research papers.</p>
-
-  <div class="collaboration-list">
-    <!-- Europe -->
-    <h3 class="region-title">Europe</h3>
-    <ul>
-      <li><img class="flag" src="/images/flags/austria.png" alt="Austria"> University of Veterinary Medicine Vienna, <strong>Austria</strong></li>
-      <li><img class="flag" src="/images/flags/austria.png" alt="Austria"> University of Vienna, <strong>Austria</strong></li>
-      <li><img class="flag" src="/images/flags/belgium.png" alt="Belgium"> Ghent University, <strong>Belgium</strong></li>
-      <li><img class="flag" src="/images/flags/italy.png" alt="Italy"> University of Parma, <strong>Italy</strong></li>
-      <li><img class="flag" src="/images/flags/belgium.png" alt="Belgium"> Sciensano Institute, Tervuren, <strong>Belgium</strong></li>
-    </ul>
-
-    <!-- Asia -->
-    <h3 class="region-title">Asia</h3>
-    <ul>
-      <li><img class="flag" src="/images/flags/china.png" alt="China"> Institute of Food Science and Technology, Beijing, <strong>PR China</strong></li>
-      <li><img class="flag" src="/images/flags/china.png" alt="China"> University of Chinese Academy of Sciences, Shanghai, <strong>PR China</strong></li>
-      <li><img class="flag" src="/images/flags/china.png" alt="China"> Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong></li>
-      <li><img class="flag" src="/images/flags/turkey.png" alt="Türkiye"> Istanbul University, Istanbul, <strong>Türkiye</strong></li>
-    </ul>
-  </div>
+  <ul>
+    <strong style="font-size: larger; text-decoration: underline; color: red;">Europe</strong>
+    <li>University of Veterinary Medicine Vienna, <strong>Austria</strong></li>
+    <li>University of Vienna, <strong>Austria</strong></li>
+    <li>Ghent University, <strong>Belgium</strong></li>
+    <li>University of Parma, <strong>Italy</strong></li>
+    <li>Sciensano Institute, Tervuren, <strong>Belgium</strong></li>
+    <strong style="font-size: larger; text-decoration: underline; color: red;">Asia</strong>
+    <li>Institute of Food Science and Technology, Beijing, <strong>PR China</strong></li>
+    <li>University of Chinese Academy of Sciences, Shanghai, <strong>PR China</strong></li>
+    <li>Institute for Agri-Food Standards and Testing Technology, Shanghai, <strong>PR China</strong></li>
+    <li>Istanbul University, Istanbul, <strong>Türkiye</strong></li>
+  </ul>
 </div>
 
 <!-- ========================= -->
@@ -218,42 +209,6 @@ body {
 /* Responsive */
 @media (max-width: 768px) {
   .hero-banner { padding: 30px 15px; }
-}
-
-.collaboration-list {
-  margin-top: 15px;
-  padding-right: 10px; /* avoid text touching the right */
-}
-
-.region-title {
-  font-size: 1.2em;
-  font-weight: 700;
-  color: #d12a00; /* red accent */
-  margin-top: 12px;
-  margin-bottom: 6px;
-  text-decoration: underline;
-}
-
-.collaboration-list ul {
-  list-style: disc inside;
-  padding-left: 0;
-  margin-bottom: 15px;
-}
-
-.collaboration-list li {
-  display: flex;
-  align-items: flex-start;
-  flex-wrap: wrap;   /* allow long text to wrap */
-  gap: 8px;
-  margin-bottom: 8px;
-  line-height: 1.5;
-}
-
-.collaboration-list li img.flag {
-  width: 24px;       /* small flag */
-  height: auto;
-  border-radius: 2px;
-  flex-shrink: 0;    /* prevent shrinking */
 }
 
 /* Collapsible-style section titles (like Join Us page) */
