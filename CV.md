@@ -217,7 +217,7 @@ body {
   padding: 12px 18px;
   border-radius: 12px;
   font-size: 1.25em;
-  margin-bottom: 12px;
+  margin-bottom: 6px 0 6px 0; /* top 6px, bottom 6px */
 }
 .collapsible-title i {
   margin-right: 8px;
