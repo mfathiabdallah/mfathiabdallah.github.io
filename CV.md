@@ -147,6 +147,7 @@ p, li {
   padding: 20px 22px;
   border-radius: 12px;
   box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  border-left: none; /* remove left line */
   margin-bottom: 25px;
 }
 
