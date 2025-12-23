@@ -22,7 +22,7 @@ title: ""
 
 <!-- ========================= -->
 <!-- Intro + Figure + Research Lines in Card -->
-<div class="card">
+<div class="card no-border">
   <!-- Intro Text -->
   <p>
     At the AU FOOD Department, our research focuses on understanding risks associated
@@ -273,4 +273,10 @@ a:hover {
 @media (max-width: 768px) {
   .hero-banner { padding: 30px 15px; }
 }
+
+/* Remove left border for specific card */
+.card.no-border {
+  border-left: none !important;
+}
 </style>
+
