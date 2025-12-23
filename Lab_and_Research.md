@@ -44,8 +44,8 @@ title: ""
  <!-- ========================= -->
 <!-- Lab Members -->
 <div class="collapsible">
-  <h1 class="collapsible-title">&#10148; Lab Members</h1>
   <div class="collapsible-content card">
+    <h1 class="collapsible-title">&#10148; Lab Members</h1>
     <table class="modern-table">
       <thead>
         <tr>
@@ -219,7 +219,29 @@ p, li {
   font-size: 1.3em;
   margin-bottom: 8px;
 }
+/* Collapsible Sections (Title inside the box) */
 .collapsible-content {
+  background: rgba(255,255,255,0.95); /* card background */
+  padding: 20px 22px;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  margin-bottom: 25px;
+}
+
+.collapsible-title {
+  background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
+  color: #fff;
+  padding: 12px 18px;
+  border-radius: 8px;
+  font-size: 1.3em;
+  margin: 0 0 12px 0; /* no extra space outside, only inside card */
+}
+
+.collapsible-content p,
+.collapsible-content ul {
+  margin-top: 8px; /* space between title and content */
+}
+
   padding: 14px 18px;
   margin-bottom: 20px;
   border: none; /* remove blue line */
