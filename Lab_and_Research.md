@@ -45,7 +45,7 @@ title: ""
   <div class="collapsible">
     <h1 class="collapsible-title">&#10148; Research Lines</h1>
     <div class="collapsible-content card">
-      <h3 style="font-size: 1.4em; font-weight: 700; color: #0b3c5d;">A) Natural Toxins in Food</h3>
+    <h3 style="font-size: 1.4em; font-weight: 700; color: #0b3c5d;">A) Natural Toxins in Food</h3>
       <p>
         Detection and occurrence of mycotoxins and cyanotoxins in food products
         using LC-MS/MS and targeted/non-targeted analytical approaches.
@@ -59,7 +59,7 @@ title: ""
         <li><strong>MF Abdallah</strong>, G Girgin, T Baydar, R Krska, M Sulyok (2017). Occurrence of multiple mycotoxins and other fungal metabolites in animal feed and maize samples from Egypt using LC-MS/MS. <em>Journal of the Science of Food and Agriculture</em>, 97(13), 4419–4428. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.8293" target="_blank" rel="noopener">[Link]</a></li>
         <li><strong>MF Abdallah</strong>, R Krska, M Sulyok (2016). Mycotoxin contamination in sugarcane grass and juice: first report on detection of multiple mycotoxins and exposure assessment for aflatoxins B1 and G1 in humans. <em>Toxins</em>, 8(11), 343. <span style="color:green;">(Open Access)</span> <a href="https://www.mdpi.com/2072-6651/8/11/343" target="_blank" rel="noopener">[Link]</a> <a href="https://mfathiabdallah.github.io/pdfs/toxins_Abdallah_etal2016.pdf" target="_blank" rel="noopener" style="color:#cc0001;">[Download PDF]</a></li>
       </ul>
-      <h3>B) Mixture Toxicology, Risk Assessment & Human Health</h3>
+     <h3 style="font-size: 1.4em; font-weight: 700; color: #0b3c5d;">A) Mixture Toxicology, Risk Assessment & Human Health</h3>
       <p>
         Investigation of combined toxic effects of food contaminants using
         in vitro models and New Approach Methodologies (NAMs).
