@@ -17,7 +17,9 @@ title: ""
 <!-- ========================= -->
 <!-- Education -->
 <div class="card">
-  <h1 class="card-title"><i class="fas fa-graduation-cap"></i> Education</h1>
+  <h1 class="card-title">
+  <a href="/education/" class="card-link"><i class="fas fa-graduation-cap"></i> Education</a>
+</h1>
   <p class="card-subtitle">Academic degrees and international research experiences.</p>
   <ul>
     <li>Former F.R.S-FNRS Postdoctoral Fellow (until 03/2024), Host institute: University of Mons, Belgium</li>
@@ -174,4 +176,15 @@ p, li {
 @media (max-width: 768px) {
   .hero-banner { padding: 30px 15px; }
 }
+.card-link {
+  color: #222;         /* same as card title */
+  text-decoration: none;
+}
+
+.card-link:hover {
+  color: #0b3c5d;      /* optional hover color */
+  text-decoration: underline;
+}
+
+</style>
 </style>
