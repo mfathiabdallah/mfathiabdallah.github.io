@@ -23,16 +23,13 @@ title: ""
     <i class="fa-solid fa-briefcase"></i> Open Opportunities
   </h1>
   <div class="collapsible-content">
+   <p> If you are a motivated researcher interested in food toxicology, mixture risk assessment, or AI-based safety evaluation — reach out to discuss collaboration opportunities </p> 
     <ul>
        <li>Marie Curie Fellowships</li>
        <li>Funding from Novo Nordisk Foundation, DFF, Villum Foundation</li>
        <li>Other national or international fellowships</li>
     </ul>
-    <p>
-      If you are a motivated researcher interested in food toxicology,
-      mixture risk assessment, or AI-based safety evaluation —
-      <strong>reach out to discuss collaboration opportunities</strong>.
-    </p>
+
   </div>
 </div>
 
