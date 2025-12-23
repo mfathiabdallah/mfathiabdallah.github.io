@@ -18,7 +18,7 @@ title: ""
 <!-- Education -->
 <div class="card">
   <h1 class="card-title">
-  <a href="/education/" class="card-link"><i class="fas fa-graduation-cap"></i> Education</a>
+  <a href="/education/" class="card-link"><i class="fas fa-graduation-cap"></i> Education </a>
 </h1>
   <p class="card-subtitle">Academic degrees and international research experiences.</p>
   <ul>
@@ -36,7 +36,9 @@ title: ""
 <!-- ========================= -->
 <!-- Scientific Awards -->
 <div class="card">
-  <h1 class="card-title"><i class="fas fa-trophy"></i> Scientific Awards</h1>
+  <h1 class="card-title">
+  <a href="/education/" class="card-link"><i class="fas fa-graduation-cap"></i> Scientific Awards </a>
+ </h1>
   <p class="card-subtitle">Recognition for research achievements and presentations.</p>
   <ul>
     <li>(2022) Best Oral Presentation from Toxins journal at the international conference Power of Fungi and Mycotoxins in Climate Change Symposium, Croatia.</li>
@@ -48,7 +50,9 @@ title: ""
 <!-- ========================= -->
 <!-- Fellowships -->
 <div class="card">
-  <h1 class="card-title"><i class="fas fa-briefcase"></i> Fellowships</h1>
+   <h1 class="card-title">
+  <a href="/education/" class="card-link"><i class="fas fa-graduation-cap"></i> Fellowships </a>
+ </h1>
   <p class="card-subtitle">Research fellowships supporting international collaborations.</p>
   <ul>
     <li>(12/2024) TÜBİTAK 2221-Fellowships for Visiting Scientists (short term), Istanbul University, Türkiye.</li>
@@ -65,7 +69,9 @@ title: ""
 <!-- ========================= -->
 <!-- Travel Grants -->
 <div class="card">
-  <h1 class="card-title"><i class="fas fa-plane"></i> Travel Grants</h1>
+  <h1 class="card-title">
+  <a href="/education/" class="card-link"><i class="fas fa-graduation-cap"></i> Travel Grants </a>
+ </h1>
   <p class="card-subtitle">Support to attend international workshops and conferences.</p>
   <ul>
     <li>(2023) National Demonstration Base for Talent Introduction Grant (17,000 RMB), Beijing, China.</li>
@@ -80,7 +86,9 @@ title: ""
 <!-- ========================= -->
 <!-- Memberships -->
 <div class="card">
-  <h1 class="card-title"><i class="fas fa-users"></i> Memberships</h1>
+  <h1 class="card-title">
+  <a href="/education/" class="card-link"><i class="fas fa-graduation-cap"></i> Memberships </a>
+ </h1>
   <p class="card-subtitle">Professional memberships and roles in international organizations.</p>
   <ul>
     <li>(Since 2025) Post-doctoral Representative, SOT’s Food Safety Specialty Section (FS3).</li>
@@ -96,7 +104,9 @@ title: ""
 <!-- ========================= -->
 <!-- International Collaboration -->
 <div class="card">
-  <h1 class="card-title"><i class="fas fa-globe"></i> International Collaboration</h1>
+   <h1 class="card-title">
+  <a href="/education/" class="card-link"><i class="fas fa-graduation-cap"></i> International Collaboration </a>
+ </h1>
   <p class="card-subtitle">Active collaborations based on projects and research papers.</p>
   <ul>
     <strong style="font-size: larger; text-decoration: underline; color: red;">Europe</strong>
