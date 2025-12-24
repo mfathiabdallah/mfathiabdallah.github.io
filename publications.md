@@ -6,16 +6,12 @@ title: "Publications"
 <!-- ========================= -->
 <!-- Hero Banner -->
 <div class="hero-banner">
-  <h1>Publications</h1>
-  <p>
     Peer-reviewed research articles, reviews, editorials, book chapters, and correspondence.
-  </p>
 </div>
 <div class="card">
   <h1 class="collapsible-title">
     <i class="fas fa-chart-bar"></i> Publication Summary
   </h1>
-
   <ul>
     <li><strong>Research Articles:</strong> 32</li>
     <li><strong>Reviews:</strong> 8</li>
