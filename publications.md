@@ -2,57 +2,42 @@
 layout: page
 title: "Publications"
 ---
-<table>
-  <tbody>
-    <tr>
-      <td>Research Articles</td>
-      <td>32</td>
-      <td>Editorials</td>
-       <td>3</td>
-    </tr>
-    <tr>
-      <td>Reviews</td>
-      <td>8</td>
-      <td>Book Chapters</td>
-       <td>1</td>
-    </tr>
-    <tr>
-      <td>Correspondence</td>
-      <td>1</td>
-    </tr>
-  </tbody>
-</table>
-Total = 45
 
-   (* corresponding author; † equal co-authorship). Publications are ordered per year (according to the first published date). 
-   
-<!-- beark here to begin style for subheadings -->
+<!-- ========================= -->
+<!-- Hero Banner -->
+<div class="hero-banner">
+  <h1>Publications</h1>
+  <p>
+    Peer-reviewed research articles, reviews, editorials, book chapters, and correspondence.
+  </p>
+</div>
+<div class="card">
+  <h1 class="collapsible-title">
+    <i class="fas fa-chart-bar"></i> Publication Summary
+  </h1>
 
-<style>
-  /* Style for collapsible sections */
-  .collapsible-title {
-    color: &#10148; /* make font black */
-    cursor: pointer;
-    font-size: 25px;
-    font-weight: bold;
-    padding: 7.5px;
-    border-radius: 0px;
-    background-color: #ccc; /* Add background color here */
-    text-align: left; /* Center-align the text */
-    margin-bottom: 20px; /* Add some space below the heading */
-  }
-  
-  .collapsible-content {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
-    padding: 0px;
-  }
-</style>
+  <ul>
+    <li><strong>Research Articles:</strong> 32</li>
+    <li><strong>Reviews:</strong> 8</li>
+    <li><strong>Editorials:</strong> 3</li>
+    <li><strong>Book Chapters:</strong> 1</li>
+    <li><strong>Correspondence:</strong> 1</li>
+  </ul>
 
-<h1 class="collapsible-title">&#10148; Research Articles </h1>
+  <p style="margin-top:12px; font-style: italic;">
+    Total publications: <strong>45</strong><br>
+    (* corresponding author; † equal co-authorship)
+  </p>
+</div>
 
-### <span style="color: green; font-weight: bold;">2025 Publications</span> <span style="color: pink;">&#9679;</span>
+<div class="card">
+  <h1 class="collapsible-title">
+    <i class="fas fa-flask"></i> Research Articles
+  </h1>
+
+  <p class="card-subtitle">
+    
+  ### <span style="color: green; font-weight: bold;">2025 Publications</span> <span style="color: pink;">&#9679;</span>
 
 32)  M Suman, M Oboeuf, **MF Abdallah**, C Hazel, E Varga, A Mally, A Medina, M Molero, A Sansom, and KJ Korzeniowski (2025).
 <br>Framework on risk prioritisation of mycotoxins in food: a case study in two wheat-based products. World Mycotoxin Journal. [[Link]](https://brill.com/view/journals/wmj/aop/article-10.1163-18750796-bja10027/article-10.1163-18750796-bja10027.xml){:target="_blank" rel="noopener"}.
@@ -161,6 +146,19 @@ Environment International, 107945. <span style="color:green">(Open Access)</span
 
 1) **MF Abdallah**, R Krska, M Sulyok (2016).
 <br>Mycotoxin contamination in sugarcane grass and juice: first report on detection of multiple mycotoxins and exposure assessment for aflatoxins B1 and G1 in humans. Toxins, 8 (11), 343. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/8/11/343){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins_Abdallah_etal2016.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+
+    
+  </p>
+
+  <h3 class="year-title">2025</h3>
+  32) M Suman, M Oboeuf, <strong>MF Abdallah</strong>, ...
+  <br>Framework on risk prioritisation of mycotoxins in food...
+  [[Link]](...)
+  
+  <!-- keep content exactly as-is below -->
+</div>
+
+
 
 <style>
   /* Style for collapsible sections */
