@@ -36,15 +36,6 @@ sitemap:
 </div>
 
 <!-- ========================= -->
-<!-- Visitors Map -->
-<hr class="centered-hr" />
-<div style="text-align:center; margin-bottom:40px;">
-  <a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
-    <img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" alt="Visitor tracker map" style="max-width:300px; border-radius:8px;">
-  </a>
-</div>
-
-<!-- ========================= -->
 <!-- ✅ CSS -->
 <style>
 :root {
@@ -69,15 +60,6 @@ sitemap:
   margin-bottom:10px;
 }
 
-/* NEW flag inside the title */
-.section-title .new-flag {
-  background:linear-gradient(135deg,#ff3b3b,#ff7b00);
-  color:#fff; font-size:0.8rem; font-weight:700;
-  padding:4px 10px; border-radius:6px;
-  animation:pulse 1.5s infinite ease-in-out;
-  box-shadow:0 0 6px rgba(255,90,0,0.4);
-}
-@keyframes pulse { 0%{transform:scale(1)} 50%{transform:scale(1.1)} 100%{transform:scale(1)} }
 
 /* Content boxes */
 .content-box { margin-top:20px; padding:18px; border-radius:12px; box-shadow:var(--card-shadow); background:rgba(255,255,255,0.05); }
