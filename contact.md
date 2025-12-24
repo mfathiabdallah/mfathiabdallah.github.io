@@ -103,18 +103,7 @@ sitemap:
   background: rgba(255,255,255,0.98);
 }
 
-/* Scholarship list */
-.scholarship-list {
-  margin: 14px 0 18px;
-  padding-left: 22px;
-}
-
-.scholarship-list li {
-  margin-bottom: 10px;
-  font-size: 1.05em;
-}
-
-/* Badges */
+  /* Badges */
 .badge {
   display: inline-block;
   font-size: 0.75em;
@@ -156,11 +145,6 @@ sitemap:
 
 .centered-hr { width:420px; max-width:90%; margin:30px auto; border:none; border-top:2px solid #aaa; }
 
-/* Project list */
-.project-list { list-style:none; padding-left:0; margin:0; }
-.project-list li { padding:16px 0; border-bottom:1px solid rgba(0,0,0,0.08); }
-.project-list li:last-child { border-bottom:none; }
-.project-title { margin:4px 0 6px; }
 
 /* Responsive */
 @media (max-width:900px) {
