@@ -55,18 +55,6 @@ sitemap:
 
 .icon-accent { color:var(--accent); margin-right:6px; }
 
-/* Profile box */
-.profile-container {
-  display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
-  gap:25px; margin-top:15px; padding:22px; border-radius:12px;
-  background-color:rgba(255,255,255,0.05); /* subtle light transparent */
-  box-shadow:0 6px 18px rgba(0,0,0,0.08);
-}
-.bio { flex:1; min-width:250px; }
-.subtitle { font-style:italic; color:var(--muted); margin:0 0 6px; font-weight:400; }
-.highlight { font-style:italic; color:#d12a00; margin:4px 0; font-weight:400; }
-.contact-title { color:var(--accent); margin-top:10px; font-weight:400; }
-.profile-img { width:170px; border-radius:12px; object-fit:cover; border:0; }
 
 /* Section titles */
 .section-title {
