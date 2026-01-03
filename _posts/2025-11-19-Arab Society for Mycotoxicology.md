@@ -18,7 +18,7 @@ canonical: https://www.mfathiabdallah.com/Arab Society for Mycotoxicology/
 <script type="Scientific Society/ld+json">
 {
   "@context": "http://schema.org",
-  "@type": "Activties",
+  "@type": "Activities",
   "headline": "Launch of the Arab Society for Mycotoxicology at the Dubai International Food Safety Conference 2025",
   "datePublished": "2025-11-19",
   "Publication": "Launch of the Arab Society for Mycotoxicology at the Dubai International Food Safety Conference 2025",
@@ -30,7 +30,6 @@ canonical: https://www.mfathiabdallah.com/Arab Society for Mycotoxicology/
 </script>
 
 <!-- Page Content -->
-## Publication
 
 <!-- Your content goes here -->
 During the launch of the Arab Society for Mycotoxicology at the Dubai International Food Safety Conference. In this session we introduced a new regional society dedicated to building a strong network of Arab experts and researchers in mycotoxicology, and to advancing knowledge, research, and collaboration across the Arab world.
@@ -46,9 +45,6 @@ The post for this announcement on LinkedIn
 target="_blank" rel="noopener">
 View on LinkedIn
 </a>.
-
-
- Thanks to all founders and supporters for their contribution!
 
 <!-- Add modal functionality to the image -->
 <div id="myModal" class="modal">
@@ -118,4 +114,3 @@ function closeModal() {
   text-decoration: none;
 }
 </style>
-
