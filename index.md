@@ -151,7 +151,7 @@ exclude: 'no'
       <div class="announcement-text">
         <h3>01 October 2025 — PhD Vacancy at AU FOOD</h3>
         <p>Fully funded 3-year PhD position at the Department of Food Science, Aarhus University. Focus: mass spectrometry-based methods for natural toxins in novel food.</p>
-        <p>More info: <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food" target="_blank" rel="noopener">Click here</a>.</p>
+        <p>More info: <a href="https://www.mfathiabdallah.com/PhD_position1/" target="_blank" rel="noopener">Click here</a>.</p>
       </div>
       <div class="announcement-image">
         <img src="/images/PhD announce.png" alt="PhD Vacancy Poster" class="announcement-img">
