@@ -15,24 +15,24 @@ title: ""
     emerging contaminants, and mixture risk assessment.
   </p>
 
-
-  <a class="cv-button" href="https://www.mfathiabdallah.com/publications/">
-    Publications
-  </a>
+ 
    <a class="cv-button" href="https://www.mfathiabdallah.com/news/">
     News
   </a>
-   <a class="cv-button" href="https://www.mfathiabdallah.com/CV/">
+  <a class="cv-button" href="https://www.mfathiabdallah.com/publications/">
+    Publications
+  </a>
+ <a class="cv-button" href="https://www.mfathiabdallah.com/Teaching">
+    Teaching
+  </a>
+ <a class="cv-button" href="https://www.mfathiabdallah.com/CV/">
     PI's CV
   </a>
-   <a class="cv-button" href="https://www.mfathiabdallah.com/International_Collaboration/">
+  <a class="cv-button" href="https://www.mfathiabdallah.com/International_Collaboration/">
     Collaboration
   </a>
    <a class="cv-button" href="https://www.mfathiabdallah.com/contact">
     Contact
-  </a>
-   <a class="cv-button" href="https://www.mfathiabdallah.com/Teaching">
-    Teaching
   </a>
 </div>
 
