@@ -23,13 +23,16 @@ title: ""
     News
   </a>
    <a class="cv-button" href="https://www.mfathiabdallah.com/CV/">
-    View Academic CV
+    PI's CV
   </a>
    <a class="cv-button" href="https://www.mfathiabdallah.com/International_Collaboration/">
     Collaboration
   </a>
    <a class="cv-button" href="https://www.mfathiabdallah.com/contact">
     Contact
+  </a>
+   <a class="cv-button" href="https://www.mfathiabdallah.com/Teaching">
+    Teaching
   </a>
 </div>
 
