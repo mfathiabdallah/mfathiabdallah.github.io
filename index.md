@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AU FOOD TOX Research Group
+title:
 permalink: /
 description: "Assistant Professor of Food Toxicology at Aarhus University, Denmark."
 sitemap:
