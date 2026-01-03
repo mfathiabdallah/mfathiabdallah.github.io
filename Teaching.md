@@ -23,12 +23,12 @@ title: ""
   <p class="card-subtitle">Teaching Activities at AU FOOD and beyond.</p>
   <ul>
     <strong style="font-size: larger; text-decoration: underline; color: red;">Teaching at AU FOOD</strong>
-    <li>Food Additivies<strong>Food Chemistry Course 2026</strong></li>
-    <li>Food Toxicology<strong>Food Chemistry Course 2026</strong></li>
-    <li>Food Additivies<strong>Food Chemistry Course 2025</strong></li>
+    <li>Lecture on Food Additivies<strong>, Food Chemistry Course 2026</strong></li>
+    <li>Lecture on Food Toxicology<strong>, Food Chemistry Course 2026</strong></li>
+    <li>Lecture on Food Additivies<strong>, Food Chemistry Course 2025</strong></li>
     
     <strong style="font-size: larger; text-decoration: underline; color: red;">Workshop lectures and summer school contributions</strong>
-    <li>Safety Assessment of Novel Food in the EU. Lecture in the Food and Ingredients Summer School, 23 July - 8 August 2025, <strong>AU Food Summer School</strong></li>
+    <li>Lecture on Safety Assessment of Novel Food in the EU. Part of the Food and Ingredients Summer School, 23 July - 8 August 2025, <strong>AU Food Summer School</strong></li>
 
   </ul>
 </div>
