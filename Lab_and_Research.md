@@ -83,14 +83,6 @@ title: ""
           <td>mfa [at] food.au.dk</td>
           <td><a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">AU Profile</a></td>
         </tr>
-        <tbody>
-        <tr>
-          <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
-          <td>Principal Investigator</td>
-          <td>Natural toxins, LC-MS/MS, In vitro toxicology</td>
-          <td>mfa [at] food.au.dk</td>
-          <td><a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">AU Profile</a></td>
-        </tr>
       </tbody>
     </table>
   </div>
