@@ -83,6 +83,23 @@ title: ""
           <td>mfa [at] food.au.dk</td>
           <td><a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">AU Profile</a></td>
         </tr>
+        <tr>
+    <td>Jane Doe</td>
+    <td>Postdoctoral Researcher</td>
+    <td>Mycotoxins, Risk assessment</td>
+    <td>jdoe [at] food.au.dk</td>
+    <td>—</td>
+      </tr>
+
+  <tr>
+    <td>Ahmed Ali</td>
+    <td>PhD Student</td>
+    <td>Food contaminants, Metabolomics</td>
+    <td>aali [at] food.au.dk</td>
+    <td>—</td>
+  </tr>
+</tbody>
+        
       </tbody>
     </table>
   </div>
