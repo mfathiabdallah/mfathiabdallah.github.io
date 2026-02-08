@@ -83,6 +83,14 @@ title: ""
           <td>mfa [at] food.au.dk</td>
           <td><a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">AU Profile</a></td>
         </tr>
+        <tbody>
+        <tr>
+          <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
+          <td>Principal Investigator</td>
+          <td>Natural toxins, LC-MS/MS, In vitro toxicology</td>
+          <td>mfa [at] food.au.dk</td>
+          <td><a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">AU Profile</a></td>
+        </tr>
       </tbody>
     </table>
   </div>
@@ -132,7 +140,7 @@ title: ""
     <table class="modern-table">
       <thead>
         <tr>
-          <th>Status</th>
+          <th>Source</th>
           <th>Project</th>
           <th>Funding Agency</th>
           <th>Total Fund</th>
@@ -142,7 +150,7 @@ title: ""
       </thead>
       <tbody>
         <tr>
-          <td><strong>Running</strong></td>
+          <td><strong>Private</strong></td>
           <td><strong>ToxiFOOD</strong></td>
           <td><img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation"></td>
           <td>DKK 13.88 M</td>
