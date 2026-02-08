@@ -77,7 +77,7 @@ title: ""
       </thead>
       <tbody>
         <tr>
-          <td><strong>Dr. Mohamed Fathi Abdallah</strong></td>
+          <td>Dr. Mohamed Fathi Abdallah</td>
           <td>Principal Investigator</td>
           <td>Natural toxins, LC-MS/MS, In vitro toxicology</td>
           <td>mfa [at] food.au.dk</td>
