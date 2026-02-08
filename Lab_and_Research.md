@@ -99,8 +99,7 @@ title: ""
     <td><a href="https://food.au.dk/research-and-innovation/the-five-science-teams/food-chemistry/food-chemistry-employees" target="_blank" rel="noopener">AU Profile</a></td>
   </tr>
 </tbody>
-        
-      </tbody>
+ </tbody>
     </table>
   </div>
 </div>
