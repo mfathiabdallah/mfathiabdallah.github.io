@@ -84,19 +84,19 @@ title: ""
           <td><a href="https://www.au.dk/en/mfa@food.au.dk" target="_blank" rel="noopener">AU Profile</a></td>
         </tr>
         <tr>
-    <td>Jane Doe</td>
-    <td>Postdoctoral Researcher</td>
-    <td>Mycotoxins, Risk assessment</td>
-    <td>jdoe [at] food.au.dk</td>
-    <td>—</td>
+    <td>Hellen Sørensen</td>
+    <td>PhD Student</td>
+    <td>Natural toxins, LC-MS/MS, method validation, Novel Food</td>
+    <td>hesoe [at] food.au.dk</td>
+    <td><a href="https://food.au.dk/about/employees/show/person/hesoe@food.au.dk" target="_blank" rel="noopener">AU Profile</a></td>
       </tr>
 
   <tr>
-    <td>Ahmed Ali</td>
-    <td>PhD Student</td>
-    <td>Food contaminants, Metabolomics</td>
-    <td>aali [at] food.au.dk</td>
-    <td>—</td>
+    <td>Ioannis Panagopoulos</td>
+    <td>Visiting MSc Student from Maastricht University</td>
+    <td>Food contaminants, Mixture toxicology</td>
+    <td>i.panagopoulos [at] food.au.dk</td>
+    <td><a href="https://food.au.dk/research-and-innovation/the-five-science-teams/food-chemistry/food-chemistry-employees" target="_blank" rel="noopener">AU Profile</a></td>
   </tr>
 </tbody>
         
