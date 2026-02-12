@@ -98,6 +98,14 @@ title: ""
     <td>i.panagopoulos [at] food.au.dk</td>
     <td><a href="https://food.au.dk/research-and-innovation/the-five-science-teams/food-chemistry/food-chemistry-employees" target="_blank" rel="noopener">AU Profile</a></td>
   </tr>
+       <tr>
+    <td>Kirstine M. Bjørkær Bajric</td>
+    <td>Lab Technician</td>
+    <td> LC-MS/MS, method validation, Sample analysis</td>
+    <td>mina [at] food.au.dk</td>
+    <td><a href="https://pure.au.dk/portal/en/organisations/department-of-food-science-food-chemistry/persons/" target="_blank" rel="noopener">AU Profile</a></td>
+      </tr>
+
 </tbody>
  </table>
   </div>
