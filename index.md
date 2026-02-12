@@ -39,10 +39,8 @@ exclude: 'no'
   <ul>
     <li>Scientific Expert (Food Contaminantes) for the Joint FAO/WHO Expert Committee on Food Additives (JECFA).</li>
     <li>Board Member of the European Society of Toxicology In Vitro (ESTIV).</li>
-    <li>Expert Group Member (Natural Toxins), ILSI Europe, Belgium.</li>
-    <li>Member of Society of Toxicology (SOT) &amp; Postdoctoral Representative of FS3 Food Safety Specialty, USA.</li>
-    <li>Advisory Expert for The Food Quality and Safety Control Innovation Team, Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences, Beijing, China.</li>
-  </ul>
+    <li>Expert Group Member (Natural Toxins), ILSI Europe.</li>
+    </ul>
 </div>
 
 <!-- ========================= -->
