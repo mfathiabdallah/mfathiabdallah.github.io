@@ -183,7 +183,7 @@ title: ""
   <h1 class="collapsible-title">&#10148; Secured Funds</h1>
   <div class="card-content">
     <ul>
-      <li><strong>(2026-2031)</strong> Novo Nordisk Foundation - ECRUIT Grant for International Recruitment 2025 (Assistant Prof level) for the project "ToxiFOOD". Role: Principal Investigator. Total budget: DKK 13.88 Million (= € 1.86 Million). <span style="color:red; ">(Not started)</span></li>
+      <li><strong>(2026-2031)</strong> Novo Nordisk Foundation - ECRUIT Grant for International Recruitment 2025 (Assistant Prof level) for the project "ToxiFOOD". Role: Principal Investigator. Total budget: DKK 13.88 Million (= € 1.86 Million). <span style="color:red; ">(Running)</span></li>
       <li><strong>(2024)</strong> UMONS Research Institute for Health Sciences and Technology (Action Kangaroo) for the project "Optimizing a one-plate method for a high throughput toxicity Screening". Role: Principal Researcher. Total budget: €5,000. <span style="color:red; ">(Discountined in 03/2025 due to starting a new position at Aarhus Uni, DK)</span></li>
       <li><strong>(2023-2026)</strong> Postdoctoral Fellowship, F.R.S-FNRS mandate, Belgium. Host institute: University of Mons, Belgium. Total budget: €215,000. <span style="color:red;">(Discountined in 03/2025 due to starting a new position at Aarhus Uni, DK)</span></li>
       <li><strong>(2020-2023)</strong> Postdoctoral Fellowship-Special Research Fund Ghent University, Belgium. Research grant number BOF20/PDO/032. Total budget: €205,000. <span style="color:red; ">(Completed)</span></li>
