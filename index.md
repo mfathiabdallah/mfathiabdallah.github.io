@@ -249,7 +249,7 @@ exclude: 'no'
 .bio { flex:1; min-width:250px; }
 
 .subtitle { font-style: normal;          /* remove italic */
-  font-weight: 500;            /* light bold */
+  font-weight: 600;            /* light bold */
   color: var(--accent);              /* clean academic blue */
   margin: 2px 0;
   line-height: 1.4;}
