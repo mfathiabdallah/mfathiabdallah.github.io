@@ -250,7 +250,7 @@ exclude: 'no'
 
 .subtitle { font-style: normal;          /* remove italic */
   font-weight: 500;            /* light bold */
-  color: #0b3c5d;              /* clean academic blue */
+  color: var(--accent);              /* clean academic blue */
   margin: 2px 0;
   line-height: 1.4;}
 .highlight { font-style:italic; color:#d12a00; margin:4px 0; font-weight:400; }
