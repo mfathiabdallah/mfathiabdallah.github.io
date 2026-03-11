@@ -19,8 +19,8 @@ exclude: 'no'
     <h2>Dr. Mohamed Fathi Abdallah</h2>
     <p class="subtitle">Assistant Professor of Food Toxicology</p>
     <p class="subtitle">Department of Food Science, Aarhus University, Denmark</p>
-    <p class="subtitle" style="color:black; font-weight:bold;">Assistant Professor of Food Toxicology</p>
-    <p class="subtitle" style="color:black; font-weight:bold;">Department of Food Science, Aarhus University, Denmark</p>
+    <p class="subtitle">Assistant Professor of Food Toxicology</p>
+    <p class="subtitle">Department of Food Science, Aarhus University, Denmark</p>
 
     <p>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</p>
 
