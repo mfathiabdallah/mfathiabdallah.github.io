@@ -47,10 +47,13 @@ exclude: 'no'
 <!-- Research Interests -->
 <div class="content-box">
   <h3 class="section-title"><i class="fa-solid fa-flask-vial"></i> Research Interests</h3>
-  <p>My research focuses on natural toxins (mycotoxins &amp; cyanotoxins) and other emerging contaminants in novel food. I combine LC-MS/MS detection with <em>in vitro</em> mixture toxicology models to study human health impact.</p>
+  <p>The AU FOOD TOX group focuses on understanding the health risks associated with natural toxins, particularly mycotoxins and cyanotoxins, as well as emerging contaminants in novel foods.
+
+Using advanced analytical techniques such as liquid chromatography–tandem mass spectrometry (LC–MS/MS) together with in vitro models, the group investigates both the occurrence and toxic effects of these compounds. Special attention is given to their combined effects, as exposure to mixtures better reflects real-life conditions in food systems.
+
+Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer understanding of how foodborne contaminants affect human health and to contribute to robust, evidence-based risk assessment.</p>
   <ul>
     <li>Detection of natural food contaminants (postgraduate students, PhDs, Postdocs)</li>
-    <li>Application of Large Language Models in food contaminants (Postdoc / research assistants)</li>
     <li>Mixture toxicology with a focus on food contaminants using NAMs (postgraduate students, PhDs, Postdocs)</li>
   </ul>
 </div>
