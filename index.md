@@ -4,7 +4,7 @@ title:
 permalink: /
 description: "Assistant Professor of Food Toxicology at Aarhus University, Denmark."
 sitemap:
-lastmod: 2025-11-05
+lastmod: 2026-30-03
 exclude: 'no'
 ---
 
@@ -13,7 +13,7 @@ exclude: 'no'
 
 <!-- ========================= -->
 <!-- Profile Section -->
-<u>Last update: October 2025</u>
+<u>Last update: March 2026</u>
 <div class="profile-container">
   <div class="bio">
     <h2>Dr. Mohamed Fathi Abdallah</h2>
