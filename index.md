@@ -135,6 +135,19 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
 
   <div class="announcement-section">
 
+   <div class="announcement-item">
+      <div class="announcement-text">
+        <h3>28 February 2026 — New Publication (Editorial)</h3>
+        <p>“ESTIV early career network: A growing initiative to support the next generation of NAMs-oriented toxicologists” 
+        is now online in the <em>Toxicology in Vitro</em>.</p>
+        <p>Access the article: <a href="https://www.sciencedirect.com/science/article/pii/S088723332600024X?via%3Dihub" target="_blank" rel="noopener">Click here</a>.</p>
+      </div>
+      <div class="announcement-image">
+        <img src="/images/ESTIV_ECN.png" alt="ESTIV ECN Article" class="announcement-img">
+      </div>
+    </div>
+
+    <hr class="announcement-hr"/>
     <div class="announcement-item">
       <div class="announcement-text">
         <h3>17 October 2025 — New Publication</h3>
