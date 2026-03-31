@@ -262,7 +262,11 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
   background-color:rgba(255,255,255,0.05); /* subtle light transparent */
   box-shadow:0 6px 18px rgba(0,0,0,0.08);
 }
-.bio { flex:1; min-width:250px; }
+.bio p:first-of-type {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #333;
+}
 
 .subtitle { font-style: normal;          /* remove italic */
   font-weight: 550;            /* light bold */
