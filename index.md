@@ -20,7 +20,8 @@ exclude: 'no'
     <p class="subtitle">Assistant Professor of Food Toxicology</p>
     <p class="subtitle">Department of Food Science, Aarhus University, Denmark</p>
 
-    <p>Advancing food toxicology through cutting-edge research on natural toxins, emerging contaminants, and mixture risk assessment.</p>
+    <p>Advancing food toxicology through cutting-edge research<br>
+    on natural toxins, emerging contaminants, and mixture risk assessment.</p>
 
     <p class="highlight"><i class="fa-solid fa-users-line icon-accent"></i> Accepting Master's and PhD students.</p>
    
