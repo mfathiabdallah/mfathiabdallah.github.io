@@ -271,7 +271,7 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
   line-height: 1.4;}
 .highlight { font-style:italic; color:#d12a00; margin:4px 0; font-weight:400; }
 .contact-title { color:var(--accent); margin-top:10px; font-weight:400; }
-.profile-img { width:50px; border-radius:12px; object-fit:cover; border:0; }
+.profile-img { width:120px; border-radius:12px; object-fit:cover; border:0; }
 
 /* Section titles */
 .section-title {
