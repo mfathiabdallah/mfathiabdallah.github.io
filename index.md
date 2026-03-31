@@ -29,7 +29,7 @@ exclude: 'no'
     </p>
   </div>
 
-  <img src="Mohamed Fathi a Abdelmohsen copy_PURE.JPG" alt="Mohamed Fathi Abdallah" class="profile-img">
+  <img src="Mohamed_Fathi_Abdallah_copy_pure.JPG" alt="Mohamed Fathi Abdallah" class="profile-img">
 </div>
 
 <!-- ========================= -->
