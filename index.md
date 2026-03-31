@@ -258,7 +258,7 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
 /* Profile box */
 .profile-container {
   display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
-  gap:25px; margin-top:15px; padding:22px; border-radius:12px;
+  gap:15px; margin-top:5px; padding:12px; border-radius:5px;
   background-color:rgba(255,255,255,0.05); /* subtle light transparent */
   box-shadow:0 6px 18px rgba(0,0,0,0.08);
 }
