@@ -110,6 +110,7 @@ title: ""
   <p class="card-subtitle">Active collaborations based on projects and research papers.</p>
   <ul>
     <strong style="font-size: larger; text-decoration: underline; color: red;">Europe</strong>
+    <li>University of Göttingen, <strong>Germany</strong></li>
     <li>University of Veterinary Medicine Vienna, <strong>Austria</strong></li>
     <li>University of Vienna, <strong>Austria</strong></li>
     <li>Ghent University, <strong>Belgium</strong></li>
