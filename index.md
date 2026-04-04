@@ -4,8 +4,8 @@ title:
 permalink: /
 description: "Assistant Professor of Food Toxicology at Aarhus University, Denmark."
 sitemap:
-  lastmod: 2026-30-03
-  exclude: 'no'
+lastmod: 2026-30-03
+exclude: 'no'
 ---
 
 <!-- Font Awesome -->
@@ -37,10 +37,10 @@ sitemap:
 <div class="content-box">
   <h3 class="section-title"><i class="fa-solid fa-building-columns"></i> Other Positions & Affiliations</h3>
   <ul>
-    <li>Scientific Expert (Food Contaminates) for the Joint FAO/WHO Expert Committee on Food Additives (JECFA).</li>
+    <li>Scientific Expert (Food Contaminantes) for the Joint FAO/WHO Expert Committee on Food Additives (JECFA).</li>
     <li>Board Member of the European Society of Toxicology In Vitro (ESTIV).</li>
     <li>Expert Group Member (Natural Toxins), ILSI Europe.</li>
-  </ul>
+    </ul>
 </div>
 
 <!-- ========================= -->
@@ -82,7 +82,7 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
       <strong>Danish Council for Independent Research (DFF)</strong>
     </li>
     <li>
-      <span class="badge badge-international">International</strong>
+      <span class="badge badge-international">International</span>
       <strong>Novo Nordisk Foundation</strong>
     </li>
     <li>
@@ -135,7 +135,67 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
 
   <div class="announcement-section">
 
-    <!-- announcement items remain unchanged -->
+   <div class="announcement-item">
+      <div class="announcement-text">
+        <h3>28 February 2026 — New Publication (Editorial)</h3>
+        <p>“ESTIV early career network: A growing initiative to support the next generation of NAMs-oriented toxicologists” 
+        is now online in the <em>Toxicology in Vitro</em>.</p>
+        <p>Access the article: <a href="https://www.sciencedirect.com/science/article/pii/S088723332600024X?via%3Dihub" target="_blank" rel="noopener">Click here</a>.</p>
+      </div>
+      <div class="announcement-image">
+        <img src="/images/ESTIV_ECN.png" alt="ESTIV ECN Article" class="announcement-img">
+      </div>
+    </div>
+
+    <hr class="announcement-hr"/>
+    <div class="announcement-item">
+      <div class="announcement-text">
+        <h3>17 October 2025 — New Publication</h3>
+        <p>“Challenges in mycotoxin monitoring in recently independent countries: The case of Kosovo☆” 
+        is now online in the <em>Journal of Food Composition and Analysis</em>.</p>
+        <p>Access the article: <a href="https://www.sciencedirect.com/science/article/pii/S0889157525012815" target="_blank" rel="noopener">Click here</a>.</p>
+      </div>
+      <div class="announcement-image">
+        <img src="/images/mycotoxin_kosovo.png" alt="Mycotoxin Kosovo Article" class="announcement-img">
+      </div>
+    </div>
+
+    <hr class="announcement-hr"/>
+
+    <div class="announcement-item">
+      <div class="announcement-text">
+        <h3>01 October 2025 — PhD Vacancy at AU FOOD</h3>
+        <p>Fully funded 3-year PhD position at the Department of Food Science, Aarhus University. Focus: mass spectrometry-based methods for natural toxins in novel food.</p>
+        <p>More info: <a href="https://www.mfathiabdallah.com/PhD_position1/" target="_blank" rel="noopener">Click here</a>.</p>
+      </div>
+      <div class="announcement-image">
+        <img src="/images/PhD announce.png" alt="PhD Vacancy Poster" class="announcement-img">
+      </div>
+    </div>
+
+    <hr class="announcement-hr"/>
+
+    <div class="announcement-item">
+      <div class="announcement-text">
+        <h3>30 September 2025 — Novo Nordisk Foundation Grant</h3>
+        <p>Awarded a 5-year RECRUIT Grant from Novo Nordisk Foundation to establish a research group in Food Toxicology, focusing on detection and risk evaluation of natural toxins in novel foods.</p>
+      </div>
+      <div class="announcement-image">
+        <img src="/images/NNF_grant.jpg" alt="Novo Nordisk Foundation Grant" class="announcement-img">
+      </div>
+    </div>
+
+    <hr class="announcement-hr"/>
+
+    <div class="announcement-item">
+      <div class="announcement-text">
+        <h3>01 March 2025 — Joining Aarhus University</h3>
+        <p>Starting April 2025 as a Tenure Track Assistant Professor in Food Toxicology, Department of Food Science, Aarhus University.</p>
+      </div>
+      <div class="announcement-image">
+        <img src="/images/AarhusUni.jpg" alt="Aarhus University Building" class="announcement-img">
+      </div>
+    </div>
   </div>
 
   <div style="margin-top:22px;">
@@ -199,12 +259,16 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
 .profile-container {
   display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
   gap:15px; margin-top:5px; padding:12px; border-radius:5px;
-  background-color:rgba(255,255,255,0.05);
+  background-color:rgba(255,255,255,0.05); /* subtle light transparent */
   box-shadow:0 6px 18px rgba(0,0,0,0.08);
 }
 .bio { flex:1; min-width:250px; }
 
-.subtitle { font-style: normal; font-weight:550; color: var(--accent); margin: 2px 0; line-height:1.4;}
+.subtitle { font-style: normal;          /* remove italic */
+  font-weight: 550;            /* light bold */
+  color: var(--accent);              /* clean academic blue */
+  margin: 2px 0;
+  line-height: 1.4;}
 .highlight { font-style:italic; color:#d12a00; margin:4px 0; font-weight:400; }
 .contact-title { color:var(--accent); margin-top:10px; font-weight:400; }
 .profile-img { width:180px; border-radius:12px; object-fit:cover; border:0; }
@@ -233,14 +297,7 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
 @keyframes pulse { 0%{transform:scale(1)} 50%{transform:scale(1.1)} 100%{transform:scale(1)} }
 
 /* Content boxes */
-.content-box {
-  margin-top:20px; padding:18px; border-radius:12px;
-  box-shadow:var(--card-shadow); background:rgba(255,255,255,0.05);
-  border: 1px solid rgba(255,255,255,0.08);
-}
-
-/* Highlighted box (subtle accent) */
-.highlight-box { border-left:4px solid var(--accent); }
+.content-box { margin-top:20px; padding:18px; border-radius:12px; box-shadow:var(--card-shadow); background:rgba(255,255,255,0.05); }
 
 /* Announcements */
 .announcement-item {
@@ -256,11 +313,49 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
 .announcement-img { width:240px; border-radius:10px; display:block; box-shadow:0 3px 8px rgba(0,0,0,0.06); }
 .announcement-hr { width:60%; max-width:360px; margin:8px auto; border:none; border-top:1px solid rgba(160,160,160,0.25); }
 
+
+/* Highlighted content box */
+.highlight-box {
+  border: 2px solid rgba(11, 60, 93, 0.15);
+  background: rgba(255,255,255,0.98);
+}
+
+/* Scholarship list */
+.scholarship-list {
+  margin: 14px 0 18px;
+  padding-left: 22px;
+}
+
+.scholarship-list li {
+  margin-bottom: 10px;
+  font-size: 1.05em;
+}
+
 /* Badges */
-.badge { display: inline-block; font-size: 0.75em; font-weight: 600; padding: 3px 8px; border-radius: 12px; margin-right: 8px; vertical-align: middle; }
-.badge-eu { background: #1f7a8c; color: #fff; }
-.badge-national { background: #0b3c5d; color: #fff; }
-.badge-international { background: #e6f0ff; color: #0b3c5d; }
+.badge {
+  display: inline-block;
+  font-size: 0.75em;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 12px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.badge-eu {
+  background: #1f7a8c;
+  color: #fff;
+}
+
+.badge-national {
+  background: #0b3c5d;
+  color: #fff;
+}
+
+.badge-international {
+  background: #e6f0ff;
+  color: #0b3c5d;
+}
 
 /* Buttons */
 .btn-outline {
