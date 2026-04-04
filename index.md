@@ -257,7 +257,7 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
 /* ========================= */
 /* Global */
 body {
-  background: #2f343a; /* dark grey background */
+  background: #eef2f5; /* dark grey background */
   overflow-x:hidden;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
 }
