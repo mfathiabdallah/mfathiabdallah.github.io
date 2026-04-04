@@ -249,269 +249,147 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
 <style>
 :root {
   --accent:#0b3c5d;
-  --accent-light:#1f7a8c;
   --muted:#555;
   --card-shadow:0 4px 14px rgba(0,0,0,0.08);
 }
 
-/* ========================= */
-/* Global */
-body {
-  background: #eef2f5; /* dark grey background */
-  overflow-x:hidden;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-}
-
-/* Text */
-p, li {
-  color: #1f2933;
-}
-
-/* Links */
-a {
-  color: var(--accent-light);
-  text-decoration:none;
-}
-a:hover { text-decoration:underline; }
-
-/* Icons */
 .icon-accent { color:var(--accent); margin-right:6px; }
 
-/* ========================= */
 /* Profile box */
 .profile-container {
-  display:flex;
-  flex-wrap:wrap;
-  align-items:center;
-  justify-content:space-between;
-  gap:15px;
-  margin-top:5px;
-  padding:16px;
-  border-radius:10px;
-  background:#f4f6f8;
-  box-shadow:0 6px 18px rgba(0,0,0,0.15);
+  display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
+  gap:15px; margin-top:5px; padding:12px; border-radius:5px;
+  background-color:rgba(255,255,255,0.05); /* subtle light transparent */
+  box-shadow:0 6px 18px rgba(0,0,0,0.08);
 }
-
 .bio { flex:1; min-width:250px; }
 
-.subtitle {
-  font-weight:550;
-  color: var(--accent);
+.subtitle { font-style: normal;          /* remove italic */
+  font-weight: 550;            /* light bold */
+  color: var(--accent);              /* clean academic blue */
   margin: 2px 0;
-}
+  line-height: 1.4;}
+.highlight { font-style:italic; color:#d12a00; margin:4px 0; font-weight:400; }
+.contact-title { color:var(--accent); margin-top:10px; font-weight:400; }
+.profile-img { width:180px; border-radius:12px; object-fit:cover; border:0; }
 
-.highlight {
-  font-style:italic;
-  color:#d12a00;
-  margin:4px 0;
-}
-
-.contact-title {
-  color:var(--accent);
-  margin-top:10px;
-}
-
-.profile-img {
-  width:180px;
-  border-radius:12px;
-  object-fit:cover;
-}
-
-/* ========================= */
 /* Section titles */
 .section-title {
   color:#fff;
   background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
   padding:10px 12px;
   border-radius:8px;
-  font-size:1.2rem;
+  font-size:1.25rem;
   display:flex;
   align-items:center;
   gap:8px;
   margin-bottom:10px;
 }
 
-/* NEW flag */
+/* NEW flag inside the title */
 .section-title .new-flag {
   background:linear-gradient(135deg,#ff3b3b,#ff7b00);
-  color:#fff;
-  font-size:0.8rem;
-  font-weight:700;
-  padding:4px 10px;
-  border-radius:6px;
+  color:#fff; font-size:0.8rem; font-weight:700;
+  padding:4px 10px; border-radius:6px;
   animation:pulse 1.5s infinite ease-in-out;
+  box-shadow:0 0 6px rgba(255,90,0,0.4);
 }
-@keyframes pulse {
-  0%{transform:scale(1)}
-  50%{transform:scale(1.1)}
-  100%{transform:scale(1)}
-}
+@keyframes pulse { 0%{transform:scale(1)} 50%{transform:scale(1.1)} 100%{transform:scale(1)} }
 
-/* ========================= */
 /* Content boxes */
-.content-box {
-  margin-top:20px;
-  padding:18px;
-  border-radius:12px;
-  background:#f4f6f8;
-  box-shadow:var(--card-shadow);
-}
+.content-box { margin-top:20px; padding:18px; border-radius:12px; box-shadow:var(--card-shadow); background:rgba(255,255,255,0.05); }
 
-/* ✅ FIXED Highlight box (no more white mismatch) */
-.highlight-box {
-  border-left:5px solid var(--accent-light);
-  background:#f4f6f8; /* SAME as other boxes */
-}
-
-/* ========================= */
 /* Announcements */
 .announcement-item {
-  display:flex;
-  flex-wrap:nowrap;
-  align-items:center;
-  gap:16px;
-  background:#eef2f5;
-  padding:12px;
-  border-radius:10px;
+  display:flex; flex-wrap:nowrap; align-items:center; gap:16px;
+  background:rgba(255,255,255,0.04); padding:12px; border-radius:10px;
   box-shadow:0 2px 8px rgba(0,0,0,0.05);
   transition:transform .18s ease-in-out;
 }
 .announcement-item:hover { transform:translateY(-3px); }
-
 .announcement-text { flex:1; min-width:220px; }
+.announcement-text h3 { margin:0 0 4px; color:var(--accent); font-weight:400; font-size:1.03rem; }
+.announcement-text p { margin:0 0 6px; line-height:1.45; color:#333; }
+.announcement-img { width:240px; border-radius:10px; display:block; box-shadow:0 3px 8px rgba(0,0,0,0.06); }
+.announcement-hr { width:60%; max-width:360px; margin:8px auto; border:none; border-top:1px solid rgba(160,160,160,0.25); }
 
-.announcement-text h3 {
-  margin:0 0 4px;
-  color:var(--accent);
-  font-weight:500;
+
+/* Highlighted content box */
+.highlight-box {
+  border: 2px solid rgba(11, 60, 93, 0.15);
+  background: rgba(255,255,255,0.98);
 }
 
-.announcement-text p {
-  margin:0 0 6px;
-  line-height:1.45;
-}
-
-.announcement-img {
-  width:240px;
-  border-radius:10px;
-  display:block;
-}
-
-.announcement-hr {
-  width:60%;
-  max-width:360px;
-  margin:8px auto;
-  border:none;
-  border-top:1px solid #ccc;
-}
-
-/* ========================= */
 /* Scholarship list */
 .scholarship-list {
-  margin:14px 0 18px;
-  padding-left:22px;
+  margin: 14px 0 18px;
+  padding-left: 22px;
 }
 
 .scholarship-list li {
-  margin-bottom:10px;
-  font-size:1.05em;
+  margin-bottom: 10px;
+  font-size: 1.05em;
 }
 
 /* Badges */
 .badge {
-  display:inline-block;
-  font-size:0.75em;
-  font-weight:600;
-  padding:3px 8px;
-  border-radius:12px;
-  margin-right:8px;
+  display: inline-block;
+  font-size: 0.75em;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 12px;
+  margin-right: 8px;
+  vertical-align: middle;
 }
 
 .badge-eu {
-  background:#1f7a8c;
-  color:#fff;
+  background: #1f7a8c;
+  color: #fff;
 }
 
 .badge-national {
-  background:#0b3c5d;
-  color:#fff;
+  background: #0b3c5d;
+  color: #fff;
 }
 
 .badge-international {
-  background:#e6f0ff;
-  color:#0b3c5d;
+  background: #e6f0ff;
+  color: #0b3c5d;
 }
 
-/* ========================= */
 /* Buttons */
 .btn-outline {
-  padding:8px 14px;
-  border:2px solid var(--accent);
-  border-radius:8px;
-  color:var(--accent);
-  text-decoration:none;
-  display:inline-block;
+  padding:8px 14px; border:2px solid var(--accent); border-radius:8px;
+  color:var(--accent); font-weight:400; text-decoration:none; display:inline-block;
+  transition:0.18s;
 }
+.btn-outline:hover { background:var(--accent); color:#fff!important; transform:translateY(-2px); }
 
-.btn-outline:hover {
-  background:var(--accent);
-  color:#fff!important;
-}
+/* Contact grid */
+.contact-grid { display:grid; grid-template-columns:1fr 1fr; gap:18px; margin-top:12px; }
+.contact-card { border:1px solid rgba(200,200,200,0.5); padding:16px; border-radius:10px; box-shadow:var(--card-shadow); background:rgba(255,255,255,0.03); }
+.contact-card h4 { color:var(--accent); margin-top:0; font-weight:400; }
+.contact-img { width:85%; border-radius:10px; margin-top:10px; display:block; }
 
-/* ========================= */
-/* Contact */
-.contact-grid {
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:18px;
-  margin-top:12px;
-}
+.centered-hr { width:420px; max-width:90%; margin:30px auto; border:none; border-top:2px solid #aaa; }
 
-.contact-card {
-  padding:16px;
-  border-radius:10px;
-  background:#f4f6f8;
-  box-shadow:var(--card-shadow);
-}
-
-.contact-card h4 {
-  color:var(--accent);
-}
-
-.contact-img {
-  width:85%;
-  border-radius:10px;
-  margin-top:10px;
-}
-
-/* ========================= */
-/* Divider */
-.centered-hr {
-  width:420px;
-  max-width:90%;
-  margin:30px auto;
-  border:none;
-  border-top:2px solid #aaa;
-}
-
-/* ========================= */
 /* Project list */
-.project-list {
-  list-style:none;
-  padding-left:0;
-}
+.project-list { list-style:none; padding-left:0; margin:0; }
+.project-list li { padding:16px 0; border-bottom:1px solid rgba(0,0,0,0.08); }
+.project-list li:last-child { border-bottom:none; }
+.project-title { margin:4px 0 6px; }
 
-.project-list li {
-  padding:16px 0;
-  border-bottom:1px solid #ddd;
-}
-
-/* ========================= */
 /* Responsive */
 @media (max-width:900px) {
   .profile-container { flex-direction:column; text-align:center; }
-  .announcement-item { flex-direction:column; text-align:center; }
-  .announcement-img { width:100%; max-width:240px; }
+  .announcement-item { flex-direction:column; text-align:center; gap:12px; }
+  .announcement-img { width:100%; max-width:240px; flex:none; }
   .contact-grid { grid-template-columns:1fr; }
 }
+@media (max-width:480px) {
+  .highlight { font-size:0.95rem; }
+  .announcement-item { padding:10px; }
+}
+body { overflow-x:hidden; }
 </style>
+
