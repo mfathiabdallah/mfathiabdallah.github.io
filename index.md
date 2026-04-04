@@ -228,19 +228,20 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
 :root {
   --accent:#0b3c5d;
   --accent-light:#1f7a8c;
-  --text-light:#f1f5f9;
-  --card-bg: rgba(255,255,255,0.08);
-  --card-bg-strong: rgba(255,255,255,0.12);
-  --card-shadow:0 6px 18px rgba(0,0,0,0.15);
+
+  /* NEW COLORS */
+  --text-light:#1a1a1a;
+  --card-bg: rgba(255,255,255,0.85);
+  --card-bg-strong: rgba(255,255,255,0.95);
+
+  --card-shadow:0 6px 18px rgba(0,0,0,0.08);
 }
 
 /* ========================= */
 /* Global Page Style */
 body {
-  background: linear-gradient(135deg, #0b3c5d, #1f7a8c);
+  background: linear-gradient(135deg, #eef5f9, #ddeaf3);
   color: var(--text-light);
-  overflow-x:hidden;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
 }
 
 p, li {
