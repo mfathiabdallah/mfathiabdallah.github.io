@@ -223,81 +223,61 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
     </div>
 
     <div class="contact-card">
+
 <style>
 :root {
   --accent:#0b3c5d;
   --accent-light:#1f7a8c;
-  --text-light:#f1f5f9;
-  --card-bg: rgba(255,255,255,0.08);
-  --card-bg-strong: rgba(255,255,255,0.12);
-  --card-shadow:0 6px 18px rgba(0,0,0,0.15);
+  --bg:#f5f9fc;
+  --card:#ffffff;
+  --text:#1a1a1a;
+  --muted:#555;
+  --card-shadow:0 4px 14px rgba(0,0,0,0.08);
 }
 
 /* ========================= */
-/* Global Page Style */
+/* Page */
 body {
-  background: linear-gradient(135deg, #0b3c5d, #1f7a8c);
-  color: var(--text-light);
-  overflow-x:hidden;
+  background: var(--bg);
+  color: var(--text);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-}
-
-p, li {
-  color: var(--text-light);
 }
 
 /* Links */
 a {
-  color: #cde7ff;
-  text-decoration: none;
+  color: var(--accent-light);
+  text-decoration:none;
 }
-a:hover {
-  text-decoration: underline;
-}
-
-/* Icons */
-.icon-accent {
-  color:#9fd3ff;
-  margin-right:6px;
-}
+a:hover { text-decoration:underline; }
 
 /* ========================= */
-/* Profile Section */
+/* Profile */
 .profile-container {
   display:flex;
   flex-wrap:wrap;
   align-items:center;
   justify-content:space-between;
   gap:15px;
-  margin-top:5px;
-  padding:18px;
+  margin-top:10px;
+  padding:20px;
   border-radius:12px;
-  background: var(--card-bg);
+  background: var(--card);
   box-shadow:var(--card-shadow);
 }
 
-.bio { flex:1; min-width:250px; }
-
 .subtitle {
-  font-weight: 500;
-  color: #cde7ff;
-  margin: 2px 0;
+  font-weight:500;
+  color:var(--accent);
 }
 
 .highlight {
+  color:#d12a00;
   font-style:italic;
-  color:#ffb3a7;
-  margin:6px 0;
-}
-
-.contact-title {
-  margin-top:10px;
 }
 
 .profile-img {
   width:180px;
   border-radius:12px;
-  object-fit:cover;
 }
 
 /* ========================= */
@@ -307,174 +287,90 @@ a:hover {
   background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
   padding:10px 12px;
   border-radius:8px;
-  font-size:1.25rem;
-  display:flex;
-  align-items:center;
-  gap:8px;
-  margin-bottom:10px;
-}
-
-/* NEW flag */
-.section-title .new-flag {
-  background:linear-gradient(135deg,#ff3b3b,#ff7b00);
-  color:#fff;
-  font-size:0.8rem;
-  font-weight:700;
-  padding:4px 10px;
-  border-radius:6px;
-  animation:pulse 1.5s infinite ease-in-out;
-}
-
-@keyframes pulse {
-  0%{transform:scale(1)}
-  50%{transform:scale(1.1)}
-  100%{transform:scale(1)}
+  font-size:1.2rem;
+  margin-bottom:12px;
 }
 
 /* ========================= */
-/* Content Boxes */
+/* Boxes */
 .content-box {
-  margin-top:20px;
-  padding:18px;
+  margin-top:22px;
+  padding:20px;
   border-radius:12px;
-  background: var(--card-bg);
+  background: var(--card);
   box-shadow:var(--card-shadow);
 }
 
-/* Highlight box (no more white!) */
+/* Highlight (subtle, not aggressive) */
 .highlight-box {
-  border: 2px solid rgba(255,255,255,0.2);
-  background: var(--card-bg-strong);
+  border-left:5px solid var(--accent);
 }
 
 /* ========================= */
-/* Announcement Section */
+/* Announcements */
 .announcement-item {
   display:flex;
-  flex-wrap:nowrap;
   align-items:center;
   gap:16px;
-  background: rgba(255,255,255,0.06);
-  padding:12px;
+  padding:14px;
   border-radius:10px;
-  transition:transform .18s ease-in-out;
+  background:#f8fbfe;
+  transition:0.2s;
 }
 
 .announcement-item:hover {
   transform:translateY(-3px);
 }
 
-.announcement-text {
-  flex:1;
-  min-width:220px;
-}
-
 .announcement-text h3 {
-  margin:0 0 4px;
-  color:#cde7ff;
+  color:var(--accent);
   font-weight:500;
-  font-size:1.03rem;
-}
-
-.announcement-text p {
-  margin:0 0 6px;
-  line-height:1.45;
-  color:#e5e7eb;
 }
 
 .announcement-img {
-  width:240px;
+  width:220px;
   border-radius:10px;
-  display:block;
 }
 
 .announcement-hr {
-  width:60%;
-  max-width:360px;
-  margin:8px auto;
   border:none;
-  border-top:1px solid rgba(255,255,255,0.2);
-}
-
-/* ========================= */
-/* Scholarships */
-.scholarship-list {
-  margin: 14px 0 18px;
-  padding-left: 22px;
-}
-
-.scholarship-list li {
-  margin-bottom: 10px;
-  font-size: 1.05em;
-}
-
-/* Badges */
-.badge {
-  display:inline-block;
-  font-size:0.75em;
-  font-weight:600;
-  padding:3px 8px;
-  border-radius:12px;
-  margin-right:8px;
-}
-
-.badge-eu {
-  background:#1f7a8c;
-  color:#fff;
-}
-
-.badge-national {
-  background:#0b3c5d;
-  color:#fff;
-}
-
-.badge-international {
-  background:#cde7ff;
-  color:#0b3c5d;
+  border-top:1px solid #ddd;
+  margin:12px auto;
+  width:60%;
 }
 
 /* ========================= */
 /* Buttons */
 .btn-outline {
   padding:8px 14px;
-  border:2px solid #cde7ff;
+  border:2px solid var(--accent);
   border-radius:8px;
-  color:#cde7ff;
+  color:var(--accent);
   text-decoration:none;
-  display:inline-block;
-  transition:0.2s;
 }
 
 .btn-outline:hover {
-  background:#cde7ff;
-  color:#0b3c5d!important;
+  background:var(--accent);
+  color:#fff!important;
 }
 
 /* ========================= */
-/* Contact Section */
+/* Contact */
 .contact-grid {
   display:grid;
   grid-template-columns:1fr 1fr;
   gap:18px;
-  margin-top:12px;
 }
 
 .contact-card {
+  background: var(--card);
   padding:16px;
   border-radius:10px;
-  background: var(--card-bg);
   box-shadow:var(--card-shadow);
 }
 
 .contact-card h4 {
-  color:#cde7ff;
-  margin-top:0;
-}
-
-.contact-img {
-  width:85%;
-  border-radius:10px;
-  margin-top:10px;
+  color:var(--accent);
 }
 
 /* ========================= */
@@ -484,24 +380,7 @@ a:hover {
   max-width:90%;
   margin:30px auto;
   border:none;
-  border-top:2px solid rgba(255,255,255,0.3);
-}
-
-/* ========================= */
-/* Project List */
-.project-list {
-  list-style:none;
-  padding-left:0;
-  margin:0;
-}
-
-.project-list li {
-  padding:16px 0;
-  border-bottom:1px solid rgba(255,255,255,0.2);
-}
-
-.project-title {
-  margin:4px 0 6px;
+  border-top:2px solid #ccc;
 }
 
 /* ========================= */
@@ -517,43 +396,11 @@ a:hover {
     text-align:center;
   }
 
-  .announcement-img {
-    width:100%;
-    max-width:240px;
-  }
-
   .contact-grid {
     grid-template-columns:1fr;
   }
 }
-
-@media (max-width:480px) {
-  .announcement-item {
-    padding:10px;
-  }
-}
-</style>      <h4><i class="fa-solid fa-location-dot"></i> Address</h4>
-      <p>
-        Department of Food Science<br>
-        Aarhus University<br>
-        Agro Food Park 48, Aarhus, Denmark
-      </p>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.8577236812416!2d10.153219677617567!3d56.19850617325248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c15cd3e555c11%3A0xc10a2cd724a2185e!2sAgro%20Food%20Park%2048%2C%208200%20Aarhus!5e1!3m2!1sen!2sdk!4v1744464701594!5m2!1sen!2sdk"
-        width="100%" height="225" style="border:0; border-radius:10px;" allowfullscreen loading="lazy"></iframe>
-    </div>
-  </div>
-</div>
-
-<!-- ========================= -->
-<!-- Visitors Map -->
-<hr class="centered-hr" />
-<div style="text-align:center; margin-bottom:40px;">
-  <a href="https://mapmyvisitors.com/web/1bvu3" title="Visit tracker">
-    <img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" alt="Visitor tracker map" style="max-width:300px; border-radius:8px;">
-  </a>
-</div>
-
-<!-- ========================= -->
-
-body { overflow-x:hidden; }
 </style>
+
+
+
