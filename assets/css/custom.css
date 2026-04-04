@@ -123,6 +123,6 @@ body {
   overflow-x: hidden;
 }
 
-main, .wrapper, .container, article {
+body {
   background: #eef2f7;
 }
