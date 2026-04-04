@@ -229,37 +229,41 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
   --accent:#0b3c5d;
   --accent-light:#1f7a8c;
 
-  /* NEW COLORS */
-  --text-light:#1a1a1a;
-  --card-bg: rgba(255,255,255,0.85);
-  --card-bg-strong: rgba(255,255,255,0.95);
+  /* NEW DARK GREY THEME */
+  --bg:#2f343a;
+  --text:#1f2933;
+  --card-bg:#f4f6f8;
+  --card-bg-strong:#ffffff;
 
-  --card-shadow:0 6px 18px rgba(0,0,0,0.08);
+  --card-shadow:0 6px 18px rgba(0,0,0,0.25);
 }
 
 /* ========================= */
-/* Global Page Style */
+/* Global Page */
 body {
-  background: linear-gradient(135deg, #eef5f9, #ddeaf3);
-  color: var(--text-light);
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  overflow-x:hidden;
 }
 
+/* Text */
 p, li {
-  color: var(--text-light);
+  color: var(--text);
 }
 
 /* Links */
 a {
-  color: #cde7ff;
-  text-decoration: none;
+  color: var(--accent-light);
+  text-decoration:none;
 }
 a:hover {
-  text-decoration: underline;
+  text-decoration:underline;
 }
 
 /* Icons */
 .icon-accent {
-  color:#9fd3ff;
+  color:var(--accent);
   margin-right:6px;
 }
 
@@ -271,24 +275,25 @@ a:hover {
   align-items:center;
   justify-content:space-between;
   gap:15px;
-  margin-top:5px;
-  padding:18px;
+  margin-top:10px;
+  padding:20px;
   border-radius:12px;
   background: var(--card-bg);
   box-shadow:var(--card-shadow);
+  border:1px solid rgba(0,0,0,0.05);
 }
 
 .bio { flex:1; min-width:250px; }
 
 .subtitle {
-  font-weight: 500;
-  color: #cde7ff;
-  margin: 2px 0;
+  font-weight:500;
+  color:var(--accent);
+  margin:2px 0;
 }
 
 .highlight {
   font-style:italic;
-  color:#ffb3a7;
+  color:#d12a00;
   margin:6px 0;
 }
 
@@ -313,7 +318,7 @@ a:hover {
   display:flex;
   align-items:center;
   gap:8px;
-  margin-bottom:10px;
+  margin-bottom:12px;
 }
 
 /* NEW flag */
@@ -336,17 +341,18 @@ a:hover {
 /* ========================= */
 /* Content Boxes */
 .content-box {
-  margin-top:20px;
-  padding:18px;
+  margin-top:22px;
+  padding:20px;
   border-radius:12px;
   background: var(--card-bg);
   box-shadow:var(--card-shadow);
+  border:1px solid rgba(0,0,0,0.05);
 }
 
-/* Highlight box (no more white!) */
+/* Highlight box */
 .highlight-box {
-  border: 2px solid rgba(255,255,255,0.2);
   background: var(--card-bg-strong);
+  border-left:5px solid var(--accent);
 }
 
 /* ========================= */
@@ -356,8 +362,8 @@ a:hover {
   flex-wrap:nowrap;
   align-items:center;
   gap:16px;
-  background: rgba(255,255,255,0.06);
-  padding:12px;
+  background:#eef2f5;
+  padding:14px;
   border-radius:10px;
   transition:transform .18s ease-in-out;
 }
@@ -373,15 +379,14 @@ a:hover {
 
 .announcement-text h3 {
   margin:0 0 4px;
-  color:#cde7ff;
+  color:var(--accent);
   font-weight:500;
-  font-size:1.03rem;
+  font-size:1.05rem;
 }
 
 .announcement-text p {
   margin:0 0 6px;
   line-height:1.45;
-  color:#e5e7eb;
 }
 
 .announcement-img {
@@ -393,21 +398,21 @@ a:hover {
 .announcement-hr {
   width:60%;
   max-width:360px;
-  margin:8px auto;
+  margin:10px auto;
   border:none;
-  border-top:1px solid rgba(255,255,255,0.2);
+  border-top:1px solid #ddd;
 }
 
 /* ========================= */
 /* Scholarships */
 .scholarship-list {
-  margin: 14px 0 18px;
-  padding-left: 22px;
+  margin:14px 0 18px;
+  padding-left:22px;
 }
 
 .scholarship-list li {
-  margin-bottom: 10px;
-  font-size: 1.05em;
+  margin-bottom:10px;
+  font-size:1.05em;
 }
 
 /* Badges */
@@ -431,7 +436,7 @@ a:hover {
 }
 
 .badge-international {
-  background:#cde7ff;
+  background:#dbeafe;
   color:#0b3c5d;
 }
 
@@ -439,17 +444,17 @@ a:hover {
 /* Buttons */
 .btn-outline {
   padding:8px 14px;
-  border:2px solid #cde7ff;
+  border:2px solid var(--accent);
   border-radius:8px;
-  color:#cde7ff;
+  color:var(--accent);
   text-decoration:none;
   display:inline-block;
   transition:0.2s;
 }
 
 .btn-outline:hover {
-  background:#cde7ff;
-  color:#0b3c5d!important;
+  background:var(--accent);
+  color:#fff!important;
 }
 
 /* ========================= */
@@ -466,10 +471,11 @@ a:hover {
   border-radius:10px;
   background: var(--card-bg);
   box-shadow:var(--card-shadow);
+  border:1px solid rgba(0,0,0,0.05);
 }
 
 .contact-card h4 {
-  color:#cde7ff;
+  color:var(--accent);
   margin-top:0;
 }
 
@@ -486,7 +492,7 @@ a:hover {
   max-width:90%;
   margin:30px auto;
   border:none;
-  border-top:2px solid rgba(255,255,255,0.3);
+  border-top:2px solid #bbb;
 }
 
 /* ========================= */
@@ -499,7 +505,7 @@ a:hover {
 
 .project-list li {
   padding:16px 0;
-  border-bottom:1px solid rgba(255,255,255,0.2);
+  border-bottom:1px solid #ddd;
 }
 
 .project-title {
