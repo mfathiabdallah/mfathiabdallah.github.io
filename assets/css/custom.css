@@ -5,7 +5,7 @@
 
 :root {
   --accent: #004aad;
-  --accent-soft: #f3f4f6;
+  --accent-soft: #eef2f7;
   --accent-warm: #e55300;
   --text-main: #222;
   --text-muted: #555;
@@ -121,4 +121,8 @@ img {
 
 body {
   overflow-x: hidden;
+}
+
+main, .wrapper, .container, article {
+  background: #eef2f7;
 }
