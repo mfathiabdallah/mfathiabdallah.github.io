@@ -228,56 +228,77 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
 :root {
   --accent:#0b3c5d;
   --accent-light:#1f7a8c;
-  --bg:#f5f9fc;
-  --card:#ffffff;
-  --text:#1a1a1a;
-  --muted:#555;
-  --card-shadow:0 4px 14px rgba(0,0,0,0.08);
+  --text-light:#f1f5f9;
+  --card-bg: rgba(255,255,255,0.08);
+  --card-bg-strong: rgba(255,255,255,0.12);
+  --card-shadow:0 6px 18px rgba(0,0,0,0.15);
 }
 
 /* ========================= */
-/* Page */
+/* Global Page Style */
 body {
-  background: var(--bg);
-  color: var(--text);
+  background: linear-gradient(135deg, #0b3c5d, #1f7a8c);
+  color: var(--text-light);
+  overflow-x:hidden;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+p, li {
+  color: var(--text-light);
 }
 
 /* Links */
 a {
-  color: var(--accent-light);
-  text-decoration:none;
+  color: #cde7ff;
+  text-decoration: none;
 }
-a:hover { text-decoration:underline; }
+a:hover {
+  text-decoration: underline;
+}
+
+/* Icons */
+.icon-accent {
+  color:#9fd3ff;
+  margin-right:6px;
+}
 
 /* ========================= */
-/* Profile */
+/* Profile Section */
 .profile-container {
   display:flex;
   flex-wrap:wrap;
   align-items:center;
   justify-content:space-between;
   gap:15px;
-  margin-top:10px;
-  padding:20px;
+  margin-top:5px;
+  padding:18px;
   border-radius:12px;
-  background: var(--card);
+  background: var(--card-bg);
   box-shadow:var(--card-shadow);
 }
 
+.bio { flex:1; min-width:250px; }
+
 .subtitle {
-  font-weight:500;
-  color:var(--accent);
+  font-weight: 500;
+  color: #cde7ff;
+  margin: 2px 0;
 }
 
 .highlight {
-  color:#d12a00;
   font-style:italic;
+  color:#ffb3a7;
+  margin:6px 0;
+}
+
+.contact-title {
+  margin-top:10px;
 }
 
 .profile-img {
   width:180px;
   border-radius:12px;
+  object-fit:cover;
 }
 
 /* ========================= */
@@ -287,90 +308,174 @@ a:hover { text-decoration:underline; }
   background: linear-gradient(90deg, #0b3c5d, #1f7a8c);
   padding:10px 12px;
   border-radius:8px;
-  font-size:1.2rem;
-  margin-bottom:12px;
+  font-size:1.25rem;
+  display:flex;
+  align-items:center;
+  gap:8px;
+  margin-bottom:10px;
+}
+
+/* NEW flag */
+.section-title .new-flag {
+  background:linear-gradient(135deg,#ff3b3b,#ff7b00);
+  color:#fff;
+  font-size:0.8rem;
+  font-weight:700;
+  padding:4px 10px;
+  border-radius:6px;
+  animation:pulse 1.5s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0%{transform:scale(1)}
+  50%{transform:scale(1.1)}
+  100%{transform:scale(1)}
 }
 
 /* ========================= */
-/* Boxes */
+/* Content Boxes */
 .content-box {
-  margin-top:22px;
-  padding:20px;
+  margin-top:20px;
+  padding:18px;
   border-radius:12px;
-  background: var(--card);
+  background: var(--card-bg);
   box-shadow:var(--card-shadow);
 }
 
-/* Highlight (subtle, not aggressive) */
+/* Highlight box (no more white!) */
 .highlight-box {
-  border-left:5px solid var(--accent);
+  border: 2px solid rgba(255,255,255,0.2);
+  background: var(--card-bg-strong);
 }
 
 /* ========================= */
-/* Announcements */
+/* Announcement Section */
 .announcement-item {
   display:flex;
+  flex-wrap:nowrap;
   align-items:center;
   gap:16px;
-  padding:14px;
+  background: rgba(255,255,255,0.06);
+  padding:12px;
   border-radius:10px;
-  background:#f8fbfe;
-  transition:0.2s;
+  transition:transform .18s ease-in-out;
 }
 
 .announcement-item:hover {
   transform:translateY(-3px);
 }
 
+.announcement-text {
+  flex:1;
+  min-width:220px;
+}
+
 .announcement-text h3 {
-  color:var(--accent);
+  margin:0 0 4px;
+  color:#cde7ff;
   font-weight:500;
+  font-size:1.03rem;
+}
+
+.announcement-text p {
+  margin:0 0 6px;
+  line-height:1.45;
+  color:#e5e7eb;
 }
 
 .announcement-img {
-  width:220px;
+  width:240px;
   border-radius:10px;
+  display:block;
 }
 
 .announcement-hr {
-  border:none;
-  border-top:1px solid #ddd;
-  margin:12px auto;
   width:60%;
+  max-width:360px;
+  margin:8px auto;
+  border:none;
+  border-top:1px solid rgba(255,255,255,0.2);
+}
+
+/* ========================= */
+/* Scholarships */
+.scholarship-list {
+  margin: 14px 0 18px;
+  padding-left: 22px;
+}
+
+.scholarship-list li {
+  margin-bottom: 10px;
+  font-size: 1.05em;
+}
+
+/* Badges */
+.badge {
+  display:inline-block;
+  font-size:0.75em;
+  font-weight:600;
+  padding:3px 8px;
+  border-radius:12px;
+  margin-right:8px;
+}
+
+.badge-eu {
+  background:#1f7a8c;
+  color:#fff;
+}
+
+.badge-national {
+  background:#0b3c5d;
+  color:#fff;
+}
+
+.badge-international {
+  background:#cde7ff;
+  color:#0b3c5d;
 }
 
 /* ========================= */
 /* Buttons */
 .btn-outline {
   padding:8px 14px;
-  border:2px solid var(--accent);
+  border:2px solid #cde7ff;
   border-radius:8px;
-  color:var(--accent);
+  color:#cde7ff;
   text-decoration:none;
+  display:inline-block;
+  transition:0.2s;
 }
 
 .btn-outline:hover {
-  background:var(--accent);
-  color:#fff!important;
+  background:#cde7ff;
+  color:#0b3c5d!important;
 }
 
 /* ========================= */
-/* Contact */
+/* Contact Section */
 .contact-grid {
   display:grid;
   grid-template-columns:1fr 1fr;
   gap:18px;
+  margin-top:12px;
 }
 
 .contact-card {
-  background: var(--card);
   padding:16px;
   border-radius:10px;
+  background: var(--card-bg);
   box-shadow:var(--card-shadow);
 }
 
 .contact-card h4 {
-  color:var(--accent);
+  color:#cde7ff;
+  margin-top:0;
+}
+
+.contact-img {
+  width:85%;
+  border-radius:10px;
+  margin-top:10px;
 }
 
 /* ========================= */
@@ -380,7 +485,24 @@ a:hover { text-decoration:underline; }
   max-width:90%;
   margin:30px auto;
   border:none;
-  border-top:2px solid #ccc;
+  border-top:2px solid rgba(255,255,255,0.3);
+}
+
+/* ========================= */
+/* Project List */
+.project-list {
+  list-style:none;
+  padding-left:0;
+  margin:0;
+}
+
+.project-list li {
+  padding:16px 0;
+  border-bottom:1px solid rgba(255,255,255,0.2);
+}
+
+.project-title {
+  margin:4px 0 6px;
 }
 
 /* ========================= */
@@ -396,11 +518,19 @@ a:hover { text-decoration:underline; }
     text-align:center;
   }
 
+  .announcement-img {
+    width:100%;
+    max-width:240px;
+  }
+
   .contact-grid {
     grid-template-columns:1fr;
   }
 }
+
+@media (max-width:480px) {
+  .announcement-item {
+    padding:10px;
+  }
+}
 </style>
-
-
-
