@@ -37,7 +37,7 @@ exclude: 'no'
 <div class="content-box">
   <h3 class="section-title"><i class="fa-solid fa-building-columns"></i> Other Positions & Affiliations</h3>
   <ul>
-    <li>Scientific Expert (Food Contaminantes) for the Joint FAO/WHO Expert Committee on Food Additives (JECFA).</li>
+    <li>Scientific Expert (Food Contaminants) for the Joint FAO/WHO Expert Committee on Food Additives (JECFA).</li>
     <li>Board Member of the European Society of Toxicology In Vitro (ESTIV).</li>
     <li>Expert Group Member (Natural Toxins), ILSI Europe.</li>
     </ul>
