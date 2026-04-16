@@ -41,6 +41,7 @@ This is a fantastic opportunity to deepen my work in food toxicology, mentor the
 
 Looking forward to this exciting journey and the opportunities ahead at Aarhus University!
 
+
 <div id="myModal" class="modal">
   <span class="close" onclick="closeModal()">&times;</span>
   <img class="modal-content" id="img01">
@@ -48,6 +49,16 @@ Looking forward to this exciting journey and the opportunities ahead at Aarhus U
 
 <div class="image-container">
   <img class="Career" src="/images/AarhusUni.jpg" alt="Career" onclick="openModal(this.src)">
+</div>
+
+
+<div id="myModal" class="modal">
+  <span class="close" onclick="closeModal()">&times;</span>
+  <img class="modal-content" id="img02">
+</div>
+
+<div class="image-container">
+  <img class="Career" src="/mohamed_fathi_abdallah_2023(2).jpg" alt="Career" onclick="openModal(this.src)">
 </div>
 
 <!-- JavaScript for modal functionality -->
