@@ -134,7 +134,18 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
   <h2 class="section-title"><i class="fa-solid fa-bullhorn"></i> Announcements</h2>
 
   <div class="announcement-section">
-
+     <div class="announcement-item">
+      <div class="announcement-text">
+        <h3>27 August 2026 — PhD Vacancy at AU FOOD</h3>
+        <p>Fully funded 3-year PhD position at the Department of Food Science, Aarhus University. Focus: Effects of Foodborne Natural Toxin Co-Exposure on MASH Using Human-Relevant In Vitro Models.</p>
+        <p>Access the article: <a href="https://www.mfathiabdallah.com/PhD_position2/" target="_blank" rel="noopener">Click here</a>.</p>
+      </div>
+      <div class="announcement-image">
+        <img src="/images/PhD announce.png" alt="PhD Vacancy Poster" class="announcement-img">
+      </div>
+    </div>
+   
+   <hr class="announcement-hr"/>
    <div class="announcement-item">
       <div class="announcement-text">
         <h3>28 February 2026 — New Publication (Editorial)</h3>
