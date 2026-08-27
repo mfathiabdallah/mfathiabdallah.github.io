@@ -141,7 +141,7 @@ Through this interdisciplinary approach, AU FOOD TOX seeks to provide a clearer 
         <p>Access the article: <a href="https://www.mfathiabdallah.com/PhD_position2/" target="_blank" rel="noopener">Click here</a>.</p>
       </div>
       <div class="announcement-image">
-        <img src="/images/PhD announce.png" alt="PhD Vacancy Poster" class="announcement-img">
+        <img src="/images/PhD announce2.png" alt="PhD Vacancy Poster" class="announcement-img">
       </div>
     </div>
    
