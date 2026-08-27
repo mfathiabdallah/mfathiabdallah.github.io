@@ -42,13 +42,13 @@ Fully funded PhD position for 3 years at Department of Food Science, AU FOOD sta
 Main focus will be investigating the Effects of Foodborne Natural Toxin Co-Exposure on MASH Using Human-Relevant In Vitro Models
 
 Main supervisor is Prof. Martin Krøyer Rasmussen
-Co-Supervisor is Assis. Prof. Mohamed Fathi Abdallah
+Co-Supervisor is Assist. Prof. Mohamed Fathi Abdallah
 
 The PhD project is part of a 5-years TOXIFOOD project (2026-2030) funded by Novo Nordisk Foundation
 
 Application deadline is 20 September 2026 at 23:59 CET
 
-You can submit your application via the link  <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/mechanistic-insights-into-the-effects-of-foodborne-natural-toxin-co-exposure-on-mash-using-human-relevant-in-vitro-models" target="_blank" rel="noopener">https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food</a>.
+You can submit your application via the link  <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/mechanistic-insights-into-the-effects-of-foodborne-natural-toxin-co-exposure-on-mash-using-human-relevant-in-vitro-models" target="_blank" rel="noopener">https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/mechanistic-insights-into-the-effects-of-foodborne-natural-toxin-co-exposure-on-mash-using-human-relevant-in-vitro-models</a>.
 
 
 The advertisment on LinkedIn via the link
@@ -62,7 +62,7 @@ View on LinkedIn </a>.
 </div>
 
 <div class="image-container">
-  <img class="Hiring" src="/images/PhD announce.png" alt="Hiring" onclick="openModal(this.src)">
+  <img class="Hiring" src="/images/PhD announce2.png" alt="Hiring" onclick="openModal(this.src)">
 </div>
 
 <!-- JavaScript for modal functionality -->
