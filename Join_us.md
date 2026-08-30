@@ -75,7 +75,7 @@ title: ""
     </h1>
 
     <p>
-      <strong>Topic:</strong> https://www.mfathiabdallah.com/PhD_position2/.<br>
+      <strong>Topic:</strong>Effects of Foodborne Natural Toxin Co-Exposure on MASH Using Human-Relevant In Vitro Models.<br>
       <strong>Deadline:</strong> <span class="deadline-text">6 November 2025</span>
     </p>
 
@@ -84,7 +84,7 @@ title: ""
          class="btn btn-primary">
         <i class="fa-solid fa-magnifying-glass"></i> View Details
       </a>
-      <a href="YOUR-APPLICATION-LINK"
+      <a href="https://www.mfathiabdallah.com/PhD_position2/"
          target="_blank"
          rel="noopener"
          class="btn btn-secondary">
