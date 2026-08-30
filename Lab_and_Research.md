@@ -205,13 +205,77 @@ title: ""
       </thead>
       <tbody>
         <tr>
-          <td><strong>Private</strong></td>
+          <td><strong>Nordic</strong></td>
           <td><strong>ToxiFOOD</strong></td>
           <td><img src="/images/novonordiskfoundationlogo.png" alt="Novo Nordisk Foundation"></td>
           <td>DKK 13.88 M</td>
           <td>2026 – 2031</td>
           <td>PI</td>
         </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ========================= -->
+<!-- Current Projects -->
+<div class="card">
+  <h1 class="collapsible-title">&#10148; Current Projects</h1>
+
+  <div class="card-content">
+    <p>
+      Our research activities are supported by competitive national and
+      international funding sources. We are grateful to these foundations
+      and programs for their support.
+    </p>
+
+    <table class="modern-table">
+      <thead>
+        <tr>
+          <th>Source</th>
+          <th>Project</th>
+          <th>Funding Agency</th>
+          <th>Total Fund</th>
+          <th>Period</th>
+          <th>Role</th>
+        </tr>
+      </thead>
+
+      <tbody>
+
+        <!-- Project 1 -->
+        <tr>
+          <td><strong>Nordic</strong></td>
+          <td><strong>ToxiFOOD</strong></td>
+          <td>
+            <img src="/images/novonordiskfoundationlogo.png"
+                 alt="Novo Nordisk Foundation">
+          </td>
+          <td>DKK 13.88 M</td>
+          <td>2026 – 2031</td>
+          <td>PI</td>
+        </tr>
+
+        <!-- Project 2 -->
+        <tr>
+          <td><strong>National</strong></td>
+          <td><strong>Project Name</strong></td>
+          <td>Funding Agency Name</td>
+          <td>DKK X</td>
+          <td>2026 – 2030</td>
+          <td>Co-PI</td>
+        </tr>
+
+        <!-- Project 3 -->
+        <tr>
+          <td><strong>International</strong></td>
+          <td><strong>Project Name</strong></td>
+          <td>Funding Agency Name</td>
+          <td>€ X</td>
+          <td>2026 – 2029</td>
+          <td>Partner</td>
+        </tr>
+
       </tbody>
     </table>
   </div>
