@@ -59,7 +59,7 @@ title: ""
   </figure>
  </div>
  </div>
-
+ 
  <!-- ========================= -->
 <!-- Lab Members -->
 <div class="collapsible">
@@ -90,12 +90,11 @@ title: ""
     <td>hesoe [at] food.au.dk</td>
     <td><a href="https://food.au.dk/about/employees/show/person/hesoe@food.au.dk" target="_blank" rel="noopener">AU Profile</a></td>
       </tr>
-
   <tr>
-    <td>Ioannis Panagopoulos</td>
-    <td>Visiting MSc Student from Maastricht University</td>
-    <td>Food contaminants, Mixture toxicology</td>
-    <td>i.panagopoulos [at] food.au.dk</td>
+    <td>Cilas Lund</td>
+    <td>Bachelor Intern</td>
+    <td>Natural toxins, LC-MS/MS, method validation</td>
+    <td>cilasl@food.au.dk</td>
     <td><a href="https://food.au.dk/research-and-innovation/the-five-science-teams/food-chemistry/food-chemistry-employees" target="_blank" rel="noopener">AU Profile</a></td>
   </tr>
        <tr>
