@@ -14,7 +14,6 @@ title: ""
     Advancing food toxicology through cutting-edge research on natural toxins,
     emerging contaminants, and mixture risk assessment.
   </p>
-
  
    <a class="cv-button" href="https://www.mfathiabdallah.com/news/">
     News
@@ -238,7 +237,7 @@ title: ""
         <tr>
           <td><strong>Nordic</strong></td>
           <td><strong>LIPFUSA _NORDIC</strong></td>
-          <td>nordicagriresearch</td>
+          <td>Nordic Agri Research</td>
           <td>€ X</td>
           <td>2026 – 2028</td>
           <td>Partner</td>
