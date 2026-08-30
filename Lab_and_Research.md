@@ -186,8 +186,6 @@ title: ""
     </div>
 </div>
 
-</div>
-
 <!-- ========================= -->
 <!-- Current Projects -->
 <div class="card">
