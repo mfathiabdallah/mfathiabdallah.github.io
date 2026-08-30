@@ -75,16 +75,16 @@ title: ""
     </h1>
 
     <p>
-      <strong>Topic:</strong>Effects of Foodborne Natural Toxin Co-Exposure on MASH Using Human-Relevant In Vitro Models.<br>
+      <strong>Topic:</strong> Effects of Foodborne Natural Toxin Co-Exposure on MASH Using Human-Relevant In Vitro Models.<br>
       <strong>Deadline:</strong> <span class="deadline-text">6 November 2025</span>
     </p>
 
     <div class="button-row">
-      <a href="YOUR-DETAILS-LINK"
+      <a href="https://www.mfathiabdallah.com/PhD_position2/"
          class="btn btn-primary">
         <i class="fa-solid fa-magnifying-glass"></i> View Details
       </a>
-      <a href="https://www.mfathiabdallah.com/PhD_position2/"
+      <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/mechanistic-insights-into-the-effects-of-foodborne-natural-toxin-co-exposure-on-mash-using-human-relevant-in-vitro-models"
          target="_blank"
          rel="noopener"
          class="btn btn-secondary">
