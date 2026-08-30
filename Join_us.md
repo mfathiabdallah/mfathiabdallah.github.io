@@ -36,23 +36,87 @@ title: ""
 </div>
 
 <!-- ========================= -->
-<!-- PhD Hiring -->
+
+<!-- Open Positions / Projects -->
+
+<!-- Project 1 -->
 <div class="collapsible">
   <div class="collapsible-content">
     <h1 class="collapsible-title">
       <i class="fa-solid fa-rocket"></i> We’re Hiring a PhD Student!
     </h1>
+
     <p>
       <strong>Topic:</strong> Quantification of natural toxins in novel food using advanced mass spectrometry.<br>
       <strong>Deadline:</strong> <span class="deadline-text">6 November 2025</span>
     </p>
+
     <div class="button-row">
       <a href="https://www.mfathiabdallah.com/PhD_position1/"
-        class="btn btn-primary">
-      <i class="fa-solid fa-magnifying-glass"></i> View Details
-     </a>
+         class="btn btn-primary">
+        <i class="fa-solid fa-magnifying-glass"></i> View Details
+      </a>
+
       <a href="https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/advanced-mass-spectrometry-based-identification-and-quantification-of-natural-toxins-in-novel-food"
-         target="_blank" rel="noopener" class="btn btn-secondary">
+         target="_blank"
+         rel="noopener"
+         class="btn btn-secondary">
+        <i class="fa-solid fa-compass"></i> Apply Now
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Project 2 -->
+<div class="collapsible">
+  <div class="collapsible-content">
+    <h1 class="collapsible-title">
+      <i class="fa-solid fa-rocket"></i> We’re Hiring a PhD Student!
+    </h1>
+
+    <p>
+      <strong>Topic:</strong> Add the topic of your second project here.<br>
+      <strong>Deadline:</strong> <span class="deadline-text">Add deadline</span>
+    </p>
+
+    <div class="button-row">
+      <a href="YOUR-DETAILS-LINK"
+         class="btn btn-primary">
+        <i class="fa-solid fa-magnifying-glass"></i> View Details
+      </a>
+
+      <a href="YOUR-APPLICATION-LINK"
+         target="_blank"
+         rel="noopener"
+         class="btn btn-secondary">
+        <i class="fa-solid fa-compass"></i> Apply Now
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Project 3 -->
+<div class="collapsible">
+  <div class="collapsible-content">
+    <h1 class="collapsible-title">
+      <i class="fa-solid fa-rocket"></i> We’re Hiring!
+    </h1>
+
+    <p>
+      <strong>Topic:</strong> Add the topic of your third project or position here.<br>
+      <strong>Deadline:</strong> <span class="deadline-text">Add deadline</span>
+    </p>
+
+    <div class="button-row">
+      <a href="YOUR-DETAILS-LINK"
+         class="btn btn-primary">
+        <i class="fa-solid fa-magnifying-glass"></i> View Details
+      </a>
+
+      <a href="YOUR-APPLICATION-LINK"
+         target="_blank"
+         rel="noopener"
+         class="btn btn-secondary">
         <i class="fa-solid fa-compass"></i> Apply Now
       </a>
     </div>
