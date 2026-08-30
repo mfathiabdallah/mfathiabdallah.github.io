@@ -110,6 +110,47 @@ title: ""
  </table>
   </div>
 </div>
+<!-- ========================= -->
+<!-- Group Alumni -->
+<div class="collapsible">
+  <div class="collapsible-content card">
+
+   <h1 class="collapsible-title">&#10148; Group Alumni</h1>
+
+   <table class="modern-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Former Position</th>
+          <th>Research Focus</th>
+          <th>Year</th>
+          <th>Current Position</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+
+   <tbody>
+
+   <tr>
+          <td>Ioannis Panagopoulos</td>
+          <td>Visiting MSc Student from Maastricht University</td>
+          <td>Food contaminants, Mixture toxicology</td>
+          <td>2026</td>
+          <td>Graduated from Maastricht University</td>
+          <td>
+            <a href="https://food.au.dk/research-and-innovation/the-five-science-teams/food-chemistry/food-chemistry-employees"
+               target="_blank"
+               rel="noopener">
+              AU Profile
+            </a>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+
+  </div>
+</div>
 
 <!-- ========================= -->
   <!-- Research Lines -->
