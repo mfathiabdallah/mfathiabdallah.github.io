@@ -76,7 +76,7 @@ title: ""
 
     <p>
       <strong>Topic:</strong> Effects of Foodborne Natural Toxin Co-Exposure on MASH Using Human-Relevant In Vitro Models.<br>
-      <strong>Deadline:</strong> <span class="deadline-text">6 November 2025</span>
+      <strong>Deadline:</strong> <span class="deadline-text">20 September 2026</span>
     </p>
 
     <div class="button-row">
